@@ -1,5 +1,5 @@
 ---
-title: "Augsburg Reiseführer | Römerstadt 35 Minuten von München (2025)"
+title: "Augsburg Reiseführer | Römerstadt 35 Minuten von München (2026)"
 date: 2026-03-22
 draft: false
 featureimage: "img/travel/augsburg-reisefuehrer.webp"

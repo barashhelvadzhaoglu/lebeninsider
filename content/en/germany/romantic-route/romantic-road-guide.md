@@ -1,5 +1,5 @@
 ---
-title: "Romantic Road Guide | Bavaria’s Most Beautiful Route with Deutschlandticket and a Stroller (2025)"
+title: "Romantic Road Guide | Bavaria’s Most Beautiful Route with Deutschlandticket and a Stroller (2026)"
 date: 2026-04-21T08:00:00+01:00
 draft: false
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"

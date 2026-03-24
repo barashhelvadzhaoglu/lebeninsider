@@ -1,5 +1,5 @@
 ---
-title: "Schloss Neuschwanstein Reiseführer | Disneys Vorlage | Praktische Tipps (2025)"
+title: "Schloss Neuschwanstein Reiseführer | Disneys Vorlage | Praktische Tipps (2026)"
 date: 2026-03-25
 draft: false
 featureimage: "img/travel/schloss-neuschwanstein-reisefuehrer.webp"
@@ -36,7 +36,7 @@ Stadt-Leitfaden separat: [Füssen Stadtführer →](/de/deutschland/fuessen-stad
 
 **Wo:** [www.ticket-center-hohenschwangau.de](https://www.ticket-center-hohenschwangau.de)
 
-**Preis (2025):** Erwachsene ~15 EUR, Kinder (0–17 Jahre) kostenlos.
+**Preis (2026):** Erwachsene ~15 EUR, Kinder (0–17 Jahre) kostenlos.
 
 **Wichtig:** Sie müssen zur auf Ihrem Ticket angegebenen Zeit am Ticketschalter erscheinen. 5 Minuten zu spät für Ihre Tour-Zeit bedeutet, Ihr Ticket ist ungültig.
 

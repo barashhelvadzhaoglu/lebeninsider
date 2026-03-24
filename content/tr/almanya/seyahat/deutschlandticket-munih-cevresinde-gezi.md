@@ -1,5 +1,5 @@
 ---
-title: "Deutschlandticket ile Münih Çevresinde Gezi | Çocukla Bavyera Rotaları (2025)"
+title: "Deutschlandticket ile Münih Çevresinde Gezi | Çocukla Bavyera Rotaları (2026)"
 date: 2026-03-18
 draft: false
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"

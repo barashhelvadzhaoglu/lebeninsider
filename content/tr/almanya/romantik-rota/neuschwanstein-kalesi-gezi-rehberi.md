@@ -1,5 +1,5 @@
 ---
-title: "Neuschwanstein Kalesi Gezi Rehberi | Disney'in İlham Kaynağı (2025)"
+title: "Neuschwanstein Kalesi Gezi Rehberi | Disney'in İlham Kaynağı (2026)"
 date: 2026-03-25
 draft: false
 featureimage: "img/travel/neuschwanstein-kalesi-gezi-rehberi.webp"
@@ -42,7 +42,7 @@ Disney bu kaleyi Uyuyan Güzel'in sarayına ilham kaynağı olarak kullandı. Am
 
 **Nereden:** [www.ticket-center-hohenschwangau.de](https://www.ticket-center-hohenschwangau.de)
 
-**Fiyat (2025):** Yetişkin ~15 EUR, çocuk (0–17 yaş) ücretsiz.
+**Fiyat (2026):** Yetişkin ~15 EUR, çocuk (0–17 yaş) ücretsiz.
 
 **Rezervasyon ücreti:** Online alımlarda 2.5 EUR ek ücret var — buna değer.
 

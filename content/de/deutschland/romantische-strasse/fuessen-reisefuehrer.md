@@ -1,5 +1,5 @@
 ---
-title: "Füssen Reiseführer | Alpines Mittelalterliches Städtchen Jenseits von Neuschwanstein (2025)"
+title: "Füssen Reiseführer | Alpines Mittelalterliches Städtchen Jenseits von Neuschwanstein (2026)"
 date: 2026-03-24
 draft: false
 featureimage: "img/travel/fuessen-reisefuehrer.webp"

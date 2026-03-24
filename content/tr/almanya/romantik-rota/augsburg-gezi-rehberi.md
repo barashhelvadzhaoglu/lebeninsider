@@ -1,5 +1,5 @@
 ---
-title: "Augsburg Gezi Rehberi | Münih'ten 35 Dakikada Roma'dan Kalma Şehir (2025)"
+title: "Augsburg Gezi Rehberi | Münih'ten 35 Dakikada Roma'dan Kalma Şehir (2026)"
 date: 2026-03-22
 draft: false
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"

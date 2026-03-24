@@ -1,5 +1,5 @@
 ---
-title: "Salzburg Reiseführer | Mozarts Stadt 1,5 Stunden von München (2025)"
+title: "Salzburg Reiseführer | Mozarts Stadt 1,5 Stunden von München (2026)"
 date: 2026-03-21
 draft: false
 featureimage: "img/travel/salzburg-reisefuehrer.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2025)"
+title: "Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2026)"
 date: 2026-03-21
 draft: false
 featureimage: "img/travel/salzburg-day-trip-munich.webp"

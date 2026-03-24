@@ -1,5 +1,5 @@
 ---
-title: "Almanya'da Kira Bulma Rehberi | Münih'te Daire Arama Gerçeği (2025)"
+title: "Almanya'da Kira Bulma Rehberi | Münih'te Daire Arama Gerçeği (2026)"
 date: 2026-03-17
 draft: false
 featureimage: "img/living/almanyada-kira-bulma-rehberi.webp"

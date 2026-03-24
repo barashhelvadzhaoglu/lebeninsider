@@ -1,5 +1,5 @@
 ---
-title: "Weihnachten und Silvester in Deutschland | Münchner Weihnachtsmärkte (2025)"
+title: "Weihnachten und Silvester in Deutschland | Münchner Weihnachtsmärkte (2026)"
 date: 2026-03-19
 draft: false
 featureimage: "https://images.unsplash.com/photo-1543498946-8f2090dc573e?w=1200&q=80"

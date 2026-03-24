@@ -1,5 +1,5 @@
 ---
-title: "Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2025)"
+title: "Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2026)"
 date: 2026-03-19
 draft: false
 featureimage: "https://images.unsplash.com/photo-1543498946-8f2090dc573e?w=1200&q=80"

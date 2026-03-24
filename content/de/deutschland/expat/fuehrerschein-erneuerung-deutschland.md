@@ -1,5 +1,5 @@
 ---
-title: "Führerschein in Deutschland | Wie Lange Gilt ein Türkischer Führerschein? Kompletter Leitfaden (2025)"
+title: "Führerschein in Deutschland | Wie Lange Gilt ein Türkischer Führerschein? Kompletter Leitfaden (2026)"
 date: 2026-03-10
 draft: false
 featureimage: "img/living/fuehrerschein-erneuerung-deutschland.webp"

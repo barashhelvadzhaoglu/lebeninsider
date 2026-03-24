@@ -1,5 +1,5 @@
 ---
-title: "Lindau Gezi Rehberi | Bodensee'de Ada Şehri | Münih'ten 2 Saatte (2025)"
+title: "Lindau Gezi Rehberi | Bodensee'de Ada Şehri | Münih'ten 2 Saatte (2026)"
 date: 2026-03-23
 draft: false
 featureimage: "img/travel/lindau-bodensee-gezi-rehberi.webp"

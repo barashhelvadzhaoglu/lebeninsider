@@ -1,6 +1,6 @@
 
 ---
-title: "Regensburg Travel Guide | UNESCO Medieval City 1.5 Hours from Munich (2025)"
+title: "Regensburg Travel Guide | UNESCO Medieval City 1.5 Hours from Munich (2026)"
 date: 2026-03-27
 draft: false
 featureimage: "img/travel/regensburg-travel-guide.webp"

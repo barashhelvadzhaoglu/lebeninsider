@@ -1,5 +1,5 @@
 ---
-title: "Lindau Reiseführer | Inselstadt am Bodensee | 2 Stunden von München (2025)"
+title: "Lindau Reiseführer | Inselstadt am Bodensee | 2 Stunden von München (2026)"
 date: 2026-03-23
 draft: false
 featureimage: "img/travel/lindau-reisefuehrer.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2025)"
+title: "Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2026)"
 date: 2026-03-26
 draft: false
 featureimage: "img/travel/ingolstadt-travel-guide.webp"

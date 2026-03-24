@@ -1,5 +1,5 @@
 ---
-title: "Füssen Gezi Rehberi | Alplerin Dibinde Ortaçağ Şehri (2025)"
+title: "Füssen Gezi Rehberi | Alplerin Dibinde Ortaçağ Şehri (2026)"
 date: 2026-03-24
 draft: false
 featureimage: "img/travel/fuessen-sehir-gezi-rehberi.webp"

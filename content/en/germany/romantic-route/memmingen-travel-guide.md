@@ -1,5 +1,5 @@
 ---
-title: "Memmingen Travel Guide | Medieval City 1.5 Hours from Munich (2025)"
+title: "Memmingen Travel Guide | Medieval City 1.5 Hours from Munich (2026)"
 date: 2026-03-20
 draft: false
 featureimage: "img/travel/memmingen-travel-guide.webp"

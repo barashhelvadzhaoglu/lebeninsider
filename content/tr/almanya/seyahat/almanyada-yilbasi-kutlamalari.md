@@ -1,5 +1,5 @@
 ---
-title: "Almanya'da Yılbaşı Kutlamaları | Silvester, Havai Fişekler ve Münih'te Yeni Yıl (2025)"
+title: "Almanya'da Yılbaşı Kutlamaları | Silvester, Havai Fişekler ve Münih'te Yeni Yıl (2026)"
 date: 2026-03-19
 draft: false
 featureimage: "img/travel/almanyada-yilbasi-kutlamalari.webp"

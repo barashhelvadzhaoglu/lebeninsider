@@ -1,5 +1,5 @@
 ---
-title: "Salzburg Gezi Rehberi | Münih'ten 1.5 Saatte Mozart'ın Şehri (2025)"
+title: "Salzburg Gezi Rehberi | Münih'ten 1.5 Saatte Mozart'ın Şehri (2026)"
 date: 2026-03-21
 draft: false
 featureimage: "img/travel/salzburg-gezi-rehberi.webp"

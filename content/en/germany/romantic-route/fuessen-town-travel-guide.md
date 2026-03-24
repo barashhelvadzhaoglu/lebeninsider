@@ -1,5 +1,5 @@
 ---
-title: "Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein (2025)"
+title: "Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein (2026)"
 date: 2026-03-24
 draft: false
 featureimage: "img/travel/fuessen-town-travel-guide.webp"

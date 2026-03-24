@@ -1,5 +1,5 @@
 ---
-title: "Romantische Straße Guide | Bayerns schönste Route mit dem Deutschlandticket und Kinderwagen (2025)"
+title: "Romantische Straße Guide | Bayerns schönste Route mit dem Deutschlandticket und Kinderwagen (2026)"
 date: 2026-04-21T08:00:00+01:00
 draft: false
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"

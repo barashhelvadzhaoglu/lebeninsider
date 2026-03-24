@@ -1,5 +1,5 @@
 ---
-title: "Ingolstadt Reiseführer | Donaustadt 1 Stunde von München (2025)"
+title: "Ingolstadt Reiseführer | Donaustadt 1 Stunde von München (2026)"
 date: 2026-03-26
 draft: false
 featureimage: "img/travel/ingolstadt-reisefuehrer.webp"

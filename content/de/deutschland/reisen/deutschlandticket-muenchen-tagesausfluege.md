@@ -1,5 +1,5 @@
 ---
-title: "Deutschlandticket Tagesausflüge von München | Bayern mit Kindern (2025)"
+title: "Deutschlandticket Tagesausflüge von München | Bayern mit Kindern (2026)"
 date: 2026-03-18
 draft: false
 featureimage: "img/travel/deutschlandticket-muenchen-tagesausfluege.webp"

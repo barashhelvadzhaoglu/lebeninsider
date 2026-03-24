@@ -1,5 +1,5 @@
 ---
-title: "Deutschlandticket Day Trips from Munich | Bavaria with Kids (2025)"
+title: "Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)"
 date: 2026-03-18
 draft: false
 featureimage: "img/travel/deutschlandticket-munich-day-trips.webp"

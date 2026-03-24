@@ -1,5 +1,5 @@
 ---
-title: "Augsburg Travel Guide | Roman City 35 Minutes from Munich (2025)"
+title: "Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)"
 date: 2026-03-22
 draft: false
 featureimage: "img/travel/augsburg-travel-guide.webp"

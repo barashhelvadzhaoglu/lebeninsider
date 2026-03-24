@@ -1,5 +1,5 @@
 ---
-title: "Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich (2025)"
+title: "Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich (2026)"
 date: 2026-03-23
 draft: false
 featureimage: "img/travel/lindau-lake-constance-travel-guide.webp"

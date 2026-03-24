@@ -1,5 +1,5 @@
 ---
-title: "Memmingen Gezi Rehberi | Münih'ten 1.5 Saatte Ortaçağ Şehri (2025)"
+title: "Memmingen Gezi Rehberi | Münih'ten 1.5 Saatte Ortaçağ Şehri (2026)"
 date: 2026-03-20
 draft: false
 featureimage: "img/travel/memmingen-gezi-rehberi.webp"

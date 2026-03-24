@@ -1,5 +1,5 @@
 ---
-title: "Ingolstadt Gezi Rehberi | Münih'ten 1 Saatte Tuna Kıyısı (2025)"
+title: "Ingolstadt Gezi Rehberi | Münih'ten 1 Saatte Tuna Kıyısı (2026)"
 date: 2026-03-26
 draft: false
 featureimage: "img/travel/ingolstadt-gezi-rehberi.webp"

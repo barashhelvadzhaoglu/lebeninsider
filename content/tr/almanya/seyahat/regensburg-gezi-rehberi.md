@@ -1,5 +1,5 @@
 ---
-title: "Regensburg Gezi Rehberi | UNESCO Şehri | Münih'ten 1.5 Saatte (2025)"
+title: "Regensburg Gezi Rehberi | UNESCO Şehri | Münih'ten 1.5 Saatte (2026)"
 date: 2026-03-27
 draft: false
 featureimage: "img/travel/regensburg-gezi-rehberi.webp"

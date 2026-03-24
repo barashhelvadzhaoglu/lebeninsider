@@ -1,5 +1,5 @@
 ---
-title: "Regensburg Reiseführer | UNESCO-Mittelalterstadt 1,5 Stunden von München (2025)"
+title: "Regensburg Reiseführer | UNESCO-Mittelalterstadt 1,5 Stunden von München (2026)"
 date: 2026-03-27
 draft: false
 featureimage: "img/travel/regensburg-reisefuehrer.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Romantik Rota Rehberi | Deutschlandticket ve Bebek Arabası ile Bavyera'nın En Güzel Rotası (2025)"
+title: "Romantik Rota Rehberi | Deutschlandticket ve Bebek Arabası ile Bavyera'nın En Güzel Rotası (2026)"
 date: 2026-04-21T08:00:00+01:00
 draft: false
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"

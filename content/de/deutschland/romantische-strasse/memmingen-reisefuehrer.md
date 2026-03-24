@@ -1,5 +1,5 @@
 ---
-title: "Reiseführer Memmingen | Mittelalterliche Perle 1,5 Stunden von München (2025)"
+title: "Reiseführer Memmingen | Mittelalterliche Perle 1,5 Stunden von München (2026)"
 date: 2026-03-20
 draft: false
 featureimage: "img/travel/memmingen-travel-guide.webp"

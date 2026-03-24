@@ -1,5 +1,5 @@
 ---
-title: "Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2025)"
+title: "Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)"
 date: 2026-03-17
 draft: false
 featureimage: "img/living/renting-in-germany-munich.webp"

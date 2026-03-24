@@ -1,5 +1,5 @@
 ---
-title: "Neuschwanstein Castle Guide | Disney's Inspiration | Practical Tips (2025)"
+title: "Neuschwanstein Castle Guide | Disney's Inspiration | Practical Tips (2026)"
 date: 2026-03-25
 draft: false
 featureimage: "img/travel/neuschwanstein-castle-guide.webp"
@@ -41,7 +41,7 @@ Town guide separately: [Füssen Town Guide →](/en/germany/fuessen-town-travel-
 
 **Where:** [www.ticket-center-hohenschwangau.de](https://www.ticket-center-hohenschwangau.de)
 
-**Price (2025):** Adult ~15 EUR, children (0–17) free.
+**Price (2026):** Adult ~15 EUR, children (0–17) free.
 
 **Booking fee:** 2.50 EUR extra for online — worth it.
 

@@ -1,5 +1,5 @@
 ---
-title: "Wohnung Mieten in Deutschland | Die Realität der Wohnungssuche in München (2025)"
+title: "Wohnung Mieten in Deutschland | Die Realität der Wohnungssuche in München (2026)"
 date: 2026-03-17
 draft: false
 featureimage: "img/living/wohnung-mieten-muenchen.webp"
