@@ -87,3 +87,14 @@ Evet, şehir için tam gün yeterli. Sabah erken çık, akşam dön.
 
 **Augsburg Münih'ten ucuz mu?**
 Restoranlar ve konaklama Münih'e göre belirgin şekilde daha uygun.
+
+---
+
+*İlgili yazılar:*
+- [Romantik Rota Rehberi](/tr/almanya/romantik-rota/romantik-rota-rehberi/)
+- [Füssen Gezi Rehberi](/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/)
+- [Memmingen Gezi Rehberi](/tr/almanya/romantik-rota/memmingen-gezi-rehberi/)
+- [Lindau Bodensee Gezi Rehberi](/tr/almanya/romantik-rota/lindau-bodensee-gezi-rehberi/)
+- [Neuschwanstein Kalesi Gezi Rehberi](/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/)
+- [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+- [🇬🇧 English: Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)

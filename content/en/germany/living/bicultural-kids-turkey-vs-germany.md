@@ -72,9 +72,17 @@ What I want for my child is not to choose between Turkish and German — but to 
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#BiculturalKids` `#BilingualFamily` `#ThirdCultureKid` `#TurkishGerman` `#ExpatParenting` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#RaisingKidsAbroad` `#ExpatFamily` `#CulturalIdentity` `#MoveToGermany` `#TwoWorlds` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Primary School: Turkey vs Germany](/en/germany/living/primary-school-turkey-vs-germany/)
+- [Kita & Childcare: Turkey vs Germany](/en/germany/living/kita-childcare-turkey-vs-germany/)
+- [Language Barrier: Turkey vs Germany](/en/germany/living/language-barrier-turkey-vs-germany/)
+- [Turkish Muslim Identity in Germany](/en/germany/living/turkish-muslim-identity-germany/)

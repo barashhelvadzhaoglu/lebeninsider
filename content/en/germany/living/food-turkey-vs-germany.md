@@ -65,9 +65,17 @@ Food is where I feel the distance from home most acutely. But it's also where I'
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#FoodInGermany` `#TurkishFood` `#BavarianFood` `#Biergarten` `#MunichFood` `#ExpatFood` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#GermanCuisine` `#ExpatLife` `#MoveToGermany` `#WeißwurstBreakfast` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Shopping: Turkey vs Germany](/en/germany/living/shopping-turkey-vs-germany/)
+- [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

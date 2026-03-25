@@ -150,3 +150,11 @@ Ama Jobcenter farklı hesapladı. Bu konuda net bir çözümüm yok — ama yaş
 
 ### Etiketler
 `#AlmanyaİşHukuku` `#İştenÇıkarılma` `#İşMahkemesi` `#Jobcenter` `#Tazminat` `#AvukatlıkSigortası` `#AlmanyaExpat` `#TürkiyedenAlmanyaya` `#Rechtsschutzversicherung` `#AlmanyaÇalışmaHayatı` `#ShareHubEU`
+
+---
+
+*İlgili yazılar:*
+- [Almanya'da Kira Bulma Rehberi](/tr/almanya/expat/almanyada-kira-bulma-rehberi/)
+- [Almanya'da Ehliyet Yenileme Süreci](/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/)
+- [Almanya'da Paylaşım Kültürü](/tr/almanya/yasam/almanyada-paylasim-kulturu/)
+- [🇬🇧 English: Being Fired in Germany](/en/germany/expat/fired-in-germany-labor-court/)

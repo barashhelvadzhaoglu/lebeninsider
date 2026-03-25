@@ -118,3 +118,11 @@ Aralık sonunda tüm büyük marketler (Rewe, Edeka, Aldi, Lidl) ve özel dükka
 
 **Almanya'da yılbaşı ağacı ne zaman kaldırılır?**
 Geleneksel olarak 6 Ocak (Heilige Drei Könige) — Üç Kral Günü. Bazı aileler daha erken kaldırıyor.
+
+---
+
+*İlgili yazılar:*
+- [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+- [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+- [Almanya'da Paylaşım Kültürü](/tr/almanya/yasam/almanyada-paylasim-kulturu/)
+- [🇬🇧 English: New Year's Eve in Germany](/en/germany/travel/new-years-eve-germany-silvester/)

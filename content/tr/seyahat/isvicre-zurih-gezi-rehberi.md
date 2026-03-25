@@ -138,3 +138,12 @@ Pegasus veya diğer havayollarının kampanya dönemlerini takip edin. Kış ayl
 
 **Lindt çikolata müzesi şehir merkezinde mi?**
 Hayır, Kilchberg semtinde, merkeze ~20 dakika. S8 treni ile Kilchberg istasyonuna, oradan 10 dakika yürüyüş.
+
+---
+
+*İlgili yazılar:*
+- [İsviçre Basel: 3 Ülke Gezi Rehberi](/tr/seyahat/isvicre-basel-3-ulke-gezi-rehberi/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [Yunanistan Gezi Rehberi](/tr/seyahat/yunanistan-atina-gezi-rehberi/)
+- [🇬🇧 English: Switzerland Zurich Travel Guide](/en/travel/switzerland-zurich-travel-guide/)

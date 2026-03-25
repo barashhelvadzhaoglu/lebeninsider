@@ -113,3 +113,12 @@ April–Juni und September–Oktober. Juli–August ist sehr heiß und überfül
 
 **Ist Athen gefährlich?**
 Generell sicher. Beim Monastiraki-Markt vorsichtig sein, Taschendiebstahlsfälle wurden gemeldet.
+
+---
+
+*Verwandte Artikel:*
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [Schweiz Zürich Reiseführer](/de/reisen/schweiz-zuerich-reisefuehrer/)
+- [🇬🇧 English: Greece Athens Travel Guide](/en/travel/greece-athens-travel-guide/)
+- [🇹🇷 Türkçe: Yunanistan Gezi Rehberi](/tr/seyahat/yunanistan-atina-gezi-rehberi/)

@@ -315,3 +315,11 @@ Approximately 2 hours.
 
 **How many hours between Tbilisi and Batumi?**
 By train ~5.5 hours. By bus ~6 hours. By plane ~45 minutes, but airports are outside the city.
+
+---
+
+*Related guides:*
+- [Tbilisi & Batumi: Hidden Gems](/en/travel/tbilisi-batumi-hidden-gems/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [🇹🇷 Türkçe: Gürcistan Gezi Rehberi](/tr/seyahat/gurcistan-tiflis-batum-gezi-rehberi/)

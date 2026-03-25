@@ -144,3 +144,12 @@ Bundan sonra süreç herkes için benzer ilerliyor: ehliyet kursu, teorik sınav
 Bugün geriye dönüp baktığımda şunu net söyleyebilirim: **Bulgaristan üzerinden ehliyet almak, Almanya'da bir kestirme yol değildir.**
 
 Eğer bu yazıyı okuyan biri benzer bir plan yapıyorsa, en büyük kazanım bu gerçeği en baştan bilmek olur.
+
+---
+
+*İlgili yazılar:*
+- [Bulgar Ehliyeti Almanya'da Geçerli mi?](/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/)
+- [Almanya'da Kira Bulma Rehberi](/tr/almanya/expat/almanyada-kira-bulma-rehberi/)
+- [Almanya'da İşten Çıkarılmak: İş Mahkemesi Süreci](/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/)
+- [🇬🇧 English: Driving Licence Renewal Germany](/en/germany/expat/driving-license-renewal-germany/)
+- [🇩🇪 Auf Deutsch: Führerschein Erneuerung](/de/deutschland/expat/fuehrerschein-erneuerung-deutschland/)

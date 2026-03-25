@@ -69,9 +69,16 @@ And being one hour from ski slopes — that was an unexpected bonus. My relation
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#MunichClimate` `#BavarianWeather` `#GermanWinter` `#MunichSummer` `#SeasonalLife` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#AlpsAccess` `#ExpatLife` `#MunichNature` `#Isar` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)
+- [New Year's Eve in Germany](/en/germany/travel/new-years-eve-germany-silvester/)

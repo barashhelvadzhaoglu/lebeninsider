@@ -76,3 +76,11 @@ Müze ücretsiz ama fabrika turu ücretli ve rezervasyon gerekiyor.
 
 **Ingolstadt'ta ne kadar zaman geçirilmeli?**
 Yarım gün şehir için yeterli. Tam gün yapılabilir.
+
+---
+
+*İlgili yazılar:*
+- [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+- [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+- [Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)
+- [🇬🇧 English: Ingolstadt Travel Guide](/en/germany/travel/ingolstadt-travel-guide/)

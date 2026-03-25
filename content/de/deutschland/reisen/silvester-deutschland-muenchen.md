@@ -137,3 +137,11 @@ Ja, es wird zwischen dem 28.–31. Dezember verkauft. In einigen Bereichen gibt 
 
 **Gibt es an Weihnachten in München Sehenswürdigkeiten?**
 Die meisten Museen und Orte sind vom 24.–26. Dezember geschlossen. Der Weihnachtsmarkt ist bis Mittag des 24. Dezember geöffnet. Der Englische Garten ist immer geöffnet.
+
+---
+
+*Verwandte Artikel:*
+- [Deutschlandticket: Tagesausflüge von München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
+- [Regensburg Reiseführer](/de/deutschland/reisen/regensburg-reisefuehrer/)
+- [🇬🇧 English: New Year's Eve Germany](/en/germany/travel/new-years-eve-germany-silvester/)
+- [🇹🇷 Türkçe: Almanya'da Yılbaşı Kutlamaları](/tr/almanya/seyahat/almanyada-yilbasi-kutlamalari/)

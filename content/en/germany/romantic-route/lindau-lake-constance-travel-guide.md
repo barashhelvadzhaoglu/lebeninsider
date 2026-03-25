@@ -73,3 +73,12 @@ Lindau is very close to where three countries share Lake Constance — Germany, 
 *Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
 - [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Memmingen](/en/germany/travel/memmingen-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)
+- [Memmingen Travel Guide](/en/germany/romantic-route/memmingen-travel-guide/)
+- [Füssen Town Travel Guide](/en/germany/romantic-route/fuessen-town-travel-guide/)
+- [🇹🇷 Türkçe: Lindau Bodensee Gezi Rehberi](/tr/almanya/romantik-rota/lindau-bodensee-gezi-rehberi/)

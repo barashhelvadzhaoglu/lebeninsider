@@ -187,3 +187,11 @@ Finding cheap flights is not a one-time luck thing. Using the right applications
 4. Set up price alerts with Google Flights
 5. Be flexible on departure and arrival cities
 6. Don't miss night/early morning hours
+
+---
+
+*Related guides:*
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [Georgia: Tbilisi & Batumi Travel Guide](/en/travel/georgia-tbilisi-batumi-travel-guide/)
+- [Bosnia & Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)
+- [🇹🇷 Türkçe: Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)

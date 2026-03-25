@@ -315,3 +315,11 @@ Yaklaşık 2 saat.
 
 **Tiflis–Batum arası kaç saat?**
 Trenle ~5.5 saat. Otobüsle ~6 saat. Uçakla ~45 dakika ama havalimanları şehir dışında.
+
+---
+
+*İlgili yazılar:*
+- [Tiflis ve Batum'da Görmedikleriniz: Saklı Yerler](/tr/seyahat/tiflis-batum-gormedikleriniz-sakli-yerler/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [🇬🇧 English: Georgia Tbilisi Batumi Travel Guide](/en/travel/georgia-tbilisi-batumi-travel-guide/)

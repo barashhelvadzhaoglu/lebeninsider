@@ -113,3 +113,12 @@ Freilassing'e kadar geçerli. Freilassing → Salzburg için ayrı bilet (~4–6
 
 **Salzburg pahalı mı?**
 Münih'e yakın fiyatlar. Altstadt restoranları pahalı, bir sokak içerisi daha uygun.
+
+---
+
+*İlgili yazılar:*
+- [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+- [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+- [Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)
+- [Neuschwanstein Kalesi Gezi Rehberi](/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/)
+- [🇬🇧 English: Salzburg Day Trip Munich](/en/germany/travel/salzburg-day-trip-munich/)

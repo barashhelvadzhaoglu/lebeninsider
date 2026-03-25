@@ -183,3 +183,12 @@ Günstige Flüge zu finden ist keine einmalige Glückssache. Die richtigen Apps 
 4. Preisalarme mit Google Flights einrichten
 5. Bei Ab- und Ankunftsstädten flexibel sein
 6. Nacht-/frühe Morgenstunden nicht verpassen
+
+---
+
+*Verwandte Artikel:*
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Georgien Reiseführer: Tiflis & Batumi](/de/reisen/georgien-tiflis-batumi-reisefuehrer/)
+- [Bosnien & Sarajevo Reiseführer](/de/reisen/bosnien-sarajevo-reisefuehrer/)
+- [🇬🇧 English: How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [🇹🇷 Türkçe: Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)

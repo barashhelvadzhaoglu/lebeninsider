@@ -191,3 +191,12 @@ Schengen vizesi süreci bugün zor. Ama doğru bilgiye ulaşıp doğru zamanda h
 3. Alternatif şehirleri deneyin
 4. İyi niyet mektubu hazırlayın
 5. Evraklarınızı önceden eksiksiz hazırlayın
+
+---
+
+*İlgili yazılar:*
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [Bosna Hersek Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)
+- [Yunanistan Gezi Rehberi](/tr/seyahat/yunanistan-atina-gezi-rehberi/)
+- [İsviçre Zürih Gezi Rehberi](/tr/seyahat/isvicre-zurih-gezi-rehberi/)
+- [🇬🇧 English: How to Get Schengen Visa](/en/travel/how-to-get-schengen-visa/)

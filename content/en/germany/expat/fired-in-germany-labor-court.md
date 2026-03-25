@@ -155,3 +155,5 @@ But the Jobcenter calculated it differently. I don't have a clean solution to th
 *Related guides:*
 - [Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
 - [Job Seeker Visa](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+- [Renting in Munich](/en/germany/expat/renting-in-germany-munich/)
+- [🇹🇷 Türkçe: Almanya'da İşten Çıkarılmak](/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/)

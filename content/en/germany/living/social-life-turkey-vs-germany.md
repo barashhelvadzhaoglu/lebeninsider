@@ -65,9 +65,16 @@ The expat community in Munich also helped enormously. Finding other people navig
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#SocialLifeGermany` `#MakingFriendsAbroad` `#ExpatLoneliness` `#GermanCulture` `#GermansAreCold` `#ExpatMunich` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#ExpatCommunity` `#ExpatLife` `#CulturalDifferences` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Food: Turkey vs Germany](/en/germany/living/food-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Turkish Muslim Identity in Germany](/en/germany/living/turkish-muslim-identity-germany/)

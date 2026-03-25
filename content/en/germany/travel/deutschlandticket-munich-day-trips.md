@@ -183,3 +183,14 @@ Valid to the border. Additional ticket needed for cross-border travel — but ve
 - [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Neuschwanstein](/en/germany/travel/neuschwanstein-castle-guide/)
 - [Memmingen](/en/germany/travel/memmingen-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/) · [Regensburg](/en/germany/travel/regensburg-travel-guide/)
 - [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+
+---
+
+*Related guides:*
+- [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+- [Salzburg Day Trip from Munich](/en/germany/travel/salzburg-day-trip-munich/)
+- [Ingolstadt Travel Guide](/en/germany/travel/ingolstadt-travel-guide/)
+- [Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)
+- [Neuschwanstein Castle Guide](/en/germany/romantic-route/neuschwanstein-castle-guide/)
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [🇹🇷 Türkçe: Deutschlandticket Münih Çevresi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)

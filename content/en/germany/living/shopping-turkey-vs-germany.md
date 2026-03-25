@@ -65,9 +65,16 @@ But I still miss the *bakkal*. That relationship-based, always-open corner shop 
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#ShoppingInGermany` `#GermanSupermarkets` `#SundayClosing` `#Wochenmarkt` `#Viktualienmarkt` `#ExpatGermany` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#ExpatLife` `#GermanCulture` `#DailyLifeGermany` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Food: Turkey vs Germany](/en/germany/living/food-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

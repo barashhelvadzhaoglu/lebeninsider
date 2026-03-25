@@ -90,3 +90,12 @@ Evet, 2006'dan beri UNESCO Dünya Mirası Altstadt'ı ve Stadtamhof.
 
 **Historische Wurstküche'ye rezervasyon gerekiyor mu?**
 Hayır. Gidip sıraya girilir. Dışarıda nehir kıyısında yenilir.
+
+---
+
+*İlgili yazılar:*
+- [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+- [Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)
+- [Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)
+- [Augsburg Gezi Rehberi](/tr/almanya/romantik-rota/augsburg-gezi-rehberi/)
+- [🇬🇧 English: Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)

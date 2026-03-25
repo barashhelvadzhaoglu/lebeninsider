@@ -144,3 +144,13 @@ Bus von Sarajevo ~2,5 Stunden, 10–15 EUR. Wer mit dem Auto fährt, kann auch d
 
 **Ist Sarajevo teuer?**
 Sehr erschwinglich nach europäischen Maßstäben. Ein gutes Essen 8–15 EUR, Unterkunft zwischen 30–80 EUR zu finden.
+
+---
+
+*Verwandte Artikel:*
+- [Kosovo: Prishtina & Prizren Reiseführer](/de/reisen/kosovo-pristina-prizren-reisefuehrer/)
+- [Skopje, Nordmazedonien Reiseführer](/de/reisen/skopje-nordmazedonien-reisefuehrer/)
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [🇬🇧 English: Bosnia Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)
+- [🇹🇷 Türkçe: Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)

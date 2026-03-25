@@ -113,3 +113,11 @@ April–June and September–October. July–August is very hot and crowded.
 
 **Is Athens dangerous?**
 Generally safe. Be careful at Monastiraki market, pickpocketing incidents have been reported.
+
+---
+
+*Related guides:*
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [Switzerland: Zurich Travel Guide](/en/travel/switzerland-zurich-travel-guide/)
+- [🇹🇷 Türkçe: Yunanistan Gezi Rehberi](/tr/seyahat/yunanistan-atina-gezi-rehberi/)

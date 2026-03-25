@@ -67,3 +67,14 @@ UNESCO World Heritage. Medieval water canal system. Canals visible throughout th
 *Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
 - Nearby: [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Memmingen](/en/germany/travel/memmingen-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [Füssen Town Travel Guide](/en/germany/romantic-route/fuessen-town-travel-guide/)
+- [Memmingen Travel Guide](/en/germany/romantic-route/memmingen-travel-guide/)
+- [Lindau: Lake Constance Travel Guide](/en/germany/romantic-route/lindau-lake-constance-travel-guide/)
+- [Neuschwanstein Castle Guide](/en/germany/romantic-route/neuschwanstein-castle-guide/)
+- [Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [🇹🇷 Türkçe: Augsburg Gezi Rehberi](/tr/almanya/romantik-rota/augsburg-gezi-rehberi/)

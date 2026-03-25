@@ -99,3 +99,12 @@ Otobüs ile ~1.5 saat, ~3 EUR. Sık sefer var.
 
 **Kosova'da Türkçe geçiyor mu?**
 Özellikle Prizren'de Türkçe konuşan bir topluluk var. Priştine'de de Türkçe bilen insanlara rastlanıyor.
+
+---
+
+*İlgili yazılar:*
+- [Bosna Hersek Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)
+- [Üsküp Gezi Rehberi: Kuzey Makedonya](/tr/seyahat/uskup-kuzey-makedonya-gezi-rehberi/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [🇬🇧 English: Kosovo Pristina Prizren Travel Guide](/en/travel/kosovo-pristina-prizren-travel-guide/)

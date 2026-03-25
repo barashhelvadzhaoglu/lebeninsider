@@ -71,9 +71,18 @@ In Turkey, the process was easier to start. But the security at the end was less
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#RentingInGermany` `#MunichRent` `#GermanHousing` `#Kaltmiete` `#Warmmiete` `#Wohnungssuche` `#ExpatGermany` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#HousingGermany` `#MoveToGermany` `#ExpatLife` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Renting an Apartment in Munich](/en/germany/expat/renting-in-germany-munich/)
+- [Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)
+- [🇹🇷 Türkçe: Almanya'da Kira Bulma Rehberi](/tr/almanya/expat/almanyada-kira-bulma-rehberi/)

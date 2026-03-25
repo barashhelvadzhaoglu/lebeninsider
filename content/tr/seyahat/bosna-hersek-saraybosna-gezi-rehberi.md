@@ -144,3 +144,12 @@ Saraybosna'dan otobüs ile ~2.5 saat, 10–15 EUR. Araçla gidecekler için Krav
 
 **Saraybosna pahalı mı?**
 Avrupa standartlarında çok uygun. İyi bir öğün 8–15 EUR, konaklama 30–80 EUR arasında bulunabilir.
+
+---
+
+*İlgili yazılar:*
+- [Kosova Gezi Rehberi: Priştine ve Prizren](/tr/seyahat/kosova-pristine-prizren-gezi-rehberi/)
+- [Üsküp Gezi Rehberi: Kuzey Makedonya](/tr/seyahat/uskup-kuzey-makedonya-gezi-rehberi/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [🇬🇧 English: Bosnia Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)

@@ -50,3 +50,10 @@ Mary Shelley wählte die Universität Ingolstadt als Ort, an dem Doktor Frankens
 **Wie lange in Ingolstadt?** Halber Tag für die Stadt. Ganzer Tag möglich.
 
 ---
+
+*Verwandte Artikel:*
+- [Deutschlandticket: Tagesausflüge von München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
+- [Regensburg Reiseführer](/de/deutschland/reisen/regensburg-reisefuehrer/)
+- [Salzburg Reiseführer](/de/deutschland/reisen/salzburg-reisefuehrer/)
+- [🇬🇧 English: Ingolstadt Travel Guide](/en/germany/travel/ingolstadt-travel-guide/)
+- [🇹🇷 Türkçe: Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)

@@ -89,3 +89,13 @@ Taxi oder Minibus vom Stadtzentrum ~30 Minuten, sehr günstig.
 
 **Wie viele Tage braucht man für Skopje?**
 2 Tage reichen für die Stadt. Planen Sie 3 Tage, wenn Sie die Matka-Schlucht hinzufügen.
+
+---
+
+*Verwandte Artikel:*
+- [Bosnien & Sarajevo Reiseführer](/de/reisen/bosnien-sarajevo-reisefuehrer/)
+- [Kosovo: Prishtina & Prizren Reiseführer](/de/reisen/kosovo-pristina-prizren-reisefuehrer/)
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [🇬🇧 English: Skopje North Macedonia Guide](/en/travel/skopje-north-macedonia-travel-guide/)
+- [🇹🇷 Türkçe: Üsküp Gezi Rehberi](/tr/seyahat/uskup-kuzey-makedonya-gezi-rehberi/)

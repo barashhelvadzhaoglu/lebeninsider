@@ -113,3 +113,12 @@ Nisan–Haziran ve Eylül–Ekim. Temmuz–Ağustos çok sıcak ve kalabalık.
 
 **Atina tehlikeli mi?**
 Genel olarak güvenli. Monastiraki pazarında dikkatli olun, yankesicilik vakaları duyuluyor.
+
+---
+
+*İlgili yazılar:*
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [İsviçre Zürih Gezi Rehberi](/tr/seyahat/isvicre-zurih-gezi-rehberi/)
+- [Bosna Hersek Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)
+- [🇬🇧 English: Greece Athens Travel Guide](/en/travel/greece-athens-travel-guide/)

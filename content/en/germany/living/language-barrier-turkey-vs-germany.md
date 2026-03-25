@@ -72,9 +72,16 @@ And be patient with yourself. Fluency takes time, but progress is visible and ge
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#GermanLanguage` `#LearnGerman` `#LanguageBarrier` `#ExpatGermany` `#DeutschLernen` `#BavarianDialect` `#Bayerisch` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#ExpatLife` `#IntegrationGermany` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Primary School: Turkey vs Germany](/en/germany/living/primary-school-turkey-vs-germany/)
+- [Kita & Childcare: Turkey vs Germany](/en/germany/living/kita-childcare-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)

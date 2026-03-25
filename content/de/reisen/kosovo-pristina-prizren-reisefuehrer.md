@@ -99,3 +99,13 @@ Bus ~1,5 Stunden, ~3 EUR. Häufige Abfahrten.
 
 **Wird Türkisch in Kosovo gesprochen?**
 Besonders in Prizren gibt es eine türkischsprachige Gemeinschaft. Auch in Pristina trifft man auf Türkischsprecher.
+
+---
+
+*Verwandte Artikel:*
+- [Bosnien & Sarajevo Reiseführer](/de/reisen/bosnien-sarajevo-reisefuehrer/)
+- [Skopje, Nordmazedonien Reiseführer](/de/reisen/skopje-nordmazedonien-reisefuehrer/)
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [🇬🇧 English: Kosovo Travel Guide](/en/travel/kosovo-pristina-prizren-travel-guide/)
+- [🇹🇷 Türkçe: Kosova Gezi Rehberi](/tr/seyahat/kosova-pristine-prizren-gezi-rehberi/)

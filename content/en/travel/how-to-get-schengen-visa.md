@@ -190,3 +190,12 @@ The Schengen visa process is difficult today. But when the right information is 
 3. Try alternative cities
 4. Prepare a letter of good intent
 5. Prepare your documents completely in advance
+
+---
+
+*Related guides:*
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [Bosnia & Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)
+- [Greece: Athens Travel Guide](/en/travel/greece-athens-travel-guide/)
+- [Switzerland: Zurich Travel Guide](/en/travel/switzerland-zurich-travel-guide/)
+- [🇹🇷 Türkçe: Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)

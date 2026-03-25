@@ -60,3 +60,11 @@ Kleiner Hügel gegenüber Mirabell. Für Panoramablick auf die Stadt lohnt sich 
 **Reicht ein Tag für Salzburg?** Ja, für die Stadt. Hallstatt oder Salzkammergut hinzufügen für 2 Tage.
 
 ---
+
+*Verwandte Artikel:*
+- [Deutschlandticket: Tagesausflüge von München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
+- [Regensburg Reiseführer](/de/deutschland/reisen/regensburg-reisefuehrer/)
+- [Ingolstadt Reiseführer](/de/deutschland/reisen/ingolstadt-reisefuehrer/)
+- [Neuschwanstein Schloss Reiseführer](/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/)
+- [🇬🇧 English: Salzburg Day Trip Munich](/en/germany/travel/salzburg-day-trip-munich/)
+- [🇹🇷 Türkçe: Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)

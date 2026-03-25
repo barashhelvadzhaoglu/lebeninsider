@@ -73,3 +73,12 @@ Small hill opposite Mirabell. Worth climbing for panoramic city views — free, 
 *Related:*
 - [Füssen](/en/germany/travel/fuessen-town-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+- [Ingolstadt Travel Guide](/en/germany/travel/ingolstadt-travel-guide/)
+- [Neuschwanstein Castle Guide](/en/germany/romantic-route/neuschwanstein-castle-guide/)
+- [🇹🇷 Türkçe: Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)

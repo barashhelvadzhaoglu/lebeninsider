@@ -102,3 +102,10 @@ That's a rare thing. And it's worth noticing.
 *Related reading:*
 - [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
 - [Turkey vs Germany: Full Comparison](/en/germany/living/turkey-vs-germany/)
+
+---
+
+*Related guides:*
+- [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

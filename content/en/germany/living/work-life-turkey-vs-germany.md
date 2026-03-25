@@ -68,9 +68,17 @@ The warmth of Turkish professional relationships is something I miss. But the st
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#WorkLifeGermany` `#WorkLifeBalance` `#GermanWorkCulture` `#Elternzeit` `#TurkeyVsGermany` `#ExpatWork` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#WorkingInGermany` `#ExpatLife` `#GermanEmployee` `#MoveToGermany` `#HustleCulture` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Being Fired in Germany: Labor Court Experience](/en/germany/expat/fired-in-germany-labor-court/)
+- [Housing: Turkey vs Germany](/en/germany/living/housing-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

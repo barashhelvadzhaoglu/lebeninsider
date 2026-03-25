@@ -89,3 +89,12 @@ Eski Çarşı bölgesinde kısmen. Genel olarak İngilizce daha yaygın.
 
 **Üsküp kaç günde gezilir?**
 2 gün şehir için yeterli. Matka Kanyonu eklerseniz 3 gün planlayın.
+
+---
+
+*İlgili yazılar:*
+- [Bosna Hersek Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)
+- [Kosova Gezi Rehberi: Priştine ve Prizren](/tr/seyahat/kosova-pristine-prizren-gezi-rehberi/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [🇬🇧 English: Skopje North Macedonia Travel Guide](/en/travel/skopje-north-macedonia-travel-guide/)

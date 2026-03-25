@@ -143,3 +143,12 @@ Generell Mitte Juni, dauert 1 Woche.
 
 **Wann ist der Basler Weihnachtsmarkt?**
 Ende November – Mitte Dezember. Die Märkte auf dem Barfüsserplatz und dem Münsterplatz sind besonders berühmt.
+
+---
+
+*Verwandte Artikel:*
+- [Schweiz Zürich Reiseführer](/de/reisen/schweiz-zuerich-reisefuehrer/)
+- [Schengen Visum Beantragen](/de/reisen/schengen-visum-beantragen/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [🇬🇧 English: Basel 3 Countries Guide](/en/travel/switzerland-basel-3-countries-guide/)
+- [🇹🇷 Türkçe: Basel Gezi Rehberi](/tr/seyahat/isvicre-basel-3-ulke-gezi-rehberi/)

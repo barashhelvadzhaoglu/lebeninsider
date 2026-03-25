@@ -67,3 +67,13 @@ Artificial lake 2 km south of Füssen. Great for swimming in summer. Lakeside cy
 - [Neuschwanstein Castle](/en/germany/travel/neuschwanstein-castle-guide/) — just 4km away
 - [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [Neuschwanstein Castle Guide](/en/germany/romantic-route/neuschwanstein-castle-guide/)
+- [Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)
+- [Memmingen Travel Guide](/en/germany/romantic-route/memmingen-travel-guide/)
+- [Lindau: Lake Constance Travel Guide](/en/germany/romantic-route/lindau-lake-constance-travel-guide/)
+- [🇹🇷 Türkçe: Füssen Gezi Rehberi](/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/)

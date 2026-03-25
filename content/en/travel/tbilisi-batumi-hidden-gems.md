@@ -135,3 +135,11 @@ For accommodation and food, it can no longer be considered cheaper than Turkey. 
 
 **Which is the best neighborhood in Tbilisi?**
 To stay: Old Town (Old Tbilisi) or around Rustaveli. To explore: Chugureti. For food: Marjanishvili.
+
+---
+
+*Related guides:*
+- [Georgia: Tbilisi & Batumi Travel Guide](/en/travel/georgia-tbilisi-batumi-travel-guide/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [🇹🇷 Türkçe: Tiflis & Batum Saklı Yerler](/tr/seyahat/tiflis-batum-gormedikleriniz-sakli-yerler/)

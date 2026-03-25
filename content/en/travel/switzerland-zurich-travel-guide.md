@@ -138,3 +138,11 @@ Follow Pegasus or other airlines' campaign periods. Winter months (November–Ma
 
 **Is the Lindt chocolate museum in the city center?**
 No, it's in the Kilchberg district, ~20 minutes from the center. Take the S8 train to Kilchberg station, then 10 minutes' walk.
+
+---
+
+*Related guides:*
+- [Switzerland: Basel & 3 Countries Guide](/en/travel/switzerland-basel-3-countries-guide/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [🇹🇷 Türkçe: Zürih Gezi Rehberi](/tr/seyahat/isvicre-zurih-gezi-rehberi/)

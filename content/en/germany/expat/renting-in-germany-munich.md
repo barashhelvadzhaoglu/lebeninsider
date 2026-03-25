@@ -171,3 +171,7 @@ Yes — surrounding cities like Augsburg, Landsberg am Lech, Freising are 30-40%
 *Related guides:*
 - [Housing: Turkey vs Germany](/en/germany/living/housing-turkey-vs-germany/)
 - [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)
+- [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+- [Being Fired in Germany](/en/germany/expat/fired-in-germany-labor-court/)
+- [🇹🇷 Türkçe: Almanya'da Kira Bulma Rehberi](/tr/almanya/expat/almanyada-kira-bulma-rehberi/)
+- [🇩🇪 Auf Deutsch: Wohnung mieten München](/de/deutschland/expat/wohnung-mieten-muenchen/)

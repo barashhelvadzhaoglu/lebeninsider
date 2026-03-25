@@ -65,9 +65,16 @@ And for those of us living abroad: the guilt of distance doesn't have a policy s
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#ElderlyCarGermany` `#Pflegeversicherung` `#FamilyCulture` `#TurkeyVsGermany` `#ExpatGuilt` `#AgingParents` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#GermanSocialSystem` `#ExpatLife` `#FamilyAbroad` `#CulturalDifferences` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Health System: Turkey vs Germany](/en/germany/living/health-system-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

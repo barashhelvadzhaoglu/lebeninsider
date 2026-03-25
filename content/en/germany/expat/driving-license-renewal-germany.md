@@ -218,3 +218,6 @@ The process in Germany is long and expensive, but it is the **only valid way.**
 *Related guides:*
 - [Bulgarian Licence Valid in Germany?](/en/germany/expat/bulgarian-license-valid-in-germany/)
 - [Cars & Traffic: Turkey vs Germany](/en/germany/living/cars-traffic-turkey-vs-germany/)
+- [Renting in Munich](/en/germany/expat/renting-in-germany-munich/)
+- [🇹🇷 Türkçe: Almanya'da Ehliyet Yenileme](/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/)
+- [🇩🇪 Auf Deutsch: Führerschein Erneuerung](/de/deutschland/expat/fuehrerschein-erneuerung-deutschland/)

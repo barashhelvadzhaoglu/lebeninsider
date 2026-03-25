@@ -173,3 +173,12 @@ Bugün geriye bakıyorum: zaman harcandı, para harcandı ama hukuki sonuç sıf
 Bu yazıyı okuyan birisi benzer bir plan yapıyorsa — en büyük kazanım bu gerçeği en baştan bilmek olur.
 
 Almanya'da ehliyet almanın tek geçerli yolu fahrschule süreci. Uzun ve pahalı, ama çalışan tek yol bu.
+
+---
+
+*İlgili yazılar:*
+- [Almanya'da Ehliyet Yenileme Süreci](/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/)
+- [Almanya'da Kira Bulma Rehberi](/tr/almanya/expat/almanyada-kira-bulma-rehberi/)
+- [Almanya'da İşten Çıkarılmak: İş Mahkemesi Süreci](/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/)
+- [🇬🇧 English: Bulgarian Licence Valid in Germany?](/en/germany/expat/bulgarian-license-valid-in-germany/)
+- [🇩🇪 Auf Deutsch: Bulgarischer Führerschein](/de/deutschland/expat/bulgarischer-fuehrerschein-in-deutschland-gueltig/)

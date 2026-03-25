@@ -69,9 +69,17 @@ The streaming decision at age 10 makes me nervous — that's young for a path to
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#GermanSchoolSystem` `#Grundschule` `#Gymnasium` `#ExpatParenting` `#TurkeyVsGermany` `#ChildEducation` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#RaisingKidsAbroad` `#ExpatFamily` `#GermanEducation` `#MoveToGermany` `#NoHomework` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Kita & Childcare: Turkey vs Germany](/en/germany/living/kita-childcare-turkey-vs-germany/)
+- [Language Barrier: Turkey vs Germany](/en/germany/living/language-barrier-turkey-vs-germany/)
+- [Bicultural Kids: Turkey vs Germany](/en/germany/living/bicultural-kids-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)

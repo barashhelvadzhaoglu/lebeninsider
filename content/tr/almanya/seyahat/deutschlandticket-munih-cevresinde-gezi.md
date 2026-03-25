@@ -151,3 +151,14 @@ DB (Deutsche Bahn) uygulamasından veya MVV'den dijital olarak alınabilir. Fizi
 
 **6 yaşından küçük çocuklar için ayrı bilet lazım mı?**
 Hayır, 6 yaş altı ücretsiz.
+
+---
+
+*İlgili yazılar:*
+- [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+- [Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)
+- [Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)
+- [Augsburg Gezi Rehberi](/tr/almanya/romantik-rota/augsburg-gezi-rehberi/)
+- [Neuschwanstein Kalesi Gezi Rehberi](/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/)
+- [Romantik Rota Rehberi](/tr/almanya/romantik-rota/romantik-rota-rehberi/)
+- [🇬🇧 English: Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)

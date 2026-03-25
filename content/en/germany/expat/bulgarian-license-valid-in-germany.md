@@ -178,3 +178,6 @@ The only valid way to get a driving license in Germany is the fahrschule process
 *Related guides:*
 - [Driving Licence Renewal in Germany](/en/germany/expat/driving-license-renewal-germany/)
 - [Cars & Traffic: Turkey vs Germany](/en/germany/living/cars-traffic-turkey-vs-germany/)
+- [Renting in Munich](/en/germany/expat/renting-in-germany-munich/)
+- [🇹🇷 Türkçe: Bulgar Ehliyeti Almanya'da Geçerli mi?](/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/)
+- [🇩🇪 Auf Deutsch: Bulgarischer Führerschein](/de/deutschland/expat/bulgarischer-fuehrerschein-in-deutschland-gueltig/)

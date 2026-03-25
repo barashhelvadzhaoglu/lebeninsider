@@ -135,3 +135,11 @@ Konaklama ve yemek için Türkiye'den ucuz sayılamaz artık. Ama Batı Avrupa i
 
 **Tiflis'te en iyi mahalle hangisi?**
 Kalmak için: Eski şehir (Old Tbilisi) veya Rustaveli çevresi. Keşfetmek için: Chugureti. Yemek için: Marjanishvili.
+
+---
+
+*İlgili yazılar:*
+- [Gürcistan Gezi Rehberi: Tiflis & Batum](/tr/seyahat/gurcistan-tiflis-batum-gezi-rehberi/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [🇬🇧 English: Tbilisi Batumi Hidden Gems](/en/travel/tbilisi-batumi-hidden-gems/)

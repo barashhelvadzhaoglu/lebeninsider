@@ -143,3 +143,11 @@ Genellikle Haziran ayının ortasında, 1 hafta süre ile.
 
 **Basel Noel pazarı ne zaman?**
 Kasım sonu – Aralık ortası. Barfüsserplatz ve Münsterplatz'daki pazarlar özellikle ünlü.
+
+---
+
+*İlgili yazılar:*
+- [İsviçre Zürih Gezi Rehberi](/tr/seyahat/isvicre-zurih-gezi-rehberi/)
+- [Schengen Vizesi Alma Süreci](/tr/seyahat/schengen-vizesi-alma-sureci/)
+- [Ucuz Uçak Bileti Nasıl Bulunur?](/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/)
+- [🇬🇧 English: Switzerland Basel 3 Countries Guide](/en/travel/switzerland-basel-3-countries-guide/)

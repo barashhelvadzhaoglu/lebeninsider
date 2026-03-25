@@ -68,9 +68,16 @@ And Munich's public transport is so good that I genuinely use the car less than 
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#DrivingInGermany` `#GermanTraffic` `#Autobahn` `#TÜV` `#MunichPublicTransport` `#TurkeyVsGermany` `#RoadSafety` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#ExpatLife` `#GermanDrivingLicence` `#UBahnMunich` `#MoveToGermany` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Driving License Exchange in Germany](/en/germany/expat/driving-license-renewal-germany/)
+- [Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)

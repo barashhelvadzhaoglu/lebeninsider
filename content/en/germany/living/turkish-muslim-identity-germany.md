@@ -67,9 +67,17 @@ The Turkish community here also provides something irreplaceable: a sense of con
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#TurkishInGermany` `#MuslimInGermany` `#TurkishDiaspora` `#ExpatIdentity` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#IslamInGermany` `#CulturalIdentity` `#IntegrationGermany` `#ExpatLife` `#MoveToGermany` `#GermanTurkish` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
+- [Language Barrier: Turkey vs Germany](/en/germany/living/language-barrier-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

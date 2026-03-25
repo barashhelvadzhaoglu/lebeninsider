@@ -71,3 +71,13 @@ On the corner of Marktplatz, 16th-century home of the weavers' guild. Frescoes s
 *Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
 - [Augsburg](/en/germany/travel/augsburg-travel-guide/) · [Lindau](/en/germany/travel/lindau-lake-constance-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)
+- [Füssen Town Travel Guide](/en/germany/romantic-route/fuessen-town-travel-guide/)
+- [Lindau: Lake Constance Travel Guide](/en/germany/romantic-route/lindau-lake-constance-travel-guide/)
+- [Neuschwanstein Castle Guide](/en/germany/romantic-route/neuschwanstein-castle-guide/)
+- [🇹🇷 Türkçe: Memmingen Gezi Rehberi](/tr/almanya/romantik-rota/memmingen-gezi-rehberi/)

@@ -71,9 +71,16 @@ The *Kita* gives structure and quality. The family gives love and roots. The ide
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#KitaGermany` `#KindertagesstätteGermany` `#ChildcareGermany` `#ExpatParenting` `#TurkeyVsGermany` `#LivingInMunich` `#MunichExpat` `#TurkishExpat` `#RaisingKidsAbroad` `#ExpatFamily` `#GermanChildcare` `#MoveToGermany` `#ExpatLife` `#EarlyChildhood` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Primary School: Turkey vs Germany](/en/germany/living/primary-school-turkey-vs-germany/)
+- [Bicultural Kids: Turkey vs Germany](/en/germany/living/bicultural-kids-turkey-vs-germany/)
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)

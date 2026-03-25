@@ -89,3 +89,12 @@ Taxi or minibus from the city center ~30 minutes, very affordable.
 
 **How many days to see Skopje?**
 2 days is sufficient for the city. Plan 3 days if you add Matka Canyon.
+
+---
+
+*Related guides:*
+- [Bosnia & Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)
+- [Kosovo: Pristina & Prizren Travel Guide](/en/travel/kosovo-pristina-prizren-travel-guide/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [🇹🇷 Türkçe: Üsküp Gezi Rehberi](/tr/seyahat/uskup-kuzey-makedonya-gezi-rehberi/)

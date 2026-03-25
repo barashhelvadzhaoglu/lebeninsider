@@ -139,3 +139,11 @@ Yes, they go on sale between December 28-31. However, some areas have restrictio
 
 **Are there places to visit in Munich on Christmas Day?**
 Most museums and places are closed December 24-26. The Christmas market is open until midday on December 24th. The Englischer Garten is always open.
+
+---
+
+*Related guides:*
+- [Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+- [Social Life: Turkey vs Germany](/en/germany/living/social-life-turkey-vs-germany/)
+- [🇹🇷 Türkçe: Almanya'da Yılbaşı Kutlamaları](/tr/almanya/seyahat/almanyada-yilbasi-kutlamalari/)

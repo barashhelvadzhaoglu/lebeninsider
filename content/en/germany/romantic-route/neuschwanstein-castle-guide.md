@@ -120,3 +120,12 @@ Castle interior cannot be visited with a stroller — they don't allow them insi
 *Part of the [Romantic Road](/en/germany/romantic-route/romantic-road-guide/) series.*
 - [Füssen town guide](/en/germany/travel/fuessen-town-travel-guide/) — visit both on the same day
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Romantic Road Guide](/en/germany/romantic-route/romantic-road-guide/)
+- [Füssen Town Travel Guide](/en/germany/romantic-route/fuessen-town-travel-guide/)
+- [Augsburg Travel Guide](/en/germany/romantic-route/augsburg-travel-guide/)
+- [Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [🇹🇷 Türkçe: Neuschwanstein Kalesi Gezi Rehberi](/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/)

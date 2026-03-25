@@ -73,9 +73,17 @@ For routine care and serious illness, I trust Germany. For speed and flexibility
 
 ---
 
-*Part of the [Turkey vs Germany](#) series.*
+*Part of the [Turkey vs Germany](/en/germany/living/turkey-vs-germany/) series.*
 
 ---
 
 ### Tags
 `#GermanHealthcare` `#TurkishHealthcare` `#Hausarzt` `#GKV` `#ExpatHealth` `#LivingInGermany` `#MunichExpat` `#TurkeyVsGermany` `#ExpatLife` `#HealthInsuranceGermany` `#SGK` `#MoveToGermany` `#TurkishExpat` `#GermanSystem` `#ShareHubEU`
+
+---
+
+*Related guides:*
+- [Quality of Life: Final Verdict](/en/germany/living/quality-of-life-final-verdict/)
+- [Housing: Turkey vs Germany](/en/germany/living/housing-turkey-vs-germany/)
+- [Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
+- [Why I Moved Countries](/en/germany/living/why-i-moved-countries/)

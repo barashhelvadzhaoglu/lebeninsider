@@ -67,3 +67,11 @@ An interesting historical detail: Mary Shelley chose Ingolstadt University as th
 *Related:*
 - [Regensburg](/en/germany/travel/regensburg-travel-guide/) · [Augsburg](/en/germany/travel/augsburg-travel-guide/)
 - [All day trips with Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/)
+
+---
+
+*Related guides:*
+- [Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+- [Salzburg Day Trip from Munich](/en/germany/travel/salzburg-day-trip-munich/)
+- [🇹🇷 Türkçe: Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)

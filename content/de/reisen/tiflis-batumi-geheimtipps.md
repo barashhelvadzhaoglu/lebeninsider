@@ -129,3 +129,11 @@ Für Unterkunft und Essen kann es nicht mehr als günstiger als die Türkei ange
 
 **Welches ist das beste Viertel in Tiflis?**
 Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugureti. Zum Essen: Marjanishvili.
+
+---
+
+*Verwandte Artikel:*
+- [Georgien Reiseführer: Tiflis & Batumi](/de/reisen/georgien-tiflis-batumi-reisefuehrer/)
+- [Günstige Flüge Finden](/de/reisen/guenstige-fluege-finden/)
+- [🇬🇧 English: Tbilisi Batumi Hidden Gems](/en/travel/tbilisi-batumi-hidden-gems/)
+- [🇹🇷 Türkçe: Tiflis & Batum Saklı Yerler](/tr/seyahat/tiflis-batum-gormedikleriniz-sakli-yerler/)

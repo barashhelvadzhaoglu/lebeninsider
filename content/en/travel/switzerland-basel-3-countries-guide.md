@@ -143,3 +143,11 @@ Generally in mid-June, lasting 1 week.
 
 **When is the Basel Christmas market?**
 Late November – mid-December. The markets at Barfüsserplatz and Münsterplatz are especially famous.
+
+---
+
+*Related guides:*
+- [Switzerland: Zurich Travel Guide](/en/travel/switzerland-zurich-travel-guide/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [🇹🇷 Türkçe: Basel Gezi Rehberi](/tr/seyahat/isvicre-basel-3-ulke-gezi-rehberi/)

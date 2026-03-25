@@ -177,3 +177,15 @@ Variiert je nach Uhrzeit. Fahrräder sind während der Hauptverkehrszeiten an Wo
 
 **Österreich und Schweiz?**
 Gültig bis zur Grenze. Grenzüberschreitend wird ein zusätzliches Ticket benötigt — aber sehr günstig.
+
+---
+
+*Verwandte Artikel:*
+- [Regensburg Reiseführer](/de/deutschland/reisen/regensburg-reisefuehrer/)
+- [Salzburg Reiseführer](/de/deutschland/reisen/salzburg-reisefuehrer/)
+- [Ingolstadt Reiseführer](/de/deutschland/reisen/ingolstadt-reisefuehrer/)
+- [Augsburg Reiseführer](/de/deutschland/romantische-strasse/augsburg-reisefuehrer/)
+- [Neuschwanstein Schloss Reiseführer](/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/)
+- [Romantische Straße Reiseführer](/de/deutschland/romantische-strasse/reisefuehrer-romantische-strasse/)
+- [🇬🇧 English: Deutschlandticket Munich Day Trips](/en/germany/travel/deutschlandticket-munich-day-trips/)
+- [🇹🇷 Türkçe: Deutschlandticket Münih Çevresi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)

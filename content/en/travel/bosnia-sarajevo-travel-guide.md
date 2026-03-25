@@ -144,3 +144,12 @@ Bus from Sarajevo ~2.5 hours, 10–15 EUR. Those going by car can also add Kravi
 
 **Is Sarajevo expensive?**
 Very affordable by European standards. A good meal 8–15 EUR, accommodation can be found between 30–80 EUR.
+
+---
+
+*Related guides:*
+- [Kosovo: Pristina & Prizren Travel Guide](/en/travel/kosovo-pristina-prizren-travel-guide/)
+- [Skopje, North Macedonia Travel Guide](/en/travel/skopje-north-macedonia-travel-guide/)
+- [How to Get a Schengen Visa](/en/travel/how-to-get-schengen-visa/)
+- [How to Find Cheap Flights](/en/travel/how-to-find-cheap-flights/)
+- [🇹🇷 Türkçe: Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)

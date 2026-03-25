@@ -68,4 +68,13 @@ Riesiger Palast als Museum geöffnet. Innenführung ~15 EUR aber beeindruckend.
 **Ist Regensburg UNESCO?** Ja, seit 2006 — die Altstadt und Stadtamhof.
 
 **Braucht man Reservierung für Historische Wurstküche?** Nein. Einfach anstellen und draußen am Fluss essen.
+
 ---
+
+*Verwandte Artikel:*
+- [Deutschlandticket: Tagesausflüge von München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
+- [Ingolstadt Reiseführer](/de/deutschland/reisen/ingolstadt-reisefuehrer/)
+- [Salzburg Reiseführer](/de/deutschland/reisen/salzburg-reisefuehrer/)
+- [Augsburg Reiseführer](/de/deutschland/romantische-strasse/augsburg-reisefuehrer/)
+- [🇬🇧 English: Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+- [🇹🇷 Türkçe: Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
