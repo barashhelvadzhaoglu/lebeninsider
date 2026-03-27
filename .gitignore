@@ -9,3 +9,4 @@ resources/_gen/
 .vscode/
 *.swp
 .claude/
+urlinspection/sharehub-service-account.json
