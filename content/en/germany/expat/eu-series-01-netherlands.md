@@ -215,7 +215,7 @@ Here are some frequently asked questions about working and living in the Netherl
     The Netherlands is renowned for its excellent work-life balance, consistently ranking among the best globally. There's a strong emphasis on shorter working weeks (often 36-40 hours), ample holidays, and a culture that prioritizes personal time and family life over excessive working hours.
 
 10. **What is the BSN and how do I get it?**
-    The BSN (Burger Service Nummer) is a unique personal identification number essential for almost all official interactions in the Netherlands, including employment, opening a bank account, and healthcare. You obtain it by registering at the municipal council (Bürgeramt/Gemeentehuis) of your city of residence shortly after your arrival.
+    The BSN (Burger Service Nummer) is a unique personal identification number essential for almost all official interactions in the Netherlands, including employment, opening a bank account, and healthcare. You obtain it by registering at the municipal council (Bürgeramt/Gemeentehuis) of your city of residence shortly after your arrival. 
 
 ---
 *For my detailed comparison of Germany against Turkey across 20 topics, see the [Turkey vs Germany series](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/).*

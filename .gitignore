@@ -13,3 +13,11 @@ urlinspection/sharehub-service-account.json
 
 # Gemini expand backups
 backups/
+# Script expand backups
+script/
+
+urlinspection/
+
+urlinspection/script/apikeys.txt
+script/apikeys.txt
+script/apikeys.txt
