@@ -6,13 +6,16 @@ on:
     - cron: '0 23 * * *'
   workflow_dispatch: # Manuel tetikleme için
 
+permissions:
+  contents: write # GitHub Pages'e yükleme yapabilmesi için 'write' şarttır
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 
         with:
           submodules: recursive
           fetch-depth: 0
