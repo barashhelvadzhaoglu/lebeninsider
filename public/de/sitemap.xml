@@ -160,11 +160,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/regensburg-2025/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de"
       href="http://localhost:1313/de/tags/regensburg-2025/"
     />
@@ -782,26 +777,45 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/de/tags/schloss-neuschwanstein/</loc>
-    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/de/deutschland/reisen/schloss-neuschwanstein-reisefuehrer/</loc>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/neuschwanstein-kalesi-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/neuschwanstein-castle-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/schloss-neuschwanstein-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/schloss-neuschwanstein/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/romantic-route/neuschwanstein-castle-guide/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/"
     />
   </url>
   <url>
@@ -939,22 +953,22 @@
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/de/deutschland/reisen/fuessen-reisefuehrer/</loc>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/fuessen-reisefuehrer/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/fuessen-sehir-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/fuessen-town-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/fuessen-town-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/fuessen-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/fuessen-reisefuehrer/"
     />
   </url>
   <url>
@@ -1189,22 +1203,22 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/de/deutschland/reisen/lindau-reisefuehrer/</loc>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/lindau-reisefuehrer/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/lindau-bodensee-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/lindau-bodensee-gezi-rehberi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/lindau-lake-constance-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/lindau-lake-constance-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/lindau-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/lindau-reisefuehrer/"
     />
   </url>
   <url>
@@ -1346,22 +1360,22 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/de/deutschland/reisen/augsburg-reisefuehrer/</loc>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/augsburg-reisefuehrer/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/augsburg-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/augsburg-gezi-rehberi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/augsburg-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/augsburg-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/augsburg-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/augsburg-reisefuehrer/"
     />
   </url>
   <url>
@@ -1684,6 +1698,187 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/de/tags/allg%C3%A4u-bayern/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/bayern-ausflug/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/bayern-familienausflug/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/categories/deutschland/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/deutschland-fachwerkstadt/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/deutschlandticket-memmingen/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/deutschlandticket-memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/deutschlandticket-memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/deutschlandticket-memmingen/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/geheimtipp-bayern/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/historische-altstadt/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-2025/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/memmingen-2025/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/memmingen-2025/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-2025/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-anreise/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-marktplatz/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/memmingen-marktplatz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/memmingen-marktplatz/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-marktplatz/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-sehensw%C3%BCrdigkeiten/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-stadtmauer/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/memmingen-steuerhaus/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/memmingen-steuerhaus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/memmingen-steuerhaus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-steuerhaus/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/m%C3%BCnchen-tagesausflug/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/m%C3%BCnchen-tagesausflug/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/m%C3%BCnchen-umland/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/deutschland/romantische-strasse/memmingen-reisefuehrer/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/romantik-rota/memmingen-gezi-rehberi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/romantic-route/memmingen-travel-guide/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/memmingen-reisefuehrer/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/de/tags/st-martins-kirche-memmingen/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/de/tags/christkindlmarkt/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1932,25 +2127,6 @@
       rel="alternate"
       hreflang="de"
       href="http://localhost:1313/de/tags/m%C3%BCnchen-ausflug/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/m%C3%BCnchen-tagesausflug/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/m%C3%BCnchen-tagesausflug/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug/"
     />
   </url>
   <url>
@@ -2338,10 +2514,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/de/tags/b%C3%BCrokratie/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/de/categories/deutschland/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url>
   <url>

@@ -7,87 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     
-    <lastBuildDate>Sun, 19 Apr 2026 08:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Almanya</title>
-      <link>http://localhost:1313/tr/tags/almanya/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/almanya/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Avukatlık Sigortası</title>
-      <link>http://localhost:1313/tr/tags/avukatl%C4%B1k-sigortas%C4%B1/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/avukatl%C4%B1k-sigortas%C4%B1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Expat</title>
-      <link>http://localhost:1313/tr/tags/expat/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/expat/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>İş Hukuku</title>
-      <link>http://localhost:1313/tr/tags/i%C5%9F-hukuku/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/i%C5%9F-hukuku/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>İş Mahkemesi</title>
-      <link>http://localhost:1313/tr/tags/i%C5%9F-mahkemesi/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/i%C5%9F-mahkemesi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>İşten Çıkarılma</title>
-      <link>http://localhost:1313/tr/tags/i%C5%9Ften-%C3%A7%C4%B1kar%C4%B1lma/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/i%C5%9Ften-%C3%A7%C4%B1kar%C4%B1lma/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Jobcenter</title>
-      <link>http://localhost:1313/tr/tags/jobcenter/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/jobcenter/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tazminat</title>
-      <link>http://localhost:1313/tr/tags/tazminat/</link>
-      <pubDate>Sun, 19 Apr 2026 08:00:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tr/tags/tazminat/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Altstadt Regensburg</title>
@@ -2410,6 +2330,16 @@
     </item>
     
     <item>
+      <title>Almanya</title>
+      <link>http://localhost:1313/tr/tags/almanya/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tr/tags/almanya/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Bulgaristan</title>
       <link>http://localhost:1313/tr/tags/bulgaristan/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
@@ -2425,6 +2355,16 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tr/tags/ehliyet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Expat</title>
+      <link>http://localhost:1313/tr/tags/expat/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tr/tags/expat/</guid>
       <description></description>
       
     </item>

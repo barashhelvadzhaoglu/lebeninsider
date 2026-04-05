@@ -104,6 +104,8 @@
   
   
   
+    
+  
   
     
   
@@ -111,8 +113,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.135b419383463b826720e4eca9b8c4ec1520fb69ad49740df123cc65e25c462d246f60281936bf4f537859445abd47616998b7c09a771d915f8f1155d124a008.css"
-    integrity="sha512-E1tBk4NGO4JnIOTsqbjE7BUg&#43;2mtSXQN8SPMZeJcRi0kb2AoGTa/T1N4WURavUdhaZi3wJp3HZFfjxFV0SSgCA==">
+    href="/css/main.bundle.min.757a9def6dd3c8ec60df32f213c292d07985d2d8cb08283808551e2baa5bc8fed73418e0ebd283294dcc0ac99af4eaf1dc6056bbda1e1cdd65b6f1492746ee37.css"
+    integrity="sha512-dXqd723TyOxg3zLyE8KS0HmF0tjLCCg4CFUeK6pbyP7XNBjg69KDKU3MCsma9Orx3GBWu9oeHN1ltvFJJ0buNw==">
 
   
   
@@ -269,6 +271,36 @@
 
   
   
+    <style>
+ 
+.max-w-prose {
+  max-width: 92ch !important;
+}
+
+ 
+.toc {
+  font-size: 0.8rem !important;
+  max-width: 200px !important;
+  position: sticky;
+  top: 1rem;
+}
+
+.toc ul {
+  padding-left: 0.75rem !important;
+}
+
+ 
+@media (min-width: 1280px) {
+  .max-w-prose {
+    max-width: 100ch !important;
+  }
+  .toc {
+    max-width: 180px !important;
+  }
+}
+</style>
+
+  
 
   
   
@@ -314,13 +346,7 @@
     </div>
     
     
-      <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 z-100">
-  <div
-    id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl bg-neutral/25 dark:bg-neutral-800/25"></div>
-  <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
-    <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
+      <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
     
     
@@ -329,7 +355,7 @@
           <span class="sr-only">Teilen-Zentrum</span>
           
             <img
-              src="/img/sharehubeu-logo.png"
+              src="/img/sharehubeu-logo.webp"
               width="512"
               height="512"
               class="logo max-h-20 max-w-20 object-scale-down object-left nozoom"
@@ -432,6 +458,24 @@
       
   
     <a
+      href="/de/deutschland/romantische-strasse/"
+      
+      class="flex items-center bf-icon-color-hover"
+      aria-label="Romantische Straße"
+      title="Romantische Straße">
+      
+      
+        <span class="text-base font-medium break-normal">
+          Romantische Straße
+        </span>
+      
+    </a>
+  
+
+    
+      
+  
+    <a
       href="/de/reisen/"
       
       class="flex items-center bf-icon-color-hover"
@@ -454,7 +498,7 @@
       
       class="flex items-center bf-icon-color-hover"
       aria-label="Über mich"
-      title="Über Mich">
+      title="Über mich">
       
       
         <span class="text-base font-medium break-normal">
@@ -696,6 +740,23 @@
     
     <div class="px-2">
       <a
+        href="/de/deutschland/romantische-strasse/"
+        aria-label="Romantische Straße"
+        
+        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+        
+        <span title="Romantische Straße" class="text-2xl font-bold tracking-tight">
+          Romantische Straße
+        </span>
+        
+      </a>
+
+      
+    </div>
+  
+    
+    <div class="px-2">
+      <a
         href="/de/reisen/"
         aria-label="Reisen"
         
@@ -718,7 +779,7 @@
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Über Mich" class="text-2xl font-bold tracking-tight">
+        <span title="Über mich" class="text-2xl font-bold tracking-tight">
           Über mich
         </span>
         
@@ -827,16 +888,6 @@
     })();
   </script>
 
-
-  </div>
-</div>
-
-
-<script
-  type="text/javascript"
-  src="/js/background-blur.min.605b3b942818f0ab5a717ae446135ec46b8ee5a2ad12ae56fb90dc2a76ce30c388f9fec8bcc18db15bd47e3fa8a09d779fa12aa9c184cf614a315bc72c6c163d.js"
-  integrity="sha512-YFs7lCgY8KtacXrkRhNexGuO5aKtEq5W&#43;5DcKnbOMMOI&#43;f7IvMGNsVvUfj&#43;ooJ13n6EqqcGEz2FKMVvHLGwWPQ=="
-  data-blur-id="menu-blur"></script>
 
     
     <div class="relative flex flex-col grow">
@@ -1335,7 +1386,7 @@
       
       
         <div class="order-first lg:ms-auto px-0 lg:order-last lg:ps-8 lg:max-w-2xs">
-          <div class="toc ps-5 print:hidden lg:sticky lg:top-[140px]">
+          <div class="toc ps-5 print:hidden lg:sticky lg:top-10">
             <details
   open
   id="TOCView"
@@ -1370,7 +1421,7 @@
     </li>
     <li><a href="#zwischen-tiflis-und-batumi-die-beste-strecke">ZWISCHEN TIFLIS UND BATUMI: Die Beste Strecke</a></li>
     <li><a href="#kazbegi-tagesausflug-oder-übernachtung">KAZBEGI: Tagesausflug oder Übernachtung?</a></li>
-    <li><a href="#praktische-aktuelle-informationen-20242026">Praktische Aktuelle Informationen (2024–2026)</a></li>
+    <li><a href="#praktische-aktuelle-informationen-20262026">Praktische Aktuelle Informationen (2026–2026)</a></li>
     <li><a href="#kurze-nicht-verpassen-liste">Kurze Nicht-Verpassen-Liste</a></li>
     <li><a href="#häufig-gestellte-fragen">Häufig gestellte Fragen</a></li>
   </ul>
@@ -1408,7 +1459,7 @@
     </li>
     <li><a href="#zwischen-tiflis-und-batumi-die-beste-strecke">ZWISCHEN TIFLIS UND BATUMI: Die Beste Strecke</a></li>
     <li><a href="#kazbegi-tagesausflug-oder-übernachtung">KAZBEGI: Tagesausflug oder Übernachtung?</a></li>
-    <li><a href="#praktische-aktuelle-informationen-20242026">Praktische Aktuelle Informationen (2024–2026)</a></li>
+    <li><a href="#praktische-aktuelle-informationen-20262026">Praktische Aktuelle Informationen (2026–2026)</a></li>
     <li><a href="#kurze-nicht-verpassen-liste">Kurze Nicht-Verpassen-Liste</a></li>
     <li><a href="#häufig-gestellte-fragen">Häufig gestellte Fragen</a></li>
   </ul>
@@ -1751,12 +1802,12 @@
 <p><strong>Transport:</strong> Minibus (Marschrutka) vom Tiflis Didube Busbahnhof, ~3 Stunden, sehr günstig.</p>
 <hr>
 
-<h2 class="relative group">Praktische Aktuelle Informationen (2024–2026)
-    <div id="praktische-aktuelle-informationen-20242026" class="anchor"></div>
+<h2 class="relative group">Praktische Aktuelle Informationen (2026–2026)
+    <div id="praktische-aktuelle-informationen-20262026" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#praktische-aktuelle-informationen-20242026" aria-label="Anker">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#praktische-aktuelle-informationen-20262026" aria-label="Anker">#</a>
     </span>
     
 </h2>
@@ -2023,7 +2074,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Bosnien-Herzegowina Sarajevo Reiseführer | Visumfrei, Günstig & Historisch (2024)
+          Bosnien-Herzegowina Sarajevo Reiseführer | Visumfrei, Günstig & Historisch (2026)
           
         </h2>
       </a>
@@ -2405,7 +2456,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Kosovo Reiseführer | Pristina und Prizren | Visumfreie Balkanroute (2024)
+          Kosovo Reiseführer | Pristina und Prizren | Visumfreie Balkanroute (2026)
           
         </h2>
       </a>
@@ -2787,7 +2838,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2024)
+          Skopje Reiseführer | Nordmazedonien Hauptstadt | Visumfrei (2026)
           
         </h2>
       </a>
@@ -3168,7 +3219,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
-        src="/img/sharehubeu-hero_hu_9f159232f0459665.png"
+        src="/img/sharehubeu-hero_hu_c7132b6ad47758df.webp"
         role="presentation"
         loading="lazy"
         decoding="async"
@@ -3185,7 +3236,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2024)
+          Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2026)
           
         </h2>
       </a>
@@ -3566,7 +3617,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
-        src="/img/sharehubeu-hero_hu_9f159232f0459665.png"
+        src="/img/sharehubeu-hero_hu_c7132b6ad47758df.webp"
         role="presentation"
         loading="lazy"
         decoding="async"
@@ -3583,7 +3634,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Schweiz Basel Reiseführer | Eine Stadt, Drei Länder: Schweiz, Frankreich, Deutschland (2024)
+          Schweiz Basel Reiseführer | Eine Stadt, Drei Länder: Schweiz, Frankreich, Deutschland (2026)
           
         </h2>
       </a>
@@ -3964,7 +4015,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
   
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       <img
-        src="/img/sharehubeu-hero_hu_9f159232f0459665.png"
+        src="/img/sharehubeu-hero_hu_c7132b6ad47758df.webp"
         role="presentation"
         loading="lazy"
         decoding="async"
@@ -3981,7 +4032,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
         <h2>
-          Schweiz Zürich Reiseführer | Sehenswürdigkeiten, Transport & Budget (2024)
+          Schweiz Zürich Reiseführer | Sehenswürdigkeiten, Transport & Budget (2026)
           
         </h2>
       </a>
@@ -4332,7 +4383,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
               class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
               href="/de/reisen/griechenland-athen-reisefuehrer/">
               <span class="leading-6">
-                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2024)
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2026)
               </span>
             </a>
             
@@ -4344,7 +4395,7 @@ Zum Bleiben: Altstadt (Old Tbilisi) oder rund um Rustaweli. Zum Erkunden: Chugur
               class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
               href="/de/reisen/georgien-tiflis-batumi-reisefuehrer/">
               <span class="leading-6">
-                Georgien Reiseführer: Tiflis & Batumi | 5-tägige Echtzeiterfahrung (2024)&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
+                Georgien Reiseführer: Tiflis & Batumi | 5-tägige Echtzeiterfahrung (2026)&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
               </span>
             </a>
             

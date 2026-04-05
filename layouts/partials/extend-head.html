@@ -1,0 +1,28 @@
+<style>
+/* İçerik alanını genişlet */
+.max-w-prose {
+  max-width: 92ch !important;
+}
+
+/* TOC küçült ve sticky yap */
+.toc {
+  font-size: 0.8rem !important;
+  max-width: 200px !important;
+  position: sticky;
+  top: 1rem;
+}
+
+.toc ul {
+  padding-left: 0.75rem !important;
+}
+
+/* Ekran genişse içerik daha fazla yer kaplasın */
+@media (min-width: 1280px) {
+  .max-w-prose {
+    max-width: 100ch !important;
+  }
+  .toc {
+    max-width: 180px !important;
+  }
+}
+</style>

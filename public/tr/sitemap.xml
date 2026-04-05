@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/tr/almanya/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -20,134 +20,6 @@
       hreflang="tr"
       href="http://localhost:1313/tr/almanya/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/almanya/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/germany/expat/fired-in-germany-labor-court/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/almanya/expat/almanyada-isten-cikarilmak-is-mahkemesi/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/avukatl%C4%B1k-sigortas%C4%B1/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/expat/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/tags/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/expat/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/almanya/expat/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/germany/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/deutschland/expat/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/almanya/expat/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/i%C5%9F-hukuku/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/i%C5%9F-mahkemesi/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/i%C5%9Ften-%C3%A7%C4%B1kar%C4%B1lma/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/jobcenter/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/jobcenter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/jobcenter/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="http://localhost:1313/de/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="tr"
-      href="http://localhost:1313/tr/tags/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tr/tags/tazminat/</loc>
-    <lastmod>2026-04-19T08:00:00+01:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/tr/categories/almanya/</loc>
@@ -265,6 +137,25 @@
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tr/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/tr/tags/regensburg/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -286,11 +177,6 @@
   <url>
     <loc>http://localhost:1313/tr/tags/regensburg-2025/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/regensburg-2025/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="de"
@@ -414,6 +300,25 @@
       rel="alternate"
       hreflang="tr"
       href="http://localhost:1313/tr/tags/steinerne-br%C3%BCcke/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/"
     />
   </url>
   <url>
@@ -794,22 +699,22 @@
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/seyahat/neuschwanstein-kalesi-gezi-rehberi/</loc>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/neuschwanstein-castle-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/neuschwanstein-castle-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/schloss-neuschwanstein-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/neuschwanstein-kalesi-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/"
     />
   </url>
   <url>
@@ -827,6 +732,25 @@
   <url>
     <loc>http://localhost:1313/tr/tags/neuschwanstein-ula%C5%9F%C4%B1m/</loc>
     <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/</loc>
+    <lastmod>2026-03-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/romantic-route/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/romantik-rota/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/tr/tags/allg%C3%A4u-f%C3%BCssen/</loc>
@@ -959,22 +883,22 @@
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/seyahat/fuessen-sehir-gezi-rehberi/</loc>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/fuessen-town-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/fuessen-town-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/fuessen-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/fuessen-reisefuehrer/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/fuessen-sehir-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/"
     />
   </url>
   <url>
@@ -1176,22 +1100,22 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/seyahat/lindau-bodensee-gezi-rehberi/</loc>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/lindau-bodensee-gezi-rehberi/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/lindau-lake-constance-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/lindau-lake-constance-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/lindau-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/lindau-reisefuehrer/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/lindau-bodensee-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/lindau-bodensee-gezi-rehberi/"
     />
   </url>
   <url>
@@ -1313,22 +1237,22 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/seyahat/augsburg-gezi-rehberi/</loc>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/augsburg-gezi-rehberi/</loc>
     <lastmod>2026-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/augsburg-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/augsburg-travel-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="http://localhost:1313/de/deutschland/reisen/augsburg-reisefuehrer/"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/augsburg-reisefuehrer/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/augsburg-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/augsburg-gezi-rehberi/"
     />
   </url>
   <url>
@@ -1681,6 +1605,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/deutschlandticket-memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="tr"
       href="http://localhost:1313/tr/tags/deutschlandticket-memmingen/"
     />
@@ -1692,6 +1621,11 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tags/memmingen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen/"
     />
     <xhtml:link
       rel="alternate"
@@ -1709,22 +1643,32 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-2025/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="tr"
       href="http://localhost:1313/tr/tags/memmingen-2025/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tr/almanya/seyahat/memmingen-gezi-rehberi/</loc>
+    <loc>http://localhost:1313/tr/almanya/romantik-rota/memmingen-gezi-rehberi/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/germany/travel/memmingen-travel-guide/"
+      href="http://localhost:1313/en/germany/romantic-route/memmingen-travel-guide/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/romantische-strasse/memmingen-reisefuehrer/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="tr"
-      href="http://localhost:1313/tr/almanya/seyahat/memmingen-gezi-rehberi/"
+      href="http://localhost:1313/tr/almanya/romantik-rota/memmingen-gezi-rehberi/"
     />
   </url>
   <url>
@@ -1745,6 +1689,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-marktplatz/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="tr"
       href="http://localhost:1313/tr/tags/memmingen-marktplatz/"
     />
@@ -1756,6 +1705,11 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tags/memmingen-steuerhaus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/memmingen-steuerhaus/"
     />
     <xhtml:link
       rel="alternate"
@@ -2061,6 +2015,25 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tr/almanya/expat/</loc>
+    <lastmod>2026-03-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/germany/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/deutschland/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/almanya/expat/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/tr/tags/immobilienscout/</loc>
     <lastmod>2026-03-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -2328,6 +2301,10 @@
     <lastmod>2026-03-15T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/tr/tags/almanya/</loc>
+    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -2338,6 +2315,25 @@
   <url>
     <loc>http://localhost:1313/tr/tags/ehliyet/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tr/tags/expat/</loc>
+    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="http://localhost:1313/de/tags/expat/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr"
+      href="http://localhost:1313/tr/tags/expat/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/tr/tags/s%C3%BCr%C3%BCc%C3%BC-belgesi/</loc>

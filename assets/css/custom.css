@@ -1,0 +1,4 @@
+/* Makale içerik alanını genişlet */
+.max-w-prose {
+  max-width: 85ch !important;
+}
