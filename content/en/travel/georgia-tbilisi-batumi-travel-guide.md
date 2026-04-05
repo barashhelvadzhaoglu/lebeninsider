@@ -10,308 +10,250 @@ categories: ["seyahat"]
 summary: "A missed flight from Istanbul to Georgia, a land border crossing, pushing a stroller through Tbilisi and a taxi argument in Batumi. An unembellished, real 5-day Georgia experience."
 ---
 
-## What You Need to Know Before Going to Georgia
+## About Georgia: The Jewel of the Caucasus
 
-Georgia is a visa-free destination from Turkey, close and giving the impression of being "easy to get to." Especially looking from Istanbul, it seems both cheap and fast. But someone reading this article will learn: if the plan goes wrong at a small point, it continues like dominoes.
+Georgia, nestled at the crossroads of Eastern Europe and Western Asia, is a nation steeped in ancient history, vibrant culture, and breathtaking landscapes. With a population of approximately 3.7 million people, it offers a captivating blend of old-world charm and burgeoning modernity. Its strategic location has shaped its rich past, marked by periods of great empires and fierce independence. Legend has it that Georgia was once the land where Jason and the Argonauts sought the Golden Fleece, a testament to its enduring allure.
 
-This 5-day experience conveys Tbilisi, Batumi and everything in between as it really was.
+The country boasts a diverse geography, from the snow-capped peaks of the Greater Caucasus Mountains in the north to the subtropical Black Sea coast in the west. The capital city, **Tbilisi**, is a sprawling metropolis that beautifully juxtaposes ancient architecture with contemporary design. Located on the banks of the Mtkvari River, Tbilisi is roughly 450 kilometers (280 miles) from the bustling Turkish city of Istanbul and approximately 500 kilometers (310 miles) from the major German hub of Frankfurt. Its atmosphere is a unique tapestry woven from the influences of Persian, Ottoman, Russian, and European cultures, creating a distinct and unforgettable character. You’ll find a lively energy pulsating through its cobblestone streets, a palpable sense of history in its ancient churches and fortresses, and a warm, welcoming spirit from its people.
 
----
+For the adventurous traveler, Georgia offers an irresistible invitation. It's a destination that promises discovery, whether you're seeking to explore ancient Silk Road trade routes, indulge in world-renowned wine culture (Georgia claims to be the birthplace of wine!), or simply soak in the stunning natural beauty. The ease of visa-free travel for many nationalities, coupled with its affordability, makes Georgia an increasingly popular choice for those yearning for an authentic and enriching travel experience beyond the usual European circuit.
 
-## Basic Information: Before Going to Georgia
+## Places to Visit in Georgia
 
-| | |
-|---|---|
-| 🛂 Visa | Turkish citizens visa-free, 365 days |
-| 💶 Currency | Georgian Lari (GEL) |
-| 🌐 Language | Georgian, Russian widely spoken — English limited |
-| ✈️ Flight | Istanbul → Tbilisi ~2 hours / Istanbul → Batumi ~2.5 hours |
-| 🚗 By road | Istanbul → Sarp → Batumi ~20 hours |
-| 📶 SIM | Magti or Geocell available at the airport |
-| 🌡️ Best season | April–June, September–October |
+Georgia's diverse offerings mean there's something to captivate every traveler. From the historic heart of Tbilisi to the vibrant coastal allure of Batumi, this 5-day itinerary provides a glimpse into the country's most compelling destinations.
 
----
+### Tbilisi: A City of Contrasts
 
-## Day 1: Lessons That Started Before We Even Left
+Tbilisi, the capital city, is an absolute must-visit. It’s a place where history whispers from every ancient stone and modern life buzzes with an infectious energy. Prepare for a city that will charm you with its winding alleys, colorful balconies, and the constant backdrop of majestic mountain views.
 
-*(Istanbul → Airport → Missed Flight → Rize-Artvin → Sarp → Tbilisi)*
+### Old Town (Altstadt)
+### [Google Maps](https://www.google.com/maps/search/Tbilisi+Old+Town)
+Wandering through Tbilisi's Old Town is like stepping back in time. This historic district is a labyrinth of narrow, cobblestone streets, adorned with charming, intricately carved wooden balconies that seem to defy gravity. The architecture here is a beautiful fusion of medieval, classical, and Art Nouveau styles, reflecting the city’s diverse historical influences. You'll discover hidden courtyards, small artisan shops, and traditional Georgian houses that have stood for centuries. The best way to experience the Old Town is to simply get lost in its maze, allowing yourself to be surprised by its nooks and crannies.
 
-### Why Did This Journey Start Hard?
+When we visited, we found that many of the streets were quite steep, so comfortable walking shoes are an absolute necessity. We spent hours just aimlessly strolling, stumbling upon small cafes and wine bars tucked away from the main thoroughfares, each offering a unique glimpse into local life. It's here that you truly feel the pulse of Tbilisi.
 
-When the Georgia idea first came up, everything seemed simple. Close, visa-free, a route that gives the feeling of "we can escape for two days." But there's a reality to this kind of travel: if the plan goes wrong at a small point, it continues like dominoes. That's what happened to us. The real problem wasn't Georgia; it was **underestimating the flight time and time management**.
+### Narikala Fortress
+### [Google Maps](https://www.google.com/maps/search/Narikala+Fortress+Tbilisi)
+Dominating the skyline, Narikala Fortress is one of Tbilisi's most iconic landmarks, offering panoramic views of the entire city. Dating back to the 4th century, this ancient citadel has witnessed centuries of history, standing guard over Tbilisi. You can reach the fortress by a scenic cable car ride from the Rike Park, a modern and enjoyable way to ascend, or by a more challenging hike for the adventurous.
 
-### What We Lost While Searching for Cheap Tickets: Flexibility
+The views from the fortress ramparts are simply breathtaking, especially at sunset. You can see the Mtkvari River snaking through the city, the colorful houses of the Old Town tumbling down the hillsides, and the modern Peace Bridge adding a contemporary touch to the ancient panorama. The grounds within the fortress are also home to the St. Nicholas church, which was beautifully restored. We found the cable car ride to be incredibly efficient and offered fantastic photo opportunities even before reaching the top.
 
-We chased campaigns for days to find cheap tickets. We finally caught one, but the flight was at night. At first glance it seems "good": work during the day, fly at night. But a night flight means that even a single delay at the airport is hard to make up for.
+### Peace Bridge
+### [Google Maps](https://www.google.com/maps/search/Peace+Bridge+Tbilisi)
+A striking example of modern architecture, the Peace Bridge is a pedestrian walkway that spans the Mtkvari River, connecting the Old Town with Rike Park. Designed by Italian architect Michele De Lucchi, this sleek, glass and steel structure is illuminated at night, creating a dazzling spectacle. It’s a popular spot for locals and tourists alike to stroll across, offering unique perspectives of both the Old Town and the modern side of Tbilisi.
 
-> **Most Critical Lesson for Day 1:** A cheap ticket sometimes saves money but **zeros out time and error tolerance**.
+The bridge itself is more than just a crossing; it's an experience. During our visit, we enjoyed walking across it in the evening, watching the city lights reflect on the water. It’s a fantastic vantage point for capturing some memorable cityscapes. Its contemporary design stands in stark contrast to the ancient fortress and churches, embodying Tbilisi's fascinating blend of past and present.
 
-### The Moment of Missing the Flight
+### Sulphur Baths (Abanotubani)
+### [Google Maps](https://www.google.com/maps/search/Sulphur+Baths+Tbilisi)
+Tucked away in the lower part of the Old Town, the Sulphur Baths are an integral part of Tbilisi's identity, believed to have been the reason for the city's founding. These historic bathhouses, with their distinctive domed roofs, offer a unique and rejuvenating experience. Legend has it that King Vakhtang Gorgasali discovered the hot springs while hunting and decided to build his capital here. You can book private rooms for a more intimate experience, complete with scrubbing and massage treatments.
 
-Our flight was around 23:30. Due to various plans and rushing around, we arrived at the airport late. We ran toward the gate after passing through passport control, but the gates were closed. The moment we thought "we'll make it with 5 minutes to spare" — it was actually already over.
+The smell of sulfur is noticeable in the area, a characteristic feature of these natural springs. While we opted not to indulge in a full bath experience during this particular trip due to time constraints, many travelers rave about the therapeutic and relaxing qualities of the baths. It's a truly authentic Georgian experience that’s been enjoyed for centuries.
 
-The psychology of that moment is very exhausting: anger on one hand, fatigue on the other, and the question "what do we do now?" And late at night...
+### Freedom Square and Rustaveli Avenue
+### [Google Maps](https://www.google.com/maps/search/Freedom+Square+Tbilisi)
+### [Google Maps](https://www.google.com/maps/search/Rustaveli+Avenue+Tbilisi)
+Freedom Square is a grand, central plaza that serves as a gateway to Rustaveli Avenue, Tbilisi's main thoroughfare. The square is home to the striking Monument to St. George and the Parliament of Georgia. Rustaveli Avenue itself is the city's cultural and commercial heart, lined with important institutions such as the Parliament building, the State Opera and Ballet Theater, the National Museum of Georgia, and various shops, cafes, and restaurants.
 
-### Pegasus Office and New Plan: Going via Rize-Artvin
+Taking a walk along Rustaveli Avenue provides a great sense of Tbilisi's modern pulse. It’s a wide, tree-lined boulevard that offers a different feel from the narrow streets of the Old Town. You can find impressive architecture, bustling cafes, and a vibrant atmosphere, especially during peak hours.
 
-We went to the Pegasus office around 01:00–01:30 at night. We discussed alternatives. We had to change the ticket we had and paid extra money to redirect to **Rize-Artvin**.
+### Holy Trinity Cathedral of Tbilisi (Sameba)
+### [Google Maps](https://www.google.com/maps/search/Holy+Trinity+Cathedral+Tbilisi)
+The Holy Trinity Cathedral, known as Sameba, is the largest cathedral in Georgia and one of the largest Orthodox cathedrals in the world. Its imposing golden dome dominates the Tbilisi skyline, visible from many parts of the city. Completed in 2004, it represents a new era for Georgian Orthodoxy and is a significant spiritual center. The architecture is grand and awe-inspiring, both inside and out.
 
-We were no longer managing a "trip," we were managing an "operation." There was a flight around 05:00 in the morning. No sleep, no rest.
+When visiting, remember that it is a place of worship, so dress modestly. Shoulders should be covered, and women may be asked to wear a headscarf. The sheer scale of the cathedral is impressive, and the intricate details of its interior decorations are a testament to the skill of its creators.
 
-**The chain of mistakes grew like this:** Instead of Istanbul → Tbilisi direct flight, Istanbul → Rize-Artvin → overland → Sarp → Tbilisi.
+### Clock Tower of Tbilisi
+### [Google Maps](https://www.google.com/maps/search/Clock+Tower+Tbilisi)
+This whimsical clock tower, part of Rezo Gabriadze Theater, is one of Tbilisi's most unique and charming landmarks. It’s famous for its quirky design, with an arched doorway and a collection of marionettes that perform at specific times. The tower’s design is as eccentric as its creator, Rezo Gabriadze, a renowned Georgian puppeteer and artist.
 
-### Crossing the Sarp Border: Things to Watch Out For
+We made a point to visit during one of the performance times and were delighted by the charming show. It's a delightful and unexpected sight in the heart of the Old Town, offering a whimsical touch to the historic surroundings. It’s a must-see for anyone appreciating unique art and a bit of playful eccentricity.
 
-After landing at Rize-Artvin, we reached the Sarp border crossing by minibuses. An **unexpected expense** we encountered here: having to pay border fees a second time.
+### Batumi: The Pearl of the Black Sea
 
-**Things to know when crossing from Sarp to Georgia:**
+Batumi, located on the Black Sea coast, offers a completely different vibe from Tbilisi. It's a modern resort city, known for its palm-lined boulevards, lush botanical gardens, and vibrant nightlife. The atmosphere is distinctly more relaxed and geared towards leisure.
 
-- Exchange rates at the border are very bad — only exchange what's absolutely necessary
-- Always have cash on hand (TL, USD or EUR)
-- After crossing to the Georgian side, you'll find better rates in Batumi or Tbilisi
-- There are ATMs but some charge commission
+### Batumi Boulevard
+### [Google Maps](https://www.google.com/maps/search/Batumi+Boulevard)
+Batumi Boulevard is the city's pride and joy. This expansive, palm-lined promenade stretches for several kilometers along the Black Sea coast, offering stunning ocean views, charming cafes, fountains, and various entertainment options. It’s the perfect place for a leisurely stroll, bike ride, or simply to relax and enjoy the sea breeze. The boulevard is meticulously maintained and filled with sculptures, modern art installations, and lively squares.
 
-### Overland Journey to Tbilisi
+During our visit, we found the boulevard to be the heart of Batumi's social life. It was bustling with families, couples, and friends enjoying the seaside atmosphere. We particularly enjoyed renting bikes and cycling along its length, taking in the fresh sea air and the vibrant energy of the city. It truly embodies the spirit of a classic seaside resort.
 
-We continued by road. The roads were much worse than expected. There were many bridge and junction works. With breaks, we entered Tbilisi around 20:00–21:00 in the evening.
+### Ali and Nino Statue
+### [Google Maps](https://www.google.com/maps/search/Ali+and+Nino+Statue+Batumi)
+Perhaps Batumi's most iconic landmark, the Ali and Nino statue is a mesmerizing kinetic sculpture that tells the story of the doomed love between an Azerbaijani Muslim boy and a Georgian Christian princess. Designed by Georgian artist Tamar Kvesitadze, the steel figures move towards each other, merge, and then separate, symbolizing their passionate but ultimately tragic romance.
 
-### Bolt App Problem: Small Detail, Big Obstacle
+The statue is located by the sea, making for a dramatic and poignant backdrop. While the movement is mesmerizing, the story behind it adds a layer of depth that resonates with visitors. It's a unique and artistic representation of love and loss that has become synonymous with Batumi. We were captivated by its movement and the emotional narrative it conveys.
 
-It's normally possible to call a taxi with Bolt, but we hadn't been able to activate the app. The verification code wasn't coming. Solution: it came after turning the phone off and on again. But we learned this not that night, but a few days later.
+### Batumi Botanical Garden
+### [Google Maps](https://www.google.com/maps/search/Batumi+Botanical+Garden)
+Perched on a hill overlooking the Black Sea, the Batumi Botanical Garden is a vast and diverse collection of flora from around the world. Established in 1912, it’s divided into different geographical zones, showcasing plants from the Himalayas, East Asia, North America, Australia, and more. The sheer variety of plant life, coupled with the stunning sea views, makes this garden a truly spectacular place to visit.
 
-> **Day 1 Summary:** We consumed almost the whole day on the road without seeing Georgia. Travel is sometimes "crisis management," not "sightseeing."
+Allow ample time to explore this expansive garden; it’s easy to spend half a day here. The different sections offer varied landscapes and botanical wonders. We particularly enjoyed the views from the upper terraces, where the lush greenery met the endless blue of the sea. It's a peaceful escape and a testament to the region's rich biodiversity.
 
----
+### Argo Cable Car
+### [Google Maps](https://www.google.com/maps/search/Argo+Cable+Car+Batumi)
+For unparalleled views of Batumi and its surroundings, take a ride on the Argo Cable Car. This modern gondola system ascends from the seaside to Anuria Hill, offering panoramic vistas of the city, the Black Sea, and the surrounding coastline. At the top, you'll find a viewing platform, a cafe, and a restaurant, making it a perfect spot to relax and soak in the scenery.
 
-## Day 2: Getting to Know Tbilisi on Foot
+The ride itself is smooth and offers increasingly impressive views as you ascend. It's an excellent way to get your bearings and appreciate the layout of Batumi and its picturesque setting. We found it to be a fantastic photo opportunity, capturing the vastness of the Black Sea meeting the vibrant cityscape.
 
-*(Clock Tower, Peace Bridge, Freedom Square, Rustaveli Avenue)*
+## Where to Eat in Georgia
 
-### Where to Go in Tbilisi?
+Georgian cuisine is a culinary adventure, renowned for its rich flavors, diverse influences, and unique dishes. While the overuse of cilantro in some dishes might be a challenge for some palates, the overall gastronomic experience is undeniably rewarding.
 
-The advantage of the second day: we were now at a fixed point and could explore the city on foot. Our accommodation was close to the center of Tbilisi.
+### Must-Try Local Delicacies
 
-**Must-see places in Tbilisi:**
-
-| Place | Duration | Note |
+| Dish | Description | Approximate Price (GEL) |
 |---|---|---|
-| Clock Tower | 30 min | Best photo spot |
-| Old Town | 2–3 hours | Hilly, comfortable shoes essential |
-| Peace Bridge | 15 min | Beautiful city view from the bridge |
-| Freedom Square | 30 min | Start of Rustaveli Avenue |
-| Rustaveli Avenue | 1–2 hours | Opera, theaters, museums |
-| Narikala Fortress | 1.5 hours | Can go up by cable car |
-| Mother of Georgia Statue | 45 min | At cable car exit |
-| Sulfur Baths | 1–2 hours | Reservation recommended |
+| **Khachapuri** | A heavenly cheese-filled bread, with regional variations like Adjarian Khachapuri (boat-shaped with egg and butter on top). The quintessential Georgian dish. | 10-25 |
+| **Khinkali** | Large, juicy dumplings, typically filled with meat, herbs, and spices. Traditionally eaten by hand, slurping the savory broth inside. | 1-2 per piece |
+| **Mtsvadi** | Georgian shashlik, grilled skewers of marinated meat (pork, lamb, or beef) cooked over open coals. Simple yet incredibly flavorful. | 20-40 |
+| **Badrijani Nigvzit** | Fried eggplant rolls stuffed with a spiced walnut paste. A delightful appetizer, often seasoned with garlic and herbs. | 15-25 |
+| **Lobio** | A hearty stew made from kidney beans, flavored with herbs, spices, and sometimes walnuts. Often served in a clay pot. | 15-25 |
+| **Churchkhela** | A traditional candle-shaped candy made from grape juice and walnuts or hazelnuts. A sweet and chewy treat. | 5-10 |
 
-### Walking in Tbilisi: The "Looks Close" Trap
+### Restaurant Recommendations
 
-Everything looks close on the map. But distances in Tbilisi don't feel like they appear on the map. This is especially pronounced if you're traveling with a stroller.
+**Tbilisi**
 
-**Tbilisi with a stroller:** There are quite a few underpasses in the city in general. However, most of these underpasses have no elevators or ramps, just long staircases. Tbilisi is not a comfortable city for individuals with disabilities or families traveling with strollers.
+*   **Khinkali House**
+    *   **Cuisine:** Georgian
+    *   **Price Range:** 20-40 GEL
+    *   **Why Recommended:** This is a go-to spot for authentic Khinkali. They offer various fillings, and the dumplings are consistently fresh and flavorful. It's a no-frills, delicious introduction to this Georgian staple.
+*   **Barbarestan**
+    *   **Cuisine:** Traditional Georgian (based on 19th-century cookbook)
+    *   **Price Range:** 50-80 GEL
+    *   **Why Recommended:** For a truly refined Georgian dining experience, Barbarestan is exceptional. The menu is based on recipes from a historical Georgian cookbook, offering unique and expertly prepared dishes in an elegant setting. Reservations are highly recommended.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Barbarestan+Tbilisi)
+*   **Cafe Littera**
+    *   **Cuisine:** Modern European with Georgian influences
+    *   **Price Range:** 40-70 GEL
+    *   **Why Recommended:** Located within the Georgian National Museum, Cafe Littera offers a sophisticated dining experience with delicious food and a lovely ambiance. It's a great option for a more relaxed meal after exploring the museum.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Cafe+Littera+Tbilisi)
 
-### Peace Bridge and the Other Side of the City
+**Batumi**
 
-The walking route takes you to the Peace Bridge. This is one of Tbilisi's symbols. On the other side of the bridge there are more green spaces, quiet walking paths and cafes. This area feels much more spacious compared to the first side.
+*   **Sanapiro**
+    *   **Cuisine:** Seafood and Georgian
+    *   **Price Range:** 30-60 GEL
+    *   **Why Recommended:** Situated right on the Batumi Boulevard overlooking the sea, Sanapiro is renowned for its fresh seafood and traditional Georgian dishes. The ambiance is delightful, especially for a sunset meal.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Sanapiro+Batumi)
+*   **Old Boulevard Restaurant**
+    *   **Cuisine:** Georgian and International
+    *   **Price Range:** 25-50 GEL
+    *   **Why Recommended:** A popular choice for both locals and tourists, Old Boulevard offers a wide range of Georgian specialties and international favorites. The portions are generous, and the prices are reasonable for its prime location.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Old+Boulevard+Restaurant+Batumi)
 
-### Food Experience: The Cilantro Reality
+## Accommodation in Georgia
 
-Cilantro is used very intensively in Georgian cuisine. It didn't suit our taste at all. We ordered three or four types of food but couldn't eat most of them.
+Finding comfortable and well-located accommodation is key to a great trip. Georgia offers a range of options, from budget-friendly guesthouses to modern hotels.
 
-**Food recommendations in Tbilisi:**
+### Tbilisi Accommodation Options
 
-- **Khachapuri** — cheese bread, the safest choice
-- **Khinkali** — Georgian dumplings, can be ordered without cilantro
-- **Mtsvadi** — grilled meat
-- If you don't like cilantro, definitely specify when ordering
+*   **Budget:** **Hostel Soul Kitchen**
+    *   **Region:** Old Town
+    *   **Price Range:** 20-40 EUR/night (dorm bed)
+    *   **Description:** Known for its friendly atmosphere, clean facilities, and excellent location for exploring the Old Town on foot. Offers both dorms and private rooms.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Hostel+Soul+Kitchen+Tbilisi) | [Booking.com](https://www.booking.com/search.html?ss=Hostel+Soul+Kitchen+Tbilisi)
+*   **Mid-Range:** **Hotel Shardeni**
+    *   **Region:** Near Freedom Square and Old Town
+    *   **Price Range:** 70-120 EUR/night
+    *   **Description:** A well-regarded hotel offering comfortable rooms, good service, and a prime location that allows easy access to major attractions, restaurants, and nightlife.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Hotel+Shardeni+Tbilisi) | [Booking.com](https://www.booking.com/search.html?ss=Hotel+Shardeni+Tbilisi)
+*   **Luxury:** **Rooms Hotel Tbilisi**
+    *   **Region:** Vera district, former Soviet publishing house
+    *   **Price Range:** 180-300 EUR/night
+    *   **Description:** A stylish boutique hotel set in a converted Soviet-era building, featuring industrial-chic design, a renowned rooftop bar, and exceptional service. Offers a unique and upscale experience.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Rooms+Hotel+Tbilisi) | [Booking.com](https://www.booking.com/search.html?ss=Rooms+Hotel+Tbilisi)
 
-**Price range:** A satisfying meal for two people 25–50 GEL (approximately 8–16 EUR)
+### Batumi Accommodation Options
 
-### Communication Problem: Language Barrier
+*   **Budget:** **Batumi Backpackers**
+    *   **Region:** Near the beach and boulevard
+    *   **Price Range:** 15-35 EUR/night (dorm bed)
+    *   **Description:** A popular choice for budget travelers, offering a social atmosphere, clean dorms, and a great location for enjoying Batumi's coastal attractions.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Batumi+Backpackers) | [Booking.com](https://www.booking.com/search.html?ss=Batumi+Backpackers)
+*   **Mid-Range:** **Hotel Indigo Batumi**
+    *   **Region:** Black Sea coast, near the boulevard
+    *   **Price Range:** 90-160 EUR/night
+    *   **Description:** A modern and comfortable hotel offering sea-view rooms, excellent amenities, and a central location that makes exploring Batumi convenient.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Hotel+Indigo+Batumi) | [Booking.com](https://www.booking.com/search.html?ss=Hotel+Indigo+Batumi)
+*   **Luxury:** **Hilton Batumi**
+    *   **Region:** Beachfront, prime Batumi location
+    *   **Price Range:** 150-250 EUR/night
+    *   **Description:** A renowned international hotel offering luxurious rooms, impressive facilities including a rooftop pool with panoramic sea views, and world-class service.
+    *   **Location:** [Google Maps](https://www.google.com/maps/search/Hilton+Batumi) | [Booking.com](https://www.booking.com/search.html?ss=Hilton+Batumi)
 
-The common language in Tbilisi is Russian. Very few people speak Turkish. English is limited. In many places, while you speak English, the person across from you answers in Russian.
+**Which area is best to stay in?** In Tbilisi, staying in or near the **Old Town** provides the most immersive experience, with easy access to historical sites and charming streets. For Batumi, staying near the **Boulevard** or along the **coastline** offers direct access to the beach and promenade, making it ideal for a seaside getaway.
 
-**Solution:** Download the Google Translate app offline; you can read menus with the camera translation feature.
+## Getting There & Getting Around
 
-### Churches and Dress Code
+Navigating Georgia and its cities is generally straightforward, with various transportation options available.
 
-- Women's shoulders should be covered
-- Mini skirts and sleeveless tops are not appropriate
-- Head covering may be required at some places
-- There's usually a cover available at entrances, but carry a thin scarf with you
+### Traveling to Georgia
 
-> **Day 2 Summary:** Tbilisi can be explored on foot but it's not easy. Everything seems close, the walk is long. Cilantro is a serious factor in food choices.
+*   **By Air:**
+    *   **From Istanbul:** Numerous direct flights are available to both Tbilisi (TBS) and Batumi (BUS). Airlines like Pegasus and Turkish Airlines operate these routes. The flight duration is approximately **2 hours to Tbilisi** and **2.5 hours to Batumi**. Flight prices can vary significantly based on the season and how far in advance you book, but expect prices ranging from **70-150 EUR** for a round trip if booked in advance.
+    *   **From Munich:** Direct flights are less common. You might need to connect through Istanbul or other European hubs. Flight duration can range from **4-7 hours** depending on the layover. Prices can be higher, typically **200-400 EUR** or more for a round trip.
+    *   **From Frankfurt:** Similar to Munich, direct flights are rare. Expect flight durations of **4-7 hours** with layovers. Prices can range from **200-400 EUR**.
+*   **By Road:**
+    *   **From Istanbul to Batumi:** This is a long but feasible option for overland travelers. The journey typically takes around **20-24 hours** by car or bus, including border crossing procedures at the Sarp border. This route is scenic but demanding.
+*   **By Train:** While Georgia has a train network, it's not a primary international travel method from major European cities. International train travel usually involves multiple changes and is significantly longer than flying.
 
+### Intercity Travel within Georgia
+
+*   **Tbilisi to Batumi:**
+    *   **Train:** The most comfortable and scenic option is the Georgian Railway. A **First Class ticket** on the modern "Stadler" train offers comfortable seating and a pleasant journey. The trip takes approximately **5.5 hours**. Prices for First Class range from **25-45 GEL**.
+    *   **Bus/Minibus (Marshrutka):** A more budget-friendly option. Buses depart frequently from Tbilisi's bus station to Batumi. The journey takes about **6 hours** and costs around **20-30 GEL**.
+    *   **Flight:** Georgian Airways or others may offer domestic flights, but this is often more expensive and less convenient than the train due to airport transfers.
+*   **Deutschlandticket:** The Deutschlandticket is **not valid** in Georgia. You will need to purchase separate tickets for all public transportation within the country.
+
+### Getting Around Cities
+
+*   **Tbilisi:**
+    *   **Walking:** The Old Town is best explored on foot, though it is quite hilly.
+    *   **Metro:** Tbilisi has a functional metro system that covers key areas of the city.
+    *   **Buses & Minibuses (Marshrutka):** Extensive networks cover most of the city, but can be crowded and confusing for first-time visitors.
+    *   **Taxis:** **Bolt** and **Yandex Go** apps are highly recommended for reliable and affordable taxi services. Avoid hailing street taxis without agreeing on a price beforehand, as this can lead to overcharging.
+*   **Batumi:**
+    *   **Walking:** Batumi is much flatter and more compact than Tbilisi, making it very walkable, especially along the Boulevard.
+    *   **Buses:** A good option for reaching different parts of the city.
+    *   **Taxis:** Again, **Bolt** and **Yandex Go** are the preferred options. Be extra cautious with street taxis in Batumi, as instances of overcharging or route manipulation have been reported more frequently than in Tbilisi. Always confirm the fare in Georgian Lari (GEL) before starting your journey.
+
+## Our Experience in Georgia
+
+Our 5-day journey through Georgia was a whirlwind of unexpected turns and delightful discoveries. It began with a stark reminder of the importance of meticulous planning when we **missed our flight from Istanbul to Tbilisi**. This initial setback forced us to reroute through **Rize-Artvin Airport in Turkey**, followed by a long overland journey to the **Sarp border crossing** and then onto Tbilisi. This unplanned adventure, while tiring, offered an unfiltered glimpse into the realities of cross-border travel.
+
+The sheer effort of reaching Tbilisi on our first day meant we arrived late, exhausted, and having seen nothing of Georgia itself. This taught us a crucial lesson: **underestimating flight schedules and the buffer needed for travel can quickly derail even the simplest plans.** The domino effect of that missed flight meant a rebooking, additional costs, and a significant chunk of our precious travel time spent on transit rather than exploration.
+
+**Tbilisi** proved to be a city of captivating contrasts. We loved wandering through the **Old Town**, with its charming, winding streets and colorful balconies. The **Narikala Fortress**, offering panoramic city views, was a highlight. However, navigating Tbilisi with a stroller presented challenges. The city's hilly terrain and the frequent presence of steep staircases in underpasses made accessibility difficult. This is something families with young children or individuals with mobility issues should seriously consider. The pervasive use of cilantro in Georgian cuisine was another hurdle; while many loved it, we found ourselves constantly requesting dishes without it, leading to some communication challenges with restaurant staff.
+
+The transition to **Batumi** via overnight train was an experience in itself. While we had opted for the train to save time, the night journey was less comfortable than anticipated, and we realized the value of investing in **First Class seats** for longer journeys. Batumi offered a starkly different atmosphere: flat, modern, and distinctly seaside. We found it much easier to navigate, particularly with the stroller, thanks to its well-maintained **Boulevard** and more accessible city layout. The presence of many Turkish speakers in Batumi was a pleasant surprise, making communication and daily errands far smoother. However, our Batumi experience was marred by issues with taxis. We encountered a particularly unpleasant incident involving a taxi driver on our way to the airport, which highlighted the importance of **using reputable apps like Bolt or Yandex Go** and always confirming fares in advance.
+
+Despite the hiccups, Georgia left a lasting impression. The **warm hospitality** of the people, the **delicious (cilantro-optional!) food**, and the **stunning landscapes** made it a memorable trip. This journey reinforced our belief that travel is not always about perfectly executed plans, but also about the resilience and adaptability we show when things don't go as expected.
+
+For those planning a trip to Georgia, we highly recommend looking at our other posts on navigating the complexities of European travel, such as [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://share-hub-eu.online/en/travel/how-to-get-schengen-visa/) or [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://share-hub-eu.online/en/travel/how-to-find-cheap-flights/). Understanding these aspects can make your broader travel experience smoother.
+
+## Frequently Asked Questions About Georgia
+
+**Do I need a visa to visit Georgia?**
+Turkish citizens can enter Georgia visa-free for up to 365 days. Many other nationalities also benefit from visa-free entry; it's advisable to check the specific requirements for your passport well in advance of your travel.
+
+**What is the best time of year to visit Georgia?**
+The shoulder seasons, **April to June** and **September to October**, are generally considered the best times to visit. The weather is pleasant for sightseeing and outdoor activities, and you'll avoid the peak summer crowds and heat, as well as the harsh winter conditions.
+
+**Is it safe to travel in Georgia?**
+Georgia is generally considered a safe country for tourists. Crime rates are relatively low, especially in tourist areas. However, as with any destination, it's wise to be aware of your surroundings, especially in crowded places, and take standard precautions against petty theft. Be cautious with unsolicited offers of help, particularly regarding taxis.
+
+**What is the currency in Georgia and how can I pay?**
+The currency is the Georgian Lari (GEL). While credit cards are accepted in major hotels, restaurants, and larger stores, it's essential to carry cash for smaller establishments, markets, and public transport, especially in more rural areas. ATMs are widely available in Tbilisi and Batumi. Exchange offices are also common, but rates can vary.
+
+**How is the internet and mobile connectivity in Georgia?**
+Mobile internet is readily available and affordable. You can purchase a local SIM card (e.g., Magti or Geocell) at the airport or in city centers. These plans offer competitive rates for data and calls, ensuring you can stay connected throughout your trip. Wi-Fi is also common in hotels, cafes, and restaurants.
+
+**What should I know about Georgian food if I dislike cilantro?**
+Cilantro is a staple in many Georgian dishes. If you're not a fan, it's crucial to specify "without cilantro" (or the Georgian equivalent, if you can learn it) when ordering. Many restaurants are accommodating, especially in tourist areas, but it’s always best to clarify. You might find that dishes like Khachapuri and Mtsvadi are less likely to be heavily seasoned with cilantro.
+
+**How do I get from Tbilisi to Batumi?**
+The most recommended way is by train, specifically the modern "Stadler" trains, which offer a comfortable and scenic journey of about 5.5 hours. Alternatively, you can take a bus or marshrutka, which takes about 6 hours and is more budget-friendly. Flights are also available but are usually more expensive and require airport transfers.
 ---
-
-## Day 3: Transition from Tbilisi to Batumi
-
-*(Cable Car, Mother of Georgia Statue, Fortress and Night Train)*
-
-### Looking Down at the City by Cable Car
-
-In the morning hours, you can take the cable car from the Peace Bridge side up to the hill where the Mother of Georgia statue is. The cable car is short but the view is impressive. Seeing the city from above helps you mentally map the places you walked through in previous days.
-
-**Mother of Georgia Statue:** Wine for friends, sword for enemies. Symbolizes Georgia's cultural stance. Around it are souvenir stalls, local wine and handicraft products.
-
-### Fortress Road: Beautiful View, Difficult Path
-
-After the Mother of Georgia statue, you can walk to the fortress. In theory it looks short but in practice it's rugged and long. It was quite difficult with a stroller. When you reach the fortress, the view of Tbilisi is truly impressive — the city, river and bridges are clearly visible from above.
-
-### Tbilisi–Batumi Train: Everything You Need to Know
-
-It's possible to go from Tbilisi to Batumi by train. There are daytime and night services.
-
-| | Daytime Train | Night Train |
-|---|---|---|
-| Duration | ~5.5 hours | ~5.5 hours |
-| Comfort | Good | Difficult |
-| View | Beautiful | None |
-| Recommendation | ✅ Preferred | ⚠️ Only if necessary |
-
-**Train classes:**
-- **Economy:** Not suitable for long journey. Seats are hard, space is tight.
-- **First Class:** Seats recline, space is wide. Worth the price difference.
-
-We had to take the night train by misjudging the timing. We were caught unprepared.
-
-**Must bring on the night train:** thin blanket or sleeping bag.
-
-> **Day 3 Summary:** Transition days are the most tiring days. Double-check train times. On long train journeys, buy First Class.
-
----
-
-## Day 4: Getting to Know Batumi
-
-*(Coastal Line, Ali and Nino, Tech Shopping, Taxis)*
-
-### Why Does Batumi Feel Different from Tbilisi?
-
-The most striking thing about Batumi at first glance: **a much more compact and flat city.** Most places to visit are within walking distance of each other. Getting around with a stroller is much easier here.
-
-**Batumi vs Tbilisi comparison:**
-
-| | Tbilisi | Batumi |
-|---|---|---|
-| City structure | Hilly, sprawling | Flat, compact |
-| Walking ease | Difficult | Easy |
-| Stroller | Challenging | Comfortable |
-| Language | Mainly Russian | Many Turkish speakers |
-| Food variety | Heavy Georgian cuisine | Wider options |
-| Atmosphere | Historic, mysterious | Modern, seaside town |
-
-### Places to Visit in Batumi
-
-**Coastal Line:** Batumi's strongest feature. Long walking path, cycling areas and green parks. City center and seafront are intertwined.
-
-**Ali and Nino Statue:** The first symbol that comes to mind when Batumi is mentioned. Although it looks very large in photos, in reality it's not as massive as you'd expect. Still worth seeing for its symbolic meaning and the area it's in. Behind it is a large Ferris wheel and wide seafront area.
-
-**Batumi Cable Car:** More organized and accessible than the one in Tbilisi. Good option for those who want to see the city from above.
-
-### The Turkish Language Reality in Batumi
-
-The number of Turkish speakers in Batumi is quite high. The reason: intense Turkish tourism, border trade and close relations with Turkey. At restaurants, shops and especially taxi drivers, the probability of meeting someone who speaks Turkish is high.
-
-### Food Issue: Why Were We More Comfortable?
-
-We were much more comfortable with food in Batumi compared to Tbilisi:
-- Options close to Turkish cuisine are plentiful
-- Cilantro usage is more limited
-- Alternatives like pizza and hamburgers are widespread
-
-**Price range:** Similar to Tbilisi, a reasonable meal between 25–50 GEL.
-
-### Tech Shopping: Tempting But Risky
-
-Phones, tablets, headphones and similar products are very common in Batumi. Prices may seem attractive compared to Turkey.
-
-**Things to watch out for:**
-- Definitely buy the product **packaged**
-- Package should not be opened until the airport (for tax free)
-- Compare prices from multiple stores
-- Request warranty certificate and invoice
-
-### Taxis: One of the Biggest Risks
-
-One of the most serious problems we had in Batumi was taxis. We encountered friendly-looking taxi drivers who played with the exchange rate and gave wrong change. In one situation, an argument broke out on the way to the airport and the problem could only be resolved when the police were called.
-
-**Clear advice for transportation in Batumi:**
-- Walk if possible — the city is small
-- If using a taxi, clarify the fee upfront in **Georgian Lari**
-- Use Bolt or Yandex app
-- Avoid paying in TL
-
-> **Day 4 Summary:** Batumi is an easy to navigate, more organized and Turkish-friendly city. Much less tiring than Tbilisi. But taxis are a serious risk.
-
----
-
-## Day 5: Return from Batumi and Final Lessons
-
-*(Airport Process, Tax Free, Pegasus Experience)*
-
-### Batumi Airport: Small But Slow
-
-Batumi Airport is not large. However, this doesn't mean processes are fast. Tax free, passport control and security move much slower than expected. If you leave things to the last minute, the risk of missing your flight is real.
-
-**How early should you arrive at the airport?** At least 2.5 hours in advance.
-
-### Tax Free Process: What You Need to Know
-
-If you made tech purchases, you need to do the tax free process.
-
-**Important details:**
-- Tax free office is **before** passport control
-- An officer is called, looks at the products, approves the documents
-- This process is not fast — don't leave it to the last moment
-- Products must be closed and packaged
-- They may pay the money in parts or different currencies — be careful
-
-### Return with Pegasus: Baggage Warning
-
-Pegasus staff are not flexible about carry-on baggage and dimensions. Especially if you bought tech products, if your carry-on is full, or if you have children, arrive at the airport early.
-
----
-
-## General Conclusion: Who Is This Trip For?
-
-**You should go to Georgia if:**
-- You want a visa-free, close and different cultural experience
-- You're looking for budget-friendly travel
-- You're curious about Caucasian cuisine
-- You want both city and nature experience
-
-**Be prepared:**
-- Get a direct Tbilisi flight, consider overland as a last resort
-- Tbilisi is hilly — comfortable shoes are essential
-- If you don't like cilantro, specify with every order
-- Install Bolt or Yandex for taxis, activate beforehand
-- Watch out for Batumi taxis — clarify the price upfront
-- Buy First Class train tickets — it makes a difference
-
----
-
-## Frequently Asked Questions
-
-**Do I need a visa to go to Georgia?**
-Turkish citizens can enter visa-free for up to 365 days.
-
-**Is Turkish Lira accepted in Georgia?**
-Accepted in some places but the exchange rate is very bad. Prefer GEL or USD/EUR.
-
-**Tbilisi or Batumi?**
-If your time is limited, Batumi is easier. If you want history and culture, Tbilisi. Ideal: both together, at least 5 days.
-
-**How is internet in Georgia?**
-Get a Magti or Geocell SIM at the airport. 4G is widespread, prices are very affordable.
-
-**What is the best area to stay in Tbilisi?**
-Old Town or around the Clock Tower. Everything within walking distance.
-
-**Are credit cards accepted in Georgia?**
-Yes at major places, but also carry cash. Especially at border areas and small restaurants, cash is essential.
-
-**How long is the flight from Istanbul to Tbilisi?**
-Approximately 2 hours.
-
-**How many hours between Tbilisi and Batumi?**
-By train ~5.5 hours. By bus ~6 hours. By plane ~45 minutes, but airports are outside the city.

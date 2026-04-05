@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 22 * * *'  # Her gece 22:00 UTC = 00:00 Almanya (kış) / 01:00 (yaz)
+    - cron: '0 1 * * *'  # Her gece 22:00 UTC = 00:00 Almanya (kış) / 01:00 (yaz)
   workflow_dispatch:       # GitHub Actions sayfasından manuel tetikleme
 
 permissions:
