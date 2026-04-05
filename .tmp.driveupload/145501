@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>München Tagesausflug Österreich on Teilen-Zentrum</title>
+    <link>http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug-%C3%B6sterreich/</link>
+    <description>Recent content in München Tagesausflug Österreich on Teilen-Zentrum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+    <lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/m%C3%BCnchen-tagesausflug-%C3%B6sterreich/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Salzburg Reiseführer | Mozarts Stadt 1,5 Stunden von München (2026)</title>
+      <link>http://localhost:1313/de/deutschland/reisen/salzburg-reisefuehrer/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/deutschland/reisen/salzburg-reisefuehrer/</guid>
+      <description>Salzburg ist 1,5 Zugstunden von München entfernt — Mozarts Geburtsstadt und die Stadt, in der Sound of Music gedreht wurde. Das Deutschlandticket bringt Sie kostenlos zur Grenze — ein paar Euro mehr und Sie sind in Österreich.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
