@@ -10,3 +10,6 @@ resources/_gen/
 *.swp
 .claude/
 urlinspection/sharehub-service-account.json
+
+# Gemini expand backups
+backups/

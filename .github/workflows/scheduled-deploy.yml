@@ -1,4 +1,4 @@
-name: Scheduled Daily Deploy
+name: Planli Daily Deploy
 
 on:
   schedule:
