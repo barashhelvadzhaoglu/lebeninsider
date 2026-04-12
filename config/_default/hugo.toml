@@ -33,3 +33,19 @@ buildFuture = false
     weight = 3
     [languages.de.params]
       displayName = "DE"
+
+  [languages.ar]
+    contentDir = "content/ar"
+    languageCode = "ar"
+    languageName = "العربية"
+    weight = 4
+    [languages.ar.params]
+      displayName = "AR"
+
+  [languages.hi]
+    contentDir = "content/hi"
+    languageCode = "hi"
+    languageName = "हिन्दी"
+    weight = 5
+    [languages.hi.params]
+      displayName = "HI"

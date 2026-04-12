@@ -1,0 +1,47 @@
+[[main]]
+  name = "होम"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "जर्मनी"
+  pageRef = "jarmani"
+  weight = 2
+
+[[main]]
+  name = "जीवन"
+  pageRef = "jarmani/jeevan"
+  parent = "जर्मनी"
+  weight = 1
+
+[[main]]
+  name = "यात्रा"
+  pageRef = "jarmani/sair"
+  parent = "जर्मनी"
+  weight = 2
+
+[[main]]
+  name = "प्रवासी गाइड"
+  pageRef = "jarmani/pravasi"
+  parent = "जर्मनी"
+  weight = 3
+
+[[main]]
+  name = "रोमांटिक रूट"
+  pageRef = "jarmani/romantic-route"
+  weight = 3
+
+[[main]]
+  name = "यात्रा गाइड"
+  pageRef = "yatra"
+  weight = 4
+
+[[main]]
+  name = "हमारे बारे में"
+  pageRef = "hamare-bare-mein"
+  weight = 5
+
+[[main]]
+  name = "संपर्क"
+  pageRef = "sampark"
+  weight = 6

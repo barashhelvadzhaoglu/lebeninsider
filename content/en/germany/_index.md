@@ -5,14 +5,44 @@ description: "Bureaucracy notes, life experiences, and travel routes from Munich
 translationKey: "germany-section"
 ---
 
-## Living and Exploring in Germany
+## Germany — Field Notes from a Network Engineer
 
-Moving to Germany is not just a change of scenery; it's a deep dive into a vast sea of bureaucracy and order. As a Network Security Engineer, I decided to deconstruct the "algorithms" of this system and share my personal journey.
+Moving to Germany is a decision. But what comes after that decision never really ends.
 
-### What to Expect Here?
+Finding a flat, renewing a driving licence, going through labour court, dealing with Jobcenter, enrolling a child in Kita, selling a car, buying another one... And somewhere in the middle of all that, taking two kids in a double stroller on day trips to Bavarian medieval towns via Deutschlandticket.
 
-* **Bureaucracy and Adaptation:** Real-life guides on exchanging driver's licenses in Munich, the rental market, and Blue Card procedures.
-* **Munich and Beyond:** Family-friendly Bavarian routes explored with a Deutschlandticket, two kids (aged 1 and 5), and our trusty double stroller.
-* **Tech and Networking:** Professional insights into the German tech industry and engineering landscape.
+This section is built from those experiences — written the way someone who actually went through it would write, not the way an official document would read.
 
-My goal is to provide honest, first-hand experiences rather than just repeating official information.
+---
+
+### Living in Germany
+
+Honest comparisons between Turkey and Germany — what surprised me in a good way, what I got wrong, and what no one tells you before you move.
+
+→ [Living in Germany](/en/germany/living/)
+
+---
+
+### Expat Guides
+
+Practical write-ups from bureaucratic processes I navigated myself: driving licence renewal, finding a flat in Munich, labour court, LPG road trips across Europe, the overland route from Istanbul.
+
+→ [Expat Guides](/en/germany/expat/)
+
+---
+
+### Travel in Bavaria
+
+The best day trips from Munich — by Deutschlandticket, with two kids and a double stroller. Regensburg, Salzburg, Ingolstadt, Romantic Road towns, and more.
+
+→ [Bavaria Travel Guides](/en/germany/travel/)
+
+---
+
+### The Romantic Road
+
+A section of its own — because five towns, one route, and a lot to say.
+
+Augsburg, Memmingen, Lindau, Füssen, Neuschwanstein — all by train, no car.
+
+→ [Romantic Road Guides](/en/germany/romantic-route/)

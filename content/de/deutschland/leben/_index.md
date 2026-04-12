@@ -5,8 +5,23 @@ description: "Persönliche Texte und ehrliche Vergleiche zwischen dem Leben in d
 translationKey: "germany-living"
 ---
 
+## Leben in Deutschland — Ehrlich und Vergleichend
+
 Nach Deutschland zu ziehen ist eine Entscheidung — aber die Entscheidung hört nie wirklich auf.
 
-Führerschein, Mietvertrag, Arbeitsgericht, Jobcenter, Krankenversicherung, Kinderbetreuung... Ich habe alles selbst erlebt. Ich habe es mit der Türkei verglichen, manches als irreführend empfunden, unerwartete Vorteile entdeckt.
+Der größte Teil der verfügbaren Inhalte über das Leben in Deutschland ist entweder eine Zusammenfassung offizieller Quellen oder durchgehend positiv. Als jemand, der aus der Türkei kommt und in München lebt, habe ich manche Dinge wirklich besser vorgefunden als erwartet — und andere deutlich bürokratischer, als mir je jemand gesagt hatte.
 
-Dieser Bereich behandelt das Leben in Deutschland so, wie es wirklich ist — nicht durch offizielle Dokumente, sondern durch die Notizen von jemandem, der es lebt.
+Die Texte in diesem Bereich schildern den Alltag so, wie er wirklich ist: was angenehm überrascht, was unerwartete Hürden bringt, und was man nur versteht, wenn man selbst schon hier ist.
+
+---
+
+### Was in diesem Bereich steht
+
+**Sharing-Kultur in Deutschland**
+Carsharing, Leihwerkzeuge, Gemeinschaftsgärten, Repair Cafés — Deutschlands Sharing-Wirtschaft im Vergleich zur Türkei. Wo sie wirklich funktioniert, und wo sie enttäuscht.
+
+---
+
+### Demnächst
+
+Krankenversicherung in der Praxis, Kindergeld und Unterstützungssysteme, Arbeitnehmerrechte in Deutschland, Türkei–Deutschland Steuervergleich. Diese Texte entstehen, wenn ich genug direkte Erfahrung gesammelt habe, um etwas Sinnvolles zu sagen — nicht nach Zeitplan.

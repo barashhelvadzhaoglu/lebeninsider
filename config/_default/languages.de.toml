@@ -16,3 +16,10 @@ title = "Teilen-Zentrum"
   dateFormat = "2. Januar 2006"
   description = "Echte Reisen, echte Fehler, echte Erfahrungen."
   author.name = "Share-Hub-EU"
+
+[params.homepage]
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "deutschland/reisen"
+  cardView = true

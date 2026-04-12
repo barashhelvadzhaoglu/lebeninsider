@@ -1,0 +1,25 @@
+languageCode = "ar"
+languageName = "العربية"
+weight = 4
+title = "مركز المشاركة"
+
+[params]
+  displayName = "AR"
+  isoCode = "ar"
+  logo = "img/sharehubeu-logo.webp"
+  homepageImage = "img/sharehubeu-hero.webp"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
+  rtl = true
+  dateFormat = "2 January 2006"
+  description = "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
+  author.name = "Share-Hub-EU"
+
+[params.homepage]
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "almaniya/siyaha"
+  cardView = true
