@@ -34,11 +34,19 @@ buildFuture = false
     [languages.de.params]
       displayName = "DE"
 
+  [languages.es]
+    contentDir = "content/es"
+    languageCode = "es"
+    languageName = "Español"
+    weight = 4
+    [languages.es.params]
+      displayName = "ES"
+
   [languages.ar]
     contentDir = "content/ar"
     languageCode = "ar"
     languageName = "العربية"
-    weight = 4
+    weight = 5
     [languages.ar.params]
       displayName = "AR"
 
@@ -46,6 +54,6 @@ buildFuture = false
     contentDir = "content/hi"
     languageCode = "hi"
     languageName = "हिन्दी"
-    weight = 5
+    weight = 6
     [languages.hi.params]
       displayName = "HI"

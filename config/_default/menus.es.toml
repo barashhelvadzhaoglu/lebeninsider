@@ -1,0 +1,32 @@
+[[main]]
+  name = "Inicio"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Alemania"
+  pageRef = "alemania"
+  weight = 2
+
+[[main]]
+  name = "Vida"
+  pageRef = "alemania/vida"
+  parent = "Alemania"
+  weight = 1
+
+[[main]]
+  name = "Viajes"
+  pageRef = "alemania/viajes"
+  parent = "Alemania"
+  weight = 2
+
+[[main]]
+  name = "Guías de Expat"
+  pageRef = "alemania/expat"
+  parent = "Alemania"
+  weight = 3
+
+[[main]]
+  name = "Ruta Romántica"
+  pageRef = "alemania/ruta-romantica"
+  weight = 3

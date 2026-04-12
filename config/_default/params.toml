@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = true
 
 replyByEmail = false
 
-mainSections = ["almanya", "seyahat", "germany", "travel", "deutschland", "reisen", "almanya/yasam", "almanya/seyahat", "almanya/expat", "germany/living", "germany/travel", "germany/expat", "deutschland/leben", "deutschland/reisen", "deutschland/expat", "almaniya", "safar", "almaniya/hayat", "almaniya/siyaha", "almaniya/muqim", "jarmani", "yatra", "jarmani/jeevan", "jarmani/sair", "jarmani/pravasi"]
+mainSections = ["almanya", "seyahat", "germany", "travel", "deutschland", "reisen", "almanya/yasam", "almanya/seyahat", "almanya/expat", "germany/living", "germany/travel", "germany/expat", "deutschland/leben", "deutschland/reisen", "deutschland/expat", "almaniya", "safar", "almaniya/hayat", "almaniya/siyaha", "almaniya/muqim", "jarmani", "yatra", "jarmani/jeevan", "jarmani/sair", "jarmani/pravasi", "alemania", "alemania/vida", "alemania/viajes", "alemania/expat", "alemania/ruta-romantica"]
 # robots = ""
 
 disableImageOptimization = false
