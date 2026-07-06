@@ -15,7 +15,7 @@ title = "LebensInsider"
   rtl = false
   dateFormat = "2 January 2006"
   description = "Viajes reales, errores reales, experiencias reales."
-  author.name = "Share-Hub-EU"
+  author.name = "LebensInsider"
 
 [params.homepage]
   showRecent = true

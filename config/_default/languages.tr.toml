@@ -15,7 +15,7 @@ title = "Paylaşım Merkezi"
   rtl = false
   dateFormat = "2 Ocak 2006"
   description = "Gerçek geziler, gerçek hatalar, gerçek deneyimler."
-  author.name = "Share-Hub-EU"
+  author.name = "LebensInsider"
 
 [params.homepage]
   showRecent = true

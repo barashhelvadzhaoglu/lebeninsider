@@ -15,7 +15,7 @@ title = "Teilen-Zentrum"
   rtl = false
   dateFormat = "2. Januar 2006"
   description = "Echte Reisen, echte Fehler, echte Erfahrungen."
-  author.name = "Share-Hub-EU"
+  author.name = "LebensInsider"
 
 [params.homepage]
   showRecent = true

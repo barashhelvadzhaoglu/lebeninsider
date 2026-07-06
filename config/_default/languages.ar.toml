@@ -15,7 +15,7 @@ title = "مركز المشاركة"
   rtl = true
   dateFormat = "2 January 2006"
   description = "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
-  author.name = "Share-Hub-EU"
+  author.name = "LebensInsider"
 
 [params.homepage]
   showRecent = true

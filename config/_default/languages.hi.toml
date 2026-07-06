@@ -15,7 +15,7 @@ title = "शेयर हब"
   rtl = false
   dateFormat = "2 January 2006"
   description = "असली यात्राएं, असली गलतियां, असली अनुभव।"
-  author.name = "Share-Hub-EU"
+  author.name = "LebensInsider"
 
 [params.homepage]
   showRecent = true
