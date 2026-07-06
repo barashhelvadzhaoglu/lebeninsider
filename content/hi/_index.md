@@ -1,5 +1,5 @@
 ---
-title: "शेयर हब"
+title: "LebensInsider"
 description: "असली यात्राएं, असली गलतियां, असली अनुभव।"
 translationKey: "home-page"
 ---

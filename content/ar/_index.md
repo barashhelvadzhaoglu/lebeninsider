@@ -1,5 +1,5 @@
 ---
-title: "مركز المشاركة"
+title: "LebensInsider"
 description: "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
 translationKey: "home-page"
 ---

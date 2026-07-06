@@ -1,7 +1,7 @@
 languageCode = "tr"
 languageName = "Türkçe"
 weight = 1
-title = "Paylaşım Merkezi"
+title = "LebensInsider"
 
 [params]
   displayName = "TR"
