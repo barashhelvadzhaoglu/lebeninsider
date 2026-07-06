@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00+01:00
 draft: false
 description: "Almanya'da köpek kültürü, eğitim, toplu taşıma kuralları ve sahiplenme süreci hakkında kişisel deneyimlerimizi paylaşıyoruz. Hayvanseverler için rehber."
 translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "AlmanyaHayvanSeverlik"
   - "AlmanyaKöpekEğitimi"

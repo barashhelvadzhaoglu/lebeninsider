@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "أدلة السفر"
 description: "لا لغة الكتيبات السياحية؛ تجارب حقيقية ومشاكل حقيقية."
 translationKey: "travel-list"

@@ -4,7 +4,7 @@ date: 2026-04-28T08:00:00+01:00
 draft: false
 description: "Als türkische Familie in Deutschland haben wir eine unerwartete Erleichterung entdeckt: die umfassende Barrierefreiheit. Wie sich das Leben mit Kinderwagen, für Senioren und Menschen mit Behinderung anfühlt – ein bewegender Vergleich zur Türkei und praktische Tipps."
 translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Deutschland"
   - "Barrierefreiheit"

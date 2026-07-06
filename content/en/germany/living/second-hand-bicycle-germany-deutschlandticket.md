@@ -4,7 +4,7 @@ date: 2026-05-07T08:00:00+01:00
 draft: false
 description: "Discover how we found affordable second-hand bikes in Germany using Kleinanzeigen and the Deutschlandticket, with essential tips for expats."
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
   - "Expats"

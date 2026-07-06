@@ -193,10 +193,10 @@ We absolutely loved our time in Sarajevo and would highly recommend it to anyone
 
 If you’re planning a trip to the Balkans, you might also be interested in our guides to other captivating destinations:
 
-*   [**Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)**](https://share-hub-eu.online/en/travel/georgia-tbilisi-batumi-travel-guide/)
-*   [**Kosovo Travel Guide | Pristina and Prizren | Visa-Free Balkan Route (2026)**](https://share-hub-eu.online/en/travel/kosovo-pristina-prizren-travel-guide/)
-*   [**Skopje Travel Guide | North Macedonia Capital | Visa-Free (2026)**](https://share-hub-eu.online/en/travel/skopje-north-macedonia-travel-guide/)
-*   [**Greece Travel Guide | Athens, Islands and Practical Tips (2026)**](https://share-hub-eu.online/en/travel/greece-athens-travel-guide/)
+*   [**Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)**](https://lebeninsider.com/en/travel/georgia-tbilisi-batumi-travel-guide/)
+*   [**Kosovo Travel Guide | Pristina and Prizren | Visa-Free Balkan Route (2026)**](https://lebeninsider.com/en/travel/kosovo-pristina-prizren-travel-guide/)
+*   [**Skopje Travel Guide | North Macedonia Capital | Visa-Free (2026)**](https://lebeninsider.com/en/travel/skopje-north-macedonia-travel-guide/)
+*   [**Greece Travel Guide | Athens, Islands and Practical Tips (2026)**](https://lebeninsider.com/en/travel/greece-athens-travel-guide/)
 
 ## Frequently Asked Questions
 

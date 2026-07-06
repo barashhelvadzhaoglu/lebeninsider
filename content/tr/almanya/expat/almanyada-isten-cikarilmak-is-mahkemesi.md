@@ -139,9 +139,9 @@ Almanya'da işten çıkarılma süreci karmaşık olabilir, ancak aşağıdaki p
 **Almanca Bilmeyenler İçin Özel Notlar:** Almanya'da bürokrasi ve hukuk dili karmaşık olabilir. Bu süreçte Almanca bilginizin yetersiz olması sizi yıldırmasın. İş mahkemesinin sağladığı ücretsiz tercüman desteği, ilk danışma için bazı avukatların verdiği "Beratungshilfe" (danışmanlık yardımı) gibi imkanlar mevcuttur. Çevrenizdeki güvendiğiniz Almanca bilen arkadaşlarınızdan veya destek gruplarından yardım istemekten çekinmeyin. Almanya'da yalnız değilsiniz.
 
 **İlgili Diğer Expat Yazıları:**
-*   Almanya'daki yeni düzeninize adapte olurken maliyetleri ve yaşamı dengelemek için [Almanya'da Kira Bulma Rehberi | Münih'te Daire Arama Gerçeği (2026)](https://share-hub-eu.online/tr/almanya/expat/almanyada-kira-bulma-rehberi/) yazımıza göz atabilirsiniz.
-*   Eğer işsizlik sürecinde ehliyetinizle ilgili bir sorun yaşarsanız, [Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği](https://share-hub-eu.online/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) yazımız size yardımcı olabilir.
-*   Almanya'da yeni bir çevre edinmek ve zor zamanlarda destek bulmak için [Almanya'da Paylaşım Kültürü | Kapı Önü Hediyeler, Kleinanzeigen ve Sessiz Toplumsal Bilinç](https://share-hub-eu.eu.online/tr/almanya/yasam/almanyada-paylasim-kulturu/) yazımızı okuyarak toplumsal hayata dair ipuçları edinebilirsiniz.
+*   Almanya'daki yeni düzeninize adapte olurken maliyetleri ve yaşamı dengelemek için [Almanya'da Kira Bulma Rehberi | Münih'te Daire Arama Gerçeği (2026)](https://lebeninsider.com/tr/almanya/expat/almanyada-kira-bulma-rehberi/) yazımıza göz atabilirsiniz.
+*   Eğer işsizlik sürecinde ehliyetinizle ilgili bir sorun yaşarsanız, [Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği](https://lebeninsider.com/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) yazımız size yardımcı olabilir.
+*   Almanya'da yeni bir çevre edinmek ve zor zamanlarda destek bulmak için [Almanya'da Paylaşım Kültürü | Kapı Önü Hediyeler, Kleinanzeigen ve Sessiz Toplumsal Bilinç](https://lebeninsider.com.online/tr/almanya/yasam/almanyada-paylasim-kulturu/) yazımızı okuyarak toplumsal hayata dair ipuçları edinebilirsiniz.
 
 ## Bizim Deneyimimiz
 

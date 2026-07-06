@@ -4,7 +4,7 @@ date: 2026-05-07T08:00:00+01:00
 draft: false
 description: "نصائح لشراء دراجة هوائية مستعملة في ألمانيا، رحلات بحث عن دراجات رخيصة بين المدن باستخدام Deutschlandticket، وإجراءات الوقاية من السرقة."
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
   - "دراجة_هوائية"

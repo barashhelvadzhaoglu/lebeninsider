@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "Tu guía exhaustiva sobre los documentos necesarios al viajar desde Alemania con niños al extranjero, incluyendo Vollmacht, pasaporte, aprobación notarial y consejos prácticos. ¡Todo lo que necesitas saber para un viaje seguro y sin estrés!"
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
   - "Viajes al Extranjero"

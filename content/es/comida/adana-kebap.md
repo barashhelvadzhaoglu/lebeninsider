@@ -4,7 +4,7 @@ date: 2026-05-22T08:00:00+01:00
 draft: false
 description: "Descubre los secretos del Adana Kebap. Su historia, cómo prepararlo, los mejores restaurantes y consejos para hacerlo en casa. Un festín culinario desde Adana, la parada gastronómica de Turquía."
 translationKey: "adana-kebap"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Cocina Turca"
   - "Adana"

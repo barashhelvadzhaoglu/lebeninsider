@@ -4,7 +4,7 @@ date: 2026-05-25T08:00:00+01:00
 draft: false
 description: "Discover the vibrant flavors of Hatay cuisine with a deep dive into its legendary Künefe and creamy Hummus. A must-read for travelers and food enthusiasts planning a trip to Turkey or seeking authentic Middle Eastern recipes. Explore origins, ingredients, recipes, and the best places to eat in Hatay and Istanbul."
 translationKey: "hatay-mutfagi-kunefe-hummus"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Turkish Cuisine"
   - "Hatay"

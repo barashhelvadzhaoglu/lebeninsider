@@ -4,7 +4,7 @@ date: 2026-05-04T08:00:00+01:00
 draft: false
 description: "Almanya'da yaşayan Türk aileler ve expatlar için bebek arabası seçimi üzerine kapsamlı bir rehber. Kişisel tecrübelerimiz, marka karşılaştırmaları ve pratik ipuçları ile doğru tercihi yapın."
 translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
   - "Expat"

@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "बच्चों के साथ जर्मनी से विदेश यात्रा करते समय आवश्यक दस्तावेज़, वोलमाक्ट (Vollmacht), पासपोर्ट, नोटरी से प्रमाणित प्रति और व्यावहारिक सुझावों पर विस्तृत गाइड। सुरक्षित और तनाव-मुक्त यात्रा के लिए आपको जो कुछ जानने की आवश्यकता है, वह सब यहाँ है!"
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी"
   - "विदेश यात्रा"

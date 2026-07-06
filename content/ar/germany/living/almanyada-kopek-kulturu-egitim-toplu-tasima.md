@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00+01:00
 draft: false
 description: "نشارككم تجاربنا الشخصية حول ثقافة الكلاب في ألمانيا، قواعد التدريب والنقل العام، وعملية التبني. دليل لمحبي الحيوانات."
 translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "حب_الحيوانات_في_ألمانيا"
   - "تدريب_الكلاب_في_ألمانيا"

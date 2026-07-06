@@ -4,7 +4,7 @@ date: 2026-05-13T08:00:00+01:00
 draft: false
 description: "Discover how the car train transforms the journey from Germany to Turkey for families. Say goodbye to long drives and hello to comfort, ease, and unforgettable memories!"
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Turkey+Travel"
   - "Germany+to+Turkey"

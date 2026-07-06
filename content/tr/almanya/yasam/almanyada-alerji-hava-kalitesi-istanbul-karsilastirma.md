@@ -4,7 +4,7 @@ date: 2026-05-19T08:00:00+01:00
 draft: false
 description: "Almanya'ya taşındıktan sonra kronik alerjilerimin mucizevi bir şekilde kayboluşunu ve Türkiye ile Almanya arasındaki hava kalitesi farklarını anlatan kişisel bir blog yazısı. Gurbetçiler için pratik bilgiler."
 translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
   - "Alerji"
@@ -29,7 +29,7 @@ tags:
   - "Migrasyon"
 ---
 
-Merhaba share-hub-eu.online okuyucuları! Bugün size Almanya'ya taşınma sürecimizde yaşadığımız en şaşırtıcı, en rahatlatıcı ve belki de en beklenmedik deneyimlerden birini anlatmak istiyorum: Yıllardır mücadele ettiğim **kronik alerjilerimin** mucizevi bir şekilde kayboluşunu. Almanya'da yaşayan bir Türk aile olarak, hem kendimizin hem de eşimin bu konudaki yaşadıkları, aslında iki ülke arasındaki **hava kalitesi** ve çevresel faktörler hakkında bize çok önemli ipuçları verdi. Hazırlanın, çünkü bu yazı sizi hem şaşırtacak hem de belki de kendi alerji hikayenizle ilgili yeni kapılar aralayacak.
+Merhaba LebensInsider okuyucuları! Bugün size Almanya'ya taşınma sürecimizde yaşadığımız en şaşırtıcı, en rahatlatıcı ve belki de en beklenmedik deneyimlerden birini anlatmak istiyorum: Yıllardır mücadele ettiğim **kronik alerjilerimin** mucizevi bir şekilde kayboluşunu. Almanya'da yaşayan bir Türk aile olarak, hem kendimizin hem de eşimin bu konudaki yaşadıkları, aslında iki ülke arasındaki **hava kalitesi** ve çevresel faktörler hakkında bize çok önemli ipuçları verdi. Hazırlanın, çünkü bu yazı sizi hem şaşırtacak hem de belki de kendi alerji hikayenizle ilgili yeni kapılar aralayacak.
 
 ### Türkiye'deki Kabusum: Alerji ile Savaşım
 

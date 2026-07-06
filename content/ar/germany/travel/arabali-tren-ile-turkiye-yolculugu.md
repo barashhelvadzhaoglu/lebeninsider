@@ -4,7 +4,7 @@ date: 2026-05-13T08:00:00+01:00
 draft: false
 description: "دليل السفر بالقطار العائلي من ألمانيا إلى تركيا: السفر المريح، التكاليف، الحجز، نصائح السفر مع الأطفال وجميع التفاصيل."
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "من+ألمانيا+إلى+تركيا"
   - "قطار+عائلي"

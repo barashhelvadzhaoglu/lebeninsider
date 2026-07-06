@@ -2,7 +2,7 @@
 title: "Romantik Rota"
 description: "Deutschlandticket ve bebek arabası ile Bavyera'nın Romantik Rotası'nda şehir şehir geziler."
 translationKey: "romantik-rota-section"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## Romantik Rota — Arabasız, Çift Arabalıklı, İki Çocukla

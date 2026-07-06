@@ -4,7 +4,7 @@ date: 2026-04-23T08:00:00+01:00
 draft: false
 description: "Araçla Avrupa'ya çıkarken yeşil sigortayı nereden almalısınız? Türkiye'den mi, sınır barakasından mı? 90 gün kuralı nedir, Sırbistan rotası neden kapanır? Bizzat yaşanan deneyimle kapsamlı rehber."
 translationKey: "yesil-sigorta-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Yeşil Sigorta"
   - "Green Card"
@@ -117,11 +117,11 @@ Toplam süre, yolculuğunuzun uzunluğuna ve duraklamalarınıza bağlıdır. An
 
 ## Pratik İpuçları
 
-1.  **Rota Planlamasını Erken Yapın:** Seyahat rotanız, yeşil sigortayı nereden alacağınızı ve dolayısıyla ne kadar ödeyeceğinizi doğrudan etkiler. Sırbistan gibi AB dışı ülkelerden geçmeyi planlıyorsanız, Türkiye'den kapsamlı sigorta almanız gerektiğini unutmayın. Romanya üzerinden geçiş yapacaksanız, Bulgaristan sınırındaki uygun fiyatlı seçenek cazip hale gelir. Bu konuda detaylı bilgi için: [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](https://share-hub-eu.online/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/)
+1.  **Rota Planlamasını Erken Yapın:** Seyahat rotanız, yeşil sigortayı nereden alacağınızı ve dolayısıyla ne kadar ödeyeceğinizi doğrudan etkiler. Sırbistan gibi AB dışı ülkelerden geçmeyi planlıyorsanız, Türkiye'den kapsamlı sigorta almanız gerektiğini unutmayın. Romanya üzerinden geçiş yapacaksanız, Bulgaristan sınırındaki uygun fiyatlı seçenek cazip hale gelir. Bu konuda detaylı bilgi için: [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/)
 2.  **Poliçenizi Kontrol Edin ve Okuyun:** Sigorta poliçesini teslim aldığınızda, üzerindeki bilgilerin (plaka, şasi, geçerlilik tarihi) doğru olduğundan ve özellikle **hangi ülkeleri kapsadığını belirten listenin** net olduğundan emin olun. Özellikle Bulgaristan'dan alıyorsanız, "AB ülkelerini kapsar" ifadesinin tam olarak ne anlama geldiğini sorun.
 3.  **Nakit Euro Bulundurun:** Bulgaristan sınırındaki sigorta büroları genellikle nakit Euro ödemeyi tercih eder. Yanınızda yeterli miktarda (45-50 Euro civarı) bozuk para dahil nakit Euro bulundurmak, süreci hızlandırır ve kur farkı/komisyon mağduriyetini engeller.
 4.  **Dijital ve Fiziksel Kopyalar:** Yeşil sigorta poliçenizin hem fiziksel olarak kolay ulaşılabilir bir yerde (torpido gözü) hem de dijital olarak telefonunuzda (fotoğraf veya PDF) bulunduğuğundan emin olun. Böylece bir kayıp durumunda veya acil durumda yedek bir kopyanız olur.
-5.  **90 Gün Kuralı ve Ehliyet İlişkisi:** Yeşil sigorta genellikle 90 gün geçerlilik süresi sunar. Bu süre, aracınızın AB'de yasal olarak kalabileceği maksimum süreyi ifade eder. Ancak unutmayın ki, **Türk ehliyetinizin Almanya'daki geçerlilik süresi de ülkeye giriş tarihinizden itibaren 6 aydır.** Sigorta süreniz ile ehliyetinizin geçerlilik süresini eş zamanlı takip etmeli ve hangisi önce doluyorsa ona göre plan yapmalısınız. Aksi takdirde, yasal olmayan bir şekilde araç kullanmış olursunuz. Bu konuda daha detaylı bilgi için: [Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği](https://share-hub-eu.online/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/)
+5.  **90 Gün Kuralı ve Ehliyet İlişkisi:** Yeşil sigorta genellikle 90 gün geçerlilik süresi sunar. Bu süre, aracınızın AB'de yasal olarak kalabileceği maksimum süreyi ifade eder. Ancak unutmayın ki, **Türk ehliyetinizin Almanya'daki geçerlilik süresi de ülkeye giriş tarihinizden itibaren 6 aydır.** Sigorta süreniz ile ehliyetinizin geçerlilik süresini eş zamanlı takip etmeli ve hangisi önce doluyorsa ona göre plan yapmalısınız. Aksi takdirde, yasal olmayan bir şekilde araç kullanmış olursunuz. Bu konuda daha detaylı bilgi için: [Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği](https://lebeninsider.com/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/)
 6.  **Sık Yapılan Hatalar:**
     *   **"Nasıl olsa geçer" düşüncesiyle sigortasız yola çıkmak:** Asla yapmayın! Ceza ve riskleri çok yüksektir.
     *   **Poliçeyi kontrol etmeden almak:** Kapsam veya bilgilerdeki hata tüm yolculuğunuzu riske atabilir.
@@ -170,4 +170,4 @@ Hayır, yeşil sigorta sadece karşı tarafın hasarını karşılar. Kendi arac
 Almanya'ya yerleştikten sonra aracınızın plakasını mümkün olan en kısa sürede Almanya plakasına dönüştürmeniz gerekmektedir. Türk ehliyetiniz gibi, Türk plakalı aracınızın da Almanya'da belirli bir süre (genellikle 6 ay veya 1 yıl) yasal kullanım süresi vardır. Süre dolmadan **KFZ-Zulassungsstelle** (Araç Tescil Dairesi) ile iletişime geçmelisiniz.
 
 **10. Schengen vizesi ile yeşil sigortanın bir ilişkisi var mı?**
-Doğrudan bir ilişkisi yoktur. Schengen vizesi sizin kişisel olarak Avrupa'ya giriş izninizle ilgilidir, yeşil sigorta ise aracınızın yasal olarak Avrupa'da bulunma izniyle. Ancak vize ve sigorta sürelerinin birbirini tutması, sorunsuz bir seyahat için önemlidir. Schengen vizesi süreci için: [Schengen Vizesi Alma Süreci (2026) | Kozmos, Randevu ve Gerçek Deneyimler](https://share-hub-eu.online/tr/seyahat/schengen-vizesi-alma-sureci/)
+Doğrudan bir ilişkisi yoktur. Schengen vizesi sizin kişisel olarak Avrupa'ya giriş izninizle ilgilidir, yeşil sigorta ise aracınızın yasal olarak Avrupa'da bulunma izniyle. Ancak vize ve sigorta sürelerinin birbirini tutması, sorunsuz bir seyahat için önemlidir. Schengen vizesi süreci için: [Schengen Vizesi Alma Süreci (2026) | Kozmos, Randevu ve Gerçek Deneyimler](https://lebeninsider.com/tr/seyahat/schengen-vizesi-alma-sureci/)

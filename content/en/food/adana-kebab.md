@@ -4,7 +4,7 @@ date: 2026-05-22T08:00:00+01:00
 draft: false
 description: "Discover Adana Kebap, Turkey's iconic spicy grilled meat skewer. Explore its history, authentic recipe, best dining spots in Adana and Istanbul, and how to enjoy it at home or abroad."
 translationKey: "adana-kebap"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Turkish Cuisine"
   - "Adana"

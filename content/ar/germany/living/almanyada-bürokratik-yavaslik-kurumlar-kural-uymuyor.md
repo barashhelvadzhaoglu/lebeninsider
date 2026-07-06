@@ -4,7 +4,7 @@ date: 2026-05-16T08:00:00+01:00
 draft: false
 description: "دليل مليء بتجاربنا الشخصية حول البطء البيروقراطي الذي عانينا منه في ألمانيا، وعدم التزام المؤسسات بالقواعد، وفترات الانتظار الطويلة. معلومات عملية للعائلات التركية."
 translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "الحياة في ألمانيا"
   - "البيروقراطية الألمانية"

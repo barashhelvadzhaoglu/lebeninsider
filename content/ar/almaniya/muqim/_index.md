@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "دليل المغترب"
 description: "أدلة عملية للانتقال إلى ألمانيا — التأشيرة، السكن، رخصة القيادة والمزيد."
 translationKey: "germany-expat"

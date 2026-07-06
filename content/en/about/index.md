@@ -2,7 +2,7 @@
 title: "About"
 description: "A Network Security Engineer, father of two, and reluctant bureaucracy expert living in Munich. Why Share Hub exists and what you'll find here."
 translationKey: "about-page"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## About Share Hub EU and My Expat Journey
@@ -23,47 +23,47 @@ Share Hub EU is structured around several key themes, each designed to address a
 Moving to a new country, especially one known for its meticulous administration like Germany, can be daunting. This pillar focuses on demystifying the essential bureaucratic processes and practicalities of daily life. I cover everything from registering your address to understanding the healthcare system, always from the perspective of someone who has personally gone through it. Forget vague advice; here you'll find step-by-step breakdowns, common pitfalls, and the specific documents that often cause headaches.
 For instance, the process of exchanging a foreign driving license is notoriously complex. I delve into the specifics, sharing my journey with Turkish and Bulgarian licenses and highlighting the unexpected hurdles. My personal experience with the German labor court after being fired is another prime example of the kind of honest, detailed accounts you'll find.
 **Relevant Articles:**
-*   [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://share-hub-eu.online/en/germany/expat/driving-license-renewal-germany/)
-*   [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://share-hub-eu.online/en/germany/expat/bulgarian-license-valid-in-germany/)
-*   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/)
-*   [Being Fired in Germany: My Labor Court Experience and What You Need to Know](https://share-hub-eu.online/en/germany/expat/fired-in-germany-labor-court/)
+*   [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://lebeninsider.com/en/germany/expat/driving-license-renewal-germany/)
+*   [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://lebeninsider.com/en/germany/expat/bulgarian-license-valid-in-germany/)
+*   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
+*   [Being Fired in Germany: My Labor Court Experience and What You Need to Know](https://lebeninsider.com/en/germany/expat/fired-in-germany-labor-court/)
 
 ### Life in Germany: A Turkish-German Perspective
 Having grown up in Turkey and now living in Germany, I offer a unique bicultural lens through which to compare and contrast daily life. This section goes beyond mere facts, exploring the cultural nuances, social norms, and everyday experiences that shape life in both countries. From the education system to family values, work-life balance to social interactions, these articles provide an honest look at the similarities and differences, helping you understand what it truly means to integrate into German society.
 We explore aspects like the healthcare system, childcare, shopping habits, and even the subtle role of trust in German society. My aim is to paint a vivid picture, sharing observations about everything from the rhythm of daily errands to the challenges and rewards of making friends in a new cultural environment.
 **Relevant Articles:**
-*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/)
-*   [Growing Up Between Two Cultures: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/bicultural-kids-turkey-vs-germany/)
-*   [Quality of Life and Happiness: The Final Verdict](https://share-hub-eu.online/en/germany/living/quality-of-life-final-verdict/)
-*   [Trust as a Way of Life: What Germany Taught Me About Believing in People](https://share-hub-eu.online/en/germany/living/trust-in-germany/)
-*   [Social Life and Making Friends: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/social-life-turkey-vs-germany/)
+*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/)
+*   [Growing Up Between Two Cultures: Turkey vs Germany](https://lebeninsider.com/en/germany/living/bicultural-kids-turkey-vs-germany/)
+*   [Quality of Life and Happiness: The Final Verdict](https://lebeninsider.com/en/germany/living/quality-of-life-final-verdict/)
+*   [Trust as a Way of Life: What Germany Taught Me About Believing in People](https://lebeninsider.com/en/germany/living/trust-in-germany/)
+*   [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/)
 
 ### Exploring European Expat Destinations
 My journey to Germany involved extensive research into several European countries. This pillar shares those insights, comparing potential expat destinations like the Netherlands, Luxembourg, and Germany. I delve into the pros and cons of each, considering factors like job markets, cost of living, quality of life, and cultural fit. My personal experiences, including job interviews and extensive fact-finding in all three nations, provide a grounded perspective on which country might be the best fit for different individuals or families.
 This "EU Series" is designed to equip you with the knowledge to make an informed decision about your next big move, saving you countless hours of research by sharing my own intensive comparative analysis.
 **Relevant Articles:**
-*   [Working and Living in the Netherlands: What I Learned Before Moving](https://share-hub-eu.online/en/germany/expat/eu-series-01-netherlands/)
-*   [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://share-hub-eu.online/en/germany/expat/eu-series-02-luxembourg/)
-*   [Netherlands vs Luxembourg vs Germany: Why I Chose Germany](https://share-hub-eu.online/en/germany/expat/eu-series-03-comparison-why-germany/)
-*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://share-hub-eu.online/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+*   [Working and Living in the Netherlands: What I Learned Before Moving](https://lebeninsider.com/en/germany/expat/eu-series-01-netherlands/)
+*   [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://lebeninsider.com/en/germany/expat/eu-series-02-luxembourg/)
+*   [Netherlands vs Luxembourg vs Germany: Why I Chose Germany](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/)
+*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
 
 ### Practical Travel Guides & Family Adventures
 Travel is an integral part of the expat experience, whether it's exploring your new home country or venturing further afield. This section features detailed travel guides, with a particular focus on family-friendly adventures. From discovering charming German towns accessible with the **Deutschlandticket** ([Google Maps](https://www.google.com/maps/search/Deutschlandticket)), to exploring the rich history of the Balkans or the vibrant cultures of the Caucasus, I share practical tips, itinerary suggestions, and insights into what makes a destination ideal for families.
 You'll find honest assessments of accessibility – yes, that double stroller features heavily – and recommendations for making travel with children enjoyable. These guides aim to inspire your next adventure while equipping you with all the practical information you need.
 **Relevant Articles:**
-*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/)
-*   [Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)](https://share-hub-eu.online/en/travel/bosnia-sarajevo-travel-guide/)
-*   [Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)](https://share-hub-eu.online/en/travel/georgia-tbilisi-batumi-travel-guide/)
-*   [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://share-hub-eu.online/en/travel/how-to-find-cheap-flights/)
-*   [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://share-hub-eu.online/en/travel/how-to-get-schengen-visa/)
+*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/)
+*   [Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)](https://lebeninsider.com/en/travel/bosnia-sarajevo-travel-guide/)
+*   [Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)](https://lebeninsider.com/en/travel/georgia-tbilisi-batumi-travel-guide/)
+*   [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://lebeninsider.com/en/travel/how-to-find-cheap-flights/)
+*   [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/)
 
 ### Expat Identity & Personal Reflections
 Beyond the practicalities, the expat journey is deeply personal. This pillar delves into the emotional, psychological, and cultural aspects of living abroad. It explores themes of identity, belonging, and the unique experience of growing up or living between multiple cultures. I share reflections on why I chose to leave Turkey, the challenges and rewards of living as a Turkish and Muslim individual in Germany, and the ongoing process of navigating a bicultural identity.
 These articles are an invitation to reflect on your own journey, offering solidarity and insights into the deeper impacts of international migration. They are about the constant evolution of self that comes with embracing a new home while honoring your roots.
 **Relevant Articles:**
-*   [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/)
-*   [Being Turkish and Muslim in Germany: What It Is Actually Like](https://share-hub-eu.online/en/germany/living/turkish-muslim-identity-germany/)
-*   [The Language Barrier: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/language-barrier-turkey-vs-germany/)
+*   [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/)
+*   [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/)
+*   [The Language Barrier: Turkey vs Germany](https://lebeninsider.com/en/germany/living/language-barrier-turkey-vs-germany/)
 
 ## Your Expat Survival Kit: Key Topics at a Glance
 
@@ -71,12 +71,12 @@ Navigating life as an expat can feel like assembling a complex puzzle. To help y
 
 | Expat Challenge | How Share Hub EU Helps | Key Resources (Internal Links) |
 |---|---|---|
-| **Navigating Visas & Permits** | Real-life experiences with applications, common pitfalls, and specific documentation requirements. | [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://share-hub-eu.online/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/), [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://share-hub-eu.online/en/travel/how-to-get-schengen-visa/) |
-| **Understanding Driving Licenses** | Detailed breakdown of foreign license validity, exchange processes, and crucial legal distinctions. | [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://share-hub-eu.online/en/germany/expat/driving-license-renewal-germany/), [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://share-hub-eu.online/en/germany/expat/bulgarian-license-valid-in-germany/) |
-| **Securing Housing** | Practical advice, honest reality checks on the competitive German rental market, and search strategies. | [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/), [Housing and Renting: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/housing-turkey-vs-germany/) |
-| **Adapting to Work Culture** | Insights into German work-life balance, legal rights as an employee, and managing workplace challenges. | [Work Life and Work-Life Balance: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/work-life-turkey-vs-germany/), [Being Fired in Germany: My Labor Court Experience and What You Need to Know](https://share-hub-eu.online/en/germany/expat/fired-in-germany-labor-court/) |
-| **Cultural Integration** | Comprehensive comparisons across various aspects of daily life, offering strategies for smoother integration and understanding. | [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/), [Social Life and Making Friends: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/social-life-turkey-vs-germany/) |
-| **Family & Childcare** | Guidance on navigating the Kita (childcare) system, primary schools, and the unique aspects of raising bicultural children. | [Childcare and the Kita System: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/kita-childcare-turkey-vs-germany/), [Primary School: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/primary-school-turkey-vs-germany/) |
+| **Navigating Visas & Permits** | Real-life experiences with applications, common pitfalls, and specific documentation requirements. | [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/), [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/) |
+| **Understanding Driving Licenses** | Detailed breakdown of foreign license validity, exchange processes, and crucial legal distinctions. | [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://lebeninsider.com/en/germany/expat/driving-license-renewal-germany/), [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://lebeninsider.com/en/germany/expat/bulgarian-license-valid-in-germany/) |
+| **Securing Housing** | Practical advice, honest reality checks on the competitive German rental market, and search strategies. | [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/), [Housing and Renting: Turkey vs Germany](https://lebeninsider.com/en/germany/living/housing-turkey-vs-germany/) |
+| **Adapting to Work Culture** | Insights into German work-life balance, legal rights as an employee, and managing workplace challenges. | [Work Life and Work-Life Balance: Turkey vs Germany](https://lebeninsider.com/en/germany/living/work-life-turkey-vs-germany/), [Being Fired in Germany: My Labor Court Experience and What You Need to Know](https://lebeninsider.com/en/germany/expat/fired-in-germany-labor-court/) |
+| **Cultural Integration** | Comprehensive comparisons across various aspects of daily life, offering strategies for smoother integration and understanding. | [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/), [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/) |
+| **Family & Childcare** | Guidance on navigating the Kita (childcare) system, primary schools, and the unique aspects of raising bicultural children. | [Childcare and the Kita System: Turkey vs Germany](https://lebeninsider.com/en/germany/living/kita-childcare-turkey-vs-germany/), [Primary School: Turkey vs Germany](https://lebeninsider.com/en/germany/living/primary-school-turkey-vs-germany/) |
 
 ## Building Your Life in a New Land: Community & Support
 
@@ -84,15 +84,15 @@ Moving to a new country is not just about paperwork and jobs; it's about buildin
 
 ### Finding Your Community
 One of the biggest challenges for expats is establishing a social circle and feeling connected. My experience has taught me that actively seeking out communities – whether through language exchange groups, expat forums, local clubs, or even simply school events for children – is vital. The initial phase can feel isolating, but understanding the local social dynamics and being open to new experiences can significantly enrich your life abroad. I share personal reflections on the differences in social interaction between Turkey and Germany, and practical tips for building meaningful connections. It’s about being proactive and persistent, even when it feels like climbing a social mountain.
-**Relevant Article:** [Social Life and Making Friends: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/social-life-turkey-vs-germany/)
+**Relevant Article:** [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/)
 
 ### Overcoming the Language Barrier
 Language is often the first and most persistent barrier for many expats. While English is widely spoken in professional settings, truly integrating into German society requires embracing the German language. I discuss the initial struggles, the humorous misunderstandings, and the ultimate rewards of pushing past the discomfort. Beyond formal classes, I advocate for immersion through daily interactions, media, and even just observing how locals communicate. The journey to fluency is long, but every small step contributes to a greater sense of autonomy and connection.
-**Relevant Article:** [The Language Barrier: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/language-barrier-turkey-vs-germany/)
+**Relevant Article:** [The Language Barrier: Turkey vs Germany](https://lebeninsider.com/en/germany/living/language-barrier-turkey-vs-germany/)
 
 ### Embracing Cultural Differences
 The cultural landscape of a new country is often a mosaic of familiar and unfamiliar elements. From understanding the importance of punctuality in Germany to navigating the nuances of direct communication, every day presents opportunities for learning and adaptation. As someone from a bicultural background, I share insights into the delicate balance of preserving one's heritage while embracing the customs of a new home. This includes reflections on identity, such as being Turkish and Muslim in Germany, and how these aspects interact with the broader society. It’s a continuous journey of understanding, respecting, and integrating.
-**Relevant Article:** [Being Turkish and Muslim in Germany: What It Is Actually Like](https://share-hub-eu.online/en/germany/living/turkish-muslim-identity-germany/)
+**Relevant Article:** [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/)
 
 ## My Global Footprint: The Journeys Behind the Advice
 
@@ -109,11 +109,11 @@ My experiences also extend to the logistical side of international movement, fro
 | Destination/Topic | Focus | Key Takeaway for Expats/Travelers |
 |---|---|---|
 | **Netherlands, Luxembourg, Germany** | Expat destination comparison, job markets, quality of life. | Each country offers distinct advantages; thorough research aligned with your personal and professional priorities is key. |
-| **Balkan Countries (e.g., [Bosnia Herzegovina Sarajevo](https://share-hub-eu.online/en/travel/bosnia-sarajevo-travel-guide/), [Kosovo Pristina and Prizren](https://share-hub-eu.online/en/travel/kosovo-pristina-prizren-travel-guide/), [Skopje North Macedonia](https://share-hub-eu.online/en/travel/skopje-north-macedonia-travel-guide/))** | Visa-free travel from Turkey/Bulgaria, budget-friendly exploration, rich history. | Europe's hidden gems offer diverse cultures, deep history, and incredible value without requiring extensive visa procedures. |
-| **[Munich Day Trips with Deutschlandticket](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/)** | Family travel, budget exploration within Germany, local transport. | Germany's efficient public transport system, especially with the Deutschlandticket, makes local exploration with kids easy and affordable. |
-| **[Finding Cheap Flights](https://share-hub-eu.online/en/travel/how-to-find-cheap-flights/)** | Travel hacking strategies, utilizing specific search engines and tactics. | Strategic planning, flexibility with dates, and leveraging tools like Google Flights can significantly reduce international travel costs. |
-| **[Schengen Visa Application](https://share-hub-eu.online/en/travel/how-to-get-schengen-visa/)** | Bureaucratic navigation, meticulous documentation, appointment challenges. | Patience, detailed preparation, and understanding country-specific application procedures are crucial for successful visa applications. |
-| **Switzerland (e.g., [Basel](https://share-hub-eu.online/en/travel/switzerland-basel-3-countries-guide/), [Zurich](https://share-hub-eu.online/en/travel/switzerland-zurich-travel-guide/))** | City exploration, multi-country experience, budget considerations. | Switzerland offers breathtaking landscapes and efficient cities, but requires careful budget planning and smart transport choices. |
+| **Balkan Countries (e.g., [Bosnia Herzegovina Sarajevo](https://lebeninsider.com/en/travel/bosnia-sarajevo-travel-guide/), [Kosovo Pristina and Prizren](https://lebeninsider.com/en/travel/kosovo-pristina-prizren-travel-guide/), [Skopje North Macedonia](https://lebeninsider.com/en/travel/skopje-north-macedonia-travel-guide/))** | Visa-free travel from Turkey/Bulgaria, budget-friendly exploration, rich history. | Europe's hidden gems offer diverse cultures, deep history, and incredible value without requiring extensive visa procedures. |
+| **[Munich Day Trips with Deutschlandticket](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/)** | Family travel, budget exploration within Germany, local transport. | Germany's efficient public transport system, especially with the Deutschlandticket, makes local exploration with kids easy and affordable. |
+| **[Finding Cheap Flights](https://lebeninsider.com/en/travel/how-to-find-cheap-flights/)** | Travel hacking strategies, utilizing specific search engines and tactics. | Strategic planning, flexibility with dates, and leveraging tools like Google Flights can significantly reduce international travel costs. |
+| **[Schengen Visa Application](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/)** | Bureaucratic navigation, meticulous documentation, appointment challenges. | Patience, detailed preparation, and understanding country-specific application procedures are crucial for successful visa applications. |
+| **Switzerland (e.g., [Basel](https://lebeninsider.com/en/travel/switzerland-basel-3-countries-guide/), [Zurich](https://lebeninsider.com/en/travel/switzerland-zurich-travel-guide/))** | City exploration, multi-country experience, budget considerations. | Switzerland offers breathtaking landscapes and efficient cities, but requires careful budget planning and smart transport choices. |
 
 ## Our Experience
 
@@ -127,7 +127,7 @@ Living in Munich with my family significantly influences the content I produce. 
 
 Ultimately, my vision for Share Hub EU is to be more than just a blog; it's a community, a shared space for connection and mutual support. It's a place where you can find honest guidance, feel understood, and perhaps even laugh at the absurdities of expat life. I believe that by sharing our collective experiences, we can make the journey for future expats smoother, less stressful, and ultimately more rewarding.
 
-Have a question or want to share your experience? I genuinely value your insights and engagement. Please don't hesitate to reach out via our [Contact page](https://share-hub-eu.online/en/contact/). Together, we can build an even richer hub of knowledge and support.
+Have a question or want to share your experience? I genuinely value your insights and engagement. Please don't hesitate to reach out via our [Contact page](https://lebeninsider.com/en/contact/). Together, we can build an even richer hub of knowledge and support.
 
 ## Frequently Asked Questions
 
@@ -152,4 +152,4 @@ A: Absolutely! While my background offers a unique Turkish-German comparative pe
 A: My experiences as a father of two children significantly shape the content. You'll find practical advice on childcare (e.g., the Kita system), schooling, and work-life balance in Germany. Our travel guides often include specific insights into accessibility for strollers, child-friendly activities, and tips for making family travel enjoyable and smooth.
 
 **Q: How can I contribute, ask a specific question, or share my own experience?**
-A: I welcome engagement from readers! If you have a question, want to share your own expat experience, or have suggestions for future topics, please use the [Contact page](https://share-hub-eu.online/en/contact/) to reach out. I value every interaction and believe in building a supportive community.
+A: I welcome engagement from readers! If you have a question, want to share your own expat experience, or have suggestions for future topics, please use the [Contact page](https://lebeninsider.com/en/contact/) to reach out. I value every interaction and believe in building a supportive community.

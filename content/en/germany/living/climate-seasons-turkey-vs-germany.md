@@ -137,9 +137,9 @@ My relationship with the weather has fundamentally changed. In Turkey, weather w
 For anyone considering a move, especially from a warmer climate like Turkey to Germany, my advice is to be prepared for the seasonal shift. Embrace it, find activities that suit each season, and understand that the grey months are temporary. The beauty of the German landscape and the vibrant life of cities like Munich are well worth navigating the challenges of the climate.
 
 If you're interested in other comparisons between living in Turkey and Germany, you might find these articles helpful:
-*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/)
-*   [Quality of Life and Happiness: The Final Verdict](https://share-hub-eu.online/en/germany/living/quality-of-life-final-verdict/)
-*   [Food and Eating Out: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/food-turkey-vs-germany/)
+*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/)
+*   [Quality of Life and Happiness: The Final Verdict](https://lebeninsider.com/en/germany/living/quality-of-life-final-verdict/)
+*   [Food and Eating Out: Turkey vs Germany](https://lebeninsider.com/en/germany/living/food-turkey-vs-germany/)
 
 ## Frequently Asked Questions
 

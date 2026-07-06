@@ -4,7 +4,7 @@ date: 2026-05-07T08:00:00+01:00
 draft: false
 description: "Almanya'da ikinci el bisiklet almak mı istiyorsunuz? Deutschlandticket ile uzak şehirlerdeki ucuz bisikletleri nasıl bulduğumuzu ve nelere dikkat ettiğimizi öğrenin. Hırsızlığa karşı ipuçları ve daha fazlası!"
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Fahrradkauf"
   - "SecondHand"

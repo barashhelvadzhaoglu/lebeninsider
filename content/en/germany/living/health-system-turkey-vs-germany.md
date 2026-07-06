@@ -15,7 +15,7 @@ featureimage: "img/living/health.webp"
 
 ## Health System: Turkey vs Germany - An In-Depth Expat Comparison
 
-*From the immediacy of walking into any hospital in Turkey to the meticulously structured, yet often lengthy, specialist appointments in Germany, this is a deep dive into what truly changes when you move your health to a new country. As a seasoned expat and blogger for share-hub-eu.online, I've navigated both systems, and the differences are profound.*
+*From the immediacy of walking into any hospital in Turkey to the meticulously structured, yet often lengthy, specialist appointments in Germany, this is a deep dive into what truly changes when you move your health to a new country. As a seasoned expat and blogger for lebeninsider.com, I've navigated both systems, and the differences are profound.*
 
 ---
 
@@ -67,7 +67,7 @@ Ultimately, for managing serious illnesses and ensuring long-term health securit
 
 ---
 
-*This article is part of the extensive [Turkey vs Germany: An Honest Comparison After Making the Move](#) series, where we explore various facets of life and culture in both countries. For more insights into expat life, check out our [About](https://share-hub-eu.online/en/about/) page and feel free to [Contact](https://share-hub-eu.online/en/contact/) us with your questions.*
+*This article is part of the extensive [Turkey vs Germany: An Honest Comparison After Making the Move](#) series, where we explore various facets of life and culture in both countries. For more insights into expat life, check out our [About](https://lebeninsider.com/en/about/) page and feel free to [Contact](https://lebeninsider.com/en/contact/) us with your questions.*
 
 ---
 
@@ -89,7 +89,7 @@ Ultimately, for managing serious illnesses and ensuring long-term health securit
     The GKV contribution is currently around 14.6% of your gross salary, capped at a certain income level. This contribution is split roughly 50/50 between you and your employer. For example, if your salary is €3,000 gross per month, your share would be approximately €219 per month. This premium covers you and your non-earning dependents.
 
 6.  **Can I continue using my Bulgarian or Turkish driving license in Germany, or do I need to exchange it?**
-    This is a common question for expats! For driving licenses from EU/EEA countries like Bulgaria, they are generally valid in Germany indefinitely. However, for non-EU licenses, such as Turkish ones, there are specific rules. You can usually drive with your Turkish license for the first six months after registering your residence in Germany. After that period, you will likely need to exchange it for a German license. This process often involves passing a German driving test. You can find more detailed information on our articles covering [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://share-hub-eu.online/en/germany/expat/driving-license-renewal-germany/) and [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://share-hub-eu.online/en/germany/expat/bulgarian-license-valid-in-germany/).
+    This is a common question for expats! For driving licenses from EU/EEA countries like Bulgaria, they are generally valid in Germany indefinitely. However, for non-EU licenses, such as Turkish ones, there are specific rules. You can usually drive with your Turkish license for the first six months after registering your residence in Germany. After that period, you will likely need to exchange it for a German license. This process often involves passing a German driving test. You can find more detailed information on our articles covering [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://lebeninsider.com/en/germany/expat/driving-license-renewal-germany/) and [Can You Drive in Germany with a Bulgarian License? | Turkish→Bulgarian Transfer Reality (2026)](https://lebeninsider.com/en/germany/expat/bulgarian-license-valid-in-germany/).
 
 7.  **What are the best times of year to visit Germany, considering weather and crowds?**
     For pleasant weather and fewer crowds, consider the shoulder seasons: **Spring (April-May)** brings blooming landscapes and mild temperatures, perfect for city exploration and outdoor activities. **Autumn (September-October)** offers beautiful fall foliage, crisp air, and harvest festivals. Summer (June-August) is popular for its warmth and longer daylight hours, ideal for outdoor adventures but also the busiest and most expensive time. Winter (November-March) is magical with Christmas markets but can be cold and damp, though it's a great time for cosy city breaks and skiing in the Alps.

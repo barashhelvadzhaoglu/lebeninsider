@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "Reiseführer"
 description: "Keine Tourismusbroschüren-Sprache; echte Erfahrungen und echte Probleme."
 translationKey: "travel-list"

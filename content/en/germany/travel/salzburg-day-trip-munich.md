@@ -205,10 +205,10 @@ Our trip to Salzburg was a perfect day trip from Munich, easily achievable and i
 
 **Related Articles:**
 
-*   For planning your travel within Germany and exploring more of Bavaria, check out our guide to [Deutschlandticket Day Trips from Munich](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/).
-*   If you're considering other nearby Austrian gems, our guide to [Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich](https://share-hub-eu.online/en/germany/travel/salzburg-day-trip-munich/) provides more in-depth information.
-*   For a journey through the picturesque Bavarian Alps, our [Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein](https://share-hub-eu.online/en/germany/romantic-route/fuessen-town-travel-guide/) is a must-read.
-*   Discover the charming island city on Lake Constance in our [Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich](https://share-hub-eu.online/en/germany/romantic-route/lindau-lake-constance-travel-guide/).
+*   For planning your travel within Germany and exploring more of Bavaria, check out our guide to [Deutschlandticket Day Trips from Munich](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/).
+*   If you're considering other nearby Austrian gems, our guide to [Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich](https://lebeninsider.com/en/germany/travel/salzburg-day-trip-munich/) provides more in-depth information.
+*   For a journey through the picturesque Bavarian Alps, our [Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein](https://lebeninsider.com/en/germany/romantic-route/fuessen-town-travel-guide/) is a must-read.
+*   Discover the charming island city on Lake Constance in our [Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich](https://lebeninsider.com/en/germany/romantic-route/lindau-lake-constance-travel-guide/).
 
 ## Frequently Asked Questions
 

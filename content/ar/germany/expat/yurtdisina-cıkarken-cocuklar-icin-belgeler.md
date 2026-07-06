@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "دليلك الشامل للأوراق المطلوبة عند السفر خارج ألمانيا مع الأطفال، بما في ذلك خطاب التفويض (Vollmacht)، جواز السفر، تصديق كاتب العدل، ونصائح عملية. كل ما تحتاج معرفته لرحلة آمنة وخالية من التوتر!"
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
   - "السفر الدولي"

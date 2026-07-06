@@ -4,7 +4,7 @@ date: 2026-05-25T08:00:00+01:00
 draft: false
 description: "Entdecken Sie die reiche Küche Hatays mit unserem Guide zu Künefe und Hummus. Von historischen Wurzeln bis zu den besten Restaurants in Hatay und Istanbul – ein Fest für Feinschmecker!"
 translationKey: "hatay-mutfagi-kunefe-hummus"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Türkische Küche"
   - "Hatay"

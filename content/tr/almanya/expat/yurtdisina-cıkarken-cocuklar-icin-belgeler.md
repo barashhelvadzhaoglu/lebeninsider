@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "Almanya'dan çocuklarla yurtdışına seyahat ederken gerekli belgeler, Vollmacht, pasaport, noter onayı ve pratik ipuçlarını içeren kapsamlı rehberiniz. Güvenli ve stressiz seyahat için bilmeniz gereken her şey burada!"
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
   - "Yurtdışı Seyahat"

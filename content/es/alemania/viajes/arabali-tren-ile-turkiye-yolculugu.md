@@ -4,7 +4,7 @@ date: 2026-05-13T08:00:00+01:00
 draft: false
 description: "Guía de viaje en tren coche de Alemania a Turquía: viaje cómodo, costes, reserva, consejos para viajar con niños y todos los detalles."
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "De+Alemania+a+Turquía"
   - "Tren+Coche"

@@ -4,7 +4,7 @@ date: 2026-04-25T08:00:00+01:00
 draft: false
 description: "Türkiye'de üretilen LPG'li araçla Avrupa'ya çıkıyorsanız bilmeniz gereken her şey: DISH, ACME, Bayonet başlık tipleri, ülkelere göre fiyatlar ve bizzat yaşanan Honda Civic deneyimi."
 translationKey: "avrupa-lpg-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LPG"
   - "Avrupa LPG"
@@ -32,7 +32,7 @@ Türkiye'de LPG doldurmak ne kadar kolaysa, Avrupa'nın bazı bölgelerinde o ka
 
 **Nerede:** Yolculuğunuza başlamadan önce, rotanız üzerindeki LPG istasyonlarını gösteren haritalama uygulamalarını veya web sitelerini kullanın. Ben genellikle **LPG.eu** gibi siteleri veya navigasyon uygulamalarındaki "LPG istasyonu" filtrelerini kullanmanızı şiddetle tavsiye ederim. Her şehirde, hatta her otoban üzerinde LPG istasyonu bulmak mümkün olmayabilir. Özellikle Almanya'da LPG istasyonları, Türkiye'deki gibi her köşe başında değil, daha çok belirli otoban dinlenme tesislerinde (Tank & Rast) veya şehirlerin sanayi bölgelerine yakın yerlerde bulunur.
 
-**Nasıl:** Rota planlamanızı yaparken, özellikle Bulgaristan ve Romanya gibi DISH uyumlu ülkelerde maksimum LPG depolamaya çalışın. Bu, Batı Avrupa'ya geçişte size zaman ve benzin tasarrufu sağlayacaktır. Örneğin, [İstanbul'dan Münih'e araçla yaptığım yolculukta](https://share-hub-eu.online/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/), Bulgaristan ve Romanya'da depoyu doldurmak bana büyük avantaj sağladı.
+**Nasıl:** Rota planlamanızı yaparken, özellikle Bulgaristan ve Romanya gibi DISH uyumlu ülkelerde maksimum LPG depolamaya çalışın. Bu, Batı Avrupa'ya geçişte size zaman ve benzin tasarrufu sağlayacaktır. Örneğin, [İstanbul'dan Münih'e araçla yaptığım yolculukta](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/), Bulgaristan ve Romanya'da depoyu doldurmak bana büyük avantaj sağladı.
 
 **Ne Kadar Sürer:** İstasyon tespiti ve rota planlaması, yolculuk öncesinde 1-2 saatinizi alabilir, ancak bu, yolda yaşayacağınız saatler süren istasyon arayışlarından çok daha değerlidir.
 
@@ -77,7 +77,7 @@ LPG'li bir araçla Avrupa yolculuğuna çıkarken yanınızda bulundurmanız ger
 | **LPG Adaptör Seti (DISH-ACME, DISH-Bayonet)** | Türkiye'deki LPG dönüşüm servisleri, oto aksesuar mağazaları, online alışveriş siteleri (örn. N11, GittiGidiyor) | Türkiye'deki araçların çoğu DISH tipidir. Almanya ve Batı Avrupa için **ACME**, Macaristan için **Bayonet** adaptörü mutlaka olmalı. Çoğu set 3-4 farklı adaptörü içerir. |
 | **Online LPG İstasyon Haritası Uygulaması/Web Sitesi** | Mobil uygulama mağazaları (örn. GasBuddy, myLPG.eu), web siteleri (örn. LPG.eu) | Rotanız üzerindeki LPG istasyonlarını gösterir. Başlık tipi bilgilerini de içerebilir. İnternet bağlantınızın olduğundan emin olun veya haritaları çevrimdışı kullanmak için indirin. |
 | **Aracınızın Ruhsatı (Fahrzeugschein)** | Türkiye'den gelirken yanınızda olmalı | Aracınızın teknik bilgileri ve LPG sisteminin ruhsata işlenmiş olduğunu gösterir. Kontrollerde gerekebilir. |
-| **Yeşil Sigorta Kartı** | Türkiye'deki sigorta şirketiniz | Avrupa'da geçerli trafik sigortasıdır. Özellikle [Yeşil Sigorta Rehberimizde](https://share-hub-eu.online/tr/almanya/expat/yesil-sigorta-rehberi-TR/) detayları bulabilirsiniz. |
+| **Yeşil Sigorta Kartı** | Türkiye'deki sigorta şirketiniz | Avrupa'da geçerli trafik sigortasıdır. Özellikle [Yeşil Sigorta Rehberimizde](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/) detayları bulabilirsiniz. |
 | **Nakit Para (Euro)** | Türkiye'deki döviz büroları, bankalar | Özellikle küçük istasyonlarda veya kartınızın kabul edilmediği durumlarda kurtarıcınız olacaktır. |
 | **Temel Almanca/İngilizce Yakıt Terimleri** | Çeviri uygulamaları, küçük not kağıdı | "Autogas", "LPG", "Benzin", "Kart mı Nakit mi?", "Yardımcı olabilir misiniz?" gibi ifadeler. |
 
@@ -124,7 +124,7 @@ Avrupa'da LPG'li aracınızla sorunsuz bir yolculuk geçirmeniz için bizzat den
 5.  **Küçük Miktarda Nakit Para Taşıyın:** Almanya'da bazı küçük istasyonlarda veya otoban dışındaki yerlerde sadece EC-Karte (Alman banka kartı) kabul edilebilir. Yanınızda her zaman birkaç on Euro nakit bulundurmak, sıkışık anlarda kurtarıcınız olabilir.
 6.  **Sınır Geçişlerinde Depo Doldurun:** Özellikle DISH uyumlu ülkelerden (Türkiye, Bulgaristan, Romanya) Batı Avrupa'ya geçerken, son DISH istasyonunda deponuzu fulleyin. Bu size Batı Avrupa'da adaptörle uğraşmak veya benzin harcamak için biraz daha zaman kazandırır.
 7.  **Yedek Sigorta ve Ehliyet Bilgileri:** [Yeşil Sigorta Rehberi](/tr/almanya/expat/yesil-sigorta-rehberi-TR/) ve [Almanya Ehliyet Yenileme Süreci](/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) yazılarımızı mutlaka inceleyin. Türkiye'den gelen bir araçla Avrupa'da yaşamanın yasal kısıtlamalarını bilmek, uzun vadede başınızın ağrımasını engeller. Ehliyetinizle ilgili yaşayabileceğiniz süreci önceden öğrenmeniz, Almanya'daki sürüş deneyiminizi sorunsuz kılar.
-8.  **Uzun Vadeli Çözüm: Almanya Plakalı Araç:** Almanya'da kalıcı olarak yaşıyorsanız, Türk plakalı LPG'li aracınızla yasal ve pratik olarak uzun süre devam etmeniz çok zordur. Yaklaşık 6 ay sonra aracı Türkiye'ye iade etmeniz veya Almanya plakasına çevirmeniz gerekir ki bu ikinci seçenek çok maliyetli ve karmaşıktır. Bu konuya [Almanya'da Ehliyet Yenileme Süreci](https://share-hub-eu.online/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) yazımızda da değiniyoruz. Almanya'da araç alım-satım ve ruhsat süreçleri hakkında ayrı bir yazı hazırlayacağım.
+8.  **Uzun Vadeli Çözüm: Almanya Plakalı Araç:** Almanya'da kalıcı olarak yaşıyorsanız, Türk plakalı LPG'li aracınızla yasal ve pratik olarak uzun süre devam etmeniz çok zordur. Yaklaşık 6 ay sonra aracı Türkiye'ye iade etmeniz veya Almanya plakasına çevirmeniz gerekir ki bu ikinci seçenek çok maliyetli ve karmaşıktır. Bu konuya [Almanya'da Ehliyet Yenileme Süreci](https://lebeninsider.com/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) yazımızda da değiniyoruz. Almanya'da araç alım-satım ve ruhsat süreçleri hakkında ayrı bir yazı hazırlayacağım.
 
 ## Bizim Deneyimimiz
 
@@ -136,7 +136,7 @@ Bu durum, yolculuğumuzun son 800-900 kilometresinde bütçemizi hiç de bekleme
 
 Bu deneyim, bana çok önemli bir ders verdi: Avrupa'da her şeyin "tek standart" olmadığını ve özellikle araçla yapılan yolculuklarda detaylı ön hazırlığın ne kadar kritik olduğunu bir kez daha gösterdi. Ben bu tecrübeyi yaşadım ki siz yaşamayın. Adaptör seti, küçük bir maliyet ama büyük bir rahatlık ve tasarruf kapısı.
 
-Maalesef, bu maceranın sonunda Honda Civic'imizi Türkiye'ye döndükten sonra satmak zorunda kaldık. [Yeşil Sigorta Rehberimizde](https://share-hub-eu.online/tr/almanya/expat/yesil-sigorta-rehberi-TR/) de belirttiğim gibi, Almanya'da Türk plakalı bir araçla 6 aydan uzun süre kalmak pratik ve yasal açıdan sürdürülebilir değil. Bu da beni Almanya'da yeni bir araç alma sürecine itti, ki o da başlı başına başka bir yazı konusu...
+Maalesef, bu maceranın sonunda Honda Civic'imizi Türkiye'ye döndükten sonra satmak zorunda kaldık. [Yeşil Sigorta Rehberimizde](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/) de belirttiğim gibi, Almanya'da Türk plakalı bir araçla 6 aydan uzun süre kalmak pratik ve yasal açıdan sürdürülebilir değil. Bu da beni Almanya'da yeni bir araç alma sürecine itti, ki o da başlı başına başka bir yazı konusu...
 
 ## Sık Sorulan Sorular
 

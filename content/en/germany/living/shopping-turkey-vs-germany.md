@@ -65,10 +65,10 @@ The biggest takeaway for me has been the shift in mindset. Turkey offers spontan
 
 ### Links to Related Articles:
 
-*   For those considering the move, my personal journey is detailed in [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/).
-*   Understanding the broader living conditions can be found in [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/).
-*   For a glimpse into daily life, explore [Food and Eating Out: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/food-turkey-vs-germany/) and [Housing and Renting: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/housing-turkey-vs-germany/).
-*   For those interested in specific German cities, my guides to [Munich](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/) and other Romantic Road cities offer further insights.
+*   For those considering the move, my personal journey is detailed in [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/).
+*   Understanding the broader living conditions can be found in [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/).
+*   For a glimpse into daily life, explore [Food and Eating Out: Turkey vs Germany](https://lebeninsider.com/en/germany/living/food-turkey-vs-germany/) and [Housing and Renting: Turkey vs Germany](https://lebeninsider.com/en/germany/living/housing-turkey-vs-germany/).
+*   For those interested in specific German cities, my guides to [Munich](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/) and other Romantic Road cities offer further insights.
 
 ## Frequently Asked Questions
 

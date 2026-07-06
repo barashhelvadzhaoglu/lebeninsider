@@ -4,7 +4,7 @@ date: 2026-05-28T08:00:00+01:00
 draft: false
 description: "Münih'te sınırsız Asya lezzetleri arayanlar için Otto Bruno harika bir seçenek. Suşi, dim sum, Çin ve Tayland yemekleriyle dolu bu açık büfeyi keşfedin!"
 translationKey: "munich-otto-bruno-asya-acik-bufe-restoran"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Restoran Önerileri"
   - "Münih"

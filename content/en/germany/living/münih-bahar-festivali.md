@@ -4,7 +4,7 @@ date: 2026-04-16T08:00:00+01:00
 draft: false
 description: "Discover Munich's Frühlingsfest – the enchanting Spring Festival! A comprehensive guide for Turkish families & expats, covering traditions, food, fun, and practical tips."
 translationKey: "münih-bahar-festivali"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Munich"
   - "Frühlingsfest"

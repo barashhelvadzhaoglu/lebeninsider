@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00+01:00
 draft: false
 description: "Compartimos nuestras experiencias personales sobre la cultura canina, la educación, las normas de transporte público y el proceso de adopción de perros en Alemania. Una guía para amantes de los animales."
 translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "AmorPorLosAnimalesAlemania"
   - "EducacionCaninaAlemania"

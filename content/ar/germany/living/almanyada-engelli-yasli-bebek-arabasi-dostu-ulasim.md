@@ -4,7 +4,7 @@ date: 2026-04-28T08:00:00+01:00
 draft: false
 description: "اكتشفوا من خلال تجاربي الشخصية مدى سهولة التنقل في ألمانيا لذوي الاحتياجات الخاصة وكبار السن ومستخدمي عربات الأطفال. مقارنات مع تركيا ومعلومات عملية."
 translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
   - "الحياة"

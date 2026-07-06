@@ -4,7 +4,7 @@ date: 2026-05-19T08:00:00+01:00
 draft: false
 description: "Ein persönlicher Bericht über chronische Allergien in der Türkei und ihre wundersame Besserung in Deutschland. Tipps zur Luftqualität und Allergiebehandlung für Expats."
 translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Allergie"
   - "Deutschland"

@@ -4,7 +4,7 @@ date: 2026-05-28T08:00:00+01:00
 draft: false
 description: "म्यूनिख में असीमित एशियाई स्वादों की तलाश करने वालों के लिए ओटो ब्रूनो एक शानदार विकल्प है। सुशी, डिम सम, चीनी और थाई व्यंजनों से भरपूर इस बुफे का अन्वेषण करें!"
 translationKey: "munich-otto-bruno-asya-acik-bufe-restoran"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "रेस्तरां सुझाव"
   - "म्यूनिख"

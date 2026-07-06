@@ -6,8 +6,8 @@ title = "शेयर हब"
 [params]
   displayName = "HI"
   isoCode = "hi"
-  logo = "img/sharehubeu-logo.webp"
-  homepageImage = "img/sharehubeu-hero.webp"
+  logo = "logo.png"
+  homepageImage = "img/lebeninsider-hero.webp"
   showLogo = true
   showName = true
   layout = "hero"

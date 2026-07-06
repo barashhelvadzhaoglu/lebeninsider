@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "Germany"
 description: "Bureaucracy notes, life experiences, and travel routes from Munich."
 translationKey: "germany-section"

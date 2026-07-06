@@ -4,7 +4,7 @@ date: 2026-05-28T08:00:00+01:00
 draft: false
 description: "يُعد مطعم أوتو برونو خيارًا رائعًا لمن يبحث عن نكهات آسيوية لا محدودة في ميونخ. اكتشفوا هذا البوفيه المفتوح المليء بالسوشي، والدمبلينغ (Dim Sum)، والأطباق الصينية والتايلاندية!"
 translationKey: "munich-otto-bruno-asya-acik-bufe-restoran"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "اقتراحات مطاعم"
   - "ميونخ"

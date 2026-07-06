@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "الحياة في ألمانيا"
 description: "مقالات شخصية ومقارنات صادقة بين الحياة في تركيا وألمانيا."
 translationKey: "germany-living"

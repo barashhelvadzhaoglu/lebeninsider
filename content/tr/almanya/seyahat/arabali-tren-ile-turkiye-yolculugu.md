@@ -4,7 +4,7 @@ date: 2026-05-13T08:00:00+01:00
 draft: false
 description: "Almanya'dan Türkiye'ye arabalı trenle yolculuk rehberi: konforlu seyahat, maliyetler, booking, çocuklarla seyahat ipuçları ve tüm detaylar."
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya'dan+Türkiye'ye"
   - "Arabalı+Tren"

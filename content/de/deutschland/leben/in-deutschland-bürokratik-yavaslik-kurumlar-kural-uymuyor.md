@@ -4,7 +4,7 @@ date: 2026-05-16T08:00:00+01:00
 draft: false
 description: "Wir teilen unsere unerwarteten Erfahrungen mit der Langsamkeit deutscher Behörden und Institutionen. Ein tiefer Einblick in den Mythos der Effizienz für türkische Familien und Expats in Deutschland."
 translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Bürokratie"
   - "Deutschland"

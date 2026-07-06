@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00+01:00
 draft: false
 description: "Als türkische Familie in Deutschland haben wir die erstaunliche Hundekultur entdeckt. Von perfektem Benehmen in der Bahn bis zur Hundesteuer – hier sind unsere Erfahrungen und Tipps für das Zusammenleben mit Hunden in Deutschland."
 translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Hundehaltung"
   - "Deutschland"

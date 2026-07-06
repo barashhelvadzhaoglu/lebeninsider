@@ -4,7 +4,7 @@ date: 2026-05-25T08:00:00+01:00
 draft: false
 description: "Hatay mutfağının incileri Künefe ve Hummus'u keşfedin! Tarihi, tarifi, en iyi restoranlar ve pratik bilgilerle Hatay lezzetleri Share-Hub-EU'da. Yurt dışında yaşayanlar veya Türkiye'yi ziyaret edenler için özel rehber."
 translationKey: "hatay-mutfagi-kunefe-hummus"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Türk Mutfağı"
   - "Hatay"
@@ -32,7 +32,7 @@ tags:
 
 Merhaba lezzet kaşifleri! Bugün sizi Türkiye'nin en köklü ve zengin mutfaklarından birine, **Hatay mutfağına** davet ediyorum. Hatay, medeniyetlerin beşiği, farklı kültürlerin yüzyıllardır bir arada yaşadığı bir şehir olmanın tüm güzelliklerini mutfağına yansıtmış. Burası sadece bir yemek yeme değil, adeta bir **gastronomi deneyimi** sunan, sofrasında tarih ve coğrafyanın buluştuğu eşsiz bir durak. Bugün odaklanacağımız iki ikonik lezzet ise, damaklarda iz bırakan tatlıların sultanı **Künefe** ve sofraların vazgeçilmezi, kadim meze **Hummus** olacak.
 
-**Künefe**, incecik tel kadayıfın arasına tuzsuz, özel Hatay peyniri konularak hazırlanan, tereyağında nar gibi kızartılıp sıcak şerbetle buluşan, üzerine Antep fıstığı serpilerek servis edilen sıcak bir tatlıdır. Rengi altın sarısı, hatta karamelize kahverengiye çalan kenarlarıyla göz alıcıdır. Çatalınızı batırdığınızda uzayan peyniri, çıtır çıtır kadayıfı ve ılık şerbetin damaklarda bıraktığı tatlı-tuzlu dengesiyle adeta bir senfoni gibidir. Yediğiniz an, tüm dünyayı unutturacak kadar özel, adeta "bu ne güzellik!" dedirten bir lezzet şölenidir. Biz **share-hub-eu.online** ekibi olarak Hatay'da tattığımız her künefeden sonra aynı coşkuyu yaşadık, size de şiddetle tavsiye ederiz!
+**Künefe**, incecik tel kadayıfın arasına tuzsuz, özel Hatay peyniri konularak hazırlanan, tereyağında nar gibi kızartılıp sıcak şerbetle buluşan, üzerine Antep fıstığı serpilerek servis edilen sıcak bir tatlıdır. Rengi altın sarısı, hatta karamelize kahverengiye çalan kenarlarıyla göz alıcıdır. Çatalınızı batırdığınızda uzayan peyniri, çıtır çıtır kadayıfı ve ılık şerbetin damaklarda bıraktığı tatlı-tuzlu dengesiyle adeta bir senfoni gibidir. Yediğiniz an, tüm dünyayı unutturacak kadar özel, adeta "bu ne güzellik!" dedirten bir lezzet şölenidir. Biz **lebeninsider.com** ekibi olarak Hatay'da tattığımız her künefeden sonra aynı coşkuyu yaşadık, size de şiddetle tavsiye ederiz!
 
 **Hummus** ise haşlanmış **nohut** ([Wikipedia](https://tr.wikipedia.org/wiki/Nohut)), tahin, limon suyu, sarımsak ve zeytinyağı ile hazırlanan pürüzsüz kıvamda, bej renkli bir mezedir. Üzerine genellikle kırmızı pul biber, kıyılmış maydanoz ve bolca zeytinyağı gezdirilerek servis edilir. Kremsi, hafif ve doyurucu yapısıyla sofraların neşesi, özellikle et yemeklerinin ve kebapların yanında harika bir eşlikçidir. Her ne kadar Ortadoğu ve Akdeniz coğrafyasının birçok yerinde rastlansa da, Hatay'ın hummus'u, özel tahini ve dengeli lezzetiyle kendine özgü bir karakter taşır. Tattığınızda, nohutun hafif topraksı tadı, tahinin yoğunluğu ve limonun ferahlığı mükemmel bir uyum içindedir. **Yurt dışında yaşayan** gurbetçi okuyucularımız için bu iki lezzet, Türkiye özlemini dindirecek, Hatay'a bir bilet kestirecek kadar güçlü tatlardır.
 
@@ -177,7 +177,7 @@ Hatay özlemini İstanbul'da dindirmek isteyenler veya Türkiye'yi ziyaret ederk
 
 Hatay'daki lezzetler ile İstanbul'dakiler arasında bazı farklar olması doğaldır. Hatay'daki restoranlar genellikle **yerel ve taze malzemelere** daha kolay erişebilirler. Özellikle künefe için kullanılan özel Hatay peyniri ve hummus için kullanılan taş değirmen tahini, yerinde çok daha kolay ve taze bulunur. İstanbul'daki restoranlar da bu malzemeleri Hatay'dan getirmeye çalışsalar da, bazen tazelik ve hammadde kalitesi konusunda küçük farklar oluşabilir.
 
-Ancak İstanbul'daki Hatay restoranları da **yüksek standartlarda hizmet** sunar ve Hatay mutfağını büyük şehirlere taşımada önemli rol oynarlar. Genel olarak, Hatay'daki o **otantik, çarşı atmosferini** ve yemekle bütünleşen tarihi dokuyu İstanbul'da tam anlamıyla bulmak zor olsa da, lezzet açısından oldukça başarılı alternatifler mevcuttur. Biz **share-hub-eu.online** olarak İstanbul'daki bu mekanları Hatay özleminizi dindirmek için gönül rahatlığıyla tavsiye ederiz.
+Ancak İstanbul'daki Hatay restoranları da **yüksek standartlarda hizmet** sunar ve Hatay mutfağını büyük şehirlere taşımada önemli rol oynarlar. Genel olarak, Hatay'daki o **otantik, çarşı atmosferini** ve yemekle bütünleşen tarihi dokuyu İstanbul'da tam anlamıyla bulmak zor olsa da, lezzet açısından oldukça başarılı alternatifler mevcuttur. Biz **lebeninsider.com** olarak İstanbul'daki bu mekanları Hatay özleminizi dindirmek için gönül rahatlığıyla tavsiye ederiz.
 
 ## Almanya'da Nerede Bulunur?
 

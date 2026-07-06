@@ -166,9 +166,9 @@ What I truly miss about Turkish food is its inherent freshness and diversity. Th
 For those considering a move or extensive travel between these two countries, understanding these food differences is key to a richer experience. If you're a parent, you'll find that feeding children might involve adapting to different meal structures and ingredient availability. The rich, vegetable-heavy dishes often found in Turkish cuisine might be a great way to introduce healthy options, while German hearty meals can offer sustained energy.
 
 **Related Articles:**
-*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/)
-*   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/)
-*   [Quality of Life and Happiness: The Final Verdict](https://share-hub-eu.online/en/germany/living/quality-of-life-final-verdict/)
+*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/)
+*   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
+*   [Quality of Life and Happiness: The Final Verdict](https://lebeninsider.com/en/germany/living/quality-of-life-final-verdict/)
 
 ## Frequently Asked Questions
 

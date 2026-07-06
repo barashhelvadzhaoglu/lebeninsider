@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "Reisen Sie mit Kindern aus Deutschland? Dieser Guide erklärt detailliert, welche Dokumente Ihr Kind je nach Reisepartner und Zielland benötigt – ob mit einem Elternteil, Großeltern, in oder außerhalb des Schengen-Raums. Praktische Tipps und unsere persönlichen Erfahrungen."
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Reisen+mit+Kindern"
   - "Ausreise+Deutschland"

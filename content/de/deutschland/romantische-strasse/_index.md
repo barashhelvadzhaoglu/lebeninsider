@@ -2,7 +2,7 @@
 title: "Romantische Straße"
 description: "Die Romantische Straße mit dem Deutschlandticket, zwei Kindern und einem Kinderwagen erkunden."
 translationKey: "romantik-rota-section"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## Romantische Straße — Ohne Auto, Mit Zwillingskinderwagen, Mit Zwei Kindern

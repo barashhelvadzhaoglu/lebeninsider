@@ -4,7 +4,7 @@ date: 2026-05-07T08:00:00+01:00
 draft: false
 description: "Consejos para comprar una bicicleta de segunda mano en Alemania, la búsqueda interurbana de bicicletas baratas con el Deutschlandticket y medidas preventivas contra el robo."
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
   - "Bicicleta"

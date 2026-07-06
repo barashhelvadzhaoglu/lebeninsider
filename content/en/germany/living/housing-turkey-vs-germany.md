@@ -226,10 +226,10 @@ Comparing the two, Turkey’s housing market offers more spontaneity and a poten
 For families with young children, the search can be even more complex. In Germany, the availability of affordable family apartments and the presence of robust childcare facilities (*Kita* system) are crucial considerations, often influencing the desired neighborhood. Navigating these aspects requires diligent research.
 
 Our experiences in both countries have informed other aspects of our lives abroad, as detailed in our broader comparisons:
-*   **Why I Left Turkey: The Decision That Changed Everything** ([link](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/))
-*   **Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know** ([link](https://share-hub-eu.online/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/))
-*   **Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)** ([link](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/)) - *This current post expands significantly on that initial piece.*
-*   **Turkey vs Germany: An Honest Comparison After Making the Move** ([link](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/))
+*   **Why I Left Turkey: The Decision That Changed Everything** ([link](https://lebeninsider.com/en/germany/living/why-i-moved-countries/))
+*   **Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know** ([link](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/))
+*   **Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)** ([link](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)) - *This current post expands significantly on that initial piece.*
+*   **Turkey vs Germany: An Honest Comparison After Making the Move** ([link](https://lebeninsider.com/en/germany/living/turkey-vs-germany/))
 
 ## Frequently Asked Questions
 

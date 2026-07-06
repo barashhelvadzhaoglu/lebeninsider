@@ -4,7 +4,7 @@ date: 2026-05-22T08:00:00+01:00
 draft: false
 description: "اكتشف أسرار أضنة كباب! تاريخها، طريقة تحضيرها، أفضل المطاعم، ونصائح التحضير في المنزل. وليمة من مدينة أضنة، محطة النكهات في تركيا، إلى مائدتك."
 translationKey: "adana-kebap"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "المطبخ التركي"
   - "أضنة"

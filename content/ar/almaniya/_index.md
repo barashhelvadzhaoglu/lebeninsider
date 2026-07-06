@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "ألمانيا"
 description: "ملاحظات عن البيروقراطية وتجارب الحياة ومسارات السفر من ميونخ."
 translationKey: "germany-section"

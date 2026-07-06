@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "السياحة في بافاريا"
 description: "أدلة الرحلات اليومية حول ميونخ وبافاريا مع العائلة وتذكرة دويتشلاندتيكت."
 translationKey: "germany-travel-section"

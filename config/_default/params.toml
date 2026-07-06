@@ -25,8 +25,8 @@ disableImageOptimizationMD = false
 disableTextInHeader = true
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/sharehubeu-hero.webp"
-defaultFeaturedImage = "/img/sharehubeu-hero.webp"
+defaultBackgroundImage = "img/lebeninsider-hero.webp"
+defaultFeaturedImage = "img/lebeninsider-hero.webp"
 defaultSocialImage = "/img/blowfish_banner.png"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
@@ -43,7 +43,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 [header]
   showLogo = true
   showName = true
-  logo = "img/sharehubeu-logo.webp"
+  logo = "logo.png"
   layout = "wide"
 
 [footer]
@@ -56,7 +56,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 [homepage]
   showTitle = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/sharehubeu-hero.webp"
+  homepageImage = "img/lebeninsider-hero.webp"
   showRecent = true
   showRecentItems = 12
   showMoreLink = true

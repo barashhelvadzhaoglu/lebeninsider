@@ -161,9 +161,9 @@ Ingolstadt offers a wonderful glimpse into a different facet of Bavaria – one 
 
 *Related to Ingolstadt, you might also find our other travel guides interesting:*
 
-*   [Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)](https://share-hub-eu.online/en/germany/romantic-route/augsburg-travel-guide/) - Another historical Bavarian gem easily accessible from Munich.
-*   [Munich Travel Guide | Bavarian Capital & Beyond (2026)](https://share-hub-eu.online/en/germany/travel/munich-travel-guide/) - The vibrant capital city itself, offering endless exploration.
-*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/) - Discover other fantastic destinations accessible with the Deutschlandticket.
+*   [Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)](https://lebeninsider.com/en/germany/romantic-route/augsburg-travel-guide/) - Another historical Bavarian gem easily accessible from Munich.
+*   [Munich Travel Guide | Bavarian Capital & Beyond (2026)](https://lebeninsider.com/en/germany/travel/munich-travel-guide/) - The vibrant capital city itself, offering endless exploration.
+*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/) - Discover other fantastic destinations accessible with the Deutschlandticket.
 
 ## Frequently Asked Questions
 

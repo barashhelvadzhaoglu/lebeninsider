@@ -4,7 +4,7 @@ date: 2026-04-28T08:00:00+01:00
 draft: false
 description: "Almanya'da engelli, yaşlı ve bebek arabası kullanıcıları için ulaşımın ne kadar kolay olduğunu kişisel deneyimlerimle keşfedin. Türkiye ile karşılaştırmalar ve pratik bilgiler."
 translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
   - "Yaşam"

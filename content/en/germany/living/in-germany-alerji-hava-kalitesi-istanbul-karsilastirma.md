@@ -4,7 +4,7 @@ date: 2026-05-19T08:00:00+01:00
 draft: false
 description: "Discover my personal journey from debilitating allergies in Istanbul to breathing freely in Germany. A deep dive into air quality, symptoms, and practical tips for Turkish families and expats."
 translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany+Life"
   - "Expat+Life"

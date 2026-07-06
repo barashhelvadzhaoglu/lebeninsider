@@ -206,9 +206,9 @@ Regensburg offered a wonderful contrast to some of the other places we’ve expl
 
 **SITE ICI LINK:** For those planning a trip around Bavaria, Regensburg fits perfectly into a broader itinerary. Consider it as a fantastic day trip from Munich, or a stop on a longer journey exploring other Bavarian gems. You might also find our guides to other nearby cities and day trip options useful:
 
-*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/) - Explore more affordable adventures.
-*   [Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)](https://share-hub-eu.online/en/germany/romantic-route/augsburg-travel-guide/) - Another fascinating historical city within easy reach.
-*   [Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2026)](https://share-hub-eu.online/en/germany/travel/ingolstadt-travel-guide/) - A city with a rich industrial and ducal history.
+*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/) - Explore more affordable adventures.
+*   [Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)](https://lebeninsider.com/en/germany/romantic-route/augsburg-travel-guide/) - Another fascinating historical city within easy reach.
+*   [Ingolstadt Travel Guide | Danube City 1 Hour from Munich (2026)](https://lebeninsider.com/en/germany/travel/ingolstadt-travel-guide/) - A city with a rich industrial and ducal history.
 
 ## Frequently Asked Questions
 

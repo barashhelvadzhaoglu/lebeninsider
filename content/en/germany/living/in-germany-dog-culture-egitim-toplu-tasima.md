@@ -4,7 +4,7 @@ date: 2026-05-01T08:00:00+01:00
 draft: false
 description: "Discover Germany's unique dog culture: well-trained pets, public transport rules, dog tax, vet costs, and tips for Turkish families and expats."
 translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
   - "Expats"

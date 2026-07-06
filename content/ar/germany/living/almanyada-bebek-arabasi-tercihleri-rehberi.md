@@ -4,7 +4,7 @@ date: 2026-05-04T08:00:00+01:00
 draft: false
 description: "دليل شامل لاختيار عربة الأطفال للعائلات التركية والمغتربة المقيمة في ألمانيا. اتخذوا الخيار الصحيح بفضل تجاربنا الشخصية، مقارنات العلامات التجارية، والنصائح العملية."
 translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
   - "مغتربون"

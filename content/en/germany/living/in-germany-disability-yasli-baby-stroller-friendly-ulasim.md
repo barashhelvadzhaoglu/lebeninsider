@@ -4,7 +4,7 @@ date: 2026-04-28T08:00:00+01:00
 draft: false
 description: "Discover Germany's exceptional accessibility for families with strollers, seniors, and people with disabilities, and how it compares to life in Turkey. Practical tips for expat families!"
 translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "GermanyLife"
   - "ExpatTips"

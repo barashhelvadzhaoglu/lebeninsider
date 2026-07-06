@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "الطريق الرومانسي"
 description: "استكشاف الطريق الرومانسي في بافاريا بتذكرة دويتشلاندتيكت وطفلين وعربة أطفال."
 translationKey: "romantik-rota-section"

@@ -2,7 +2,7 @@
 title: "Romantic Road"
 description: "Exploring Bavaria's Romantic Road with a Deutschlandticket, two kids and a double stroller."
 translationKey: "romantik-rota-section"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## The Romantic Road — No Car, Double Stroller, Two Kids

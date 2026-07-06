@@ -4,7 +4,7 @@ date: 2026-05-04T08:00:00+01:00
 draft: false
 description: "Choosing the perfect baby stroller in Germany for active Turkish families and expats. Learn from our experiences with travel systems, lightweight options, and essential tips for life in Germany."
 translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "baby+stroller"
   - "travel+system"

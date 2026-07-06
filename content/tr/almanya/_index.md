@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "Almanya"
 description: "Münih'ten bürokrasi notları, yaşam deneyimleri ve gezi rotaları."
 translationKey: "germany-section"

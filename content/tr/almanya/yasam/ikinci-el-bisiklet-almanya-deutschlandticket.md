@@ -4,7 +4,7 @@ date: 2026-05-07T08:00:00+01:00
 draft: false
 description: "Almanya'da ikinci el bisiklet almanın püf noktaları, Deutschlandticket ile şehirlerarası ucuz bisiklet avı ve hırsızlığa karşı alınacak önlemler."
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
   - "Bisiklet"

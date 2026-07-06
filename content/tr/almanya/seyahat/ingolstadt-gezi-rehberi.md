@@ -113,11 +113,11 @@ Ingolstadt'a ulaşım oldukça kolay ve çeşitlidir. Özellikle Almanya içinde
 | **Münih Hbf**    | Tren (RE/RB) | ~1 saat          | 15-25 EUR                | **Deutschlandticket** geçerli. Sık seferler var.             |
 | **Frankfurt Hbf**| Tren (ICE)   | ~2.5 - 3 saat    | 35-60 EUR                | Hızlı tren (ICE) ile direkt veya aktarmalı.                  |
 | **Berlin Hbf**   | Tren (ICE)   | ~4 - 5 saat      | 50-90 EUR                | Hızlı tren (ICE) ile direkt veya aktarmalı.                  |
-| **İstanbul**     | Uçak + Tren  | ~5-7 saat        | Değişken                  | Münih Havalimanı (MUC) veya Nürnberg Havalimanı (NUE) üzerinden trenle Ingolstadt'a geçiş. [Ucuz uçak bileti nasıl bulunur?](https://share-hub-eu.online/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/) yazımıza göz atın. |
+| **İstanbul**     | Uçak + Tren  | ~5-7 saat        | Değişken                  | Münih Havalimanı (MUC) veya Nürnberg Havalimanı (NUE) üzerinden trenle Ingolstadt'a geçiş. [Ucuz uçak bileti nasıl bulunur?](https://lebeninsider.com/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/) yazımıza göz atın. |
 | **Avrupa Geneli**| Otobüs       | Değişken         | Değişken                 | FlixBus gibi otobüs firmalarıyla uygun fiyatlı seyahatler.   |
 
 **Deutschlandticket Geçerli mi?**
-Evet, **Deutschlandticket**, Ingolstadt'a yapılan bölgesel tren (Regional-Express ve Regionalbahn) seferlerinde geçerlidir. Eğer Münih veya Bavyera'nın başka bir yerinden geliyorsanız, bu bilet size önemli bir ulaşım kolaylığı ve maliyet tasarrufu sağlayacaktır. Bu sayede Ingolstadt'ı [Deutschlandticket ile Münih çevresinde gezi](https://share-hub-eu.online/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/) planınıza dahil edebilirsiniz.
+Evet, **Deutschlandticket**, Ingolstadt'a yapılan bölgesel tren (Regional-Express ve Regionalbahn) seferlerinde geçerlidir. Eğer Münih veya Bavyera'nın başka bir yerinden geliyorsanız, bu bilet size önemli bir ulaşım kolaylığı ve maliyet tasarrufu sağlayacaktır. Bu sayede Ingolstadt'ı [Deutschlandticket ile Münih çevresinde gezi](https://lebeninsider.com/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/) planınıza dahil edebilirsiniz.
 
 ### Şehir İçi Ulaşım
 
@@ -138,7 +138,7 @@ Neleri çok beğendik diye soracak olursanız: Kesinlikle şehrin sakinliği, ta
 
 Peki beklentinin altında kalan bir şey oldu mu? Belki de Münih gibi cıvıl cıvıl, hareketli bir gece hayatı bekliyorsanız Ingolstadt bu konuda biraz daha mütevazı kalabilir. Ancak bizim gibi günübirlik veya sakin bir hafta sonu gezisi arayan aileler için bu durum kesinlikle bir eksi değildi. Bebek arabasıyla gezmek ise genel olarak oldukça rahattı. Tarihi merkezin bazı yerlerinde taşlı yollar olsa da, genel olarak kaldırımlar geniş ve düzgündü. Özellikle Tuna kıyısı bebek arabasıyla gezenler için adeta bir cennetti.
 
-Ingolstadt, Almanya'nın "Romantik Rota"sı üzerinde olmasa da, kendi içinde keşfedilmeyi bekleyen bir cazibe barındırıyor. Eğer Bavyera'nın daha az bilinen, ancak dolu dolu tarihi ve doğal güzelliklere sahip şehirlerini keşfetmek istiyorsanız, Ingolstadt listenizde mutlaka olmalı. Türkiye'den gelenler için Almanya'da araba kiralamayı düşünüyorsanız, [Almanya'da ehliyet yenileme süreci](https://share-hub-eu.online/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) ve [Bulgar ehliyetiyle Almanya'da araç kullanılır mı?](https://share-hub-eu.online/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/) yazılarımız da işinize yarayabilir. Ayrıca, Avrupa içinde LPG'li araç kullanmayı planlıyorsanız [Avrupa'da LPG Rehberi](https://share-hub-eu.online/tr/almanya/expat/avrupa-lpg-rehberi-TR/) yazımız da önemli bilgiler içerebilir.
+Ingolstadt, Almanya'nın "Romantik Rota"sı üzerinde olmasa da, kendi içinde keşfedilmeyi bekleyen bir cazibe barındırıyor. Eğer Bavyera'nın daha az bilinen, ancak dolu dolu tarihi ve doğal güzelliklere sahip şehirlerini keşfetmek istiyorsanız, Ingolstadt listenizde mutlaka olmalı. Türkiye'den gelenler için Almanya'da araba kiralamayı düşünüyorsanız, [Almanya'da ehliyet yenileme süreci](https://lebeninsider.com/tr/almanya/expat/almanya-ehliyet-yenileme-sureci/) ve [Bulgar ehliyetiyle Almanya'da araç kullanılır mı?](https://lebeninsider.com/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/) yazılarımız da işinize yarayabilir. Ayrıca, Avrupa içinde LPG'li araç kullanmayı planlıyorsanız [Avrupa'da LPG Rehberi](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) yazımız da önemli bilgiler içerebilir.
 
 ## Sık Sorulan Sorular
 

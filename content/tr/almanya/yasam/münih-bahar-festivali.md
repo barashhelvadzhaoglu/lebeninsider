@@ -4,7 +4,7 @@ date: 2026-04-16T08:00:00+01:00
 draft: false
 description: "Münih Bahar Festivali'nin (Frühlingsfest) coşkusunu keşfedin! Theresienwiese'deki bu aile dostu şenliğin tarihçesi, lezzetleri, eğlenceleri ve pratik bilgilerini Türk aileler için anlattık."
 translationKey: "münih-bahar-festivali"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Münih"
   - "Bahar+Festivali"

@@ -2,7 +2,7 @@
 title: "Über mich"
 description: "Network Security Engineer in München, zweifacher Vater und ehrenamtlicher Bürokratie-Detektiv. Warum gibt es den Share Hub, wer schreibt hier und warum sollten Sie mitlesen?"
 translationKey: "about-page"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## Hallo — ich bin Barash

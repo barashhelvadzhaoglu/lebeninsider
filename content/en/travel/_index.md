@@ -1,5 +1,5 @@
 ---
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 title: "Travel Guides"
 description: "No tourist brochure language; real experiences, struggles, and routes."
 translationKey: "travel-list"

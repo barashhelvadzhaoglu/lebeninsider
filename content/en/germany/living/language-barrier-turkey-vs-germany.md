@@ -201,9 +201,9 @@ The psychological toll of this constant effort cannot be overstated. You feel le
 However, the German approach to language learning is structured and supportive. There are numerous language schools, VHS (Volkshochschule) courses, and online resources available. My personal advice, learned through experience, is to **start learning German before you even arrive** and to take it very seriously. Reaching at least a B1 level significantly opens doors, particularly for official matters and social integration. It transforms your experience from mere survival to genuine living. Patience is key; fluency takes time, but every step forward is incredibly rewarding and empowering.
 
 For more on the cultural comparisons between Turkey and Germany, you might find these articles helpful:
-*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/)
-*   [The Language Barrier: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/language-barrier-turkey-vs-germany/) (This article, which we are expanding upon)
-*   [Being Turkish and Muslim in Germany: What It Is Actually Like](https://share-hub-eu.online/en/germany/living/turkish-muslim-identity-germany/)
+*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/)
+*   [The Language Barrier: Turkey vs Germany](https://lebeninsider.com/en/germany/living/language-barrier-turkey-vs-germany/) (This article, which we are expanding upon)
+*   [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/)
 
 ## Frequently Asked Questions
 

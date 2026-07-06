@@ -4,7 +4,7 @@ date: 2026-05-28T08:00:00+01:00
 draft: false
 description: "Otto Bruno es una opción fantástica para quienes buscan sabores asiáticos ilimitados en Múnich. ¡Descubre este buffet libre lleno de sushi, dim sum, y platos chinos y tailandeses!"
 translationKey: "munich-otto-bruno-asya-acik-bufe-restoran"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Recomendaciones de Restaurantes"
   - "Múnich"

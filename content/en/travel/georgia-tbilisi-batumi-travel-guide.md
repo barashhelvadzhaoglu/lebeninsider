@@ -232,7 +232,7 @@ The transition to **Batumi** via overnight train was an experience in itself. Wh
 
 Despite the hiccups, Georgia left a lasting impression. The **warm hospitality** of the people, the **delicious (cilantro-optional!) food**, and the **stunning landscapes** made it a memorable trip. This journey reinforced our belief that travel is not always about perfectly executed plans, but also about the resilience and adaptability we show when things don't go as expected.
 
-For those planning a trip to Georgia, we highly recommend looking at our other posts on navigating the complexities of European travel, such as [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://share-hub-eu.online/en/travel/how-to-get-schengen-visa/) or [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://share-hub-eu.online/en/travel/how-to-find-cheap-flights/). Understanding these aspects can make your broader travel experience smoother.
+For those planning a trip to Georgia, we highly recommend looking at our other posts on navigating the complexities of European travel, such as [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/) or [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://lebeninsider.com/en/travel/how-to-find-cheap-flights/). Understanding these aspects can make your broader travel experience smoother.
 
 ## Frequently Asked Questions About Georgia
 

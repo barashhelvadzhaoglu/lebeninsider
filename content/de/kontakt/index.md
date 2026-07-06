@@ -2,14 +2,14 @@
 title: "Kontakt"
 description: "Kontaktieren Sie mich für Fragen, Kooperationen und den Austausch von Erfahrungen."
 translationKey: "contact-page"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 ---
 
 ## Kontakt aufnehmen
 
 Ich lese und beantworte jede Nachricht persönlich.
 
-**📫 E-Mail:** [info@share-hub-eu.online](mailto:info@share-hub-eu.online)
+**📫 E-Mail:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
 ---
 

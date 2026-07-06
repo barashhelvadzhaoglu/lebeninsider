@@ -4,7 +4,7 @@ date: 2026-05-13T08:00:00+01:00
 draft: false
 description: "Entdecken Sie die entspannte Alternative zur langen Autofahrt: Der Autoreisezug von Deutschland in die Türkei. Ideal für Familien! Wir teilen unsere Erfahrungen zu Route, Kosten und Komfort."
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Autoreisezug"
   - "Türkeiurlaub"

@@ -62,11 +62,11 @@ Ultimately, the experience of building social connections in Germany has taught 
 ---
 
 *This article is part of a series comparing life in Turkey and Germany. For more insights, check out:*
-*   [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/)
-*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/)
-*   [The Language Barrier: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/language-barrier-turkey-vs-germany/)
-*   [Work Life and Work-Life Balance: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/work-life-turkey-vs-germany/)
-*   [Trust as a Way of Life: What Germany Taught Me About Believing in People](https://share-hub-eu.online/en/germany/living/trust-in-germany/)
+*   [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/)
+*   [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/)
+*   [The Language Barrier: Turkey vs Germany](https://lebeninsider.com/en/germany/living/language-barrier-turkey-vs-germany/)
+*   [Work Life and Work-Life Balance: Turkey vs Germany](https://lebeninsider.com/en/germany/living/work-life-turkey-vs-germany/)
+*   [Trust as a Way of Life: What Germany Taught Me About Believing in People](https://lebeninsider.com/en/germany/living/trust-in-germany/)
 
 ---
 

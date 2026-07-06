@@ -4,7 +4,7 @@ date: 2026-05-10T08:00:00+01:00
 draft: false
 description: "Planning international travel from Germany with children? Discover essential documents like consent forms & passports for smooth journeys within and outside Schengen. A guide for Turkish families."
 translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
   - "travel"

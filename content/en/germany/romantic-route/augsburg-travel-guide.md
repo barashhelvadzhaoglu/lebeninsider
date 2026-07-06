@@ -223,9 +223,9 @@ For families, Augsburg offers a lot. The **Puppenkiste** would be a huge hit wit
 
 **Related Site Internal Links:**
 
-*   If you're interested in exploring more of Bavaria's rich history and beautiful towns, check out our guides to [Munich](link_to_munich_guide), [Nuremberg](link_to_nuremberg_guide), and the charming medieval town of [Memmingen](https://share-hub-eu.online/en/germany/romantic-route/memmingen-travel-guide/).
-*   For a comprehensive look at the popular **Deutschlandticket** and how to maximize its value for day trips from Munich, see our dedicated article: [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://share-hub-eu.online/en/germany/travel/deutschlandticket-munich-day-trips/).
-*   If you're considering other day trips from Munich, you might find our guides to [Salzburg](https://share-hub-eu.online/en/germany/travel/salzburg-day-trip-munich/) and [Lindau](https://share-hub-eu.online/en/germany/romantic-route/lindau-lake-constance-travel-guide/) insightful.
+*   If you're interested in exploring more of Bavaria's rich history and beautiful towns, check out our guides to [Munich](link_to_munich_guide), [Nuremberg](link_to_nuremberg_guide), and the charming medieval town of [Memmingen](https://lebeninsider.com/en/germany/romantic-route/memmingen-travel-guide/).
+*   For a comprehensive look at the popular **Deutschlandticket** and how to maximize its value for day trips from Munich, see our dedicated article: [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/).
+*   If you're considering other day trips from Munich, you might find our guides to [Salzburg](https://lebeninsider.com/en/germany/travel/salzburg-day-trip-munich/) and [Lindau](https://lebeninsider.com/en/germany/romantic-route/lindau-lake-constance-travel-guide/) insightful.
 
 ## Frequently Asked Questions
 

@@ -241,7 +241,7 @@ The emphasis on trust in Germany, as I've written about before, extends to the w
 
 This shift has truly changed my perspective on what a productive and fulfilling professional life can entail. It’s not just about the hustle; it’s about creating a sustainable rhythm that allows for both professional achievement and personal well-being.
 
-For those interested in similar comparisons within Europe, check out our articles on [Working and Living in the Netherlands](https://share-hub-eu.online/en/germany/expat/eu-series-01-netherlands/) and [Working and Living in Luxembourg](https://share-hub-eu.online/en/germany/expat/eu-series-02-luxembourg/), where we compare these countries to Germany in terms of various aspects of expat life. Our broader comparison of [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/) also provides a holistic overview.
+For those interested in similar comparisons within Europe, check out our articles on [Working and Living in the Netherlands](https://lebeninsider.com/en/germany/expat/eu-series-01-netherlands/) and [Working and Living in Luxembourg](https://lebeninsider.com/en/germany/expat/eu-series-02-luxembourg/), where we compare these countries to Germany in terms of various aspects of expat life. Our broader comparison of [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/) also provides a holistic overview.
 
 ## Frequently Asked Questions
 

@@ -4,7 +4,7 @@ date: 2026-05-16T08:00:00+01:00
 draft: false
 description: "जर्मनी में नौकरशाही की धीमी गति, संस्थाओं द्वारा नियमों का पालन न करना और लंबे प्रतीक्षा समय पर हमारे व्यक्तिगत अनुभवों से भरी एक गाइड। तुर्की परिवारों के लिए व्यावहारिक जानकारी।"
 translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी में जीवन"
   - "जर्मनी की नौकरशाही"

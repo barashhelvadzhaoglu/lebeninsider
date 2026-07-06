@@ -4,7 +4,7 @@ date: 2026-05-04T08:00:00+01:00
 draft: false
 description: "Una guía completa sobre la elección del carrito de bebé para familias turcas y expatriadas que viven en Alemania. Tome la decisión correcta con nuestras experiencias personales, comparaciones de marcas y consejos prácticos."
 translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
   - "Expatriado"

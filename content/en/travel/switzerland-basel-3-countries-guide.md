@@ -226,10 +226,10 @@ If you're considering a multi-country European adventure without the constant pa
 
 We highly recommend this region to anyone looking for a blend of art, history, and the sheer joy of discovery. For further inspiration on similar multi-country experiences or for deeper dives into specific regions, you might find our guides to:
 
-*   [Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2026)](https://share-hub-eu.online/en/germany/travel/salzburg-day-trip-munich/)
-*   [Switzerland Zurich Travel Guide | Things to Do, Transport & Budget (2026)](https://share-hub-eu.online/en/travel/switzerland-zurich-travel-guide/)
-*   [Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)](https://share-hub-eu.online/en/travel/georgia-tbilisi-batumi-travel-guide/)
-*   [Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)](https://share-hub-eu.online/en/travel/bosnia-sarajevo-travel-guide/)
+*   [Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich (2026)](https://lebeninsider.com/en/germany/travel/salzburg-day-trip-munich/)
+*   [Switzerland Zurich Travel Guide | Things to Do, Transport & Budget (2026)](https://lebeninsider.com/en/travel/switzerland-zurich-travel-guide/)
+*   [Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)](https://lebeninsider.com/en/travel/georgia-tbilisi-batumi-travel-guide/)
+*   [Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)](https://lebeninsider.com/en/travel/bosnia-sarajevo-travel-guide/)
 
 ## Frequently Asked Questions
 

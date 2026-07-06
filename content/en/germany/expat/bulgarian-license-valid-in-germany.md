@@ -220,10 +220,10 @@ Navigating the Bulgarian bureaucracy for a driving license conversion, and subse
 7.  **Consider the German Driving License Process from the Start:** Given the ultimate outcome of this Bulgarian workaround, it's often more efficient to plan for the official German driving license exchange process right from the beginning. While lengthy and costly, it's the **only legally sound way** to obtain a valid German driving license from a non-EU one.
 
 **Relevant Share-Hub-EU Articles for Further Reading:**
-*   For a comprehensive guide on exchanging any license in Germany, including Turkish ones, check out: [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://share-hub-eu.online/en/germany/expat/driving-license-renewal-germany/).
-*   To understand the broader context of driving in Germany, you might find this useful: [Cars and Traffic Culture: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/cars-traffic-turkey-vs-germany/).
-*   For other aspects of settling in Germany as an expat, consider reading about my experience with the German Job Seeker Visa: [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://share-hub-eu.eu/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/).
-*   Understanding the general reasons for moving, which often involve seeking better systems, can be found here: [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/).
+*   For a comprehensive guide on exchanging any license in Germany, including Turkish ones, check out: [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://lebeninsider.com/en/germany/expat/driving-license-renewal-germany/).
+*   To understand the broader context of driving in Germany, you might find this useful: [Cars and Traffic Culture: Turkey vs Germany](https://lebeninsider.com/en/germany/living/cars-traffic-turkey-vs-germany/).
+*   For other aspects of settling in Germany as an expat, consider reading about my experience with the German Job Seeker Visa: [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/).
+*   Understanding the general reasons for moving, which often involve seeking better systems, can be found here: [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/).
 
 By keeping these practical tips in mind and consulting reliable sources, you can save yourself a lot of headache, time, and money.
 
@@ -283,7 +283,7 @@ The only valid, fully recognized, and ultimately problem-free way to obtain a dr
 
 ---
 *Related guides for your journey in Germany:*
-*   [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://share-hub-eu.online/en/germany/expat/driving-license-renewal-germany/)
-*   [Cars and Traffic Culture: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/cars-traffic-turkey-vs-germany/)
-*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://share-hub-eu.online/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
-*   [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/)
+*   [Driving License Exchange in Germany | The Reality of Turkish & Bulgarian Licenses](https://lebeninsider.com/en/germany/expat/driving-license-renewal-germany/)
+*   [Cars and Traffic Culture: Turkey vs Germany](https://lebeninsider.com/en/germany/living/cars-traffic-turkey-vs-germany/)
+*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+*   [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/)

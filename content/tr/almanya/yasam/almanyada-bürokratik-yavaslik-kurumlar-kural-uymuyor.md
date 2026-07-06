@@ -4,7 +4,7 @@ date: 2026-05-16T08:00:00+01:00
 draft: false
 description: "Almanya'da yaşadığımız bürokratik yavaşlık, kurumların kurallara uymaması ve uzun bekleme süreleri üzerine kişisel deneyimlerimizle dolu bir rehber. Türk aileler için pratik bilgiler."
 translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya'da Yaşam"
   - "Almanya Bürokrasisi"

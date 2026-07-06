@@ -4,7 +4,7 @@ date: 2026-05-16T08:00:00+01:00
 draft: false
 description: "Una guía llena de nuestras experiencias personales sobre la lentitud burocrática, el incumplimiento de las normas por parte de las instituciones y los largos tiempos de espera en Alemania. Información práctica para familias turcas."
 translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
-featureimage: "img/sharehubeu-hero.webp"
+featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Vida en Alemania"
   - "Burocracia Alemana"

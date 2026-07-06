@@ -292,13 +292,13 @@ When we first considered moving, the decision felt monumental. Leaving behind th
 
 The **predictability and reliability** of German systems were immediately striking. From the punctuality of public transport to the clarity of administrative processes (even if sometimes complex!), there was a sense of order that fostered a feeling of security. The **emphasis on children's well-being** was palpable. The parks are safe and well-maintained, the childcare system (Kita) is structured and accessible, and the general attitude towards families is one of inclusion. We found that being able to plan our lives with a reasonable degree of certainty – knowing that our work rights were protected, that our healthcare was dependable, and that the environment was clean – provided a significant peace of mind. The **access to nature** is also incredible; weekend trips to the Alps or simply enjoying the countless green spaces within cities like Munich offered a constant connection to the outdoors.
 
-*   **Site Link:** Our experience renting an apartment in Munich, detailed in [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/), was a testament to the city's livability, despite its challenges.
+*   **Site Link:** Our experience renting an apartment in Munich, detailed in [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/), was a testament to the city's livability, despite its challenges.
 
 **What We Missed About Turkey:**
 
 Conversely, the transition highlighted aspects of Turkish life we hadn't fully appreciated. The **spontaneous human warmth and deep social connections** are unique. In Turkey, hospitality is not just a gesture; it's a way of life. The ease with which we could connect with people, the extended family gatherings, and the general effervescence of social interactions are things that cannot be easily replicated. The **food culture** in Turkey is simply on another level. The freshness, variety, and sheer joy of eating in Turkey are something we still yearn for. Every meal felt like a celebration.
 
-*   **Site Link:** Our detailed comparisons, such as [Food and Eating Out: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/food-turkey-vs-germany/) and [Social Life and Making Friends: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/social-life-turkey-vs-germany/), capture these feelings more vividly.
+*   **Site Link:** Our detailed comparisons, such as [Food and Eating Out: Turkey vs Germany](https://lebeninsider.com/en/germany/living/food-turkey-vs-germany/) and [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/), capture these feelings more vividly.
 
 **Navigating the Nuances:**
 
@@ -308,13 +308,13 @@ The experience of moving countries is rarely black and white. Germany's efficien
 
 As parents, our perspective is heavily influenced by our child's experience. Germany's focus on safety, education, and outdoor activities provides a nurturing environment. The *Kita* system, while different from Turkish childcare, offers structured learning and socialization. However, we sometimes miss the extended, multi-generational family involvement that is so common in Turkey.
 
-*   **Site Link:** Our insights into [Childcare and the Kita System: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/kita-childcare-turkey-vs-germany/) and [Primary School: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/primary-school-turkey-vs-germany/) delve into these differences.
+*   **Site Link:** Our insights into [Childcare and the Kita System: Turkey vs Germany](https://lebeninsider.com/en/germany/living/kita-childcare-turkey-vs-germany/) and [Primary School: Turkey vs Germany](https://lebeninsider.com/en/germany/living/primary-school-turkey-vs-germany/) delve into these differences.
 
 **The Verdict for Us:**
 
 Ultimately, the decision to live in Germany was driven by a desire for a stable foundation for our family's future. The security, the quality of education and healthcare, and the overall predictability of life here have proven invaluable. However, we carry our Turkish roots with us – the language, the cultural values, the love for our homeland, and the cherished memories. It's not about choosing one country over the other as "better," but about identifying which country best serves our needs at this stage of our lives. Germany provides the structure and opportunities we sought, while Turkey remains the wellspring of our identity and cherished connections.
 
-*   **Site Link:** This journey is further explored in [Why I Left Turkey: The Decision That Changed Everything](https://share-hub-eu.online/en/germany/living/why-i-moved-countries/) and the overarching comparison in [Turkey vs Germany: An Honest Comparison After Making the Move](https://share-hub-eu.online/en/germany/living/turkey-vs-germany/).
+*   **Site Link:** This journey is further explored in [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/) and the overarching comparison in [Turkey vs Germany: An Honest Comparison After Making the Move](https://lebeninsider.com/en/germany/living/turkey-vs-germany/).
 
 ---
 
@@ -330,7 +330,7 @@ Germany has a universal, high-quality healthcare system funded through mandatory
 The cost of living in Germany is generally higher than in Turkey, especially in major cities like Munich or Berlin, where rent can be a significant expense. Groceries, utilities, and public transportation are also typically more expensive in Germany. However, salaries and wages are generally higher in Germany, which can offset the increased cost of living, especially in terms of purchasing power for essential goods and services.
 
 **4. How safe is it to live in Germany for expats, particularly those from minority backgrounds?**
-Germany is generally a very safe country with low crime rates. Most expats report feeling secure. However, like any country, it faces challenges with occasional xenophobia and discrimination. Muslim expats, for instance, may encounter specific cultural or social biases, as discussed in [Being Turkish and Muslim in Germany: What It Is Actually Like](https://share-hub-eu.online/en/germany/living/turkish-muslim-identity-germany/). It's important to be aware of potential challenges while also recognizing that many expats live fulfilling and integrated lives.
+Germany is generally a very safe country with low crime rates. Most expats report feeling secure. However, like any country, it faces challenges with occasional xenophobia and discrimination. Muslim expats, for instance, may encounter specific cultural or social biases, as discussed in [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/). It's important to be aware of potential challenges while also recognizing that many expats live fulfilling and integrated lives.
 
 **5. What is the best time of year to visit Germany?**
 The best times to visit Germany depend on your preferences. **Summer (June to August)** offers warm weather, ideal for outdoor activities and festivals, but it's also the peak tourist season. **Spring (April to May)** and **Autumn (September to October)** provide pleasant temperatures, beautiful scenery with blooming flowers or autumn colors, and fewer crowds. **Winter (November to March)** is magical for Christmas markets and skiing, but days are short and cold.
@@ -348,9 +348,9 @@ Making deep friendships in Germany can take time and effort. Germans are often m
 - [Back to series overview](/en/germany/living/turkey-vs-germany/)
 - [Why I moved countries](/en/germany/living/why-i-moved-countries/)
 - [Trust in Germany](/en/germany/living/trust-in-germany/)
-- [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://share-hub-eu.online/en/germany/expat/renting-in-germany-munich/)
-- [Being Turkish and Muslim in Germany: What It Is Actually Like](https://share-hub-eu.online/en/germany/living/turkish-muslim-identity-germany/)
-- [Food and Eating Out: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/food-turkey-vs-germany/)
-- [Social Life and Making Friends: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/social-life-turkey-vs-germany/)
-- [Childcare and the Kita System: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/kita-childcare-turkey-vs-germany/)
-- [Primary School: Turkey vs Germany](https://share-hub-eu.online/en/germany/living/primary-school-turkey-vs-germany/)
+- [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
+- [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/)
+- [Food and Eating Out: Turkey vs Germany](https://lebeninsider.com/en/germany/living/food-turkey-vs-germany/)
+- [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/)
+- [Childcare and the Kita System: Turkey vs Germany](https://lebeninsider.com/en/germany/living/kita-childcare-turkey-vs-germany/)
+- [Primary School: Turkey vs Germany](https://lebeninsider.com/en/germany/living/primary-school-turkey-vs-germany/)
