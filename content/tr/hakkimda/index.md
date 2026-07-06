@@ -1,21 +1,21 @@
 ---
 title: "Hakkımda"
-description: "Münih'te yaşayan bir Network Security Mühendisi, iki çocuk babası ve gönüllü bürokrasi dedektifi. Share Hub neden var, kim yazıyor ve neden okumalısın?"
+description: "Münih'te yaşayan bir Network Security Mühendisi, iki çocuk babası ve gönüllü bürokrasi dedektifi. LebensInsider neden var, kim yazıyor ve neden okumalısın?"
 translationKey: "about-page"
 featureimage: "img/lebeninsider-hero.webp"
 ---
 
-## Benim Yolculuğumun Coğrafyası ve Share Hub EU Misyonu
+## Benim Yolculuğumun Coğrafyası ve LebensInsider Misyonu
 
-Ben Barash. Türkiye'nin sıcak ikliminden doğup, Bulgaristan'ın zengin kültüründen bir köprü kurarak, Almanya'nın düzenli ve zorlayıcı dünyasına adım atmış bir **expat**'ım. Şu an Münih'in hareketli atmosferinde, bir Network Security Mühendisi olarak profesyonel hayatımı sürdürüyor, aynı zamanda 1 ve 5 yaşlarında iki çocuk babası olarak Avrupa'nın taş kaldırımlı sokaklarında ikiz bebek arabasıyla maceralar yaşıyorum. Bu blog, benim Türkiye, Bulgaristan ve Almanya üçgeninde yaşadığım **bürokratik labirentleri** çözme serüvenimin bir yansıması. Share Hub EU, bu yolculuğun getirdiği deneyimleri, karşılaşılan zorlukları ve öğrenilen dersleri, benzer yolları yürüyen diğerleriyle paylaşma arzusuyla doğdu.
+Ben Barash. Türkiye'nin sıcak ikliminden doğup, Bulgaristan'ın zengin kültüründen bir köprü kurarak, Almanya'nın düzenli ve zorlayıcı dünyasına adım atmış bir **expat**'ım. Şu an Münih'in hareketli atmosferinde, bir Network Security Mühendisi olarak profesyonel hayatımı sürdürüyor, aynı zamanda 1 ve 5 yaşlarında iki çocuk babası olarak Avrupa'nın taş kaldırımlı sokaklarında ikiz bebek arabasıyla maceralar yaşıyorum. Bu blog, benim Türkiye, Bulgaristan ve Almanya üçgeninde yaşadığım **bürokratik labirentleri** çözme serüvenimin bir yansıması. LebensInsider, bu yolculuğun getirdiği deneyimleri, karşılaşılan zorlukları ve öğrenilen dersleri, benzer yolları yürüyen diğerleriyle paylaşma arzusuyla doğdu.
 
 Hayatımın bu üç ülke arasındaki geçişi, sadece coğrafi bir yer değiştirme değil, aynı zamanda **kültürel adaptasyon, dil öğrenimi ve sayısız resmi işlemle dolu** karmaşık bir süreç oldu. Her bir ülke, kendi kuralları, kendi işleyiş biçimi ve kendi insan profiliyle beni farklı şekillerde şekillendirdi. Almanya'ya ilk geldiğimde, her şeyin "ordnung" (düzen) içinde olduğunu düşünsem de, kişisel deneyimlerin ne kadar farklı ve karmaşık olabileceğini kısa sürede anladım. Burada hava bazen gri ve soğuk olabilir, ancak insanların genel disiplini ve hayata karşı tutumları, bu ülkenin **benzersiz karakterini** oluşturur.
 
-Share Hub EU'yu kurmamın temel nedeni, internette saatlerce araştırma yapmama rağmen **bizzat yaşanmış, detaylı, dürüst ve pratiğe yönelik bilgiye** ulaşmanın ne kadar zor olduğunu fark etmemdi. Birçok kaynak ya resmi evrakların soğuk bir özetini sunuyor ya da "bir arkadaşım halletti" düzeyinde, gerçek hayatta pek de işe yaramayan belirsiz tavsiyelerle doluydu. Bu blog, tam da bu boşluğu doldurmak için var: **gerçek deneyimler, pratik çözümler ve samimi bir bakış açısıyla** gurbet hayatına dair aklınızdaki sorulara yanıt bulmak.
+LebensInsider'yu kurmamın temel nedeni, internette saatlerce araştırma yapmama rağmen **bizzat yaşanmış, detaylı, dürüst ve pratiğe yönelik bilgiye** ulaşmanın ne kadar zor olduğunu fark etmemdi. Birçok kaynak ya resmi evrakların soğuk bir özetini sunuyor ya da "bir arkadaşım halletti" düzeyinde, gerçek hayatta pek de işe yaramayan belirsiz tavsiyelerle doluydu. Bu blog, tam da bu boşluğu doldurmak için var: **gerçek deneyimler, pratik çözümler ve samimi bir bakış açısıyla** gurbet hayatına dair aklınızdaki sorulara yanıt bulmak.
 
-Share Hub EU, sadece bir bilgi kaynağı değil, aynı zamanda bir **ilham ve dayanışma noktası**. Amacım, Almanya veya Avrupa'nın herhangi bir yerinde yeni bir hayat kurmaya çalışan, seyahat eden veya sadece merak eden herkes için bir rehber olmak. Burada sadece bilgi değil, aynı zamanda **motivasyon ve "yalnız değilim" hissi** de bulacaksınız. Benim deneyimlerimden yola çıkarak, siz de kendi yolculuğunuzda daha bilinçli adımlar atabilir, olası hatalardan kaçınabilir ve yeni maceranıza daha güvenle başlayabilirsiniz.
+LebensInsider, sadece bir bilgi kaynağı değil, aynı zamanda bir **ilham ve dayanışma noktası**. Amacım, Almanya veya Avrupa'nın herhangi bir yerinde yeni bir hayat kurmaya çalışan, seyahat eden veya sadece merak eden herkes için bir rehber olmak. Burada sadece bilgi değil, aynı zamanda **motivasyon ve "yalnız değilim" hissi** de bulacaksınız. Benim deneyimlerimden yola çıkarak, siz de kendi yolculuğunuzda daha bilinçli adımlar atabilir, olası hatalardan kaçınabilir ve yeni maceranıza daha güvenle başlayabilirsiniz.
 
-## Share Hub EU'da Keşfedilecek Temel Alanlar ve Önemli Duraklar
+## LebensInsider'da Keşfedilecek Temel Alanlar ve Önemli Duraklar
 
 Bu blog, benim ve ailemin Almanya'daki ve Avrupa'daki yaşam yolculuğumuzun bir haritasıdır. Her bir başlık, bu yolculukta karşılaştığımız önemli "durakları" veya "rotaları" temsil ediyor. Burada sadece kuru bilgiler değil, **bizzat yaşadığımız deneyimlerden damıtılmış pratik ipuçları** ve kişisel gözlemler bulacaksınız.
 
@@ -39,7 +39,7 @@ Almanya'da yaşam, sadece bürokrasi ve iş hayatından ibaret değil, aynı zam
 
 ## Düşüncelerin Beslendiği Mekanlar: Münih'te İlham Aldığım Noktalar
 
-Almanya'daki yaşamım, özellikle de Münih'te geçen zamanım boyunca, Share Hub EU için birçok fikrin yeşerdiği, sorunların çözüldüğü ve seyahat planlarının yapıldığı özel mekanlarım oldu. Bu yerler, sadece karın doyurduğum noktalar değil, aynı zamanda şehrin ruhunu hissettiğim, gözlem yaptığım ve yazılarımı zenginleştiren ilham kaynaklarım.
+Almanya'daki yaşamım, özellikle de Münih'te geçen zamanım boyunca, LebensInsider için birçok fikrin yeşerdiği, sorunların çözüldüğü ve seyahat planlarının yapıldığı özel mekanlarım oldu. Bu yerler, sadece karın doyurduğum noktalar değil, aynı zamanda şehrin ruhunu hissettiğim, gözlem yaptığım ve yazılarımı zenginleştiren ilham kaynaklarım.
 
 ### Cafe Luitpold ([Google Maps](https://www.google.com/maps/search/Cafe+Luitpold+München))
 Münih'in köklü ve tarihi kafelerinden biri olan Cafe Luitpold, şehrin kalbinde, Bavyera mimarisinin zarafetiyle çevrili bir kaçış noktası. Genellikle sabah kahvemi içerken güncel expat konularını ve yazılarıma ekleyeceğim yeni fikirleri düşünürüm. Burası, blog için yeni temalar ve yaklaşım açıları bulmak için ideal, sakin ve sofistike bir atmosfer sunar. Menüsü geniş, fiyat aralığı orta-üst seviyededir.
@@ -64,9 +64,9 @@ Münih'in üniversite bölgesine yakın bu bağımsız kafe ve kitapçı, genell
 | **Fiyat/Maliyet Analizleri**    | LPG fiyatları, sigorta tasarrufu, yaşam maliyeti karşılaştırmaları. | 10-15 Dakika (Ekonomik Bilgi)                   |
 | **Şehir Keşif Rehberleri**      | Münih ve çevresindeki gezilecek yerler, gizli kalmış rotalar.     | 15-25 Dakika (Seyahat Planı)                    |
 
-## Share Hub EU'daki "Kalacak Yerler": Bilgi Bölümlerimiz
+## LebensInsider'daki "Kalacak Yerler": Bilgi Bölümlerimiz
 
-Share Hub EU, farklı ihtiyaç ve ilgi alanlarına hitap eden çeşitli "konaklama" seçenekleri sunar. Blogu ziyaret ettiğinizde, aradığınız bilgiye en uygun "odaya" yerleşebilir, konulara derinlemesine dalabilir veya hızlıca ana hatları öğrenebilirsiniz. Bu bölümler, sizin için en uygun bilgi "evini" bulmanızı sağlamak amacıyla tasarlanmıştır.
+LebensInsider, farklı ihtiyaç ve ilgi alanlarına hitap eden çeşitli "konaklama" seçenekleri sunar. Blogu ziyaret ettiğinizde, aradığınız bilgiye en uygun "odaya" yerleşebilir, konulara derinlemesine dalabilir veya hızlıca ana hatları öğrenebilirsiniz. Bu bölümler, sizin için en uygun bilgi "evini" bulmanızı sağlamak amacıyla tasarlanmıştır.
 
 ### Expat Rehberleri Bölümü ([Google Maps](https://www.google.com/maps/search/Expat+Community+Munich) | [Booking.com](https://www.booking.com/search.html?ss=Expat+Community+Munich))
 Bu bölüm, Almanya'ya yeni taşınanlar veya halihazırda burada yaşayanlar için **en kapsamlı ve detaylı rehberleri** içerir. Bürokratik işlemlerden (ehliyet, oturma izni), iş arama süreçlerine (iş mahkemesi deneyimleri), ev bulma zorluklarına (kira rehberi) kadar tüm kritik expat konularını burada bulabilirsiniz. Burası, Almanya'daki yaşamın **temelini atmak isteyenler** için bir tür "lüks süit" görevi görür. Her bir yazı, yılların birikimi ve kişisel deneyimlerle yoğrulmuştur.
@@ -95,7 +95,7 @@ Her bölüm, kendi içinde bir bütünlük arz ederken, aynı zamanda diğer bö
 
 ## Nasıl Gidilir? Ulaşım: İçeriğimize Erişme Yolları
 
-Share Hub EU'ya ulaşmak ve sunduğumuz bilgilere erişmek oldukça kolay ve çeşitli yollarla mümkündür. Amacımız, bilgiyi size en erişilebilir ve kullanıcı dostu şekilde sunmaktır. Blogumuz, Almanya'daki toplu taşıma ağı gibi, **verimli ve kapsayıcı** bir yapıya sahiptir.
+LebensInsider'ya ulaşmak ve sunduğumuz bilgilere erişmek oldukça kolay ve çeşitli yollarla mümkündür. Amacımız, bilgiyi size en erişilebilir ve kullanıcı dostu şekilde sunmaktır. Blogumuz, Almanya'daki toplu taşıma ağı gibi, **verimli ve kapsayıcı** bir yapıya sahiptir.
 
 **Merkezlerden Ulaşım (Temel Erişim Yolları):**
 
@@ -106,7 +106,7 @@ Share Hub EU'ya ulaşmak ve sunduğumuz bilgilere erişmek oldukça kolay ve çe
 | **E-posta Bülteni**      | Özel içerik, güncellemeler.            | 5-10 Dakika (Özet Bilgi)             | Ücretsiz (Orta Çaba: Kayıt)   |
 
 **Deutschlandticket Gecerli mi? (Erişilebilirlik)**
-Evet, Share Hub EU'daki tüm içerikler **Deutschlandticket kadar kolay erişilebilir ve ücretsizdir**! Hiçbir yazıya veya rehbere erişmek için herhangi bir abonelik ücreti veya gizli maliyet yoktur. Amacımız, bilgiye eşit ve engelsiz erişim sağlamaktır. Tıpkı Deutschlandticket'in Almanya genelinde sınırsız seyahat özgürlüğü sunması gibi, Share Hub EU da size **sınırsız bilgiye erişim** imkanı sunar.
+Evet, LebensInsider'daki tüm içerikler **Deutschlandticket kadar kolay erişilebilir ve ücretsizdir**! Hiçbir yazıya veya rehbere erişmek için herhangi bir abonelik ücreti veya gizli maliyet yoktur. Amacımız, bilgiye eşit ve engelsiz erişim sağlamaktır. Tıpkı Deutschlandticket'in Almanya genelinde sınırsız seyahat özgürlüğü sunması gibi, LebensInsider da size **sınırsız bilgiye erişim** imkanı sunar.
 
 **Şehir İçi Ulaşım (Blog İçinde Gezinme):**
 Blog içinde gezinmek, Münih'in gelişmiş metro (U-Bahn) ve tramvay (Tram) ağı kadar **sezgisel ve kolaydır**.
@@ -115,11 +115,11 @@ Blog içinde gezinmek, Münih'in gelişmiş metro (U-Bahn) ve tramvay (Tram) ağ
 *   **İlgili Yazılar:** Her yazının altında, konuya benzer veya tamamlayıcı diğer yazılarımız listelenir. Bu sayede, tek bir konuda derinlemesine bilgi edinirken ilgili diğer bilgilere de kolayca geçiş yapabilirsiniz.
 *   **Yorumlar ve İletişim:** Eğer bir konuda daha fazla bilgiye ihtiyacınız olursa veya kendi deneyiminizi paylaşmak isterseniz, yazılarımızın altındaki yorum bölümünü kullanabilir veya doğrudan [İletişim](/tr/iletisim/) sayfamızdan bana ulaşabilirsiniz. Bu, blog içindeki "interaktif bisiklet yolu" gibidir; kişisel bağlantı kurarak ilerlersiniz.
 
-Kısacası, Share Hub EU, bilginin akıcı ve kolayca erişilebilir olduğu, modern bir bilgi "ulaşım ağı" sunar.
+Kısacası, LebensInsider, bilginin akıcı ve kolayca erişilebilir olduğu, modern bir bilgi "ulaşım ağı" sunar.
 
-## Bizim Deneyimimiz: Neden Share Hub EU Var Oldu?
+## Bizim Deneyimimiz: Neden LebensInsider Var Oldu?
 
-Münih'te, iki çocukla ve bir ikiz bebek arabasıyla yaşamanın getirdiği her zorluk ve sevinç, Share Hub EU'nun ruhunu oluşturuyor. Türkiye'de doğmuş, Bulgaristan vatandaşlığı almış ve ardından Almanya'ya taşınmış biri olarak, bu üç ülke arasındaki **bürokratik labirentte** kişisel bir rehberliğe duyduğum ihtiyacı bizzat yaşadım. Bu blog, işte tam da bu noktadan, **"Benim başıma gelenler, başkasının da başına gelmeden önce bir yol göstersin"** düşüncesiyle doğdu.
+Münih'te, iki çocukla ve bir ikiz bebek arabasıyla yaşamanın getirdiği her zorluk ve sevinç, LebensInsider'nun ruhunu oluşturuyor. Türkiye'de doğmuş, Bulgaristan vatandaşlığı almış ve ardından Almanya'ya taşınmış biri olarak, bu üç ülke arasındaki **bürokratik labirentte** kişisel bir rehberliğe duyduğum ihtiyacı bizzat yaşadım. Bu blog, işte tam da bu noktadan, **"Benim başıma gelenler, başkasının da başına gelmeden önce bir yol göstersin"** düşüncesiyle doğdu.
 
 Almanya'ya gelmeden önce internette saatlerimi harcadım. Resmi web sitelerindeki soğuk, standart bilgiler yetersizdi. Forumlardaki "bir arkadaşımın arkadaşı şöyle yapmış" tarzı, doğruluğu teyit edilemeyen bilgiler ise çoğu zaman yanıltıcıydı. Ehliyet yenileme sürecinde hangi evrakta takıldığımı, Bulgar ehliyetini Almanya'da kullanmaya çalışıp neden işe yaramadığını, iş mahkemesinde tercüman talep etmenin ücretsiz olduğunu kimsenin bana neden söylemediğini düşündükçe, bu bilgileri bir araya getirme ihtiyacım arttı. **Jobcenter'ın tazminatımı gelir sayıp yardımımı kestiğinde** yaşadığım şaşkınlık ve ardından kendi başıma bulduğum çözümler, bu tür pratik bilgilerin ne kadar değerli olduğunu bir kez daha gösterdi.
 
@@ -127,18 +127,18 @@ En çok beğendiğim yan, bu deneyimlerin beni sadece bilgilendirmekle kalmayıp
 
 Beklentimin altında kalan tek şey ise, bu süreçlerin **zaman zaman ne kadar yorucu ve insanı yıpratıcı olabileceğiydi**. İki küçük çocukla, özellikle de ikiz bebek arabasıyla Avrupa'nın o güzelim taş kaldırımlarında yürümeye çalışırken, her basit bürokratik engelin devasa bir dağa dönüşebildiğini fark ettim. **Deutschlandticket ile Münih çevresinde geziler** ([Deutschlandticket ile Münih Çevresinde Gezi | Çocukla Bavyera Rotaları (2026)](https://lebeninsider.com/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)) yaparken bile, çocukların ihtiyaçları ve planlama gerekliliği, spontane kararlar almayı neredeyse imkansız hale getirebiliyor. Bu yüzden blogumda, çocuklarla seyahat eden ailelere özel ipuçlarına da yer veriyorum.
 
-Share Hub EU, sadece benim deneyimlerimi değil, aynı zamanda **benzer yolları yürüyenlerin de sesini duyurma** amacı taşıyor. Bu blogdaki her yazı, resmi belgelerden çok daha fazlasını anlatıyor; **gerçek bir expat'ın kalbinden ve aklından geçenleri** paylaşıyor. Umarım siz de burada aradığınızı bulur, kendi yolculuğunuzda ilham alırsınız.
+LebensInsider, sadece benim deneyimlerimi değil, aynı zamanda **benzer yolları yürüyenlerin de sesini duyurma** amacı taşıyor. Bu blogdaki her yazı, resmi belgelerden çok daha fazlasını anlatıyor; **gerçek bir expat'ın kalbinden ve aklından geçenleri** paylaşıyor. Umarım siz de burada aradığınızı bulur, kendi yolculuğunuzda ilham alırsınız.
 
 ## Sık Sorulan Sorular
 
 **1. Barash kimdir ve neden bu blogu yazıyor?**
 Ben Barash, Münih'te yaşayan bir Network Security Mühendisiyim, iki çocuk babasıyım ve Türkiye, Bulgaristan, Almanya üçgenindeki bürokratik ve kültürel geçişleri bizzat yaşamış biriyim. Bu blogu, kendi zorlu expat deneyimlerimi ve edindiğim pratik bilgileri, benzer yollardan geçen diğer insanlarla paylaşmak amacıyla yazıyorum.
 
-**2. Share Hub EU'nun temel misyonu nedir?**
-Share Hub EU'nun misyonu, Almanya ve Avrupa'da yaşamaya, çalışmaya veya seyahat etmeye karar veren kişilere, **kişisel deneyimlere dayalı, detaylı, dürüst ve pratik rehberlik** sağlamaktır. Resmi ve soğuk bilgilerin ötesine geçerek, gerçek hayatta karşılaşılan sorunlara samimi çözümler sunmayı hedefler.
+**2. LebensInsider'nun temel misyonu nedir?**
+LebensInsider'nun misyonu, Almanya ve Avrupa'da yaşamaya, çalışmaya veya seyahat etmeye karar veren kişilere, **kişisel deneyimlere dayalı, detaylı, dürüst ve pratik rehberlik** sağlamaktır. Resmi ve soğuk bilgilerin ötesine geçerek, gerçek hayatta karşılaşılan sorunlara samimi çözümler sunmayı hedefler.
 
 **3. Buradaki bilgiler hukuki danışmanlık veya doktor tavsiyesi yerine geçer mi?**
-Hayır, kesinlikle geçmez. Share Hub EU'daki her yazı, benim **kişisel deneyimlerime, araştırmalarıma ve gözlemlerime** dayanmaktadır. Bu bilgiler yasal veya tıbbi danışmanlık niteliğinde değildir. Her zaman profesyonel hukuk veya sağlık uzmanlarına başvurmanız önemlidir.
+Hayır, kesinlikle geçmez. LebensInsider'daki her yazı, benim **kişisel deneyimlerime, araştırmalarıma ve gözlemlerime** dayanmaktadır. Bu bilgiler yasal veya tıbbi danışmanlık niteliğinde değildir. Her zaman profesyonel hukuk veya sağlık uzmanlarına başvurmanız önemlidir.
 
 **4. Blogda ne tür içerikler bulabilirim?**
 Blogda Almanya'daki bürokrasi, ehliyet süreçleri, kira bulma, iş hukuku, aileyle seyahat rotaları, Avrupa şehir rehberleri ve Alman kültürüne dair yaşam tüyoları gibi geniş bir yelpazede içerikler bulabilirsiniz. Özellikle **pratik sorunlara odaklanan ve detaylı çözümler sunan** yazılar ön plandadır.
@@ -147,4 +147,4 @@ Blogda Almanya'daki bürokrasi, ehliyet süreçleri, kira bulma, iş hukuku, ail
 Yeni yazılar, araştırma ve deneyimlerime bağlı olarak düzenli aralıklarla yayınlanmaktadır. Amacım, **kaliteli ve derinlemesine bilgi** sunmak olduğundan, her yazının üzerinde titizlikle çalışılır. En güncel bilgilere ulaşmak için sosyal medya kanallarımızı takip edebilir veya e-posta bültenimize abone olabilirsiniz.
 
 **6. Ben de kendi deneyimlerimi paylaşabilir miyim veya sorular sorabilir miyim?**
-Kesinlikle! Share Hub EU, bir **paylaşım platformu** olmayı hedefler. Yazıların altındaki yorum bölümlerini kullanarak kendi deneyimlerinizi paylaşabilir, sorular sorabilir veya katkıda bulunabilirsiniz. Ayrıca, [İletişim](/tr/iletisim/) sayfamız üzerinden doğrudan bana ulaşmaktan çekinmeyin. Sizin katkılarınız, bu blogu daha değerli kılacaktır.
+Kesinlikle! LebensInsider, bir **paylaşım platformu** olmayı hedefler. Yazıların altındaki yorum bölümlerini kullanarak kendi deneyimlerinizi paylaşabilir, sorular sorabilir veya katkıda bulunabilirsiniz. Ayrıca, [İletişim](/tr/iletisim/) sayfamız üzerinden doğrudan bana ulaşmaktan çekinmeyin. Sizin katkılarınız, bu blogu daha değerli kılacaktır.

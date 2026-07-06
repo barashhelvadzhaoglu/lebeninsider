@@ -1,21 +1,21 @@
 ---
 title: "Sobre mí"
-description: "Un ingeniero de seguridad de redes que vive en Múnich, padre de dos hijos y detective voluntario de la burocracia. ¿Por qué existe Share Hub, quién escribe y por qué deberías leerlo?"
+description: "Un ingeniero de seguridad de redes que vive en Múnich, padre de dos hijos y detective voluntario de la burocracia. ¿Por qué existe LebensInsider, quién escribe y por qué deberías leerlo?"
 translationKey: "about-page"
 featureimage: "img/lebeninsider-hero.webp"
 ---
 
-## La Geografía de Mi Viaje y la Misión de Share Hub EU
+## La Geografía de Mi Viaje y la Misión de LebensInsider
 
-Soy Barash. Un **expat** nacido del cálido clima de Turquía, que ha construido un puente desde la rica cultura de Bulgaria y ha puesto un pie en el mundo ordenado y desafiante de Alemania. Actualmente, en la vibrante atmósfera de Múnich, continúo mi vida profesional como Ingeniero de Seguridad de Redes, y como padre de dos hijos de 1 y 5 años, vivo aventuras con un carrito doble por las calles adoquinadas de Europa. Este blog es un reflejo de mi aventura para descifrar los **laberintos burocráticos** que he vivido en el triángulo Turquía, Bulgaria y Alemania. Share Hub EU nació del deseo de compartir las experiencias, los desafíos encontrados y las lecciones aprendidas en este viaje con otros que recorren caminos similares.
+Soy Barash. Un **expat** nacido del cálido clima de Turquía, que ha construido un puente desde la rica cultura de Bulgaria y ha puesto un pie en el mundo ordenado y desafiante de Alemania. Actualmente, en la vibrante atmósfera de Múnich, continúo mi vida profesional como Ingeniero de Seguridad de Redes, y como padre de dos hijos de 1 y 5 años, vivo aventuras con un carrito doble por las calles adoquinadas de Europa. Este blog es un reflejo de mi aventura para descifrar los **laberintos burocráticos** que he vivido en el triángulo Turquía, Bulgaria y Alemania. LebensInsider nació del deseo de compartir las experiencias, los desafíos encontrados y las lecciones aprendidas en este viaje con otros que recorren caminos similares.
 
 Mi transición entre estos tres países no fue solo un cambio geográfico, sino también un proceso complejo lleno de **adaptación cultural, aprendizaje de idiomas y un sinfín de trámites oficiales**. Cada país me ha moldeado de diferentes maneras con sus propias reglas, su propia forma de funcionar y su propio perfil de personas. Cuando llegué por primera vez a Alemania, aunque pensé que todo estaba en "ordnung" (orden), rápidamente me di cuenta de lo diversas y complicadas que pueden ser las experiencias personales. El clima aquí a veces puede ser gris y frío, pero la disciplina general de la gente y su actitud hacia la vida forman el **carácter único** de este país.
 
-La razón principal por la que fundé Share Hub EU fue darme cuenta de lo difícil que era encontrar **información detallada, honesta y práctica, basada en experiencias personales**, a pesar de pasar horas investigando en internet. Muchas fuentes ofrecían un resumen frío de documentos oficiales o estaban llenas de consejos vagos, a nivel de "un amigo lo solucionó", que no eran muy útiles en la vida real. Este blog existe precisamente para llenar ese vacío: encontrar respuestas a tus preguntas sobre la vida en el extranjero con **experiencias reales, soluciones prácticas y una perspectiva sincera**.
+La razón principal por la que fundé LebensInsider fue darme cuenta de lo difícil que era encontrar **información detallada, honesta y práctica, basada en experiencias personales**, a pesar de pasar horas investigando en internet. Muchas fuentes ofrecían un resumen frío de documentos oficiales o estaban llenas de consejos vagos, a nivel de "un amigo lo solucionó", que no eran muy útiles en la vida real. Este blog existe precisamente para llenar ese vacío: encontrar respuestas a tus preguntas sobre la vida en el extranjero con **experiencias reales, soluciones prácticas y una perspectiva sincera**.
 
-Share Hub EU no es solo una fuente de información, sino también un **punto de inspiración y solidaridad**. Mi objetivo es ser una guía para todos los que intentan construir una nueva vida en Alemania o en cualquier parte de Europa, viajan o simplemente tienen curiosidad. Aquí no solo encontrarás información, sino también **motivación y la sensación de "no estoy solo"**. A partir de mis experiencias, tú también podrás dar pasos más conscientes en tu propio viaje, evitar posibles errores y comenzar tu nueva aventura con más confianza.
+LebensInsider no es solo una fuente de información, sino también un **punto de inspiración y solidaridad**. Mi objetivo es ser una guía para todos los que intentan construir una nueva vida en Alemania o en cualquier parte de Europa, viajan o simplemente tienen curiosidad. Aquí no solo encontrarás información, sino también **motivación y la sensación de "no estoy solo"**. A partir de mis experiencias, tú también podrás dar pasos más conscientes en tu propio viaje, evitar posibles errores y comenzar tu nueva aventura con más confianza.
 
-## Áreas Clave a Explorar y Paradas Importantes en Share Hub EU
+## Áreas Clave a Explorar y Paradas Importantes en LebensInsider
 
 Este blog es un mapa del viaje de mi familia y mío a través de la vida en Alemania y Europa. Cada sección representa las "paradas" o "rutas" importantes que hemos encontrado en este viaje. Aquí no solo encontrarás información seca, sino también **consejos prácticos destilados de nuestras propias experiencias** y observaciones personales.
 
@@ -39,7 +39,7 @@ La vida en Alemania no se trata solo de burocracia y vida laboral, sino que tamb
 
 ## Lugares Donde Florecen las Ideas: Puntos de Inspiración en Múnich
 
-A lo largo de mi vida en Alemania, especialmente en Múnich, he tenido lugares especiales donde han germinado muchas ideas para Share Hub EU, se han resuelto problemas y se han planificado viajes. Estos lugares no son solo sitios donde me alimento, sino también fuentes de inspiración donde siento el espíritu de la ciudad, hago observaciones y enriquezco mis escritos.
+A lo largo de mi vida en Alemania, especialmente en Múnich, he tenido lugares especiales donde han germinado muchas ideas para LebensInsider, se han resuelto problemas y se han planificado viajes. Estos lugares no son solo sitios donde me alimento, sino también fuentes de inspiración donde siento el espíritu de la ciudad, hago observaciones y enriquezco mis escritos.
 
 ### Cafe Luitpold ([Google Maps](https://www.google.com/maps/search/Cafe+Luitpold+München))
 El Cafe Luitpold, uno de los cafés históricos y tradicionales de Múnich, es un refugio en el corazón de la ciudad, rodeado de la elegancia de la arquitectura bávara. Suelo tomar mi café matutino aquí mientras reflexiono sobre temas actuales de expats y nuevas ideas para mis artículos. Ofrece una atmósfera tranquila y sofisticada, ideal para encontrar nuevos temas y enfoques para el blog. Su menú es amplio y el rango de precios es medio-alto.
@@ -64,9 +64,9 @@ Este café y librería independiente, cerca del barrio universitario de Múnich,
 | **Análisis de Precios/Costes**         | Precios de GLP, ahorro en seguros, comparaciones de coste de vida. | 10-15 Minutos (Información Económica)                       |
 | **Guías de Exploración Urbana**        | Lugares para visitar en Múnich y sus alrededores, rutas ocultas. | 15-25 Minutos (Plan de Viaje)                               |
 
-## Lugares para "Alojarse" en Share Hub EU: Nuestras Secciones de Información
+## Lugares para "Alojarse" en LebensInsider: Nuestras Secciones de Información
 
-Share Hub EU ofrece una variedad de opciones de "alojamiento" que se adaptan a diferentes necesidades e intereses. Al visitar el blog, puedes "instalarte" en la "habitación" más adecuada para la información que buscas, profundizar en los temas o aprender rápidamente las líneas generales. Estas secciones están diseñadas para ayudarte a encontrar el "hogar" de información más apropiado para ti.
+LebensInsider ofrece una variedad de opciones de "alojamiento" que se adaptan a diferentes necesidades e intereses. Al visitar el blog, puedes "instalarte" en la "habitación" más adecuada para la información que buscas, profundizar en los temas o aprender rápidamente las líneas generales. Estas secciones están diseñadas para ayudarte a encontrar el "hogar" de información más apropiado para ti.
 
 ### Sección de Guías Expat ([Google Maps](https://www.google.com/maps/search/Expat+Community+Munich) | [Booking.com](https://www.booking.com/search.html?ss=Expat+Community+Munich))
 Esta sección contiene las **guías más completas y detalladas** para quienes se acaban de mudar a Alemania o ya viven aquí. Desde trámites burocráticos (carnet de conducir, permiso de residencia) hasta procesos de búsqueda de empleo (experiencias en tribunales laborales) y desafíos para encontrar vivienda (guía de alquiler), aquí encontrarás todos los temas críticos para expats. Esta es una especie de "suite de lujo" para quienes desean **sentar las bases** de la vida en Alemania. Cada artículo está impregnado de años de experiencia y vivencias personales.
@@ -95,7 +95,7 @@ Cada sección, aunque completa en sí misma, también se conecta con las otras p
 
 ## ¿Cómo Llegar? Transporte: Formas de Acceder a Nuestro Contenido
 
-Acceder a Share Hub EU y a la información que ofrecemos es bastante fácil y posible a través de diversas vías. Nuestro objetivo es presentarte la información de la manera más accesible y fácil de usar. Nuestro blog, al igual que la red de transporte público de Alemania, tiene una estructura **eficiente e inclusiva**.
+Acceder a LebensInsider y a la información que ofrecemos es bastante fácil y posible a través de diversas vías. Nuestro objetivo es presentarte la información de la manera más accesible y fácil de usar. Nuestro blog, al igual que la red de transporte público de Alemania, tiene una estructura **eficiente e inclusiva**.
 
 **Acceso desde Centros (Vías de Acceso Principales):**
 
@@ -106,7 +106,7 @@ Acceder a Share Hub EU y a la información que ofrecemos es bastante fácil y po
 | **Boletín de Correo Electrónico**  | Contenido exclusivo, actualizaciones.      | 5-10 Minutos (Información Resumida)             | Gratis (Esfuerzo Medio: Registro) |
 
 **¿Es Válido el Deutschlandticket? (Accesibilidad)**
-¡Sí, todo el contenido de Share Hub EU es **tan accesible y gratuito como el Deutschlandticket**! No hay tarifas de suscripción ni costes ocultos para acceder a ningún artículo o guía. Nuestro objetivo es proporcionar acceso igualitario y sin barreras a la información. Al igual que el Deutschlandticket ofrece libertad ilimitada de viaje por toda Alemania, Share Hub EU te ofrece la posibilidad de **acceder a información ilimitada**.
+¡Sí, todo el contenido de LebensInsider es **tan accesible y gratuito como el Deutschlandticket**! No hay tarifas de suscripción ni costes ocultos para acceder a ningún artículo o guía. Nuestro objetivo es proporcionar acceso igualitario y sin barreras a la información. Al igual que el Deutschlandticket ofrece libertad ilimitada de viaje por toda Alemania, LebensInsider te ofrece la posibilidad de **acceder a información ilimitada**.
 
 **Transporte Urbano (Navegación dentro del Blog):**
 Navegar dentro del blog es tan **intuitivo y fácil** como la avanzada red de metro (U-Bahn) y tranvía (Tram) de Múnich.
@@ -115,11 +115,11 @@ Navegar dentro del blog es tan **intuitivo y fácil** como la avanzada red de me
 *   **Artículos Relacionados:** Debajo de cada artículo, se enumeran otros artículos nuestros que son similares o complementarios al tema. De esta manera, mientras profundizas en un tema, puedes pasar fácilmente a otra información relacionada.
 *   **Comentarios y Contacto:** Si necesitas más información sobre un tema o quieres compartir tu propia experiencia, puedes usar la sección de comentarios debajo de nuestros artículos o contactarme directamente a través de nuestra página de [Contacto](/tr/iletisim/). Esto es como la "ruta ciclista interactiva" dentro del blog; avanzas estableciendo una conexión personal.
 
-En resumen, Share Hub EU ofrece una "red de transporte" de información moderna, donde el conocimiento es fluido y fácilmente accesible.
+En resumen, LebensInsider ofrece una "red de transporte" de información moderna, donde el conocimiento es fluido y fácilmente accesible.
 
-## Nuestra Experiencia: ¿Por Qué Nació Share Hub EU?
+## Nuestra Experiencia: ¿Por Qué Nació LebensInsider?
 
-Cada dificultad y alegría que conlleva vivir en Múnich con dos niños y un carrito doble, constituye el espíritu de Share Hub EU. Como alguien nacido en Turquía, con ciudadanía búlgara y luego mudado a Alemania, he experimentado personalmente la necesidad de una guía personal en el **laberinto burocrático** entre estos tres países. Este blog nació precisamente de este punto, con la idea de **"lo que me pasó a mí, que sirva de guía a otros antes de que les suceda"**.
+Cada dificultad y alegría que conlleva vivir en Múnich con dos niños y un carrito doble, constituye el espíritu de LebensInsider. Como alguien nacido en Turquía, con ciudadanía búlgara y luego mudado a Alemania, he experimentado personalmente la necesidad de una guía personal en el **laberinto burocrático** entre estos tres países. Este blog nació precisamente de este punto, con la idea de **"lo que me pasó a mí, que sirva de guía a otros antes de que les suceda"**.
 
 Antes de venir a Alemania, pasé horas en internet. La información fría y estándar de los sitios web oficiales era insuficiente. La información de los foros, del tipo "el amigo de un amigo hizo esto", que no podía ser verificada, a menudo era engañosa. A medida que pensaba en dónde me quedé atascado en el proceso de renovación del carnet de conducir, por qué intentar usar el carnet búlgaro en Alemania no funcionó, por qué nadie me dijo que solicitar un intérprete en el tribunal laboral era gratuito, mi necesidad de recopilar esta información creció. La sorpresa que viví cuando el **Jobcenter consideró mi indemnización como ingresos y me cortó la ayuda**, y las soluciones que encontré por mi cuenta después, demostraron una vez más lo valiosa que es este tipo de información práctica.
 
@@ -127,18 +127,18 @@ Lo que más me gustó fue que estas experiencias no solo me informaron, sino que
 
 Lo único que estuvo por debajo de mis expectativas fue **lo agotador y frustrante que pueden ser estos procesos a veces**. Caminando por los hermosos adoquines de Europa con dos niños pequeños, especialmente con un carrito doble, me di cuenta de que cada simple obstáculo burocrático podía convertirse en una montaña gigantesca. Incluso al hacer **excursiones por los alrededores de Múnich con el Deutschlandticket** ([Excursión alrededor de Múnich con el Deutschlandticket | Rutas por Baviera con Niños (2026)](https://lebeninsider.com/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)), las necesidades de los niños y la necesidad de planificación pueden hacer que tomar decisiones espontáneas sea casi imposible. Por eso, en mi blog también incluyo consejos especiales para familias que viajan con niños.
 
-Share Hub EU no solo comparte mis experiencias, sino que también tiene como objetivo **dar voz a quienes recorren caminos similares**. Cada artículo de este blog cuenta mucho más que documentos oficiales; comparte **lo que un expat real siente en su corazón y en su mente**. Espero que aquí encuentres lo que buscas y te inspires en tu propio viaje.
+LebensInsider no solo comparte mis experiencias, sino que también tiene como objetivo **dar voz a quienes recorren caminos similares**. Cada artículo de este blog cuenta mucho más que documentos oficiales; comparte **lo que un expat real siente en su corazón y en su mente**. Espero que aquí encuentres lo que buscas y te inspires en tu propio viaje.
 
 ## Preguntas Frecuentes
 
 **1. ¿Quién es Barash y por qué escribe este blog?**
 Soy Barash, un Ingeniero de Seguridad de Redes que vive en Múnich, padre de dos hijos y alguien que ha vivido personalmente las transiciones burocráticas y culturales en el triángulo Turquía, Bulgaria y Alemania. Escribo este blog con el objetivo de compartir mis propias difíciles experiencias como expat y la información práctica que he adquirido con otras personas que recorren caminos similares.
 
-**2. ¿Cuál es la misión fundamental de Share Hub EU?**
-La misión de Share Hub EU es proporcionar **orientación detallada, honesta y práctica, basada en experiencias personales**, a quienes deciden vivir, trabajar o viajar en Alemania y Europa. Nuestro objetivo es ir más allá de la información oficial y fría, ofreciendo soluciones sinceras a los problemas que se encuentran en la vida real.
+**2. ¿Cuál es la misión fundamental de LebensInsider?**
+La misión de LebensInsider es proporcionar **orientación detallada, honesta y práctica, basada en experiencias personales**, a quienes deciden vivir, trabajar o viajar en Alemania y Europa. Nuestro objetivo es ir más allá de la información oficial y fría, ofreciendo soluciones sinceras a los problemas que se encuentran en la vida real.
 
 **3. ¿La información aquí sustituye el asesoramiento legal o médico?**
-No, en absoluto. Cada artículo de Share Hub EU se basa en mis **experiencias personales, investigaciones y observaciones**. Esta información no constituye asesoramiento legal o médico. Siempre es importante consultar a profesionales legales o de la salud.
+No, en absoluto. Cada artículo de LebensInsider se basa en mis **experiencias personales, investigaciones y observaciones**. Esta información no constituye asesoramiento legal o médico. Siempre es importante consultar a profesionales legales o de la salud.
 
 **4. ¿Qué tipo de contenido puedo encontrar en el blog?**
 En el blog puedes encontrar una amplia gama de contenidos, como burocracia en Alemania, procesos de carnet de conducir, cómo encontrar alquiler, derecho laboral, rutas de viaje en familia, guías de ciudades europeas y consejos de vida sobre la cultura alemana. Destacan especialmente los artículos que **se centran en problemas prácticos y ofrecen soluciones detalladas**.
@@ -147,5 +147,5 @@ En el blog puedes encontrar una amplia gama de contenidos, como burocracia en Al
 Se publican nuevos artículos a intervalos regulares, dependiendo de mis investigaciones y experiencias. Mi objetivo es ofrecer **información de calidad y en profundidad**, por lo que cada artículo se elabora con esmero. Para obtener la información más reciente, puedes seguir nuestros canales de redes sociales o suscribirte a nuestro boletín de correo electrónico.
 
 **6. ¿Puedo compartir mis propias experiencias o hacer preguntas?**
-¡Absolutamente! Share Hub EU tiene como objetivo ser una **plataforma para compartir**. Puedes usar las secciones de comentarios debajo de los artículos para compartir tus propias experiencias, hacer preguntas o contribuir. Además, no dudes en contactarme directamente a través de nuestra página de [Contacto](/tr/iletisim/). Tus contribuciones harán este blog aún más valioso.
+¡Absolutamente! LebensInsider tiene como objetivo ser una **plataforma para compartir**. Puedes usar las secciones de comentarios debajo de los artículos para compartir tus propias experiencias, hacer preguntas o contribuir. Además, no dudes en contactarme directamente a través de nuestra página de [Contacto](/tr/iletisim/). Tus contribuciones harán este blog aún más valioso.
 ---

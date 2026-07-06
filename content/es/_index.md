@@ -1,5 +1,5 @@
 ---
-title: "Share Hub"
+title: "LebensInsider"
 description: "Viajes reales, errores reales, experiencias reales."
 translationKey: "home-page"
 ---

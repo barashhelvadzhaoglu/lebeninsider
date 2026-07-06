@@ -1,6 +1,6 @@
 ---
 title: "Über mich"
-description: "Network Security Engineer in München, zweifacher Vater und ehrenamtlicher Bürokratie-Detektiv. Warum gibt es den Share Hub, wer schreibt hier und warum sollten Sie mitlesen?"
+description: "Network Security Engineer in München, zweifacher Vater und ehrenamtlicher Bürokratie-Detektiv. Warum gibt es den LebensInsider, wer schreibt hier und warum sollten Sie mitlesen?"
 translationKey: "about-page"
 featureimage: "img/lebeninsider-hero.webp"
 ---
@@ -11,7 +11,7 @@ Ich lebe in München und arbeite als Network Security Engineer. Ich bin Vater vo
 
 Geboren in der Türkei, habe ich später die bulgarische Staatsbürgerschaft angenommen und bin schließlich nach Deutschland gezogen. Das bürokratische Labyrinth zwischen diesen drei Ländern habe ich am eigenen Leib erfahren – und tue es immer noch.
 
-Aus genau diesen Erfahrungen heraus wurde der **Share Hub** geboren.
+Aus genau diesen Erfahrungen heraus wurde der **LebensInsider** geboren.
 
 ---
 

@@ -9,7 +9,7 @@ resources/_gen/
 .vscode/
 *.swp
 .claude/
-urlinspection/sharehub-service-account.json
+urlinspection/lebeninsider-service-account.json
 
 # Gemini expand backups
 backups/
