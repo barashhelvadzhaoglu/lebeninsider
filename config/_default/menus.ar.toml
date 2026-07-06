@@ -1,0 +1,47 @@
+[[main]]
+  name = "الرئيسية"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "ألمانيا"
+  pageRef = "almaniya"
+  weight = 2
+
+[[main]]
+  name = "الحياة"
+  pageRef = "almaniya/hayat"
+  parent = "ألمانيا"
+  weight = 1
+
+[[main]]
+  name = "السياحة"
+  pageRef = "almaniya/siyaha"
+  parent = "ألمانيا"
+  weight = 2
+
+[[main]]
+  name = "دليل المغترب"
+  pageRef = "almaniya/muqim"
+  parent = "ألمانيا"
+  weight = 3
+
+[[main]]
+  name = "الطريق الرومانسي"
+  pageRef = "almaniya/tariq-romani"
+  weight = 3
+
+[[main]]
+  name = "السفر"
+  pageRef = "safar"
+  weight = 4
+
+[[main]]
+  name = "من نحن"
+  pageRef = "man-nahnu"
+  weight = 5
+
+[[main]]
+  name = "تواصل معنا"
+  pageRef = "ittasal"
+  weight = 6

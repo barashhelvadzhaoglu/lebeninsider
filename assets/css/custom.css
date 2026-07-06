@@ -1,0 +1,21 @@
+/* Ana sayfa kartları — daha küçük thumbnail */
+.thumbnail_card {
+  height: 130px !important;
+  min-width: unset !important;
+}
+
+/* Makale içerik alanını genişlet */
+.max-w-prose {
+  max-width: 85ch !important;
+}
+
+/* Arapça RTL desteği */
+[lang="ar"] {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+}
+
+[lang="ar"] .toc {
+  text-align: right;
+}

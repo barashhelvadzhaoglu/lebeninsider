@@ -1,0 +1,59 @@
+baseURL = "https://lebeninsider.com/"
+defaultContentLanguage = "tr"
+defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
+paginate = 10
+theme = "blowfish"
+buildFuture = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.tr]
+    contentDir = "content/tr"
+    languageCode = "tr"
+    languageName = "Türkçe"
+    weight = 1
+    [languages.tr.params]
+      displayName = "TR"
+
+  [languages.en]
+    contentDir = "content/en"
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    [languages.en.params]
+      displayName = "EN"
+
+  [languages.de]
+    contentDir = "content/de"
+    languageCode = "de"
+    languageName = "Deutsch"
+    weight = 3
+    [languages.de.params]
+      displayName = "DE"
+
+  [languages.es]
+    contentDir = "content/es"
+    languageCode = "es"
+    languageName = "Español"
+    weight = 4
+    [languages.es.params]
+      displayName = "ES"
+
+  [languages.ar]
+    contentDir = "content/ar"
+    languageCode = "ar"
+    languageName = "العربية"
+    weight = 5
+    [languages.ar.params]
+      displayName = "AR"
+
+  [languages.hi]
+    contentDir = "content/hi"
+    languageCode = "hi"
+    languageName = "हिन्दी"
+    weight = 6
+    [languages.hi.params]
+      displayName = "HI"

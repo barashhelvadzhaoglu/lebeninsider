@@ -1,0 +1,27 @@
+# Hugo generated
+public/
+resources/_gen/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+.claude/
+urlinspection/sharehub-service-account.json
+
+# Gemini expand backups
+backups/
+# Script expand backups
+script/
+
+urlinspection/
+
+urlinspection/script/apikeys.txt
+script/apikeys.txt
+script/apikeys.txt
+.tmp.driveupload/
+.tmp.driveupload/
+.env
+-f/

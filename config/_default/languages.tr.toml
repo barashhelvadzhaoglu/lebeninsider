@@ -1,0 +1,25 @@
+languageCode = "tr"
+languageName = "Türkçe"
+weight = 1
+title = "Paylaşım Merkezi"
+
+[params]
+  displayName = "TR"
+  isoCode = "tr"
+  logo = "img/sharehubeu-logo.webp"
+  homepageImage = "img/sharehubeu-hero.webp"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
+  rtl = false
+  dateFormat = "2 Ocak 2006"
+  description = "Gerçek geziler, gerçek hatalar, gerçek deneyimler."
+  author.name = "Share-Hub-EU"
+
+[params.homepage]
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "almanya/seyahat"
+  cardView = true

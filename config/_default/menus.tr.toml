@@ -1,0 +1,59 @@
+[[main]]
+  name = "Ana Sayfa"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Almanya"
+  pageRef = "almanya"
+  weight = 2
+
+[[main]]
+  name = "Yaşam"
+  pageRef = "almanya/yasam"
+  parent = "Almanya"
+  weight = 1
+
+[[main]]
+  name = "Gezi"
+  pageRef = "almanya/seyahat"
+  parent = "Almanya"
+  weight = 2
+
+[[main]]
+  name = "Expat Rehberleri"
+  pageRef = "almanya/expat"
+  parent = "Almanya"
+  weight = 3
+
+[[main]]
+  name = "Romantik Rota"
+  pageRef = "almanya/romantik-rota"
+  weight = 3
+
+[[main]]
+  name = "Seyahat"
+  pageRef = "seyahat"
+  weight = 4
+
+[[main]]
+  name = "Yemek"
+  pageRef = "yemek"
+  weight = 5
+[[main]]
+  name = "Yemek"
+  pageRef = "yemek"
+  weight = 5
+[[main]]
+  name = "Yemek"
+  pageRef = "yemek"
+  weight = 5
+[[main]]
+  name = "Hakkımda"
+  pageRef = "hakkimda"
+  weight = 6
+
+[[main]]
+  name = "İletişim"
+  pageRef = "iletisim"
+  weight = 7

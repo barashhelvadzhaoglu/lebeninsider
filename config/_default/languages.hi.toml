@@ -1,0 +1,25 @@
+languageCode = "hi"
+languageName = "हिन्दी"
+weight = 5
+title = "शेयर हब"
+
+[params]
+  displayName = "HI"
+  isoCode = "hi"
+  logo = "img/sharehubeu-logo.webp"
+  homepageImage = "img/sharehubeu-hero.webp"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "असली यात्राएं, असली गलतियां, असली अनुभव।"
+  author.name = "Share-Hub-EU"
+
+[params.homepage]
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "jarmani/sair"
+  cardView = true

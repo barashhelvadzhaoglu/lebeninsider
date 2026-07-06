@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Share Hub"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  logo = "img/sharehubeu-logo.webp"
+  homepageImage = "img/sharehubeu-hero.webp"
+  showLogo = true
+  showName = true
+  layout = "hero"
+  showTitle = true
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Real trips, real mistakes, real experiences."
+  author.name = "Share-Hub-EU"
+
+[params.homepage]
+  showRecent = true
+  showRecentItems = 12
+  showMoreLink = true
+  showMoreLinkDest = "germany/travel"
+  cardView = true

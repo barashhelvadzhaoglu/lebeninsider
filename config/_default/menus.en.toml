@@ -1,0 +1,51 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Germany"
+  pageRef = "germany"
+  weight = 2
+
+[[main]]
+  name = "Living"
+  pageRef = "germany/living"
+  parent = "Germany"
+  weight = 1
+
+[[main]]
+  name = "Travel"
+  pageRef = "germany/travel"
+  parent = "Germany"
+  weight = 2
+
+[[main]]
+  name = "Expat Guides"
+  pageRef = "germany/expat"
+  parent = "Germany"
+  weight = 3
+
+[[main]]
+  name = "Romantic Road"
+  pageRef = "germany/romantic-route"
+  weight = 3
+
+[[main]]
+  name = "Travel"
+  pageRef = "travel"
+  weight = 4
+
+[[main]]
+  name = "Food"
+  pageRef = "food"
+  weight = 5
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 6
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 7

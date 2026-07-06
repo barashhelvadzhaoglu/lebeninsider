@@ -1,0 +1,51 @@
+[[main]]
+  name = "Startseite"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Deutschland"
+  pageRef = "deutschland"
+  weight = 2
+
+[[main]]
+  name = "Leben"
+  pageRef = "deutschland/leben"
+  parent = "Deutschland"
+  weight = 1
+
+[[main]]
+  name = "Reisen"
+  pageRef = "deutschland/reisen"
+  parent = "Deutschland"
+  weight = 2
+
+[[main]]
+  name = "Expat-Ratgeber"
+  pageRef = "deutschland/expat"
+  parent = "Deutschland"
+  weight = 3
+
+[[main]]
+  name = "Romantische Straße"
+  pageRef = "deutschland/romantische-strasse"
+  weight = 3
+
+[[main]]
+  name = "Reisen"
+  pageRef = "reisen"
+  weight = 4
+
+[[main]]
+  name = "Essen"
+  pageRef = "essen"
+  weight = 5
+[[main]]
+  name = "Über mich"
+  pageRef = "ueber-mich"
+  weight = 6
+
+[[main]]
+  name = "Kontakt"
+  pageRef = "kontakt"
+  weight = 7

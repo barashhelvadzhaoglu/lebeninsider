@@ -1,0 +1,40 @@
+name: Planli Daily Deploy
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Her gece 23:00 UTC (Türkiye 02:00, Almanya 00:00/01:00)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Manuel tetikleme için
+
+permissions:
+  contents: write # GitHub Pages'e yükleme yapabilmesi için 'write' şarttır
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build site
+        run: hugo --minify --buildFuture
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          cname: share-hub-eu.online

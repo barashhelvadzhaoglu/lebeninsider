@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Next.js sistem dosyalarını taramaya kapatın
+Disallow: /_next/
+Disallow: /api/
+
+# Sitemap adresiniz (Next.js genellikle /sitemap.xml üretir)
+Sitemap: https://www.memorlex.com/sitemap.xml
+
+# AdSense Botu
+User-agent: Mediapartners-Google
+Allow: /
