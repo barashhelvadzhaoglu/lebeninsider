@@ -2,7 +2,7 @@
 title: "مطبخ هاتاي: وليمة نكهات مع الكنافة والحمص"
 date: 2026-05-25T08:00:00+01:00
 draft: false
-description: "اكتشف جواهر مطبخ هاتاي: الكنافة والحمص! تاريخ، وصفات، أفضل المطاعم، ومعلومات عملية عن نكهات هاتاي على Share-Hub-EU. دليل خاص للمغتربين أو زوار تركيا."
+description: "اكتشف جواهر مطبخ هاتاي: الكنافة والحمص! تاريخ، وصفات، أفضل المطاعم، ومعلومات عملية عن نكهات هاتاي على LebensInsider. دليل خاص للمغتربين أو زوار تركيا."
 translationKey: "hatay-mutfagi-kunefe-hummus"
 featureimage: "img/lebeninsider-hero.webp"
 tags:

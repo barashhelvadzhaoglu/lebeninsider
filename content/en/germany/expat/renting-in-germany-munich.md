@@ -184,7 +184,7 @@ Navigating the German rental market requires more than just documents; it demand
 10. **Prepare for Bureaucracy Fatigue & Rejection:** The process is long, arduous, and full of rejections. Don't take it personally. Germany's bureaucracy can be challenging, a sentiment often echoed in articles like [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/) and [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/). Resilience is key.
 
 ---
-**Related Guides from Share-Hub.eu:**
+**Related Guides from lebeninsider.com:**
 *   For a deeper dive into living conditions: [Housing and Renting: Turkey vs Germany](https://lebeninsider.com/en/germany/living/housing-turkey-vs-germany/)
 *   Understanding the broader context of moving: [Why I Left Turkey: The Decision That Changed Everything](https://lebeninsider.com/en/germany/living/why-i-moved-countries/)
 *   Insights into navigating German systems as an expat: [Trust as a Way of Life: What Germany Taught Me About Believing in People](https://lebeninsider.com/en/germany/living/trust-in-germany/)

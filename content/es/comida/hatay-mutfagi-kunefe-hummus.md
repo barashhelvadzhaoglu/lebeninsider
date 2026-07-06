@@ -2,7 +2,7 @@
 title: "Cocina de Hatay: Un festín de sabores con Künefe y Hummus"
 date: 2026-05-25T08:00:00+01:00
 draft: false
-description: "Descubre Künefe y Hummus, las joyas de la cocina de Hatay. En Share-Hub-EU, te traemos la historia, recetas, mejores restaurantes y consejos prácticos sobre los sabores de Hatay. Una guía especial para quienes viven en el extranjero o visitan Turquía."
+description: "Descubre Künefe y Hummus, las joyas de la cocina de Hatay. En LebensInsider, te traemos la historia, recetas, mejores restaurantes y consejos prácticos sobre los sabores de Hatay. Una guía especial para quienes viven en el extranjero o visitan Turquía."
 translationKey: "hatay-mutfagi-kunefe-hummus"
 featureimage: "img/lebeninsider-hero.webp"
 tags:

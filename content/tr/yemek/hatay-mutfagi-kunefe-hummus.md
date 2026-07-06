@@ -2,7 +2,7 @@
 title: "Hatay Mutfağı: Künefe ve Hummus ile Lezzet Şöleni"
 date: 2026-05-25T08:00:00+01:00
 draft: false
-description: "Hatay mutfağının incileri Künefe ve Hummus'u keşfedin! Tarihi, tarifi, en iyi restoranlar ve pratik bilgilerle Hatay lezzetleri Share-Hub-EU'da. Yurt dışında yaşayanlar veya Türkiye'yi ziyaret edenler için özel rehber."
+description: "Hatay mutfağının incileri Künefe ve Hummus'u keşfedin! Tarihi, tarifi, en iyi restoranlar ve pratik bilgilerle Hatay lezzetleri LebensInsider'da. Yurt dışında yaşayanlar veya Türkiye'yi ziyaret edenler için özel rehber."
 translationKey: "hatay-mutfagi-kunefe-hummus"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
