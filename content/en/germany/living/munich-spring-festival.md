@@ -1,6 +1,6 @@
 ---
 title: "Embracing Spring in Munich: Your Guide to Frühlingsfest!"
-date: 2026-04-16T08:00:00+01:00
+date: 2026-04-19T08:00:00+02:00
 draft: false
 description: "Discover Munich's Frühlingsfest – the enchanting Spring Festival! A comprehensive guide for Turkish families & expats, covering traditions, food, fun, and practical tips."
 translationKey: "münih-bahar-festivali"

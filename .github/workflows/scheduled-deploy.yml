@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --buildFuture
+        run: hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
