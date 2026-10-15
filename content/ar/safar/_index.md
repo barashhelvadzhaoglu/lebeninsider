@@ -15,33 +15,33 @@ translationKey: "travel-list"
 
 ### البلقان
 
-- [دليل سكوبيه — مقدونيا الشمالية](/ar/safar/uskup-kuzey-makedonya-gezi-rehberi/)
-- [دليل كوسوفو — بريشتينا وبريزرن](/ar/safar/kosova-pristine-prizren-gezi-rehberi/)
-- [دليل البوسنة وسراييفو](/ar/safar/bosna-hersek-saraybosna-gezi-rehberi/)
+- [دليل سكوبيه — مقدونيا الشمالية](/ar/safar/skopje-north-macedonia-travel-guide/)
+- [دليل كوسوفو — بريشتينا وبريزرن](/ar/safar/kosovo-pristina-prizren-travel-guide/)
+- [دليل البوسنة وسراييفو](/ar/safar/bosnia-sarajevo-travel-guide/)
 
 ---
 
 ### القوقاز
 
-- [دليل جورجيا — تبليسي وباتومي](/ar/safar/gurcistan-tiflis-batum-gezi-rehberi/)
-- [كنوز خفية في تبليسي وباتومي](/ar/safar/tiflis-batum-gormedikleriniz-sakli-yerler/)
+- [دليل جورجيا — تبليسي وباتومي](/ar/safar/georgia-tbilisi-batumi-travel-guide/)
+- [كنوز خفية في تبليسي وباتومي](/ar/safar/tbilisi-batumi-hidden-gems/)
 
 ---
 
 ### سويسرا
 
-- [دليل زيورخ](/ar/safar/isvicre-zurih-gezi-rehberi/)
-- [دليل بازل — ثلاث دول من مدينة واحدة](/ar/safar/isvicre-basel-3-ulke-gezi-rehberi/)
+- [دليل زيورخ](/ar/safar/switzerland-zurich-travel-guide/)
+- [دليل بازل — ثلاث دول من مدينة واحدة](/ar/safar/switzerland-basel-3-countries-guide/)
 
 ---
 
 ### اليونان
 
-- [دليل اليونان وأثينا](/ar/safar/yunanistan-atina-gezi-rehberi/)
+- [دليل اليونان وأثينا](/ar/safar/greece-athens-travel-guide/)
 
 ---
 
 ### السفر العملي
 
-- [كيفية الحصول على تأشيرة شنغن](/ar/safar/schengen-vizesi-alma-sureci/)
-- [كيفية إيجاد تذاكر طيران رخيصة](/ar/safar/ucuz-ucak-bileti-nasil-bulunur/)
+- [كيفية الحصول على تأشيرة شنغن](/ar/safar/how-to-get-schengen-visa/)
+- [كيفية إيجاد تذاكر طيران رخيصة](/ar/safar/how-to-find-cheap-flights/)

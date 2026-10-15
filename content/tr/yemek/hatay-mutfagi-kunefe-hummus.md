@@ -199,8 +199,8 @@ Eğer Künefe ve Hummus'u evinizde denemek isterseniz, Almanya'daki Türk market
 
 Almanya'daki Türk marketleri için genel bir arama yapabilirsiniz. İşte bazı örnekler:
 
-*   **Eurogida** ([Google Maps](https://www.google.com/maps/search/Eurogida+Almanya))
-*   **Efes Markt** ([Google Maps](https://www.google.com/maps/search/Efes+Markt+Almanya))
+*   **Eurogida**
+*   **Efes Markt**
 *   **Real, Kaufland** gibi büyük market zincirlerinin de "internationale Produkte" (uluslararası ürünler) reyonlarında Türk ürünleri bulmak mümkün.
 
 **Evde Yapmak İçin İpuçları:**

@@ -7,7 +7,7 @@ description: "How is Christmas and New Year celebrated in Germany? Munich Christ
 tags: ["germany christmas", "munich christmas market", "christkindlmarkt", "silvester germany", "germany new year", "münchen weihnachtsmarkt", "germany christmas traditions", "munich december", "german christmas culture", "silvester münchen", "christmas market munich 2025", "germany expat christmas", "weihnachten germany", "germany winter travel", "munich winter", "germany christmas food", "glühwein", "lebkuchen", "germany family christmas", "new year germany"]
 categories: ["almanya"]
 summary: "Christmas in Germany is very different from what you might expect. Weihnachten is quiet and family-focused; Silvester is surprisingly loud. From Munich's Christmas markets to last year's Silvester experience — German winter culture through expat eyes."
-translationKey: "post-yilbasi"
+translationKey: "post-silvester"
 ---
 
 ## About the Destination: Munich, Germany

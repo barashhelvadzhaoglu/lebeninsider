@@ -76,7 +76,7 @@ Bebek arabasıyla kale içine girmek mümkün değil — yokuş dik, içerisi de
 
 Beş şehrin tamamını kapsamlı biçimde ele aldığım, Münih'ten nasıl planlanır sorusunu yanıtladığım ve Deutschlandticket ile bu rotayı yapmanın gerçekçi bir değerlendirmesini sunduğum yazı:
 
-→ [Romantik Rota Rehberi — Tam Planlama Yazısı](/tr/almanya/romantik-rota/romantik-rota-rehberi/)
+→ [Romantik Rota Rehberi — Tam Planlama Yazısı](/tr/almanya/romantik-rota/)
 
 ---
 

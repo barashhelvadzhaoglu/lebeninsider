@@ -108,7 +108,7 @@ Regensburg, Altstadt'ın büyüklüğü göz önüne alındığında, **yürüye
 
 ## Bizim Deneyimimiz
 
-Regensburg, Münih'e o kadar yakın ki, her zaman aklımızın bir köşesindeydi. Sonunda bir hafta sonu, **Deutschlandticket** avantajını kullanarak, bebeğimizle birlikte bu UNESCO Dünya Mirası şehrine günübirlik bir kaçamak yapmaya karar verdik. [Romantik Rota Rehberi | Deutschlandticket ve Bebek Arabası ile Bavyera'nın En Güzel Rotası (2026)](https://lebeninsider.com/tr/almanya/romantik-rota/romantik-rota-rehberi/) yazımızda da bahsettiğimiz gibi, Bavyera'nın bu tür saklı cennetleri keşfetmek bize her zaman büyük keyif veriyor.
+Regensburg, Münih'e o kadar yakın ki, her zaman aklımızın bir köşesindeydi. Sonunda bir hafta sonu, **Deutschlandticket** avantajını kullanarak, bebeğimizle birlikte bu UNESCO Dünya Mirası şehrine günübirlik bir kaçamak yapmaya karar verdik. [Romantik Rota Rehberi | Deutschlandticket ve Bebek Arabası ile Bavyera'nın En Güzel Rotası (2026)](https://lebeninsider.com/tr/almanya/romantik-rota/) yazımızda da bahsettiğimiz gibi, Bavyera'nın bu tür saklı cennetleri keşfetmek bize her zaman büyük keyif veriyor.
 
 **Münih Hauptbahnhof**'tan kalkan Regional Express treniyle yaklaşık 1.5 saat süren keyifli bir yolculuğun ardından Regensburg'a ulaştık. Tren istasyonundan Altstadt'a doğru yürüyüşe geçtiğimizde, şehrin atmosferi bizi hemen sardı. Daracık, Arnavut kaldırımlı sokaklar adeta bir zaman tüneli gibiydi. **Taş Köprü**'ye vardığımızda, Tuna Nehri'nin üzerinde yükselen bu tarihi yapı bizi büyüledi. Köprüden Katedral'in ikiz kulelerine bakmak, gerçekten kartpostallık bir manzaraydı. Bebeğimiz arabasında mışıl mışıl uyurken, biz de köprünün detaylarını inceledik.
 

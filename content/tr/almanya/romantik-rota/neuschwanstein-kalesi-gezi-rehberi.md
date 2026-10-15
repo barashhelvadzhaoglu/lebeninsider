@@ -143,7 +143,7 @@ Yanımızda küçük çocuğumuz ve **bebek arabasıyla** seyahat ettiğimiz iç
 
 Neuschwanstein'a ek olarak, **Füssen kasabasını da keşfetmek** bize çok keyif verdi. Kasabanın dar sokaklarında kaybolmak, geleneksel Bavyera evlerinin güzelliğini keşfetmek ve Alpsee kenarında huzurlu bir yürüyüş yapmak, tüm bu yoğun turistik deneyimin ardından rahatlatıcı bir kaçış oldu. Füssen, kendi başına bile bir geziye değer, şirin ve tarihi bir kasaba. Daha detaylı Füssen deneyimimiz için [Füssen Gezi Rehberi](/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/) yazımıza göz atabilirsiniz.
 
-Genel olarak Neuschwanstein, Almanya seyahatimizin unutulmaz duraklarından biriydi. Kalabalığa rağmen o peri masalı atmosferi ve dağların arasındaki konumu, kesinlikle görmeye değer bir yer olduğunu gösteriyor. Eğer Almanya'nın romantik yüzünü keşfetmek isterseniz, [Romantik Rota Rehberi](/tr/almanya/romantik-rota/romantik-rota-rehberi/) yazımızda bu bölgeye dair daha fazla ilham bulabilirsiniz.
+Genel olarak Neuschwanstein, Almanya seyahatimizin unutulmaz duraklarından biriydi. Kalabalığa rağmen o peri masalı atmosferi ve dağların arasındaki konumu, kesinlikle görmeye değer bir yer olduğunu gösteriyor. Eğer Almanya'nın romantik yüzünü keşfetmek isterseniz, [Romantik Rota Rehberi](/tr/almanya/romantik-rota/) yazımızda bu bölgeye dair daha fazla ilham bulabilirsiniz.
 
 ## Sık Sorulan Sorular
 

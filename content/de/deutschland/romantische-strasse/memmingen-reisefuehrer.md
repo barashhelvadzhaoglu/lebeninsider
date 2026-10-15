@@ -69,5 +69,5 @@ An der Ecke zum Marktplatz steht das Zunfthaus der Weber aus dem 16. Jahrhundert
 
 ---
 *Teil der Serie [Romantische Straße](/de/deutschland/romantische-strasse/reisefuehrer-romantische-strasse/).*
-- [Augsburg](/de/deutschland/reise/augsburg-reisefuehrer/) · [Lindau am Bodensee](/de/deutschland/reise/lindau-bodensee-reisefuehrer/)
-- [Alle Tagesausflüge mit dem Deutschlandticket](/de/deutschland/reise/deutschlandticket-ausfluege-muenchen/)
+- [Augsburg](/de/deutschland/romantische-strasse/augsburg-reisefuehrer/) · [Lindau am Bodensee](/de/deutschland/romantische-strasse/lindau-reisefuehrer/)
+- [Alle Tagesausflüge mit dem Deutschlandticket](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)

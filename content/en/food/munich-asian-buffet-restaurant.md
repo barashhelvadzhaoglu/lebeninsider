@@ -3,7 +3,7 @@ title: "Otto Bruno: Your All-You-Can-Eat Asian Escape in Munich"
 date: 2026-05-28T08:00:00+01:00
 draft: false
 description: "Discover Otto Bruno, Munich's top all-you-can-eat Asian buffet. Savor sushi, dim sum, Thai, and Chinese dishes, perfect for families and expats."
-translationKey: "munich-asya-acik-bufe-restoran"
+translationKey: "munich-otto-bruno-asya-acik-bufe-restoran"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Restaurant Recommendations"

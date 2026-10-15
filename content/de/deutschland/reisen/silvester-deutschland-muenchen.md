@@ -7,7 +7,7 @@ description: "Wie wird Weihnachten und Silvester in Deutschland gefeiert? Münch
 tags: ["deutschland weihnachten", "münchen weihnachtsmarkt", "christkindlmarkt", "silvester deutschland", "deutschland neujahr", "münchen weihnachtsmarkt", "deutschland weihnachtstraditionen", "münchen dezember", "deutsche weihnachtskultur", "silvester münchen", "weihnachtsmarkt münchen 2025", "deutschland expat weihnachten", "weihnachten deutschland", "deutschland winterreise", "münchen winter", "deutschland weihnachtsessen", "glühwein", "lebkuchen", "deutschland familie weihnachten", "neujahr deutschland"]
 categories: ["almanya"]
 summary: "Weihnachten in Deutschland ist ganz anders als erwartet. Das Weihnachtsfest ist ruhig und familiär; Silvester ist überraschend laut. Von Münchens Weihnachtsmärkten bis zur Silvester-Erfahrung des letzten Jahres — deutsche Winterkultur aus Expat-Perspektive."
-translationKey: "post-yilbasi"
+translationKey: "post-silvester"
 ---
 
 ## Weihnachten in Deutschland: Zwei Separate Feiern

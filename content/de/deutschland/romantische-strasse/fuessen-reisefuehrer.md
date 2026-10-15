@@ -14,7 +14,7 @@ translationKey: "post-fuessen-sehir"
 
 Alle kommen für Neuschwanstein nach Füssen — aber gehen, ohne Füssen selbst zu sehen. Dieser Artikel ist für die Stadt: Hohes Schloss, Altstadt, Lech und Umgebung.
 
-Schloss-Leitfaden separat: [Schloss Neuschwanstein →](/de/deutschland/schloss-neuschwanstein-reisefuehrer/)
+Schloss-Leitfaden separat: [Schloss Neuschwanstein →](/de/deutschland/romantische-strasse/schloss-neuschwanstein-reisefuehrer/)
 
 ---
 

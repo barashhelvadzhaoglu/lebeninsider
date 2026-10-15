@@ -100,7 +100,7 @@ Congratulations, you've been chosen! Now for the final bureaucratic steps.
     *   **Kaution Payment:** Arrange to transfer the **Kaution** (deposit, usually 2-3 months' cold rent). This must be held in a special **Mietkautionskonto** (tenant deposit account) or a bank guarantee, not directly by the landlord.
     *   **Übergabeprotokoll (Handover Protocol):** This document details the apartment's condition when you move in. Inspect *every corner* with the landlord/agent. Document all existing damages (scratches, cracks, stains) with photos and descriptions in the protocol. This protects you when you move out.
     *   **Key Handover:** You receive all keys (apartment, mailbox, building entrance, basement, etc.).
-    *   **Anmeldung (Registration):** Once you have your signed rental contract, you must register your address with the local **Bürgeramt** (Citizens' Office) within two weeks of moving in. You'll need the **Wohnungsgeberbestätigung** from your landlord for this. This is a crucial step for almost all other bureaucratic processes in Germany. (Search "Bürgeramt [Your City]" on [Google Maps](https://www.google.com/maps/search/Bürgeramt+München) for locations.)
+    *   **Anmeldung (Registration):** Once you have your signed rental contract, you must register your address with the local **Bürgeramt** (Citizens' Office) within two weeks of moving in. You'll need the **Wohnungsgeberbestätigung** from your landlord for this. This is a crucial step for almost all other bureaucratic processes in Germany. (Search "Bürgeramt [Your City]" on Google Maps for locations.)
 
 ## Required Documents
 

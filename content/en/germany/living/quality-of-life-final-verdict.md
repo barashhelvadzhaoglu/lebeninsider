@@ -115,7 +115,7 @@ German food is often characterized by its hearty, comforting nature, with region
     *   **Price Range:** €€
     *   **Why Recommend:** An iconic experience for authentic Bavarian food like Schweinshaxe (pork knuckle) and Weißwurst (white sausage), paired with their famous beers. The atmosphere is electric, filled with music and convivial chatter.
 
-2.  **Vapiano** ([Google Maps](https://www.google.com/maps/search/Vapiano+Germany)): A popular chain offering fresh, made-to-order Italian dishes in a casual, modern setting.
+2.  **Vapiano**: A popular chain offering fresh, made-to-order Italian dishes in a casual, modern setting.
     *   **Cuisine:** Italian
     *   **Price Range:** €€
     *   **Why Recommend:** Great for a quick, fresh meal. You can customize your pasta, pizza, and salads with a wide variety of ingredients. They have locations in many major German cities.
@@ -188,12 +188,12 @@ Choosing the right place to stay can significantly impact your experience. Here'
 
 Germany offers a wide range of accommodation, from budget-friendly hostels to luxurious hotels and practical apartments.
 
-1.  **Budget: Generator Hostels** ([Google Maps](https://www.google.com/maps/search/Generator+Hostels+Germany))
+1.  **Budget: Generator Hostels**
     *   **Location:** Multiple locations in major cities like Berlin, Hamburg, Munich.
     *   **Price Range:** €25-€50 per night (dorm bed)
     *   **Description:** These are modern, vibrant hostels offering both dormitories and private rooms. They often have communal areas, bars, and organize social events, making them great for solo travelers or those on a budget looking to meet people.
 
-2.  **Mid-Range: Motel One** ([Google Maps](https://www.google.com/maps/search/Motel+One+Germany))
+2.  **Mid-Range: Motel One**
     *   **Location:** Widespread across Germany in city centers.
     *   **Price Range:** €80-€150 per night
     *   **Description:** Motel One offers stylish, comfortable, and consistently good-value rooms. They focus on a clean, modern design and convenient city locations, perfect for business travelers or tourists who appreciate reliability.
@@ -208,7 +208,7 @@ Germany offers a wide range of accommodation, from budget-friendly hostels to lu
     *   **Price Range:** €300+ per night
     *   **Description:** A grand, historic luxury hotel offering opulent rooms, fine dining, a renowned spa, and exceptional service. It's situated in a prime location, making it ideal for those seeking a premium experience.
 
-5.  **Apartment Rental: FeWo-direkt (HomeAway/VRBO)** ([Google Maps](https://www.google.com/maps/search/FeWo-direkt+Germany))
+5.  **Apartment Rental: FeWo-direkt (HomeAway/VRBO)**
     *   **Location:** Available across Germany.
     *   **Price Range:** Varies greatly (€70-€250+ per night for a 1-bedroom apartment)
     *   **Description:** For longer stays or families, renting an apartment through platforms like FeWo-direkt offers more space, a kitchen, and a feel of living like a local. It can be more cost-effective for groups.

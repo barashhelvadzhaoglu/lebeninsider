@@ -23,7 +23,7 @@ All of these trips were made with a **Deutschlandticket**, **two kids aged 1 and
 **Salzburg — Mozart's City, Just Across the Border**
 1.5 hours from Munich. Technically Austria, but the Deutschlandticket covers it. Hohensalzburg Fortress, Getreidegasse, the Salzach river.
 
-→ [Salzburg Travel Guide](/en/germany/travel/salzburg-travel-guide/)
+→ [Salzburg Travel Guide](/en/germany/travel/salzburg-day-trip-munich/)
 
 **Ingolstadt — A Surprise on the Danube**
 1 hour from Munich. The Audi factory and museum, medieval walls, and a quiet Altstadt well off the tourist trail.

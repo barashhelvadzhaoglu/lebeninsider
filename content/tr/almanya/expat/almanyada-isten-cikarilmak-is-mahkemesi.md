@@ -42,14 +42,14 @@ Almanya'da işten çıkarılma sürecinde atmanız gereken adımlar, işten çı
 
 ### Adım 2: İşsizlik Başvurusu İçin Jobcenter/Arbeitsagentur'a Başvuru
 
-İşten çıkarılma bildirimi size ulaşır ulaşmaz, hatta ulaşması muhtemel olduğunda bile **derhal** [Arbeitsagentur (İş Kurumu)](https://www.google.com/maps/search/Arbeitsagentur) veya [Jobcenter (Bulunduğunuz Şehir)](https://www.google.com/maps/search/Jobcenter) ile iletişime geçmeniz gerekmektedir. İşten çıkarılma tebligatını aldığınız an, **en geç 3 gün içinde** kendinizi "iş arayan" (*arbeitssuchend*) olarak kaydettirmelisiniz. İş ilişkisinin bittiği gün ise "işsiz" (*arbeitslos*) olarak kaydınızı yapmanız gerekir. Bunu yapmazsanız, işsizlik maaşınızda (*Arbeitslosengeld I*) **1 haftalık bir kesinti (Sperrzeit)** yaşayabilirsiniz.
+İşten çıkarılma bildirimi size ulaşır ulaşmaz, hatta ulaşması muhtemel olduğunda bile **derhal** Arbeitsagentur (İş Kurumu) veya Jobcenter (Bulunduğunuz Şehir) ile iletişime geçmeniz gerekmektedir. İşten çıkarılma tebligatını aldığınız an, **en geç 3 gün içinde** kendinizi "iş arayan" (*arbeitssuchend*) olarak kaydettirmelisiniz. İş ilişkisinin bittiği gün ise "işsiz" (*arbeitslos*) olarak kaydınızı yapmanız gerekir. Bunu yapmazsanız, işsizlik maaşınızda (*Arbeitslosengeld I*) **1 haftalık bir kesinti (Sperrzeit)** yaşayabilirsiniz.
 
 **Bizim Deneyimimiz:** Jobcenter'a gittiğimde, işten çıkarılmamın usulüne uygun olmadığı şüphesiyle bana iş mahkemesine başvurmam gerektiğini ve bunu yapmazsam **sosyal yardımlardan yararlanamayacağımı** söylediler. Bu, iş mahkemesi sürecinin benim için zorunlu hale geldiği anlamına geliyordu.
 *   Nerede: Bulunduğunuz şehirdeki Arbeitsagentur veya Jobcenter. Nasıl: Genellikle online olarak randevu alıp şahsen gitmek veya telefonla ilk bildirimi yapmak. Randevu: Kesinlikle gerekli.
 
 ### Adım 3: İş Mahkemesine (Arbeitsgericht) Başvuru (Kündigungsschutzklage)
 
-İşten çıkarma bildirimini aldıktan sonra, **kesinlikle 3 hafta içinde** [Arbeitsgericht (İş Mahkemesi)](https://www.google.com/maps/search/Arbeitsgericht) başvurusu yapmanız gerekmektedir. Bu süre, kanunen belirlenmiş ve kaçırılması durumunda feshin geçerli sayılmasına yol açan hayati bir süredir. Türkçede "İşten Çıkarılmaya Karşı Koruma Davası" (*Kündigungsschutzklage*) olarak bilinen bu davayı açmak için iki yolunuz vardır:
+İşten çıkarma bildirimini aldıktan sonra, **kesinlikle 3 hafta içinde** Arbeitsgericht (İş Mahkemesi) başvurusu yapmanız gerekmektedir. Bu süre, kanunen belirlenmiş ve kaçırılması durumunda feshin geçerli sayılmasına yol açan hayati bir süredir. Türkçede "İşten Çıkarılmaya Karşı Koruma Davası" (*Kündigungsschutzklage*) olarak bilinen bu davayı açmak için iki yolunuz vardır:
 
 1.  **Doğrudan İş Mahkemesi'ne Giderek Dilekçe Yazdırma:** İş mahkemesinin "Rechtsantragsstelle" denilen bir birimi vardır. Buraya giderek görevli memur yardımıyla şikayetinizi sözlü olarak anlatıp dilekçenizi yazdırabilirsiniz. Bu yöntem özellikle avukata gitmek istemeyen veya gidemeyenler için geçerlidir.
 2.  **Bir Avukat Aracılığıyla:** Bir iş hukuku avukatı (*Fachanwalt für Arbeitsrecht*) ile anlaşarak davanızı açtırabilirsiniz. Bu, yasal süreci en doğru şekilde yönetmenizi sağlar.

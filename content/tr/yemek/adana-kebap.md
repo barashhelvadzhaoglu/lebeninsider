@@ -151,14 +151,14 @@ Almanya'da yaşayan gurbetçilerimiz ve Alman mutfağına ara sıra lezzet molas
 Almanya'daki Türk marketleri, evde Adana Kebap yapmak için ihtiyacınız olan birçok malzemeyi bulabileceğiniz kurtarıcı noktalardır.
 
 *   **Kıyma**: Genellikle helal kasap reyonlarında **kuzu ve dana kıyması** bulabilirsiniz. Kasabınızdan "Adana Kebap için çekilmiş kıyma" isteyerek etleri uygun oranda karıştırmasını ve iri çekmesini talep edebilirsiniz. Bazı büyük Türk marketlerinde zırhta çekme hizmeti de sunulabilir.
-*   **Kuyruk Yağı**: Donuk olarak paketlenmiş **kuyruk yağı** çoğu büyük Türk marketinde bulunur. Bazen taze et reyonlarında da bulunabilir. ([Google Maps](https://www.google.com/maps/search/türk+market+almanya+kuyruk+yağı))
-*   **İsot ve Pul Biber**: Kaliteli **isot** ve **pul biber** çeşitlerini rahatlıkla bulabilirsiniz. Genellikle Türkiye'den ithal edilen baharatlar, kebapınıza otantik lezzeti katacaktır. ([Google Maps](https://www.google.com/maps/search/türk+market+almanya+baharat))
+*   **Kuyruk Yağı**: Donuk olarak paketlenmiş **kuyruk yağı** çoğu büyük Türk marketinde bulunur. Bazen taze et reyonlarında da bulunabilir.
+*   **İsot ve Pul Biber**: Kaliteli **isot** ve **pul biber** çeşitlerini rahatlıkla bulabilirsiniz. Genellikle Türkiye'den ithal edilen baharatlar, kebapınıza otantik lezzeti katacaktır.
 *   **Lavaş/Pide**: Taze **lavaş ekmeği** veya ince **pide** de çoğu Türk fırınında veya marketinde günlük olarak üretilir ve Adana kebap ile mükemmel gider.
 *   **Közlenecek Sebzeler**: Domates, sivri biber gibi közlenecek sebzeleri marketlerden kolayca temin edebilirsiniz.
 
 **Almanya'daki bazı Türk market zincirleri ve örnekleri**:
 *   **Feinkost ve Süpermarketler**: Edeka, Rewe gibi büyük Alman süpermarketlerin Türk gıdaları reyonlarında veya özel Feinkost (delicatesse) dükkanlarında bazı baharat ve et ürünlerini bulabilirsiniz.
-*   **Yerel Türk Marketleri**: Her şehirde mutlaka **yerel Türk marketleri** bulunur. Örneğin, Berlin'de "Eurogida", Köln'de "Akdeniz" veya herhangi bir şehirde "Bizim Market" gibi zincirler, geniş ürün yelpazesiyle evde Türk yemekleri yapmak isteyenler için idealdir. Bu marketleri Google Maps'te "Türkische Lebensmittelgeschäfte" veya "Türkischer Supermarkt" diye aratarak kolayca bulabilirsiniz. ([Google Maps](https://www.google.com/maps/search/Türkische+Lebensmittelgeschäfte+Almanya))
+*   **Yerel Türk Marketleri**: Her şehirde mutlaka **yerel Türk marketleri** bulunur. Örneğin, Berlin'de "Eurogida", Köln'de "Akdeniz" veya herhangi bir şehirde "Bizim Market" gibi zincirler, geniş ürün yelpazesiyle evde Türk yemekleri yapmak isteyenler için idealdir. Bu marketleri Google Maps'te "Türkische Lebensmittelgeschäfte" veya "Türkischer Supermarkt" diye aratarak kolayca bulabilirsiniz.
 
 Evde yaparken, mangal keyfi için balkon veya bahçenizde uygun bir barbekü alanı yaratabilirsiniz. Eğer mangal imkanınız yoksa, döküm ızgara tavası veya fırınınızın ızgara özelliğiyle de oldukça lezzetli sonuçlar alabilirsiniz. **Denemeye değer, lezzetli bir uğraş olacağına eminiz!**
 

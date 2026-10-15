@@ -16,7 +16,7 @@ Es zum ersten Mal zu sehen ist schwer zu glauben. An einen Berghang geklammert, 
 
 Disney nutzte dieses Schloss als Vorlage für Dornröschens Palast. Aber Disneys Kopie kann das Original nicht übertreffen.
 
-Stadt-Leitfaden separat: [Füssen Stadtführer →](/de/deutschland/fuessen-stadtreisefuehrer/)
+Stadt-Leitfaden separat: [Füssen Stadtführer →](/de/deutschland/romantische-strasse/fuessen-reisefuehrer/)
 
 ---
 

@@ -8,6 +8,8 @@ tags: ["deutschland", "führerschein", "bulgarien", "expat", "umschreibung", "an
 categories: ["deutschland"]
 summary: "Wer den Prozess der Führerschein-Umschreibung nach dem Umzug nach Deutschland nicht frühzeitig plant, muss mit hohen Kosten rechnen. Mein Erfahrungsbericht über den Versuch, den Führerschein über Bulgarien umschreiben zu lassen – und warum dies scheiterte."
 translationKey: "post-license-exchange"
+aliases:
+  - "/de/deutschland/expat/fuehrerschein-erneuerung-deutschland/"
 ---
 
 ## Die erste Realität nach dem Umzug nach Deutschland

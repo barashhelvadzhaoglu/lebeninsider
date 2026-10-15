@@ -151,14 +151,14 @@ Para nuestros compatriotas que viven en Alemania y para aquellos que quieren hac
 Los mercados turcos en Alemania son puntos de salvación donde puedes encontrar muchos de los ingredientes que necesitas para hacer Adana Kebap en casa.
 
 *   **Carne Picada**: Generalmente puedes encontrar **carne picada de cordero y ternera** en las secciones de carnicería halal. Puedes pedirle a tu carnicero que mezcle las carnes en la proporción adecuada y la pique gruesa para "carne picada para Adana Kebap". Algunos grandes mercados turcos también pueden ofrecer servicio de picado con "zırh".
-*   **Sebo de Cola**: El **sebo de cola** envasado congelado se encuentra en la mayoría de los grandes mercados turcos. A veces también se puede encontrar en las secciones de carne fresca. ([Google Maps](https://www.google.com/maps/search/türk+market+almanya+kuyruk+yağı))
-*   **Isot y Pimiento Triturado**: Puedes encontrar fácilmente variedades de **isot** y **pimiento triturado** de calidad. Las especias importadas de Turquía generalmente añadirán el sabor auténtico a tu kebap. ([Google Maps](https://www.google.com/maps/search/türk+market+almanya+baharat))
+*   **Sebo de Cola**: El **sebo de cola** envasado congelado se encuentra en la mayoría de los grandes mercados turcos. A veces también se puede encontrar en las secciones de carne fresca.
+*   **Isot y Pimiento Triturado**: Puedes encontrar fácilmente variedades de **isot** y **pimiento triturado** de calidad. Las especias importadas de Turquía generalmente añadirán el sabor auténtico a tu kebap.
 *   **Pan de Pita/Pide**: El **pan de pita** fresco o el **pide** fino también se producen diariamente en la mayoría de las panaderías o mercados turcos y combinan perfectamente con el Adana kebap.
 *   **Verduras para Asar**: Puedes conseguir fácilmente verduras para asar como tomates y pimientos picantes en los mercados.
 
 **Algunas cadenas de mercados turcos y ejemplos en Alemania**:
 *   **Feinkost y Supermercados**: En las secciones de alimentos turcos de grandes supermercados alemanes como Edeka, Rewe o en tiendas especializadas Feinkost (delicatessen), puedes encontrar algunas especias y productos cárnicos.
-*   **Mercados Turcos Locales**: Cada ciudad tiene sin duda **mercados turcos locales**. Por ejemplo, "Eurogida" en Berlín, "Akdeniz" en Colonia, o "Bizim Market" en cualquier ciudad son ideales para quienes quieren hacer comida turca en casa con su amplia gama de productos. Puedes encontrar fácilmente estos mercados en Google Maps buscando "Türkische Lebensmittelgeschäfte" o "Türkischer Supermarkt". ([Google Maps](https://www.google.com/maps/search/Türkische+Lebensmittelgeschäfte+Almanya))
+*   **Mercados Turcos Locales**: Cada ciudad tiene sin duda **mercados turcos locales**. Por ejemplo, "Eurogida" en Berlín, "Akdeniz" en Colonia, o "Bizim Market" en cualquier ciudad son ideales para quienes quieren hacer comida turca en casa con su amplia gama de productos. Puedes encontrar fácilmente estos mercados en Google Maps buscando "Türkische Lebensmittelgeschäfte" o "Türkischer Supermarkt".
 
 Al hacerlo en casa, puedes crear un área de barbacoa adecuada en tu balcón o jardín para disfrutar de la barbacoa. Si no tienes posibilidad de barbacoa, también puedes obtener resultados bastante sabrosos con una sartén grill de hierro fundido o la función grill de tu horno. **¡Vale la pena intentarlo, estamos seguros de que será un pasatiempo delicioso!**
 

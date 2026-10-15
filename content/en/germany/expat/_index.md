@@ -43,7 +43,7 @@ Munich is one of Europe's most expensive rental markets. Where to look, which pl
 **Getting Fired and Going to Labour Court**
 Dismissal in Germany is not as straightforward as it might seem. What the labour court process looks like, how long it takes, and what I would do differently.
 
-→ [Getting Fired in Germany: Labour Court](/en/germany/expat/fired-in-germany-labour-court/)
+→ [Getting Fired in Germany: Labour Court](/en/germany/expat/fired-in-germany-labor-court/)
 
 ---
 

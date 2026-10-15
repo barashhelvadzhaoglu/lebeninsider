@@ -52,7 +52,7 @@ Flanking Maximilianstrasse are magnificent Renaissance palaces, once homes to we
 
 ### 5. Augsburg Water Management System
 
-The **Augsburg Water Management System** ([Google Maps](https://www.google.com/maps/search/Augsburg+Water+Management+System)) is a testament to the city's ingenuity and historical foresight. Recognized as a **UNESCO World Heritage site**, this innovative system of canals, water towers, and power plants has been instrumental in shaping the city for over 800 years. Its origins trace back to the Middle Ages, when these waterways were crucial for sanitation, industry, and defense.
+The **Augsburg Water Management System** is a testament to the city's ingenuity and historical foresight. Recognized as a **UNESCO World Heritage site**, this innovative system of canals, water towers, and power plants has been instrumental in shaping the city for over 800 years. Its origins trace back to the Middle Ages, when these waterways were crucial for sanitation, industry, and defense.
 
 Today, you can still see many of these canals flowing through the city, providing a unique and picturesque element to Augsburg's urban landscape. The system includes several historic water towers and pumping stations, such as the Wertach Power Plant and the Lech Power Plant, which showcase the evolution of water technology. Exploring these canals offers a different perspective on the city, revealing a fascinating blend of historical engineering and modern functionality. It's a unique attraction that highlights Augsburg's pioneering spirit in urban planning and resource management.
 

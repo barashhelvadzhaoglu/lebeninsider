@@ -40,14 +40,7 @@
   name = "Yemek"
   pageRef = "yemek"
   weight = 5
-[[main]]
-  name = "Yemek"
-  pageRef = "yemek"
-  weight = 5
-[[main]]
-  name = "Yemek"
-  pageRef = "yemek"
-  weight = 5
+
 [[main]]
   name = "Hakkımda"
   pageRef = "hakkimda"

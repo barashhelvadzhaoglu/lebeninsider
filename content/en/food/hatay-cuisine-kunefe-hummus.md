@@ -234,10 +234,10 @@ If you're inspired to make Künefe or Hummus at home, you'll be pleased to know 
 *   **Pistachios, Butter, Lemon:** These are, of course, universally available.
 
 **Some large Turkish market chains in Germany (check for branches in your city):**
-*   **Eurogida:** ([Google Maps](https://www.google.com/maps/search/Eurogida+Germany)) - Multiple branches across Germany, especially strong in Berlin.
-*   **Efes Market:** ([Google Maps](https://www.google.com/maps/search/Efes+Market+Germany)) - Branches in various cities, including Munich.
-*   **Bizim Market:** ([Google Maps](https://www.google.com/maps/search/Bizim+Market+Germany)) - Common in Cologne and other NRW cities.
-*   **Süpermarket Istanbul:** ([Google Maps](https://www.google.com/maps/search/S%C3%BCpermarket+Istanbul+Germany)) - Smaller chains, but often well-stocked.
+*   **Eurogida:** - Multiple branches across Germany, especially strong in Berlin.
+*   **Efes Market:** - Branches in various cities, including Munich.
+*   **Bizim Market:** - Common in Cologne and other NRW cities.
+*   **Süpermarket Istanbul:** - Smaller chains, but often well-stocked.
 
 *Tips for Home Cooking in Germany:*
 *   **Ask the Butcher:** For Künefe cheese, sometimes the deli counter in a larger Turkish market might have unsalted fresh cheeses that would work.

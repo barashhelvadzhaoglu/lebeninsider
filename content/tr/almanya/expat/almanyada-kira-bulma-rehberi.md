@@ -74,7 +74,7 @@ Almanya'da, özellikle Münih gibi rekabetçi şehirlerde, kiralık daire bulmak
 ### Adım 8: Anmeldung ve Diğer Resmi İşlemler
 
 **Nerede:** İlgili resmi kurumlar (Bürgeramt, elektrik/internet sağlayıcıları vb.).
-**Nasıl:** Kira sözleşmenizle birlikte, taşındıktan sonraki 2 hafta içinde ikametgah kaydınızı (Anmeldung) yaptırmalısınız. Bunun için bağlı bulunduğunuz **Bürgeramt**'a ([Google Maps'te Bürgeramt'ınızı bulun](https://www.google.com/maps/search/Bürgeramt+München) - "München" yerine kendi şehrinizi yazın) giderek veya online randevu alarak bu işlemi gerçekleştirebilirsiniz. Ayrıca, elektrik, su, gaz ve internet aboneliklerinizi de en kısa sürede başlatmalısınız.
+**Nasıl:** Kira sözleşmenizle birlikte, taşındıktan sonraki 2 hafta içinde ikametgah kaydınızı (Anmeldung) yaptırmalısınız. Bunun için bağlı bulunduğunuz **Bürgeramt**'a (Google Maps'te Bürgeramt'ınızı bulun - "München" yerine kendi şehrinizi yazın) giderek veya online randevu alarak bu işlemi gerçekleştirebilirsiniz. Ayrıca, elektrik, su, gaz ve internet aboneliklerinizi de en kısa sürede başlatmalısınız.
 **Ne kadar sürer:** Anmeldung işlemi randevu ile 30 dakika sürebilir. Diğer abonelikler online olarak birkaç saatte yapılabilir.
 **Dikkat edilecekler:** Anmeldung olmadan Schufa gibi birçok temel hizmete erişiminiz zorlaşacaktır. Randevu bulmak zor olabilir, bu yüzden erkenden randevu almaya çalışın.
 

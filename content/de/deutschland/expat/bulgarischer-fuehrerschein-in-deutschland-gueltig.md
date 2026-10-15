@@ -143,7 +143,7 @@ Und das Ergebnis: Ein bulgarischer Führerschein, der in Deutschland nicht verwe
 
 Der einzig gültige Weg, in Deutschland einen Führerschein zu bekommen, ist **der Fahrschulprozess.** Dieser Prozess ist lang und teuer, erzeugt aber ein rechtlich gültiges Ergebnis.
 
-Für den detaillierten Prozess: [Führerschein in Deutschland | Kompletter Leitfaden](/de/deutschland/fuehrerschein-erneuerung-deutschland/)
+Für den detaillierten Prozess: [Führerschein in Deutschland | Kompletter Leitfaden](/de/deutschland/expat/fuehrerschein-umschreibung-deutschland/)
 
 ---
 

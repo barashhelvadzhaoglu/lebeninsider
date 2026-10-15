@@ -38,7 +38,7 @@ Wie Silvester in München wirklich läuft — Feuerwerksfreiheit, Parks, Plätze
 **Deutschlandticket-Tagesausflüge ab München**
 Das große Bild auf einen Blick: Welche Städte lohnen sich, wie weit sind sie, und ein ehrliches Urteil darüber, welche enttäuschen.
 
-→ [Deutschlandticket Tagesausflüge ab München](/de/deutschland/reisen/deutschlandticket-tagesausfluege-muenchen/)
+→ [Deutschlandticket Tagesausflüge ab München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
 
 ---
 

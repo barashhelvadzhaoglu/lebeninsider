@@ -30,3 +30,23 @@
   name = "Ruta Romántica"
   pageRef = "alemania/ruta-romantica"
   weight = 3
+
+[[main]]
+  name = "Viajes por el mundo"
+  pageRef = "viajes"
+  weight = 4
+
+[[main]]
+  name = "Comida"
+  pageRef = "comida"
+  weight = 5
+
+[[main]]
+  name = "Sobre mí"
+  pageRef = "sobre-mi"
+  weight = 6
+
+[[main]]
+  name = "Contacto"
+  pageRef = "contacto"
+  weight = 7
