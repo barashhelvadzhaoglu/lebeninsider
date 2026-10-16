@@ -12,7 +12,7 @@ summary: "Yunanistan hem tarihin hem de güneşin adresi. Atina'da Akropolis, ad
 
 ## Yunanistan: Batı Medeniyetinin Beşiği ve Ege'nin Kalbi
 
-Merhaba sevgili LebensInsider okuyucuları! Bugün rotamızı, binlerce yıllık tarihi, masmavi denizi ve eşsiz kültürüyle her gezginin kalbinde özel bir yer edinen Yunanistan'a çeviriyoruz. Özellikle biz Türk gezginler için hem kültürel açıdan tanıdık hem de vize prosedürleri nedeniyle biraz meşakkatli bir destinasyon olsa da, bir kez adım attığınızda neden bu kadar popüler olduğunu hemen anlayacaksınız. Antik kalıntıların modern şehir dokusuyla harmanlandığı, Akdeniz'in tüm sıcaklığını ve misafirperverliğini hissedeceğiniz bu coğrafya, unutulmaz anılar biriktirmek için sizi bekliyor.
+Merhaba sevgili LebenInsider okuyucuları! Bugün rotamızı, binlerce yıllık tarihi, masmavi denizi ve eşsiz kültürüyle her gezginin kalbinde özel bir yer edinen Yunanistan'a çeviriyoruz. Özellikle biz Türk gezginler için hem kültürel açıdan tanıdık hem de vize prosedürleri nedeniyle biraz meşakkatli bir destinasyon olsa da, bir kez adım attığınızda neden bu kadar popüler olduğunu hemen anlayacaksınız. Antik kalıntıların modern şehir dokusuyla harmanlandığı, Akdeniz'in tüm sıcaklığını ve misafirperverliğini hissedeceğiniz bu coğrafya, unutulmaz anılar biriktirmek için sizi bekliyor.
 
 Yunanistan, Güney Avrupa'da, Balkan Yarımadası'nın güney ucunda yer alır ve coğrafyası binlerce adasıyla öne çıkar. Ülkenin başkenti ve en büyük şehri olan **Atina**, yaklaşık 3.8 milyonluk metropol nüfusuyla modern bir Avrupa başkenti olmasının yanı sıra, Batı medeniyetinin doğduğu toprakları barındırır. Demokrasi, felsefe, matematik ve Olimpiyat Oyunları gibi kavramların filizlendiği bu topraklar, ziyaretçilerine adeta canlı bir tarih dersi sunar.
 

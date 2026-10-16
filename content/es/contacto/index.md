@@ -13,6 +13,10 @@ Leo y respondo personalmente cada mensaje.
 
 **📫 Correo electrónico:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (Síguenos):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## ¿Cuándo puedes escribirme?

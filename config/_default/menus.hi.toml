@@ -45,3 +45,8 @@
   name = "संपर्क"
   pageRef = "sampark"
   weight = 6
+
+[[main]]
+  name = "करियर"
+  pageRef = "career"
+  weight = 4

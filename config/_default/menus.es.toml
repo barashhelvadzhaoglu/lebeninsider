@@ -50,3 +50,8 @@
   name = "Contacto"
   pageRef = "contacto"
   weight = 7
+
+[[main]]
+  name = "Carrera"
+  pageRef = "carrera"
+  weight = 4

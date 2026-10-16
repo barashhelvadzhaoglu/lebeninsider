@@ -1,7 +1,7 @@
 languageCode = "hi"
 languageName = "हिन्दी"
 weight = 5
-title = "LebensInsider"
+title = "LebenInsider"
 
 [params]
   displayName = "HI"
@@ -15,7 +15,7 @@ title = "LebensInsider"
   rtl = false
   dateFormat = "2 January 2006"
   description = "असली यात्राएं, असली गलतियां, असली अनुभव।"
-  author.name = "LebensInsider"
+  author.name = "LebenInsider"
 
 [params.homepage]
   showRecent = true

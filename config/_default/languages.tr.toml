@@ -1,7 +1,7 @@
 languageCode = "tr"
 languageName = "Türkçe"
 weight = 1
-title = "LebensInsider"
+title = "LebenInsider"
 
 [params]
   displayName = "TR"
@@ -15,7 +15,7 @@ title = "LebensInsider"
   rtl = false
   dateFormat = "2 Ocak 2006"
   description = "Gerçek geziler, gerçek hatalar, gerçek deneyimler."
-  author.name = "LebensInsider"
+  author.name = "LebenInsider"
 
 [params.homepage]
   showRecent = true

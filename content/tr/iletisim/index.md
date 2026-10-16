@@ -11,6 +11,10 @@ Gelen her mesajı kendim okuyor ve kendim cevaplıyorum.
 
 **📫 E-posta:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (Takip et):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## Ne zaman yazabilirsiniz?

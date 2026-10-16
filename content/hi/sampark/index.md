@@ -13,6 +13,10 @@ aliases:
 
 **📫 ईमेल:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (फ़ॉलो करें):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## आप मुझे कब लिख सकते हैं?

@@ -45,3 +45,8 @@
   name = "تواصل معنا"
   pageRef = "ittasal"
   weight = 6
+
+[[main]]
+  name = "المسيرة المهنية"
+  pageRef = "career"
+  weight = 4

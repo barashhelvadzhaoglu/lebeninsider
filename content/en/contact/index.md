@@ -11,6 +11,10 @@ I read and answer every message personally.
 
 **📫 Email:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (Follow):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## When to write to me

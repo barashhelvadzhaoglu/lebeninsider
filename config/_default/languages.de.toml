@@ -1,7 +1,7 @@
 languageCode = "de"
 languageName = "Deutsch"
 weight = 3
-title = "LebensInsider"
+title = "LebenInsider"
 
 [params]
   displayName = "DE"
@@ -15,7 +15,7 @@ title = "LebensInsider"
   rtl = false
   dateFormat = "2. Januar 2006"
   description = "Echte Reisen, echte Fehler, echte Erfahrungen."
-  author.name = "LebensInsider"
+  author.name = "LebenInsider"
 
 [params.homepage]
   showRecent = true

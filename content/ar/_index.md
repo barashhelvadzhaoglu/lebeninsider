@@ -1,5 +1,5 @@
 ---
-title: "LebensInsider"
+title: "LebenInsider"
 description: "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
 translationKey: "home-page"
 ---

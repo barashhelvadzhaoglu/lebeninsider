@@ -1,7 +1,7 @@
 languageCode = "ar"
 languageName = "العربية"
 weight = 4
-title = "LebensInsider"
+title = "LebenInsider"
 
 [params]
   displayName = "AR"
@@ -15,7 +15,7 @@ title = "LebensInsider"
   rtl = true
   dateFormat = "2 January 2006"
   description = "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
-  author.name = "LebensInsider"
+  author.name = "LebenInsider"
 
 [params.homepage]
   showRecent = true

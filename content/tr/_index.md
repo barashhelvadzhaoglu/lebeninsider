@@ -1,5 +1,5 @@
 ---
-title: "LebensInsider"
+title: "LebenInsider"
 description: "Gerçek geziler, gerçek hatalar, gerçek deneyimler."
 translationKey: "home-page"
 ---

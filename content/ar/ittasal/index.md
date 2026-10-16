@@ -13,6 +13,10 @@ aliases:
 
 **📫 البريد الإلكتروني:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (تابعنا):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## متى يمكنك مراسلتي؟

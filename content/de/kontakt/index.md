@@ -11,6 +11,10 @@ Ich lese und beantworte jede Nachricht persönlich.
 
 **📫 E-Mail:** [info@lebeninsider.com](mailto:info@lebeninsider.com)
 
+**💼 LinkedIn (Folgen):** [linkedin.com/company/lebeninsider](https://www.linkedin.com/company/lebeninsider)
+
+**📸 Instagram:** [@lebeninsider](https://www.instagram.com/lebeninsider/)
+
 ---
 
 ## Wann können Sie mir schreiben?
