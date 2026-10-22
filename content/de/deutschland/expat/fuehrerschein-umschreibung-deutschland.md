@@ -4,7 +4,23 @@ date: 2026-03-10
 draft: false
 featureimage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "Wie lange ist der türkische Führerschein in Deutschland gültig? Funktioniert der Umweg über Bulgarien? Aktuelle Informationen 2026-2025 und persönliche Erfahrungen."
-tags: ["deutschland", "führerschein", "bulgarien", "expat", "umschreibung", "anmeldung", "führerschein umschreiben", "türkischer führerschein", "eu führerschein", "fahrschule", "theorieprüfung", "fahrprüfung", "kosten", "bürokratie", "ausländischer führerschein"]
+tags:
+  - "deutschland"
+  - "Leben in Deutschland"
+  - "führerschein"
+  - "bulgarien"
+  - "expat"
+  - "umschreibung"
+  - "anmeldung"
+  - "führerschein umschreiben"
+  - "türkischer führerschein"
+  - "eu führerschein"
+  - "fahrschule"
+  - "theorieprüfung"
+  - "fahrprüfung"
+  - "kosten"
+  - "bürokratie"
+  - "ausländischer führerschein"
 categories: ["deutschland"]
 summary: "Wer den Prozess der Führerschein-Umschreibung nach dem Umzug nach Deutschland nicht frühzeitig plant, muss mit hohen Kosten rechnen. Mein Erfahrungsbericht über den Versuch, den Führerschein über Bulgarien umschreiben zu lassen – und warum dies scheiterte."
 translationKey: "post-license-exchange"

@@ -7,6 +7,7 @@ translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "غاز مسال"
+  - "الحياة في ألمانيا"
   - "غاز مسال أوروبا"
   - "هوندا سيفيك غاز مسال"
   - "السفر بالسيارة إلى أوروبا"

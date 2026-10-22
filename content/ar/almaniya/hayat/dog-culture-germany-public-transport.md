@@ -7,6 +7,7 @@ translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "حب_الحيوانات_في_ألمانيا"
+  - "الحياة في ألمانيا"
   - "تدريب_الكلاب_في_ألمانيا"
   - "Hundeschule"
   - "النقل_العام_في_ألمانيا"

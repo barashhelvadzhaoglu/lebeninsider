@@ -7,6 +7,7 @@ translationKey: "why-i-moved-countries"
 featureimage: "img/living/why-i-moved.webp"
 tags:
   - "TurquiaAlemania"
+  - "Vivir en Alemania"
   - "Mudarse"
   - "Inflacion"
   - "Familia"

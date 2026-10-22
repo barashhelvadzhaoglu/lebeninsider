@@ -7,6 +7,7 @@ translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी"
+  - "जर्मनी में जीवन"
   - "जीवन"
   - "जर्मनी+में+तुर्क"
   - "सुलभ+जीवन"

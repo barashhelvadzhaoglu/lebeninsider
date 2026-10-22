@@ -6,6 +6,7 @@ description: "Sunday everything is closed. Yes, really. Here is how to adapt and
 translationKey: "tvg-shopping"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Shopping"
   - "Daily Life"

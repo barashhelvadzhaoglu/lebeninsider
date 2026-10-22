@@ -7,6 +7,7 @@ translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LPG"
+  - "Leben in Deutschland"
   - "LPG Europa"
   - "Honda Civic LPG"
   - "Mit dem Auto nach Europa"

@@ -7,6 +7,7 @@ translationKey: "istanbul-munich-road-guide"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "İstanbul Münih"
+  - "Almanya'da Yaşam"
   - "Araçla Avrupa"
   - "Romanya Rotası"
   - "Gece Yolculuğu"

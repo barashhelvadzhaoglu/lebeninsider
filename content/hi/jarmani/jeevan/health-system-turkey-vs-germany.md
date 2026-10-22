@@ -7,6 +7,7 @@ translationKey: "tvg-health-system"
 featureimage: "img/living/health.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "स्वास्थ्य"
   - "डॉक्टर"
   - "जर्मनीमेंजीवन"

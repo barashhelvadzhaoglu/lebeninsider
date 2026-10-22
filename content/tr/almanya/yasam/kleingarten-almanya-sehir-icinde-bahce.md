@@ -6,10 +6,12 @@ description: "Almanya'da Kleingarten nedir? Şehir içinde kiralanan küçük ba
 translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"
 tags:
-  - "AlmanyadaYaşam"
   - "Kleingarten"
+  - "Almanya'da Yaşam"
   - "Bahçe"
   - "Münih"
+  - "Kleingarten nedir"
+  - "Münih Kleingarten"
 ---
 
 Almanya'da şehir hayatının en güzel taraflarından biri bence **Kleingarten**. Şehrin içinde, küçük bahçelerin yan yana dizildiği alanlar.

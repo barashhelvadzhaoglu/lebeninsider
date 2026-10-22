@@ -7,7 +7,7 @@ translationKey: "turkey-vs-germany-overview"
 featureimage: "img/living/turkey-vs-germany.webp"
 tags:
   - "TürkiyeAlmanya"
-  - "AlmanyadaYaşam"
+  - "Almanya'da Yaşam"
   - "Taşınmak"
   - "Expat"
 ---

@@ -7,6 +7,7 @@ translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"
 tags:
   - "الحياة_في_ألمانيا"
+  - "الحياة في ألمانيا"
   - "Kleingarten"
   - "حديقة"
   - "ميونخ"

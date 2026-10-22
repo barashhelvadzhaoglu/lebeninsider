@@ -7,6 +7,7 @@ translationKey: "yesil-sigorta-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Green Insurance"
+  - "Life in Germany"
   - "Green Card"
   - "Europe by Car"
   - "Germany"

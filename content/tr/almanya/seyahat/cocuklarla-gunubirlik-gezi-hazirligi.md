@@ -8,8 +8,10 @@ featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 tags:
   - "ÇocuklaGezi"
   - "Deutschlandticket"
-  - "AlmanyadaYaşam"
+  - "Almanya'da Yaşam"
   - "Pazar"
+  - "Almanya'da çocukla gezi"
+  - "Almanya'da pazar günü marketler açık mı"
 ---
 
 Hafta sonları iki küçük oğlumuzla genelde bölgesel trenlerle günübirlik gezilere çıkıyoruz. Zamanla bir düzenimiz oluştu. Burada bebek arabasının altına neler koyduğumuzu ve nelere dikkat ettiğimizi anlatıyorum.

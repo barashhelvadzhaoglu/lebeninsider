@@ -7,6 +7,7 @@ translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "ExpatLife"
   - "Bureaucracy"
   - "LifeInGermany"

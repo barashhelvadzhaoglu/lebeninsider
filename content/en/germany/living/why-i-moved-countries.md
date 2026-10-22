@@ -6,6 +6,7 @@ description: "My number one priority was to give my children a better future. A 
 translationKey: "why-i-moved-countries"
 tags:
   - "Moving Abroad"
+  - "Life in Germany"
   - "Turkey"
   - "Germany"
   - "Inflation"

@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
+  - "Almanya'da Yaşam"
   - "Expat"
   - "Türk+Aileler"
   - "Bebek+Arabası"

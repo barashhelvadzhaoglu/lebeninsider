@@ -7,6 +7,7 @@ translationKey: "tvg-housing"
 featureimage: "img/living/housing.webp"
 tags:
   - "TurquiaAlemania"
+  - "Vivir en Alemania"
   - "Vivienda"
   - "EspacioVital"
   - "VidaEnAlemania"

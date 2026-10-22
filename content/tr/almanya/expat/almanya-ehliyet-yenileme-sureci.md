@@ -3,7 +3,13 @@ title: "Almanya'da Ehliyet Yenileme Süreci | Türk & Bulgar Ehliyeti Gerçeği"
 date: 2026-03-10
 draft: false
 description: "Almanya'da Türk ehliyeti ne kadar süre geçerli? Bulgaristan üzerinden ehliyet çevirme işe yarıyor mu? Birebir yaşanmış deneyim."
-tags: ["almanya", "ehliyet", "bulgaristan", "expat", "sürücü belgesi"]
+tags:
+  - "almanya"
+  - "Almanya'da Yaşam"
+  - "ehliyet"
+  - "bulgaristan"
+  - "expat"
+  - "sürücü belgesi"
 categories: ["almanya"]
 summary: "Almanya'ya taşındıktan sonra ehliyet yenileme sürecini erken öğrenmezseniz bedeli ağır olabilir. Bulgaristan üzerinden çözüm arayışı ve neden işe yaramadığı — birebir deneyim."
 featureimage: "img/living/driving-license.webp"

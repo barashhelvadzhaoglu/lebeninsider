@@ -7,6 +7,7 @@ translationKey: "sharing-culture-germany"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
+  - "Vivir en Alemania"
   - "Cultura de Compartir"
   - "Kleinanzeigen"
   - "Vida en Alemania"

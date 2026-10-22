@@ -7,6 +7,7 @@ translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Expats"
   - "TurkishCommunityGermany"
   - "LifeInGermany"

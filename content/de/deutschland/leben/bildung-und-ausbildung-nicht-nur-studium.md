@@ -7,6 +7,7 @@ translationKey: "tvg-school"
 featureimage: "img/living/school.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "Bildung"
   - "Ausbildung"
   - "Kinder"

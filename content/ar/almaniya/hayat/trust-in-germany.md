@@ -7,6 +7,7 @@ translationKey: "trust-in-germany"
 featureimage: "img/living/trust.webp"
 tags:
   - "تركيا_ألمانيا"
+  - "الحياة في ألمانيا"
   - "الثقة_المجتمعية"
   - "الثقافة_الألمانية"
   - "القواعد"

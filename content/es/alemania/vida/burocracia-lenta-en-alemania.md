@@ -7,6 +7,7 @@ translationKey: "almanyada-bürokratik-yavaslik-kurumlar-kural-uymuyor"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Vida en Alemania"
+  - "Vivir en Alemania"
   - "Burocracia Alemana"
   - "Inmigración Alemania"
   - "Turcos en Alemania"

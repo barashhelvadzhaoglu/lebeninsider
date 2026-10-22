@@ -7,6 +7,7 @@ translationKey: "tvg-bicultural"
 featureimage: "img/living/bicultural.webp"
 tags:
   - "तुर्की-जर्मनी"
+  - "जर्मनी में जीवन"
   - "बच्चे"
   - "परिवार"
   - "जर्मनी-में-जीवन"

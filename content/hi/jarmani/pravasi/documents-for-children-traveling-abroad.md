@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी"
+  - "जर्मनी में जीवन"
   - "विदेश यात्रा"
   - "बच्चों के साथ यात्रा"
   - "आवश्यक दस्तावेज़"

@@ -7,6 +7,7 @@ translationKey: "trust-in-germany"
 featureimage: "img/living/trust.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "सामाजिकभरोसा"
   - "जर्मनसंस्कृति"
   - "नियम"

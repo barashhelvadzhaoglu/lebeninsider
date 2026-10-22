@@ -7,6 +7,7 @@ translationKey: "flohmarkt-second-hand-germany"
 featureimage: "img/living/shopping.webp"
 tags:
   - "VivirEnAlemania"
+  - "Vivir en Alemania"
   - "Flohmarkt"
   - "Kleinanzeigen"
   - "SegundaMano"

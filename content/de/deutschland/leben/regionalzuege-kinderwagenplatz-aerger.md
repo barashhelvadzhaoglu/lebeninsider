@@ -7,6 +7,7 @@ translationKey: "regional-trains-stroller-space"
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 tags:
   - "Verkehr"
+  - "Leben in Deutschland"
   - "Deutschlandticket"
   - "Kinderwagen"
   - "Zug"

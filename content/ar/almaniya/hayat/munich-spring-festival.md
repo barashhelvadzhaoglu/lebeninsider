@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ميونخ"
+  - "الحياة في ألمانيا"
   - "مهرجان+الربيع"
   - "Frühlingsfest"
   - "الحياة+في+ألمانيا"

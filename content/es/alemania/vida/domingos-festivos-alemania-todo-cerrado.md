@@ -7,6 +7,7 @@ translationKey: "sundays-public-holidays-germany"
 featureimage: "img/living/work-life.webp"
 tags:
   - "VivirEnAlemania"
+  - "Vivir en Alemania"
   - "DíasFestivos"
   - "Domingo"
   - "VidaLaboral"

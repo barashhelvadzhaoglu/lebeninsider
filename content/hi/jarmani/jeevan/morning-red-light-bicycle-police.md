@@ -7,6 +7,7 @@ translationKey: "bisiklet-kirmizi-isik-polis"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनीमेंजीवन"
+  - "जर्मनी में जीवन"
   - "साइकिल"
   - "म्यूनिख"
   - "यातायातकेनियम"

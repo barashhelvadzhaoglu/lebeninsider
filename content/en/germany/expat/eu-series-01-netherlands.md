@@ -6,6 +6,7 @@ description: "I applied for jobs there, got a sponsorship offer, and researched 
 translationKey: "eu-netherlands"
 tags:
   - "Netherlands"
+  - "Life in Germany"
   - "Expat Life"
   - "Europe"
   - "30 Percent Ruling"

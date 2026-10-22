@@ -7,6 +7,7 @@ translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
   - "जर्मनीमेंजीवन"
+  - "जर्मनी में जीवन"
   - "कीमतें"
   - "खाना"
   - "म्यूनिख"

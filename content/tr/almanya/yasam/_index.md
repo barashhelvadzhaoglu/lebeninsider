@@ -1,27 +1,21 @@
 ---
 featureimage: "img/lebeninsider-hero.webp"
 title: "Almanya'da Yaşam"
-description: "Türkiye ve Almanya karşılaştırmaları ile Münih'te expat hayatına dair kişisel yazılar."
+description: "Almanya'da yaşam nasıl? Münih'te gündelik hayat, marketler, ulaşım, pazar günleri, ikinci el, güven ve Türkiye–Almanya karşılaştırmaları. Bizzat yaşadıklarımız."
 translationKey: "germany-living"
 ---
 
-## Almanya'da Yaşam — Karşılaştırmalı ve Dürüst
+## Almanya'da yaşam: bizzat yaşadıklarımız
 
-Almanya'ya taşınmak bir karar — ama o kararın arkası hiç bitmez.
+Türkiye'den Münih'e taşınan, iki küçük çocuğu olan bir aileyiz. Bu bölümde Almanya'da yaşamı olduğu gibi anlatıyorum: neyin beklediğimizden kolay, neyin zor olduğunu, neyi farklı bulduğumuzu.
 
-Yıllar içinde şunu fark ettim: Almanya hakkında yazılmış bilginin büyük çoğunluğu ya resmi kaynakların çevirisi ya da "her şey harika" tarzı içerik. Türkiye'den gelip Münih'te yaşayan biri olarak bazen avantaj, bazen de çok daha fazla bürokratik engelle karşılaştım.
+Bir ülke diğerinden iyi ya da kötü değil; sadece farklı. Önce kendi kriterlerinizi belirleyin, sonra karşılaştırın. Bu yaklaşımı [Türkiye mi Almanya mı?](/tr/almanya/yasam/turkiye-mi-almanya-mi-karsilastirmadan-once/) yazısında anlattım.
 
-Bu bölümdeki yazılar gündelik hayatı olduğu gibi anlatıyor — nelerin beklediğinizden iyi, nelerin beklenenden zor olduğunu.
+### Bu bölümde neler var?
 
----
+- **Türkiye–Almanya karşılaştırmaları:** Eğitim, çocuk büyütmek, sağlık, çalışma hayatı, konut, ulaşım, toplumsal güven.
+- **Gündelik hayat:** Marketler ve fiyatlar, pazar günleri ve resmi tatiller, dışarıda yemek, ikinci el ve Flohmarkt, Kleingarten.
+- **Ulaşım:** Deutschlandticket, bölgesel trenler, bisiklet ve bebek arabasıyla şehir.
+- **Kültür:** Bavyera evleri, festivaller, Almanlar hakkındaki gözlemlerimiz.
 
-### Bu Bölümde Neler Var?
-
-**Paylaşım Kültürü**
-Almanya'da paylaşım ekonomisi — araç paylaşımı, alet-edevat kiralama, topluluk bahçeleri. Türkiye ile karşılaştırıldığında nerede öne çıkıyor, nerede geride kalıyor?
-
----
-
-### Yakında Eklenecekler
-
-Sağlık sistemi, Kindergeld ve çocuk destekleri, Almanya'da işçi hakları, Türkiye–Almanya vergi karşılaştırması gibi konular bu bölüme eklenecek. Pratik bilgi biriktikçe yazıyorum — takvim değil, deneyim tetikliyor.
+Yazıların altındaki listeden en yenilerine ulaşabilirsiniz.

@@ -4,6 +4,7 @@ weight = 1
 title = "LebenInsider"
 
 [params]
+  homeTitle = "LebenInsider – Almanya'da Yaşam, Gezi ve Kariyer"
   displayName = "TR"
   isoCode = "tr"
   logo = "logo.png"
@@ -14,7 +15,7 @@ title = "LebenInsider"
   showTitle = true
   rtl = false
   dateFormat = "2 Ocak 2006"
-  description = "Gerçek geziler, gerçek hatalar, gerçek deneyimler."
+  description = "Almanya'da yaşam: Münih'te gündelik hayat, Türkiye–Almanya karşılaştırmaları, gezi rehberleri ve Almanya'da IT kariyeri. Bizzat yaşanmış deneyimler."
   author.name = "LebenInsider"
 
 [params.homepage]

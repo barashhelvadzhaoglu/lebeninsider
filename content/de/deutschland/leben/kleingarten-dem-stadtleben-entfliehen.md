@@ -7,6 +7,7 @@ translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"
 tags:
   - "LebenInDeutschland"
+  - "Leben in Deutschland"
   - "Kleingarten"
   - "Garten"
   - "München"

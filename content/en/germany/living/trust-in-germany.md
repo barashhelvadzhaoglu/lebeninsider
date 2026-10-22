@@ -6,6 +6,7 @@ description: "In Germany it is often neighbours, not police, who enforce the rul
 translationKey: "trust-in-germany"
 tags:
   - "Society"
+  - "Life in Germany"
   - "Trust"
   - "German Culture"
   - "Turkey"

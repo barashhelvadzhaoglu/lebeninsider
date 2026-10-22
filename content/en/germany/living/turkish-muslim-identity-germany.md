@@ -6,6 +6,7 @@ description: "The headlines do not tell the full story. Here is my day-to-day ex
 translationKey: "tvg-identity"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkish Expat"
   - "Muslim"
   - "Identity"

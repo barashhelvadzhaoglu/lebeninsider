@@ -6,6 +6,7 @@ description: "You can survive in Munich with English. But surviving and living a
 translationKey: "tvg-language"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkish Expat"
   - "German Language"
   - "Expat Life"

@@ -6,6 +6,7 @@ description: "I researched it, applied, received a response a year later. Here i
 translationKey: "eu-job-seeker-visa"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Visa"
   - "Job Seeker Visa"
   - "Moving to Germany"

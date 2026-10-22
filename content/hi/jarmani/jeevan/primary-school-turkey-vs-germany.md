@@ -7,6 +7,7 @@ translationKey: "tvg-school"
 featureimage: "img/living/school.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "शिक्षा"
   - "Ausbildung"
   - "बच्चे"

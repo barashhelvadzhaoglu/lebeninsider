@@ -7,6 +7,7 @@ translationKey: "bisiklet-kirmizi-isik-polis"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LifeInGermany"
+  - "Life in Germany"
   - "Cycling"
   - "Munich"
   - "TrafficRules"

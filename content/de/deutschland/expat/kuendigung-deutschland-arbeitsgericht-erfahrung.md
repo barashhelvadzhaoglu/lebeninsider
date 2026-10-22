@@ -7,6 +7,7 @@ translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
 tags:
   - "Deutschland"
+  - "Leben in Deutschland"
   - "Arbeitsrecht"
   - "Kündigung"
   - "Arbeitsgericht"

@@ -7,6 +7,7 @@ translationKey: "tvg-traffic"
 featureimage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "Mobilität"
   - "Fahrrad"
   - "Deutschlandticket"

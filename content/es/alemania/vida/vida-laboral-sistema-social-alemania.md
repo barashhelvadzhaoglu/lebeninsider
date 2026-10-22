@@ -7,6 +7,7 @@ translationKey: "tvg-work-life"
 featureimage: "img/living/work-life.webp"
 tags:
   - "TurquiaAlemania"
+  - "Vivir en Alemania"
   - "VidaLaboral"
   - "Minijob"
   - "SistemaSocial"

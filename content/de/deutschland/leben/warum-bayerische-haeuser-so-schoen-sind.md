@@ -7,6 +7,7 @@ translationKey: "bavarian-houses-building-rules"
 featureimage: "img/living/housing.webp"
 tags:
   - "Bayern"
+  - "Leben in Deutschland"
   - "Wohnen"
   - "Architektur"
   - "LebenInDeutschland"

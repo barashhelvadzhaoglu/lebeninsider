@@ -7,6 +7,7 @@ translationKey: "istanbul-munich-road-guide"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "इस्तांबुल म्यूनिख"
+  - "जर्मनी में जीवन"
   - "कार से यूरोप"
   - "रोमानिया मार्ग"
   - "रात की यात्रा"

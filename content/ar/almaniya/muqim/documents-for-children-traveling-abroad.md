@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "السفر الدولي"
   - "السفر مع الأطفال"
   - "المستندات المطلوبة"

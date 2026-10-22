@@ -7,6 +7,7 @@ translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany+Life"
+  - "Life in Germany"
   - "Expat+Life"
   - "Turkish+Expats"
   - "Allergies+Germany"

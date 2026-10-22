@@ -7,6 +7,7 @@ translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी"
+  - "जर्मनी में जीवन"
   - "साइकिल"
   - "सेकेंड+हैंड"
   - "Deutschlandticket"

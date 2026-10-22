@@ -11,6 +11,9 @@ tags:
   - "Deutschlandticket"
   - "ÇocuklaGezi"
   - "Bavyera"
+  - "Mittenwald gezi"
+  - "Münih'ten günübirlik gezi"
+  - "Karwendelbahn"
 ---
 
 Bugün Avusturya sınırına kadar gittik. Amacımız büyük bir şehir gezmek değildi; dağları, yeşilliği görmek ve trenle güzel bir yolculuk yapmaktı.

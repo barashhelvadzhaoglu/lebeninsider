@@ -7,6 +7,7 @@ translationKey: "trust-in-germany"
 featureimage: "img/living/trust.webp"
 tags:
   - "TurquíaAlemania"
+  - "Vivir en Alemania"
   - "ConfianzaSocial"
   - "CulturaAlemana"
   - "Reglas"

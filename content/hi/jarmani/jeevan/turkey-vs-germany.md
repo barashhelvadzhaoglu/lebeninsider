@@ -7,6 +7,7 @@ translationKey: "turkey-vs-germany-overview"
 featureimage: "img/living/turkey-vs-germany.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "जर्मनीमेंजीवन"
   - "स्थानांतरण"
   - "प्रवासी"

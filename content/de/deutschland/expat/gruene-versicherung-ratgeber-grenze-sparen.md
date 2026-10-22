@@ -10,6 +10,7 @@ categories:
   - "expat"
 tags:
   - "Grüne Karte"
+  - "Leben in Deutschland"
   - "Green Card"
   - "Mit dem Auto nach Europa"
   - "Deutschland"

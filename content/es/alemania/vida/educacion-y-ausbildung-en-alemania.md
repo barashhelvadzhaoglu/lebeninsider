@@ -7,6 +7,7 @@ translationKey: "tvg-school"
 featureimage: "img/living/school.webp"
 tags:
   - "TurquiaAlemania"
+  - "Vivir en Alemania"
   - "Educación"
   - "Ausbildung"
   - "Niños"

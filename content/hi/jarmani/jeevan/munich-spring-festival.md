@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "म्यूनिख"
+  - "जर्मनी में जीवन"
   - "वसंत+महोत्सव"
   - "Frühlingsfest"
   - "जर्मनी+में+जीवन"

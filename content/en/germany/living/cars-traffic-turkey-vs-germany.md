@@ -6,6 +6,7 @@ description: "With the Deutschlandticket, all public transport costs 63 euros a 
 translationKey: "tvg-traffic"
 tags:
   - "Transport"
+  - "Life in Germany"
   - "Cycling"
   - "Deutschlandticket"
   - "Turkey"

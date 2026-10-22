@@ -7,6 +7,7 @@ translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Deutschland"
+  - "Leben in Deutschland"
   - "Barrierefreiheit"
   - "Inklusion"
   - "Expats"

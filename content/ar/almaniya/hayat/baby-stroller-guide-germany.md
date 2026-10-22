@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "مغتربون"
   - "عائلات+تركية"
   - "عربة+أطفال"

@@ -7,9 +7,11 @@ translationKey: "trust-in-germany"
 featureimage: "img/living/trust.webp"
 tags:
   - "TürkiyeAlmanya"
+  - "Almanya'da Yaşam"
   - "ToplumsalGüven"
   - "AlmanKültürü"
   - "Kurallar"
+  - "Almanya güvenli mi"
 ---
 
 *Bu yazı "Türkiye mi Almanya mı?" serisinin bir bölümü. Bu bir iyi-kötü yarışı değil; iki farklı kültürü ve beni neyin beklediğini anlatıyorum. Serinin girişi: [Karşılaştırmaya başlamadan önce](/tr/almanya/yasam/turkiye-mi-almanya-mi-karsilastirmadan-once/)*

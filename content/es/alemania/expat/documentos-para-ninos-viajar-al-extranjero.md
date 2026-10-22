@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
+  - "Vivir en Alemania"
   - "Viajes al Extranjero"
   - "Viajar con Niños"
   - "Documentos Necesarios"

@@ -7,6 +7,7 @@ translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
   - "LebenInDeutschland"
+  - "Leben in Deutschland"
   - "Preise"
   - "Essen"
   - "München"

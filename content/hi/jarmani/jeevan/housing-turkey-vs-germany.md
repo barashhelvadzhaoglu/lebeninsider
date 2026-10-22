@@ -7,6 +7,7 @@ translationKey: "tvg-housing"
 featureimage: "img/living/housing.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "आवास"
   - "रहनेकीजगह"
   - "जर्मनीमेंजीवन"

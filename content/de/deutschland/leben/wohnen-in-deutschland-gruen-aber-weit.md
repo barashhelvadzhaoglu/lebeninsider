@@ -7,6 +7,7 @@ translationKey: "tvg-housing"
 featureimage: "img/living/housing.webp"
 tags:
   - "TuerkeiDeutschland"
+  - "Leben in Deutschland"
   - "Wohnen"
   - "Lebensraum"
   - "LebenInDeutschland"

@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "travel"
   - "expat"
   - "family"

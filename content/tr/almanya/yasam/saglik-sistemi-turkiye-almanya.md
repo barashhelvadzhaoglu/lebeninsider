@@ -9,7 +9,7 @@ tags:
   - "TürkiyeAlmanya"
   - "Sağlık"
   - "Doktor"
-  - "AlmanyadaYaşam"
+  - "Almanya'da Yaşam"
 ---
 
 *Bu yazı "Türkiye mi Almanya mı?" serisinin bir bölümü. Bu bir iyi-kötü yarışı değil; iki farklı kültürü ve beni neyin beklediğini anlatıyorum. Serinin girişi: [Karşılaştırmaya başlamadan önce](/tr/almanya/yasam/turkiye-mi-almanya-mi-karsilastirmadan-once/)*

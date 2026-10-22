@@ -6,6 +6,7 @@ description: "In Germany you can earn extra with a mini job, low earners get soc
 translationKey: "tvg-work-life"
 tags:
   - "Work Life"
+  - "Life in Germany"
   - "Mini Job"
   - "Social System"
   - "Turkey"

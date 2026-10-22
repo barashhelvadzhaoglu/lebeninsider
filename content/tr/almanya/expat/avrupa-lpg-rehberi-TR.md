@@ -7,6 +7,7 @@ translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LPG"
+  - "Almanya'da Yaşam"
   - "Avrupa LPG"
   - "Honda Civic LPG"
   - "Araçla Avrupa"

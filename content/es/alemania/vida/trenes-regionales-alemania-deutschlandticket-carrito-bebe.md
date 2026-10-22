@@ -7,6 +7,7 @@ translationKey: "regional-trains-stroller-space"
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 tags:
   - "Transporte"
+  - "Vivir en Alemania"
   - "Deutschlandticket"
   - "CarritoDeBebé"
   - "Tren"

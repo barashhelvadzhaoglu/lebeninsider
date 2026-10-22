@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
+  - "Vivir en Alemania"
   - "Expatriado"
   - "Familias+Turcas"
   - "Carrito+de+Bebé"

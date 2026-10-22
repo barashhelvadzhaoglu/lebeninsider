@@ -7,6 +7,7 @@ translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "الحياة"
   - "الأتراك+في+ألمانيا"
   - "حياة+سهلة+الوصول"

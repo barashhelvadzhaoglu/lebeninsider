@@ -7,6 +7,7 @@ translationKey: "bavarian-houses-building-rules"
 featureimage: "img/living/housing.webp"
 tags:
   - "बवेरिया"
+  - "जर्मनी में जीवन"
   - "आवास"
   - "वास्तुकला"
   - "जर्मनीमेंजीवन"

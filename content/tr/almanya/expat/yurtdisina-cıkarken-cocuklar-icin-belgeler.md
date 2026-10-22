@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
+  - "Almanya'da Yaşam"
   - "Yurtdışı Seyahat"
   - "Çocukla Seyahat"
   - "Gerekli Belgeler"
@@ -26,6 +27,7 @@ tags:
   - "Geburtsurkunde"
   - "Maliyetler"
   - "SSK"
+
 ---
 
 Almanya'da yaşayan bir Türk aile olarak, hepimiz o heyecanı biliyoruz: Tatil planları yapılır, biletler alınır, bavullar yavaş yavaş hazırlanmaya başlar. Ancak bu hazırlıklar sırasında gözden kaçmaması gereken çok önemli bir detay var: **çocuklarla yurtdışına çıkarken gerekli olan belgeler**. İnanın bana, bu konu hafife alınacak bir mesele değil; eksik bir belge yüzünden havaalanında geri dönmek zorunda kalmak, kimsenin yaşamak istemeyeceği bir senaryo. Biz de bu yollardan geçtik, ilk seyahatlerimizde yaşadığımız bazı aksaklıklar ve sonrasında edindiğimiz tecrübelerle, bu süreci sizin için olabildiğince kolaylaştırmak istedik.

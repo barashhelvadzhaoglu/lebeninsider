@@ -6,6 +6,7 @@ description: "In Istanbul there were more than 50 children in the park. In Germa
 translationKey: "tvg-bicultural"
 tags:
   - "Children"
+  - "Life in Germany"
   - "Family"
   - "Turkey"
   - "Germany"

@@ -4,7 +4,23 @@ date: 2026-03-10
 draft: false
 featureimage: "https://images.unsplash.com/photo-1594051664297-665ebef32945?w=1200&q=80"
 description: "How long is a Turkish driving license valid in Germany? Does the detour via Bulgaria work? Updated information for 2026-2025 and first-hand experiences."
-tags: ["germany", "driving license", "bulgaria", "expat", "umschreibung", "anmeldung", "license exchange", "turkish license", "eu license", "driving school", "theory test", "driving test", "costs", "bureaucracy", "foreign license"]
+tags:
+  - "germany"
+  - "Life in Germany"
+  - "driving license"
+  - "bulgaria"
+  - "expat"
+  - "umschreibung"
+  - "anmeldung"
+  - "license exchange"
+  - "turkish license"
+  - "eu license"
+  - "driving school"
+  - "theory test"
+  - "driving test"
+  - "costs"
+  - "bureaucracy"
+  - "foreign license"
 categories: ["germany"]
 summary: "Failing to plan the driving license exchange process early after moving to Germany can be costly. My experience trying to exchange a license via Bulgaria — and why it failed."
 translationKey: "post-license-exchange"

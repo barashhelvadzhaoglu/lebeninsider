@@ -7,6 +7,7 @@ translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"
 tags:
   - "VidaEnAlemania"
+  - "Vivir en Alemania"
   - "Kleingarten"
   - "Jardinería"
   - "Múnich"

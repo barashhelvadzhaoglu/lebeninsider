@@ -6,6 +6,7 @@ description: "In Germany there are wide green spaces between buildings, bike par
 translationKey: "tvg-housing"
 tags:
   - "Housing"
+  - "Life in Germany"
   - "Living Space"
   - "Turkey"
   - "Germany"

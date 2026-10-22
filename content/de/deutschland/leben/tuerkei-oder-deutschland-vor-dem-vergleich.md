@@ -7,6 +7,7 @@ translationKey: "turkey-vs-germany-overview"
 featureimage: "img/living/turkey-vs-germany.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "LebenInDeutschland"
   - "Umzug"
   - "Expat"

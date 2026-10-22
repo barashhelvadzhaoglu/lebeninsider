@@ -7,6 +7,7 @@ translationKey: "yurtdisina-cıkarken-cocuklar-icin-belgeler"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Reisen+mit+Kindern"
+  - "Leben in Deutschland"
   - "Ausreise+Deutschland"
   - "Reisedokumente+Kinder"
   - "Reisegenehmigung"

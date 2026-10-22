@@ -7,6 +7,7 @@ translationKey: "istanbul-munich-road-guide"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "اسطنبول ميونيخ"
+  - "الحياة في ألمانيا"
   - "أوروبا بالسيارة"
   - "طريق رومانيا"
   - "رحلة ليلية"

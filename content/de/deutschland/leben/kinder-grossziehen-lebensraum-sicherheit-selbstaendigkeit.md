@@ -7,6 +7,7 @@ translationKey: "tvg-bicultural"
 featureimage: "img/living/bicultural.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "Kinder"
   - "Familie"
   - "LebenInDeutschland"

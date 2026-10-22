@@ -7,6 +7,7 @@ translationKey: "tvg-bicultural"
 featureimage: "img/living/bicultural.webp"
 tags:
   - "TurquiaAlemania"
+  - "Vivir en Alemania"
   - "Ninos"
   - "Familia"
   - "VidaEnAlemania"

@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Kinderwagen"
+  - "Leben in Deutschland"
   - "Baby+Deutschland"
   - "Familienleben"
   - "Reisen+mit+Baby"

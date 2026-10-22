@@ -7,6 +7,7 @@ translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"
 tags:
   - "जर्मनीमेंजीवन"
+  - "जर्मनी में जीवन"
   - "Kleingarten"
   - "बगीचा"
   - "म्यूनिख"

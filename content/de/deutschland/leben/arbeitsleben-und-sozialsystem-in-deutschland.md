@@ -7,6 +7,7 @@ translationKey: "tvg-work-life"
 featureimage: "img/living/work-life.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "Arbeitsleben"
   - "Minijob"
   - "Sozialsystem"

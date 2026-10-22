@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "München"
+  - "Leben in Deutschland"
   - "Frühlingsfest"
   - "Bahar+Festivali"
   - "Deutschland"

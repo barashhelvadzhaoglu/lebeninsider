@@ -6,6 +6,7 @@ description: "I knew German winters would be grey. I did not know how grey. Or h
 translationKey: "tvg-climate"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Climate"
   - "Munich"

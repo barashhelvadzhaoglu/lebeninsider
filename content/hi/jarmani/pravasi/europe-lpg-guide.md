@@ -7,6 +7,7 @@ translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LPG"
+  - "जर्मनी में जीवन"
   - "यूरोप LPG"
   - "होंडा सिविक LPG"
   - "वाहन से यूरोप"

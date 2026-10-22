@@ -7,6 +7,7 @@ translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
 tags:
   - "जर्मनी"
+  - "जर्मनी में जीवन"
   - "श्रम कानून"
   - "नौकरी से निकाला जाना"
   - "श्रम न्यायालय"

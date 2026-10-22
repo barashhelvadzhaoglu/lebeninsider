@@ -4,6 +4,7 @@ weight = 2
 title = "LebenInsider"
 
 [params]
+  homeTitle = "LebenInsider – Life in Germany, Travel & Career"
   displayName = "EN"
   isoCode = "en"
   logo = "logo.png"
@@ -14,7 +15,7 @@ title = "LebenInsider"
   showTitle = true
   rtl = false
   dateFormat = "January 2, 2006"
-  description = "Real trips, real mistakes, real experiences."
+  description = "Life in Germany: everyday life in Munich, Turkey vs Germany comparisons, travel guides and building an IT career in Germany. First-hand experiences."
   author.name = "LebenInsider"
 
 [params.homepage]

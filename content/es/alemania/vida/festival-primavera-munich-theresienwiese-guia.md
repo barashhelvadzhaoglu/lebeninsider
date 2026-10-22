@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Múnich"
+  - "Vivir en Alemania"
   - "Festival+de+Primavera"
   - "Frühlingsfest"
   - "Vida+en+Alemania"

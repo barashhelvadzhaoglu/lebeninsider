@@ -7,6 +7,7 @@ translationKey: "why-i-moved-countries"
 featureimage: "img/living/why-i-moved.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "विदेशबसना"
   - "महंगाई"
   - "परिवार"

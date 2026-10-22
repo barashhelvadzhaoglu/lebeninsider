@@ -7,6 +7,7 @@ translationKey: "bisiklet-kirmizi-isik-polis"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "LebenInDeutschland"
+  - "Leben in Deutschland"
   - "Fahrrad"
   - "München"
   - "Verkehrsregeln"

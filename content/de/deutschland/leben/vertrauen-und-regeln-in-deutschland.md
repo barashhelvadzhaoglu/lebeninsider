@@ -7,6 +7,7 @@ translationKey: "trust-in-germany"
 featureimage: "img/living/trust.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "GesellschaftlichesVertrauen"
   - "DeutscheKultur"
   - "Regeln"

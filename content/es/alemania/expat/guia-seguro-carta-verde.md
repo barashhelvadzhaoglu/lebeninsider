@@ -7,6 +7,7 @@ translationKey: "yesil-sigorta-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Seguro Verde"
+  - "Vivir en Alemania"
   - "Green Card"
   - "Viajar a Europa en Coche"
   - "Alemania"

@@ -7,6 +7,7 @@ translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "قانون العمل"
   - "الفصل من العمل"
   - "محكمة العمل"

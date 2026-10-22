@@ -7,6 +7,7 @@ translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "GLP"
+  - "Vivir en Alemania"
   - "GLP Europa"
   - "Honda Civic GLP"
   - "Viajar a Europa en coche"

@@ -3,7 +3,13 @@ title: "Proceso de Renovación del Permiso de Conducir en Alemania | La Realidad
 date: 2026-03-10
 draft: false
 description: "¿Cuánto tiempo es válido el permiso de conducir turco en Alemania? ¿Funciona la conversión a través de Bulgaria? Experiencia real vivida."
-tags: ["alemania", "permiso de conducir", "bulgaria", "expat", "licencia de conducir"]
+tags:
+  - "alemania"
+  - "Vivir en Alemania"
+  - "permiso de conducir"
+  - "bulgaria"
+  - "expat"
+  - "licencia de conducir"
 categories: ["almanya"]
 summary: "Si no aprendes el proceso de renovación del permiso de conducir a tiempo después de mudarte a Alemania, el coste puede ser alto. La búsqueda de una solución a través de Bulgaria y por qué no funciona — experiencia real."
 featureimage: "img/living/driving-license.webp"

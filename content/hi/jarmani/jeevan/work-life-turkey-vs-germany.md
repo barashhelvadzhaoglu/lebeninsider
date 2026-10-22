@@ -7,6 +7,7 @@ translationKey: "tvg-work-life"
 featureimage: "img/living/work-life.webp"
 tags:
   - "तुर्कीजर्मनी"
+  - "जर्मनी में जीवन"
   - "कामकाजीजीवन"
   - "Minijob"
   - "सामाजिकप्रणाली"

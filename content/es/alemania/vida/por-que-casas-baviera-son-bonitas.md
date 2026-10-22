@@ -7,6 +7,7 @@ translationKey: "bavarian-houses-building-rules"
 featureimage: "img/living/housing.webp"
 tags:
   - "Baviera"
+  - "Vivir en Alemania"
   - "Vivienda"
   - "Arquitectura"
   - "VidaEnAlemania"

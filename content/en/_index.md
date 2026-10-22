@@ -1,6 +1,6 @@
 ---
 title: "LebenInsider"
-description: "Real trips, real mistakes, real experiences."
+description: "Life in Germany: everyday life in Munich, Turkey vs Germany comparisons, travel guides and building an IT career in Germany. First-hand experiences."
 translationKey: "home-page"
 ---
 

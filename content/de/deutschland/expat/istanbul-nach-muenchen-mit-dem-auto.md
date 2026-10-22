@@ -7,6 +7,7 @@ translationKey: "istanbul-munich-road-guide"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Istanbul München"
+  - "Leben in Deutschland"
   - "Mit dem Auto durch Europa"
   - "Rumänien-Route"
   - "Nachtfahrt"

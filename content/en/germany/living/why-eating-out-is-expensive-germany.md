@@ -7,6 +7,7 @@ translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
   - "LifeInGermany"
+  - "Life in Germany"
   - "Prices"
   - "Food"
   - "Munich"

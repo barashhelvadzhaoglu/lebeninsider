@@ -7,6 +7,7 @@ translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "AlmanyaHayvanSeverlik"
+  - "Almanya'da Yaşam"
   - "AlmanyaKöpekEğitimi"
   - "Hundeschule"
   - "AlmanyaTopluTaşıma"

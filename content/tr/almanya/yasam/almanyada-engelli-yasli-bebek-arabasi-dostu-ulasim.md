@@ -7,6 +7,7 @@ translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
+  - "Almanya'da Yaşam"
   - "Yaşam"
   - "Türkler+Almanya'da"
   - "Engelsiz+Yaşam"

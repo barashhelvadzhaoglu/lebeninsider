@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनी"
+  - "जर्मनी में जीवन"
   - "एक्सपैट"
   - "तुर्की+परिवार"
   - "बेबी+स्ट्रॉलर"

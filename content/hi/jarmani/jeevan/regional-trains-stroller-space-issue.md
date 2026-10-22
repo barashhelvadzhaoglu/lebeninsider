@@ -7,6 +7,7 @@ translationKey: "regional-trains-stroller-space"
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 tags:
   - "परिवहन"
+  - "जर्मनी में जीवन"
   - "Deutschlandticket"
   - "घुमक्कड़"
   - "ट्रेन"

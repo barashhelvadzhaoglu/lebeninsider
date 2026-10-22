@@ -6,6 +6,7 @@ description: "This series is not a contest of which country is better. Everyone 
 translationKey: "turkey-vs-germany-overview"
 tags:
   - "Turkey"
+  - "Life in Germany"
   - "Germany"
   - "Moving Abroad"
   - "Expat Life"

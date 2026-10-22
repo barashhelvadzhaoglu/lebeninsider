@@ -7,6 +7,7 @@ translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
   - "الحياة_في_ألمانيا"
+  - "الحياة في ألمانيا"
   - "الأسعار"
   - "طعام"
   - "ميونخ"

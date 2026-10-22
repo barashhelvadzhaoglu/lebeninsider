@@ -7,6 +7,7 @@ translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"
 tags:
   - "Almanya"
+  - "Almanya'da Yaşam"
   - "İş Hukuku"
   - "İşten Çıkarılma"
   - "İş Mahkemesi"

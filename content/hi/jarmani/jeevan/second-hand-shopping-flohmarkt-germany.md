@@ -7,6 +7,7 @@ translationKey: "flohmarkt-second-hand-germany"
 featureimage: "img/living/shopping.webp"
 tags:
   - "जर्मनीमेंजीवन"
+  - "जर्मनी में जीवन"
   - "Flohmarkt"
   - "Kleinanzeigen"
   - "सेकंडहैंड"

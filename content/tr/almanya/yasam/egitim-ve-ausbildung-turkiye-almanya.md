@@ -7,6 +7,7 @@ translationKey: "tvg-school"
 featureimage: "img/living/school.webp"
 tags:
   - "TürkiyeAlmanya"
+  - "Almanya'da Yaşam"
   - "Eğitim"
   - "Ausbildung"
   - "Çocuklar"

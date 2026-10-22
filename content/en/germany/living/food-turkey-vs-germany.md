@@ -6,6 +6,7 @@ description: "Turkish cuisine is world-famous for a reason. But German food cult
 translationKey: "tvg-food"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Food"
   - "Munich"

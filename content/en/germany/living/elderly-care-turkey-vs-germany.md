@@ -6,6 +6,7 @@ description: "In Turkey, family takes care of family. In Germany, the state step
 translationKey: "tvg-elderly-care"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Family"
   - "Elderly Care"

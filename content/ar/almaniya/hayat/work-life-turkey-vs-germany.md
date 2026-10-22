@@ -7,6 +7,7 @@ translationKey: "tvg-work-life"
 featureimage: "img/living/work-life.webp"
 tags:
   - "تركياوألمانيا"
+  - "الحياة في ألمانيا"
   - "بيئةالعمل"
   - "Minijob"
   - "النظامالاجتماعي"

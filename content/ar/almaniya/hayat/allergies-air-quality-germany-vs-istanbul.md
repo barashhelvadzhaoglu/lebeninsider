@@ -7,6 +7,7 @@ translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "حساسية"
   - "جودة+الهواء"
   - "تركيا"

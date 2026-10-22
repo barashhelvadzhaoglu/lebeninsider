@@ -6,6 +6,7 @@ description: "Free public transport. Low taxes. A country where half the populat
 translationKey: "eu-luxembourg"
 tags:
   - "Luxembourg"
+  - "Life in Germany"
   - "Expat Life"
   - "Europe"
   - "Tax"

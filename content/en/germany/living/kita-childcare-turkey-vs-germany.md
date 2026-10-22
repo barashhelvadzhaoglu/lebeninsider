@@ -6,6 +6,7 @@ description: "Finding a Kita spot in Munich is harder than finding a flat. But t
 translationKey: "tvg-kita"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Childcare"
   - "Kita"

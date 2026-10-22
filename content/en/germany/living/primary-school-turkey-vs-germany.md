@@ -6,6 +6,7 @@ description: "In Turkey everyone gets a degree, yet graduates struggle to find w
 translationKey: "tvg-school"
 tags:
   - "Education"
+  - "Life in Germany"
   - "Ausbildung"
   - "Turkey"
   - "Germany"

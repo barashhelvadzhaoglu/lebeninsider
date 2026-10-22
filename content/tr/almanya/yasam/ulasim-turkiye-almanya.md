@@ -7,9 +7,12 @@ translationKey: "tvg-traffic"
 featureimage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"
 tags:
   - "TürkiyeAlmanya"
+  - "Almanya'da Yaşam"
   - "Ulaşım"
   - "Bisiklet"
   - "Deutschlandticket"
+  - "Almanya'da ikinci el araba"
+  - "Almanya'da toplu taşıma"
 ---
 
 *Bu yazı "Türkiye mi Almanya mı?" serisinin bir bölümü. Bu bir iyi-kötü yarışı değil; iki farklı kültürü ve beni neyin beklediğini anlatıyorum. Serinin girişi: [Karşılaştırmaya başlamadan önce](/tr/almanya/yasam/turkiye-mi-almanya-mi-karsilastirmadan-once/)*

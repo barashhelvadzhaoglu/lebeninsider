@@ -7,6 +7,7 @@ translationKey: "almanyada-kopek-kulturu-egitim-toplu-tasima"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "जर्मनीपशुप्रेम"
+  - "जर्मनी में जीवन"
   - "जर्मनीकुत्ताप्रशिक्षण"
   - "Hundeschule"
   - "जर्मनीसार्वजनिकपरिवहन"

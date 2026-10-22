@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Munich"
+  - "Life in Germany"
   - "Frühlingsfest"
   - "Spring+Festival"
   - "Bavaria"

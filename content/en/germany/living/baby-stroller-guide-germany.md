@@ -7,6 +7,7 @@ translationKey: "almanyada-bebek-arabasi-tercihleri-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "baby+stroller"
+  - "Life in Germany"
   - "travel+system"
   - "Germany+expats"
   - "Turkish+families"

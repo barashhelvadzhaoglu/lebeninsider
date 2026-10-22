@@ -7,6 +7,7 @@ translationKey: "yesil-sigorta-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Yeşil Sigorta"
+  - "Almanya'da Yaşam"
   - "Green Card"
   - "Araçla Avrupa"
   - "Almanya"

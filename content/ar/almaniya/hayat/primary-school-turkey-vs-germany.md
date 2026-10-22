@@ -7,6 +7,7 @@ translationKey: "tvg-school"
 featureimage: "img/living/school.webp"
 tags:
   - "تركيا وألمانيا"
+  - "الحياة في ألمانيا"
   - "التعليم"
   - "Ausbildung"
   - "الأطفال"

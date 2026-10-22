@@ -7,6 +7,7 @@ translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Allergie"
+  - "Leben in Deutschland"
   - "Deutschland"
   - "Türkei"
   - "Luftqualität"

@@ -4,6 +4,7 @@ weight = 3
 title = "LebenInsider"
 
 [params]
+  homeTitle = "LebenInsider – Leben in Deutschland, Reisen & Karriere"
   displayName = "DE"
   isoCode = "de"
   logo = "logo.png"

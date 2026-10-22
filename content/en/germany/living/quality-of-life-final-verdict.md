@@ -6,6 +6,7 @@ description: "After everything — is Germany better? The honest answer is more 
 translationKey: "tvg-quality-of-life"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Quality of Life"
   - "Expat Life"

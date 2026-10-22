@@ -7,6 +7,7 @@ translationKey: "tvg-health-system"
 featureimage: "img/living/health.webp"
 tags:
   - "TurquíaAlemania"
+  - "Vivir en Alemania"
   - "Salud"
   - "Médico"
   - "VivirEnAlemania"

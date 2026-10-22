@@ -7,6 +7,7 @@ translationKey: "tvg-traffic"
 featureimage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"
 tags:
   - "تركيا_ألمانيا"
+  - "الحياة في ألمانيا"
   - "المواصلات"
   - "الدراجة_الهوائية"
   - "Deutschlandticket"

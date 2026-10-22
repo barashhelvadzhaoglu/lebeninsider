@@ -6,10 +6,13 @@ description: "Markette 1 kg kıyma 10–12 euro, bir McDonald's menüsü de aşa
 translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
-  - "AlmanyadaYaşam"
   - "Fiyatlar"
+  - "Almanya'da Yaşam"
   - "Yemek"
   - "Münih"
+  - "Almanya'da yemek fiyatları"
+  - "Münih market fiyatları"
+  - "Almanya'da yaşam maliyeti"
 ---
 
 Almanya'da, özellikle Münih'te, dışarıda yemek yemek genel olarak pahalı. Bunu en iyi market fiyatlarıyla karşılaştırınca anlıyorsun.

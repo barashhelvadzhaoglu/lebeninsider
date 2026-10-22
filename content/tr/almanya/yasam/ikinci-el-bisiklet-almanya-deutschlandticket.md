@@ -7,6 +7,7 @@ translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Almanya"
+  - "Almanya'da Yaşam"
   - "Bisiklet"
   - "İkinci+El"
   - "Deutschlandticket"

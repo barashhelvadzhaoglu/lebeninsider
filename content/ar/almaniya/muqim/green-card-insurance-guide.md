@@ -7,6 +7,7 @@ translationKey: "yesil-sigorta-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "التأمين الأخضر"
+  - "الحياة في ألمانيا"
   - "Green Card"
   - "أوروبا بالسيارة"
   - "ألمانيا"

@@ -7,6 +7,7 @@ translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Münih"
+  - "Almanya'da Yaşam"
   - "Bahar+Festivali"
   - "Frühlingsfest"
   - "Almanya'da+Yaşam"
@@ -28,6 +29,7 @@ tags:
   - "Pretzel"
   - "Aile+Etkinlikleri"
   - "Almanya'da+Festivaller"
+
 ---
 
 Almanya'ya taşındığımızdan beri, özellikle **Bavyera** bölgesinde, her mevsimin kendine has bir şenliği, bir geleneği olduğunu gözlemledik. İlk başta her şey bize yabancı gelse de, zamanla bu yeni kültürün bir parçası olmak, yerel etkinliklere katılmak bizi buraya daha da bağladı. İşte bu etkinliklerden biri de, **Münih**'in bahar mevsimine enerji katan o muhteşem festival: **Frühlingsfest**! Geçtiğimiz hafta sonu, ailece bu renkli dünyaya bir kez daha daldık ve edindiğimiz tecrübeleri, gözlemleri ve pratik bilgileri, Almanya'da yaşayan diğer Türk aileler ve expat dostlarımızla paylaşmak istedik.

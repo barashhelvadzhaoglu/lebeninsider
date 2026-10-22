@@ -7,6 +7,7 @@ translationKey: "eating-out-prices-germany"
 featureimage: "img/living/food.webp"
 tags:
   - "VidaEnAlemania"
+  - "Vivir en Alemania"
   - "Precios"
   - "Comida"
   - "Múnich"

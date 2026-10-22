@@ -6,10 +6,14 @@ description: "Almanya'da pazar günü marketler kapalı, açık olan kiosklar ve
 translationKey: "sundays-public-holidays-germany"
 featureimage: "img/living/work-life.webp"
 tags:
-  - "AlmanyadaYaşam"
   - "ResmiTatil"
+  - "Almanya'da Yaşam"
   - "Pazar"
   - "ÇalışmaHayatı"
+  - "Almanya'da pazar günü marketler açık mı"
+  - "Almanya resmi tatiller"
+  - "Bavyera resmi tatiller"
+  - "Almanya market saatleri"
 ---
 
 Türkiye'den gelince alışılması gereken şeylerden biri: Almanya'da pazar günü hayat başka türlü işliyor. Resmi tatillerde de öyle.

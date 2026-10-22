@@ -7,9 +7,12 @@ translationKey: "regional-trains-stroller-space"
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 tags:
   - "Ulaşım"
+  - "Almanya'da Yaşam"
   - "Deutschlandticket"
   - "BebekArabası"
   - "Tren"
+  - "Deutschlandticket ile uzun yol"
+  - "Trende bebek arabası"
 ---
 
 Ailece gezmeye genelde bölgesel trenlerle gidiyoruz. Hem iyi hem sinir bozucu taraflarını anlatayım.

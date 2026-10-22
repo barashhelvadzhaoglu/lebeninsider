@@ -6,6 +6,7 @@ description: "I researched all three seriously. Here is the side-by-side compari
 translationKey: "eu-comparison"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Netherlands"
   - "Luxembourg"
   - "Expat Life"

@@ -7,6 +7,7 @@ translationKey: "sundays-public-holidays-germany"
 featureimage: "img/living/work-life.webp"
 tags:
   - "जर्मनीमेंजीवन"
+  - "जर्मनी में जीवन"
   - "सरकारीछुट्टियां"
   - "रविवार"
   - "कामकाजीजीवन"

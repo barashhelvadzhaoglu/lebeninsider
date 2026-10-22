@@ -6,6 +6,7 @@ description: "Germans are cold — is it true? It is more complicated than that.
 translationKey: "tvg-social-life"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Turkey"
   - "Social Life"
   - "Expat Life"

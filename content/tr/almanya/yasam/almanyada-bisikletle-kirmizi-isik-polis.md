@@ -7,6 +7,7 @@ translationKey: "bisiklet-kirmizi-isik-polis"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "AlmanyaYaşam"
+  - "Almanya'da Yaşam"
   - "Bisiklet"
   - "Münih"
   - "TrafikKuralları"

@@ -7,6 +7,7 @@ translationKey: "sundays-public-holidays-germany"
 featureimage: "img/living/work-life.webp"
 tags:
   - "LebenInDeutschland"
+  - "Leben in Deutschland"
   - "Feiertage"
   - "Sonntag"
   - "Arbeitsleben"

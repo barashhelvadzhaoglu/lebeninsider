@@ -7,6 +7,7 @@ translationKey: "why-i-moved-countries"
 featureimage: "img/living/why-i-moved.webp"
 tags:
   - "TürkiyeAlmanya"
+  - "Almanya'da Yaşam"
   - "Taşınmak"
   - "Enflasyon"
   - "Aile"

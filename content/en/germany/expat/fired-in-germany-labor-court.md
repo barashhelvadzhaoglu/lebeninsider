@@ -7,6 +7,7 @@ translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/fired-in-germany-labor-court.webp"
 tags:
   - "Germany"
+  - "Life in Germany"
   - "Labor Law"
   - "Fired in Germany"
   - "Labor Court"

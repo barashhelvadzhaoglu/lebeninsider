@@ -7,6 +7,7 @@ translationKey: "tvg-housing"
 featureimage: "img/living/housing.webp"
 tags:
   - "تركيا_وألمانيا"
+  - "الحياة في ألمانيا"
   - "السكن"
   - "المساحة_المعيشية"
   - "الحياة_في_ألمانيا"

@@ -6,6 +6,7 @@ description: "In healthcare, Turkey is easier in some ways: service is fast. In 
 translationKey: "tvg-health-system"
 tags:
   - "Healthcare"
+  - "Life in Germany"
   - "Doctors"
   - "Turkey"
   - "Germany"

@@ -9,7 +9,9 @@ tags:
   - "Bavyera"
   - "Konut"
   - "Mimari"
-  - "AlmanyadaYaşam"
+  - "Almanya'da Yaşam"
+  - "Almanya'da ev yapmak"
+  - "Denkmalschutz"
 ---
 
 Mittenwald gibi Bavyera kasabalarını gezerken insanın ilk dikkatini çeken şey evler. Cepheleri boyalı, resimli evler (buna *Lüftlmalerei* deniyor). LebenInsider'ın ambleminde de üç sembolü birleştirmiştik; biri Alman evleri, biri bira.

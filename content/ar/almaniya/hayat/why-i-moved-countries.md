@@ -7,6 +7,7 @@ translationKey: "why-i-moved-countries"
 featureimage: "img/living/why-i-moved.webp"
 tags:
   - "تركيا وألمانيا"
+  - "الحياة في ألمانيا"
   - "الانتقال"
   - "التضخم"
   - "العائلة"

@@ -7,6 +7,7 @@ translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ألمانيا"
+  - "الحياة في ألمانيا"
   - "دراجة_هوائية"
   - "مستعمل"
   - "Deutschlandticket"

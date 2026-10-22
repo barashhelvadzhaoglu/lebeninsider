@@ -7,6 +7,7 @@ translationKey: "sundays-public-holidays-germany"
 featureimage: "img/living/work-life.webp"
 tags:
   - "الحياة_في_ألمانيا"
+  - "الحياة في ألمانيا"
   - "عطلة_رسمية"
   - "يوم_الأحد"
   - "الحياة_المهنية"

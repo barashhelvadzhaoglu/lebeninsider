@@ -7,6 +7,7 @@ translationKey: "yesil-sigorta-rehberi"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "ग्रीन कार्ड"
+  - "जर्मनी में जीवन"
   - "Green Card"
   - "कार से यूरोप"
   - "जर्मनी"

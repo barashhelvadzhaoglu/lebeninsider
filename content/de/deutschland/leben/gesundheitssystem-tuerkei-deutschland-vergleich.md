@@ -7,6 +7,7 @@ translationKey: "tvg-health-system"
 featureimage: "img/living/health.webp"
 tags:
   - "TürkeiDeutschland"
+  - "Leben in Deutschland"
   - "Gesundheit"
   - "Arzt"
   - "LebenInDeutschland"

@@ -7,6 +7,7 @@ translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Alemania"
+  - "Vivir en Alemania"
   - "Alergia"
   - "Calidad+del+Aire"
   - "Turquía"

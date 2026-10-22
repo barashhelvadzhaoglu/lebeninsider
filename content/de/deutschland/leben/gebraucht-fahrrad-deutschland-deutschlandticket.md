@@ -7,6 +7,7 @@ translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Fahrradkauf"
+  - "Leben in Deutschland"
   - "SecondHand"
   - "Deutschlandticket"
   - "Kleinanzeigen"

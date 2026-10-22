@@ -7,6 +7,7 @@ translationKey: "istanbul-munich-road-guide"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
   - "Estambul Múnich"
+  - "Vivir en Alemania"
   - "Europa en Coche"
   - "Ruta Rumanía"
   - "Viaje Nocturno"
