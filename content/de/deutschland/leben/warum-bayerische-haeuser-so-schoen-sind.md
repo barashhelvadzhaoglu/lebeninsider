@@ -1,6 +1,6 @@
 ---
 title: "Warum bayerische Häuser immer so schön sind: Die Regeln fürs Bauen"
-date: 2026-12-29T06:00:00+02:00
+date: 2026-11-21T06:00:00+01:00
 draft: false
 description: "Die bemalten Fassaden von Mittenwald und das gepflegte Bild bayerischer Orte sind kein Zufall. Warum man in Deutschland beim Bauen oder Renovieren nicht einfach machen kann, was man will."
 translationKey: "bavarian-houses-building-rules"

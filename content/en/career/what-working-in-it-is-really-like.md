@@ -1,6 +1,6 @@
 ---
 title: "Example: What Working in IT Is Really Like"
-date: 2026-11-14T06:00:00+02:00
+date: 2026-11-02T06:00:00+01:00
 draft: false
 description: "To picture a profession, you need to know what a typical day looks like. Here is an example from my own field: an internal IT department at a company."
 translationKey: "kariyer-03b-it-de-bir-gun"

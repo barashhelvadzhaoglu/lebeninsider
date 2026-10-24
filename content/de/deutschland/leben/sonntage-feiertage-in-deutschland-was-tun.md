@@ -1,6 +1,6 @@
 ---
 title: "Sonntage und Feiertage in Deutschland: Was tun, wenn alles geschlossen ist?"
-date: 2026-12-27T06:00:00+02:00
+date: 2026-11-20T06:00:00+01:00
 draft: false
 description: "Sonntags sind Supermärkte in Deutschland zu, geöffnet haben Kioske und Tankstellen. Feiertage, Brückentage und Samstagsfeiertage aus Sicht eines Arbeitnehmers."
 translationKey: "sundays-public-holidays-germany"

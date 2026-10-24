@@ -1,6 +1,6 @@
 ---
 title: "Von München mit dem Zug nach Mittenwald und Scharnitz: Tagesausflug an die österreichische Grenze mit Kindern"
-date: 2027-01-15T06:00:00+02:00
+date: 2026-11-27T06:00:00+01:00
 draft: false
 description: "Ein Tagesausflug mit dem Zug von Pasing mit der RB6 nach Mittenwald und ins österreichische Scharnitz mit zwei kleinen Kindern und Kinderwagen. Bis wohin das Deutschlandticket gilt und was wir unterwegs gesehen haben."
 translationKey: "trip-mittenwald-scharnitz"

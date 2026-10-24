@@ -1,6 +1,6 @@
 ---
 title: "Sharing Culture in Germany | Doorstep Gifts, Kleinanzeigen, and Silent Social Consciousness"
-date: 2026-10-26T06:00:00+02:00
+date: 2026-10-26T06:00:00+01:00
 draft: false
 description: "In Germany, surplus items don't go to waste — they're left at doorsteps, shared for free on Kleinanzeigen. An unpretentious, silent, yet profound social consciousness."
 translationKey: "sharing-culture-germany"

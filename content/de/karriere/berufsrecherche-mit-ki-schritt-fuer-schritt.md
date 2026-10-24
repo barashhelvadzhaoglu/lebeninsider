@@ -1,6 +1,6 @@
 ---
 title: "Berufsrecherche mit KI: Ein Schritt-für-Schritt-Plan"
-date: 2026-10-30T06:00:00+02:00
+date: 2026-10-27T06:00:00+01:00
 draft: false
 description: "Ein täglicher Plan, um die Berufe der nächsten zehn Jahre mithilfe der Deep-Research-Funktionen moderner KI-Tools gründlich zu recherchieren."
 translationKey: "kariyer-04-yapay-zeka-arastirma"

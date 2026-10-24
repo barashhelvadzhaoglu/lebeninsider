@@ -1,6 +1,6 @@
 ---
 title: "Tagesausflug mit Kindern: Was packen wir unter den Kinderwagen?"
-date: 2027-01-13T06:00:00+02:00
+date: 2026-11-26T06:00:00+01:00
 draft: false
 description: "Was wir mitnehmen, wenn wir mit zwei kleinen Kindern in Deutschland mit Regionalzügen unterwegs sind: Wasser, Babynahrung, Obst, Backwaren. Was tun am Sonntag, wenn alles geschlossen ist?"
 translationKey: "family-day-trip-packing"

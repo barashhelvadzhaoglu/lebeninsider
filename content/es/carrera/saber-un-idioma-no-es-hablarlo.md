@@ -1,6 +1,6 @@
 ---
 title: "Saber un idioma no es lo mismo que hablarlo"
-date: 2026-12-09T06:00:00+02:00
+date: 2026-11-11T06:00:00+01:00
 draft: false
 description: "Para quienes planean una carrera en el extranjero, el inglés ya es imprescindible. Pero aprobar un examen y obtener un certificado es totalmente distinto a poder llevar una reunión en ese idioma."
 translationKey: "kariyer-09-dil"

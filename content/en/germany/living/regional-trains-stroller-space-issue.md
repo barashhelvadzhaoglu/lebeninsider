@@ -1,6 +1,6 @@
 ---
 title: "Regional Trains in Germany: Power Outlets, Deutschlandticket, and the Stroller Space Problem"
-date: 2026-12-12T06:00:00+02:00
+date: 2026-11-14T06:00:00+01:00
 draft: false
 description: "Power outlets, tables, and shelves on regional trains; traveling from Salzburg to Stuttgart with regional trains using the Deutschlandticket. And the stroller space where everyone sits."
 translationKey: "regional-trains-stroller-space"

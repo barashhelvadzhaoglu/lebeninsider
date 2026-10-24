@@ -1,6 +1,6 @@
 ---
 title: "Crea tu propio perfil: ¿Cómo descubrir lo que te gusta?"
-date: 2026-11-23T06:00:00+02:00
+date: 2026-11-05T06:00:00+01:00
 draft: false
 description: "Antes de elegir una profesión, necesitas conocerte a ti mismo. He aquí un método sencillo: anota cada día lo que disfrutas hacer y evalúa esas notas con herramientas de inteligencia artificial."
 translationKey: "kariyer-02-profil"

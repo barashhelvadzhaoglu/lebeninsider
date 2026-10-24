@@ -1,6 +1,6 @@
 ---
 title: "4 Kriterien zur Bewertung eines Berufs"
-date: 2026-12-18T06:00:00+02:00
+date: 2026-11-16T06:00:00+01:00
 draft: false
 description: "Zukünftige Nachfrage und Gehalt sind wichtig, aber nicht alles. Bevor man sich für einen Beruf entscheidet, sollte man sich auch ansehen, wie Tage, Wochen und Monate der Menschen aussehen, die darin arbeiten."
 translationKey: "kariyer-03-dort-kriter"

@@ -1,6 +1,6 @@
 ---
 title: "Der Mythos vom einzigen Beruf: Du kannst im Leben mehrere Berufe erlernen"
-date: 2026-12-04T06:00:00+02:00
+date: 2026-11-10T06:00:00+01:00
 draft: false
 description: "Wir müssen nicht einen einzigen Beruf wählen und ihn ein Leben lang ausüben. Wir können mehrere Tätigkeiten gleichzeitig ausüben und im Laufe des Lebens viele Berufe erlernen."
 translationKey: "kariyer-06-tek-meslek"

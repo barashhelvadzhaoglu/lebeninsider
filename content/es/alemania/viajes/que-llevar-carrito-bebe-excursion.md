@@ -1,6 +1,6 @@
 ---
 title: "Excursión de un día con niños: ¿qué llevamos debajo del carrito de bebé?"
-date: 2027-01-08T06:00:00+02:00
+date: 2026-11-23T06:00:00+01:00
 draft: false
 description: "Lo que llevamos al salir de excursión de un día en trenes regionales por Alemania con dos niños pequeños: agua, fórmula, fruta, panadería. ¿Qué hacemos los domingos cuando todo está cerrado?"
 translationKey: "family-day-trip-packing"

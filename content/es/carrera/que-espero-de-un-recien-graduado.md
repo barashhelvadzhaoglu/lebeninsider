@@ -1,6 +1,6 @@
 ---
 title: "Desde la perspectiva del reclutador: ¿Qué espero de un recién graduado?"
-date: 2026-12-23T06:00:00+02:00
+date: 2026-11-16T06:00:00+01:00
 draft: false
 description: "No espero experiencia de un recién graduado, pero sí interés. Como alguien que contrata, explico qué pueden poner en su CV quienes empiezan su carrera y cómo prepararse para una entrevista."
 translationKey: "kariyer-10-ise-alan-gozuyle"

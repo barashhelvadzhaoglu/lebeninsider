@@ -1,6 +1,6 @@
 ---
 title: "Flohmarkt und Second Hand in Deutschland: Fernseher für 2 Euro, Pullover für 8 Euro"
-date: 2027-01-07T06:00:00+02:00
+date: 2026-11-24T06:00:00+01:00
 draft: false
 description: "Hofflohmärkte, Gratis-Artikel auf Kleinanzeigen, Verschenkboxen und Second-Hand-Läden. In Deutschland muss man viele Dinge nicht neu kaufen."
 translationKey: "flohmarkt-second-hand-germany"

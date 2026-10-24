@@ -1,6 +1,6 @@
 ---
 title: "The Myth of a Single Profession: You Can Have Multiple Careers Throughout Life"
-date: 2026-11-11T06:00:00+02:00
+date: 2026-11-01T06:00:00+01:00
 draft: false
 description: "We don't have to pick one profession and stick with it for life. We can do multiple jobs at the same time and acquire several professions throughout our lives."
 translationKey: "kariyer-06-tek-meslek"

@@ -1,6 +1,6 @@
 ---
 title: "Bildung und Ausbildung: In Deutschland ist das Studium nicht der einzige Weg"
-date: 2026-11-18T06:00:00+02:00
+date: 2026-11-04T06:00:00+01:00
 draft: false
 description: "In der Türkei studiert jeder, doch viele Absolventen sind arbeitslos. In Deutschland lernt man mit einer Ausbildung einen Beruf und arbeitet zugleich. Aus eigener Anschauung."
 translationKey: "tvg-school"

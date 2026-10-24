@@ -1,6 +1,6 @@
 ---
 title: "Know Yourself First, Then Choose Your Career"
-date: 2026-11-27T06:00:00+02:00
+date: 2026-11-08T06:00:00+01:00
 draft: false
 description: "Most of us pick a profession first and then try to fit ourselves into it. I think the right way is the exact opposite: know what you love first, then turn it into your career."
 translationKey: "kariyer-01-kendini-tani"

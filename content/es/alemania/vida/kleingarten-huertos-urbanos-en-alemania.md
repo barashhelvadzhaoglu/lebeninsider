@@ -1,6 +1,6 @@
 ---
 title: "Kleingarten: no hace falta mudarse a las afueras para desconectar de la ciudad"
-date: 2027-01-05T06:00:00+02:00
+date: 2026-11-22T06:00:00+01:00
 draft: false
 description: "¿Qué es un Kleingarten en Alemania? Pequeños huertos urbanos de alquiler, casetas, barbacoas y verduras. ¿Por qué tienen tanta demanda y por qué es tan difícil conseguir uno?"
 translationKey: "kleingarten-germany"

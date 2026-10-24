@@ -1,6 +1,6 @@
 ---
 title: "Writing a CV with AI Part 2: Format Research"
-date: 2026-11-02T06:00:00+02:00
+date: 2026-10-29T06:00:00+01:00
 draft: false
 description: "Should you include a photo? Is a fancy design an advantage? Which sections, in what order? Every country has different CV format expectations, and you need to research this too."
 translationKey: "cv-02-format"

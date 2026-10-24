@@ -1,6 +1,6 @@
 ---
 title: "CV Preparation with AI 1: Target First, Which City, Which Market?"
-date: 2026-10-31T06:00:00+02:00
+date: 2026-10-28T06:00:00+01:00
 draft: false
 description: "Before you start writing your CV, decide where you want to work. Then research with AI what companies in that city expect from your profession."
 translationKey: "cv-01-hedef-pazar"

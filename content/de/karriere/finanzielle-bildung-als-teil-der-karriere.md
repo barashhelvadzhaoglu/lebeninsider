@@ -1,6 +1,6 @@
 ---
 title: "Die unsichtbare Hälfte der Karriere: Finanzielle Bildung"
-date: 2026-12-09T06:00:00+02:00
+date: 2026-11-12T06:00:00+01:00
 draft: false
 description: "Kein Krypto-Trading: Verstehen, wie Anlageinstrumente funktionieren, und in jungen Jahren regelmäßig sparen. Genauso wichtig wie die Berufswahl, aber selten besprochen."
 translationKey: "kariyer-07-finansal-okuryazarlik"

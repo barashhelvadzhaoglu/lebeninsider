@@ -1,6 +1,6 @@
 ---
 title: "Cómo crear un CV con IA 4: Une todo y dale un rol a la inteligencia artificial"
-date: 2026-12-06T06:00:00+02:00
+date: 2026-11-10T06:00:00+01:00
 draft: false
 description: "Para combinar los informes de investigación y tu propia experiencia en un solo CV, debes darle el rol adecuado a la IA. Incluye un prompt listo para copiar y usar."
 translationKey: "cv-04-birlestir"

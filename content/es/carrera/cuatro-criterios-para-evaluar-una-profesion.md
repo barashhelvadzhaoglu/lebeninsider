@@ -1,6 +1,6 @@
 ---
 title: "4 Criterios para Evaluar una Profesión"
-date: 2026-12-14T06:00:00+02:00
+date: 2026-11-13T06:00:00+01:00
 draft: false
 description: "La demanda futura y el salario son importantes, pero no suficientes. Antes de elegir una profesión, también hay que observar cómo son los días, las semanas y los meses de quienes trabajan en ella."
 translationKey: "kariyer-03-dort-kriter"

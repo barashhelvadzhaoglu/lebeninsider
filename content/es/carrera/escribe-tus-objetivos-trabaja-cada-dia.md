@@ -1,6 +1,6 @@
 ---
 title: "Escribe tus objetivos y trabaja un poco cada día"
-date: 2026-11-25T06:00:00+02:00
+date: 2026-11-06T06:00:00+01:00
 draft: false
 description: "En lugar de escudarse en el cansancio o la falta de tiempo, conviene poner los objetivos por escrito y avanzar a diario. Mi propio método."
 translationKey: "kariyer-05-hedef-yaz"

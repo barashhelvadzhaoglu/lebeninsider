@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué las casas bávaras son siempre tan bonitas? Reglas para construir una casa"
-date: 2026-12-28T06:00:00+02:00
+date: 2026-11-18T06:00:00+01:00
 draft: false
 description: "Las fachadas pintadas de Mittenwald y el aspecto ordenado de los pueblos bávaros no son casualidad. ¿Por qué en Alemania no puedes construir o reformar como quieras?"
 translationKey: "bavarian-houses-building-rules"

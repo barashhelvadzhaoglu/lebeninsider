@@ -1,6 +1,6 @@
 ---
 title: "Sundays and Public Holidays in Germany: What to Do When Everything Is Closed?"
-date: 2026-12-04T06:00:00+02:00
+date: 2026-11-11T06:00:00+01:00
 draft: false
 description: "In Germany, supermarkets are closed on Sundays, with only kiosks and petrol stations open. Public holidays, bridge days, and Saturday holidays from an employee's perspective."
 translationKey: "sundays-public-holidays-germany"

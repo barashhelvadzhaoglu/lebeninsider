@@ -1,6 +1,6 @@
 ---
 title: "Türkei oder Deutschland? Bitte vor dem Vergleichen lesen"
-date: 2026-11-24T06:00:00+02:00
+date: 2026-11-06T06:00:00+01:00
 draft: false
 description: "Diese Reihe ist kein Wettbewerb nach dem Motto „Was ist besser?“. Wer auswandert, sucht alte Gewohnheiten. Triff zuerst deine Entscheidung, ordne deine Kriterien und schau dann, was dich erwartet."
 translationKey: "turkey-vs-germany-overview"

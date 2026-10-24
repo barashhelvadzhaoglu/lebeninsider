@@ -1,6 +1,6 @@
 ---
 title: "Lebenslauf-Erstellung mit KI 1: Zuerst das Ziel – Welche Stadt, welcher Markt?"
-date: 2026-11-01T06:00:00+02:00
+date: 2026-10-28T06:00:00+01:00
 draft: false
 description: "Bevor du deinen Lebenslauf schreibst, entscheide, wo du arbeiten möchtest. Finde dann mit KI heraus, was Unternehmen in dieser Stadt von deinem Beruf erwarten."
 translationKey: "cv-01-hedef-pazar"

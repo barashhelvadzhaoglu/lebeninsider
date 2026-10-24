@@ -1,6 +1,6 @@
 ---
 title: "Ejemplo: ¿Cómo es realmente trabajar en IT?"
-date: 2026-12-01T06:00:00+02:00
+date: 2026-11-08T06:00:00+01:00
 draft: false
 description: "Para poder imaginarte una profesión, es necesario saber cómo es un día en ella. Doy un ejemplo de mi propio campo: el departamento de IT de una empresa."
 translationKey: "kariyer-03b-it-de-bir-gun"

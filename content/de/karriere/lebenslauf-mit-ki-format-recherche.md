@@ -1,6 +1,6 @@
 ---
 title: "Lebenslauf-Erstellung mit KI 2: Format-Recherche"
-date: 2026-11-04T06:00:00+02:00
+date: 2026-10-29T06:00:00+01:00
 draft: false
 description: "Sollte man ein Foto einfügen? Ist ein ausgefallenes Design von Vorteil? Welche Abschnitte in welcher Reihenfolge? Jedes Land hat andere Erwartungen an das Lebenslauf-Format – das sollte man recherchieren."
 translationKey: "cv-02-format"

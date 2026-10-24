@@ -1,6 +1,6 @@
 ---
 title: "Comfort or Skills at the Start of Your Career?"
-date: 2026-11-30T06:00:00+02:00
+date: 2026-11-09T06:00:00+01:00
 draft: false
 description: "At the start of your career, should you choose a more comfortable job, or put in more effort to gather skills and certifications? Examples from my own career and my manager's story."
 translationKey: "kariyer-08-rahatlik-yetenek"

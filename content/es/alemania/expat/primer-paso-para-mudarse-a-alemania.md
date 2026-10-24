@@ -1,6 +1,6 @@
 ---
 title: "Si quieres mudarte a Alemania, esto es lo primero que debes hacer hoy"
-date: 2027-01-15T06:00:00+02:00
+date: 2026-11-26T06:00:00+01:00
 draft: false
 description: "Si quieres trabajar en Alemania, la espera debe empezar hoy: nuestra cita para el visado tardó un año en llegar. Chancenkarte, ubicación en LinkedIn y alemán."
 translationKey: "first-step-moving-to-germany"

@@ -1,6 +1,6 @@
 ---
 title: "Write Down Your Goals, Work a Little Every Day"
-date: 2026-11-08T06:00:00+02:00
+date: 2026-10-31T06:00:00+01:00
 draft: false
 description: "Instead of hiding behind excuses like being too busy or exhausted, writing down goals and working on them a little every day. The method I use myself."
 translationKey: "kariyer-05-hedef-yaz"

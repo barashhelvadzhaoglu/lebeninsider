@@ -1,6 +1,6 @@
 ---
 title: "Kriterien für meinen Umzug: Kinder, Recht und Wirtschaft"
-date: 2026-11-16T06:00:00+02:00
+date: 2026-11-03T06:00:00+01:00
 draft: false
 description: "Für mich stand an erster Stelle, meinen Kindern eine bessere Zukunft zu bieten. Auch Rechtsstaatlichkeit und die jahrelange Inflation prägten meine Entscheidung."
 translationKey: "why-i-moved-countries"

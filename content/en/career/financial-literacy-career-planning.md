@@ -1,6 +1,6 @@
 ---
 title: "The Invisible Half of a Career: Financial Literacy"
-date: 2026-11-16T06:00:00+02:00
+date: 2026-11-03T06:00:00+01:00
 draft: false
 description: "Not crypto day trading: understanding how investment vehicles work and building regular savings at a young age. Just as important as choosing a profession, but rarely discussed in Turkey."
 translationKey: "kariyer-07-finansal-okuryazarlik"

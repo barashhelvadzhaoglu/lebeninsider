@@ -1,6 +1,6 @@
 ---
 title: "Gesellschaftliches Vertrauen und Regeln: Nicht die Polizei setzt Regeln durch, sondern die Bürger"
-date: 2026-11-21T06:00:00+02:00
+date: 2026-11-05T06:00:00+01:00
 draft: false
 description: "In Deutschland setzt oft nicht die Polizei die Regeln durch, sondern die Nachbarn. Rucksack im Supermarkt, Spielzeug im Sandkasten, Sachen vor der Tür: eine Gesellschaft auf Vertrauensbasis."
 translationKey: "trust-in-germany"

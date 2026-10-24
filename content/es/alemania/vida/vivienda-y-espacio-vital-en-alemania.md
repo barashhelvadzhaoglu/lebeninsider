@@ -1,6 +1,6 @@
 ---
 title: "Vivienda y espacio vital: verde y espacioso, pero el supermercado queda lejos"
-date: 2026-11-01T06:00:00+02:00
+date: 2026-10-28T06:00:00+01:00
 draft: false
 description: "En Alemania hay amplias zonas verdes entre los edificios, aparcamientos para bicis y trasteros. El precio a pagar es que los comercios quedan lejos: en Estambul tenía tres supermercados a 50 metros."
 translationKey: "tvg-housing"

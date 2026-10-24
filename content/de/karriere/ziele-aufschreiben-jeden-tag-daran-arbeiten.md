@@ -1,6 +1,6 @@
 ---
 title: "Schreib deine Ziele auf und arbeite jeden Tag ein wenig daran"
-date: 2026-12-02T06:00:00+02:00
+date: 2026-11-09T06:00:00+01:00
 draft: false
 description: "Statt sich hinter Ausreden wie 'Ich habe zu viel zu tun' oder 'Ich bin zu müde' zu verstecken: Ziele aufschreiben und jeden Tag ein Stück weit daran arbeiten. Meine persönliche Methode."
 translationKey: "kariyer-05-hedef-yaz"

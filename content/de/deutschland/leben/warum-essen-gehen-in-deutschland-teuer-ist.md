@@ -1,6 +1,6 @@
 ---
 title: "Warum Essen gehen in Deutschland teuer ist: Hackfleisch, Hähnchen und Burger-Menüs"
-date: 2027-01-01T06:00:00+02:00
+date: 2026-11-22T06:00:00+01:00
 draft: false
 description: "Im Supermarkt kostet 1 kg Hackfleisch 10–12 Euro, ein McDonald's-Menü ungefähr genauso viel. Eine einfache Pizza Margherita fängt bei 10 Euro an. Deshalb nehmen viele ihr Essen mit zur Arbeit und in den Park."
 translationKey: "eating-out-prices-germany"

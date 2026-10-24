@@ -1,6 +1,6 @@
 ---
 title: "Transporte: Bicicleta, cochecito de bebé y el billete de 63 euros"
-date: 2026-10-29T06:00:00+02:00
+date: 2026-10-27T06:00:00+01:00
 draft: false
 description: "Todo el transporte público por 63 euros al mes con el Deutschlandticket. Las aceras están pensadas para cochecitos de bebé y sillas de ruedas, y hay carriles bici por toda la ciudad."
 translationKey: "tvg-traffic"

@@ -1,6 +1,6 @@
 ---
 title: "De Múnich a Mittenwald y Scharnitz en tren: excursión de un día con niños a la frontera con Austria"
-date: 2027-01-11T06:00:00+02:00
+date: 2026-11-24T06:00:00+01:00
 draft: false
 description: "Excursión de un día en tren desde Pasing con el RB6 hacia Mittenwald y Scharnitz, en la frontera con Austria, con dos niños pequeños y carrito de bebé. Hasta dónde sirve el Deutschlandticket y qué vimos por el camino."
 translationKey: "trip-mittenwald-scharnitz"

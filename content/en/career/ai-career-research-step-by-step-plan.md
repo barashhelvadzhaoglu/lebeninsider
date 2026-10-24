@@ -1,6 +1,6 @@
 ---
 title: "Career Research with AI: A Step-by-Step Plan"
-date: 2026-10-29T06:00:00+02:00
+date: 2026-10-27T06:00:00+01:00
 draft: false
 description: "A day-by-day plan to research the professions of the next decade using the deep research capabilities of AI tools."
 translationKey: "kariyer-04-yapay-zeka-arastirma"

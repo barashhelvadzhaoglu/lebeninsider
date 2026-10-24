@@ -1,6 +1,6 @@
 ---
 title: "Almanya'da Flohmarkt ve İkinci El: 2 Euroya Televizyon, 8 Euroya Kazak"
-date: 2027-01-03T06:00:00+02:00
+date: 2026-11-21T06:00:00+01:00
 draft: false
 description: "Mahalle bit pazarları (Flohmarkt), Kleinanzeigen'de ücretsiz eşyalar, eşya kutuları ve ikinci el kıyafet dükkânları. Almanya'da birçok şeyin sıfırını almak zorunda değilsin."
 translationKey: "flohmarkt-second-hand-germany"

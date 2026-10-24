@@ -1,6 +1,6 @@
 ---
 title: "Lebenslauf mit KI erstellen Teil 3: Erzähle über dich per Spracheingabe"
-date: 2026-12-16T06:00:00+02:00
+date: 2026-11-15T06:00:00+01:00
 draft: false
 description: "Wenn es dir schwerfällt, dich schriftlich zu beschreiben, sprich es einfach ein. Wie du deine Erfahrungen, Projekte oder als Berufseinsteiger deine Stärken und Interessen der KI ausführlich erzählst."
 translationKey: "cv-03-kendini-anlat"

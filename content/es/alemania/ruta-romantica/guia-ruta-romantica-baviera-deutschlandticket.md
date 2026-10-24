@@ -1,6 +1,6 @@
 ---
 title: "Guía de la Ruta Romántica | La ruta más bonita de Baviera con el Deutschlandticket y carrito de bebé (2026)"
-date: 2027-01-13T06:00:00+02:00
+date: 2026-11-25T06:00:00+01:00
 draft: false
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"
 description: "¿Qué es la Ruta Romántica y cómo recorrerla? Desde Múnich con el Deutschlandticket, 2 niños y carrito de bebé. Augsburgo, Füssen, Neuschwanstein, Memmingen, Lindau: viajes reales y notas sinceras."

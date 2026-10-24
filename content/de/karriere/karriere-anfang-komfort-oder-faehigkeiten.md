@@ -1,6 +1,6 @@
 ---
 title: "Komfort oder Fähigkeiten am Karrierestart?"
-date: 2026-12-22T06:00:00+02:00
+date: 2026-11-18T06:00:00+01:00
 draft: false
 description: "Soll man am Karrierestart einen bequemeren Job wählen oder mehr Mühe investieren, um Fähigkeiten und Zertifikate zu sammeln? Mit Beispielen aus meiner eigenen Karriere und der Geschichte meines Managers."
 translationKey: "kariyer-08-rahatlik-yetenek"

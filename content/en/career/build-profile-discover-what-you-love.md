@@ -1,6 +1,6 @@
 ---
 title: "Build Your Own Profile: How to Discover What You Love"
-date: 2026-11-05T06:00:00+02:00
+date: 2026-10-30T06:00:00+01:00
 draft: false
 description: "Before choosing a career, you need to know yourself. Here is a simple method: jot down what you enjoy doing each day and evaluate these notes using AI tools."
 translationKey: "kariyer-02-profil"

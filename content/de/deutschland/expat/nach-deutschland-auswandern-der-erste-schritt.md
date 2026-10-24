@@ -1,6 +1,6 @@
 ---
 title: "Wenn du nach Deutschland auswandern willst: Was du heute als Erstes tun solltest"
-date: 2027-01-17T06:00:00+02:00
+date: 2026-11-28T06:00:00+01:00
 draft: false
 description: "Wenn du in Deutschland arbeiten willst, musst du heute anfangen: Unser Visatermin kam erst nach rund einem Jahr. Was du heute für Chancenkarte, LinkedIn-Standort und Deutsch tun kannst."
 translationKey: "first-step-moving-to-germany"

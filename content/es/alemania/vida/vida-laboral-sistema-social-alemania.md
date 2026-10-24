@@ -1,6 +1,6 @@
 ---
 title: "Vida laboral y sistema social: Ni pobre ni muy rico"
-date: 2026-11-21T06:00:00+02:00
+date: 2026-11-04T06:00:00+01:00
 draft: false
 description: "En Alemania hay Minijob para ingresos extra, ayudas sociales para ingresos bajos e impuestos altos para quien gana mucho. Es difícil despedir y el inquilino está muy protegido."
 translationKey: "tvg-work-life"

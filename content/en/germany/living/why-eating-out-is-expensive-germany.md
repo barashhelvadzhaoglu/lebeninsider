@@ -1,6 +1,6 @@
 ---
 title: "Why Is Eating Out Expensive in Germany? Minced Meat, Chicken, and Burger Menus"
-date: 2026-12-10T06:00:00+02:00
+date: 2026-11-13T06:00:00+01:00
 draft: false
 description: "1 kg of minced meat is €10–12 at the supermarket, roughly the same as a McDonald's menu. A plain Margherita pizza starts at €10. That's why people pack food for work and the park."
 translationKey: "eating-out-prices-germany"

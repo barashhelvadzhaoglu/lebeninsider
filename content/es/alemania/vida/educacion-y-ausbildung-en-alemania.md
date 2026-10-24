@@ -1,6 +1,6 @@
 ---
 title: "Educación y Ausbildung: La universidad no es el único camino en Alemania"
-date: 2026-11-13T06:00:00+02:00
+date: 2026-11-01T06:00:00+01:00
 draft: false
 description: "En Turquía todo el mundo va a la universidad, pero los graduados están desempleados. En Alemania, con la Ausbildung la gente trabaja y aprende una profesión. Con ejemplos de primera mano."
 translationKey: "tvg-school"

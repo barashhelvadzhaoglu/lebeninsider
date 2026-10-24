@@ -1,6 +1,6 @@
 ---
 title: "A Hiring Manager's Perspective: What Do I Expect from a Fresh Graduate?"
-date: 2026-12-02T06:00:00+02:00
+date: 2026-11-10T06:00:00+01:00
 draft: false
 description: "I don't expect experience from a fresh graduate, but I do expect genuine interest. As someone who has hired people, I share what career starters can put on their resume and how to prepare for interviews."
 translationKey: "kariyer-10-ise-alan-gozuyle"

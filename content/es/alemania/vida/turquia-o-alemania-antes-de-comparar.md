@@ -1,6 +1,6 @@
 ---
 title: "¿Turquía o Alemania? Lee esto antes de empezar a comparar"
-date: 2026-11-19T06:00:00+02:00
+date: 2026-11-03T06:00:00+01:00
 draft: false
 description: "Esta serie no es una competición de «cuál es mejor». Cualquiera que cambia de país busca sus viejos hábitos. Primero toma tu decisión, ordena tus criterios y luego mira qué te espera."
 translationKey: "turkey-vs-germany-overview"

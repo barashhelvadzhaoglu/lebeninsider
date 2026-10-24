@@ -1,6 +1,6 @@
 ---
 title: "Primero conócete a ti mismo, luego elige profesión"
-date: 2026-12-17T06:00:00+02:00
+date: 2026-11-14T06:00:00+01:00
 draft: false
 description: "La mayoría elegimos primero la profesión e intentamos adaptarnos a ella. En mi opinión, debería ser al revés: primero descubre lo que te gusta y luego conviértelo en tu profesión."
 translationKey: "kariyer-01-kendini-tani"

@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué es tan caro comer fuera en Alemania? Carne picada, pollo y menús de hamburguesa"
-date: 2026-12-30T06:00:00+02:00
+date: 2026-11-19T06:00:00+01:00
 draft: false
 description: "En el supermercado 1 kg de carne picada cuesta 10–12 euros, casi lo mismo que un menú de McDonald's. Una simple pizza margarita empieza en 10 euros. Por eso la gente se lleva la comida al trabajo y al parque."
 translationKey: "eating-out-prices-germany"

@@ -1,6 +1,6 @@
 ---
 title: "Gesundheitssystem: In der Türkei schnell, in Deutschland anders"
-date: 2026-11-13T06:00:00+02:00
+date: 2026-11-02T06:00:00+01:00
 draft: false
 description: "In mancher Hinsicht ist das Gesundheitssystem in der Türkei bequemer: schneller Service. In Deutschland ist die Arztsuche mühsam und man geht nicht wegen Kleinigkeiten zum Arzt – dafür gibt es Krankmeldung ohne Attest und viel Urlaub."
 translationKey: "tvg-health-system"

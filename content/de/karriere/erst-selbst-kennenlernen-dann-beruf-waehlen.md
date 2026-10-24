@@ -1,6 +1,6 @@
 ---
 title: "Erst dich selbst kennenlernen, dann den Beruf wählen"
-date: 2026-12-20T06:00:00+02:00
+date: 2026-11-17T06:00:00+01:00
 draft: false
 description: "Die meisten von uns wählen zuerst den Beruf und versuchen dann, sich daran anzupassen. Meiner Meinung nach ist das Gegenteil richtig: Finde erst heraus, was du liebst, und mach es dann zu deinem Beruf."
 translationKey: "kariyer-01-kendini-tani"

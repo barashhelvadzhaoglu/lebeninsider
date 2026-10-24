@@ -1,6 +1,6 @@
 ---
 title: "El mito de una sola profesión: Puedes tener más de una carrera a lo largo de tu vida"
-date: 2026-11-28T06:00:00+02:00
+date: 2026-11-07T06:00:00+01:00
 draft: false
 description: "No tenemos por qué elegir una profesión y ejercerla toda la vida. Podemos hacer más de un trabajo al mismo tiempo y adquirir múltiples profesiones a lo largo de la vida."
 translationKey: "kariyer-06-tek-meslek"

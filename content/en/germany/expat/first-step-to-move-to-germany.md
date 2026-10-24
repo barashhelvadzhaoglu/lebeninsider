@@ -1,6 +1,6 @@
 ---
 title: "The First Thing You Need to Do Today If You Want to Move to Germany"
-date: 2026-12-23T06:00:00+02:00
+date: 2026-11-19T06:00:00+01:00
 draft: false
 description: "If you want to work in Germany, the waiting has to start today: our visa appointment invitation arrived about a year later. What you can do today for the Chancenkarte, your LinkedIn location, and learning German."
 translationKey: "first-step-moving-to-germany"

@@ -1,6 +1,6 @@
 ---
 title: "Criar a los hijos: Espacio vital, seguridad e independencia"
-date: 2026-11-04T06:00:00+02:00
+date: 2026-10-29T06:00:00+01:00
 draft: false
 description: "En Estambul había más de 50 niños en el parque. En Alemania, casi cada edificio tiene una zona de juegos enfrente y los niños de 5 o 6 años pueden ir solos a la escuela."
 translationKey: "tvg-bicultural"

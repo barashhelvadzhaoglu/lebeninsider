@@ -1,6 +1,6 @@
 ---
 title: "Beispiel: Wie ist es wirklich, in der IT zu arbeiten?"
-date: 2026-12-06T06:00:00+02:00
+date: 2026-11-11T06:00:00+01:00
 draft: false
 description: "Um sich einen Beruf vorstellen zu können, muss man wissen, wie ein Tag darin abläuft. Ein Beispiel aus meinem eigenen Bereich: der IT-Abteilung eines Unternehmens."
 translationKey: "kariyer-03b-it-de-bir-gun"

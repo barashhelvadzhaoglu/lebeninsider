@@ -1,6 +1,6 @@
 ---
 title: "Preparing a CV with AI 3: Explain Yourself by Speaking"
-date: 2026-11-22T06:00:00+02:00
+date: 2026-11-06T06:00:00+01:00
 draft: false
 description: "If explaining yourself in writing is hard, do it by speaking. How to explain your experiences, projects, or personal traits and interests to AI at length."
 translationKey: "cv-03-kendini-anlat"

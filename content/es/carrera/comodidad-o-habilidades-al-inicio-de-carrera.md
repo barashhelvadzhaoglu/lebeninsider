@@ -1,6 +1,6 @@
 ---
 title: "¿Comodidad o habilidades al principio de la carrera?"
-date: 2026-12-20T06:00:00+02:00
+date: 2026-11-15T06:00:00+01:00
 draft: false
 description: "¿Deberías elegir un trabajo más cómodo al principio de tu carrera o esforzarte más y acumular habilidades y certificaciones? Con ejemplos de mi propia carrera y la historia de mi manager."
 translationKey: "kariyer-08-rahatlik-yetenek"

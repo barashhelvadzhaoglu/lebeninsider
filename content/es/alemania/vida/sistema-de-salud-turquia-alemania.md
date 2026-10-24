@@ -1,6 +1,6 @@
 ---
 title: "Sistema de salud: rápido en Turquía, diferente en Alemania"
-date: 2026-11-07T06:00:00+02:00
+date: 2026-10-30T06:00:00+01:00
 draft: false
 description: "En sanidad, Turquía resulta más cómoda en algunos aspectos: el servicio es rápido. En Alemania es difícil encontrar médico y no se acude por cosas sencillas, pero hay ventajas como la baja por enfermedad sin justificante médico y más vacaciones."
 translationKey: "tvg-health-system"

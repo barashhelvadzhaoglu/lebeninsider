@@ -1,6 +1,6 @@
 ---
 title: "4 Criteria for Evaluating a Career"
-date: 2026-11-25T06:00:00+02:00
+date: 2026-11-07T06:00:00+01:00
 draft: false
 description: "Future demand and salary are important, but not enough. Before choosing a profession, you also need to look at how people working in that field spend their days, weeks, and months."
 translationKey: "kariyer-03-dort-kriter"

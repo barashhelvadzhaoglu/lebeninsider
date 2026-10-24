@@ -1,6 +1,6 @@
 ---
 title: "La mitad invisible de la carrera: Educación financiera"
-date: 2026-12-03T06:00:00+02:00
+date: 2026-11-09T06:00:00+01:00
 draft: false
 description: "No se trata de especular con criptomonedas: entender cómo funcionan los instrumentos de inversión y ahorrar con regularidad desde joven. Algo tan importante como elegir profesión, pero de lo que poco se habla en Turquía."
 translationKey: "kariyer-07-finansal-okuryazarlik"

@@ -1,6 +1,6 @@
 ---
 title: "Trenes regionales en Alemania: enchufes en cada asiento, Deutschlandticket y el dilema del espacio para carritos de bebé"
-date: 2027-01-01T06:00:00+02:00
+date: 2026-11-20T06:00:00+01:00
 draft: false
 description: "Enchufes, mesas y estantes en trenes regionales; viajar de Salzburgo a Stuttgart solo con trenes regionales usando el Deutschlandticket. Y el problema del espacio para carritos de bebé donde todo el mundo se sienta."
 translationKey: "regional-trains-stroller-space"

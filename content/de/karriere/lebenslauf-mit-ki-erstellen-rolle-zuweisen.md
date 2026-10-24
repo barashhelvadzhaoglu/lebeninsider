@@ -1,6 +1,6 @@
 ---
 title: "Lebenslauf mit KI erstellen 4: Alles zusammenführen und der KI eine Rolle geben"
-date: 2026-12-11T06:00:00+02:00
+date: 2026-11-13T06:00:00+01:00
 draft: false
 description: "Um die Rechercheberichte und deine eigene Schilderung in einem einzigen Lebenslauf zu vereinen, musst du der KI die richtige Rolle zuweisen. Inklusive fertigem Prompt zum Kopieren."
 translationKey: "cv-04-birlestir"

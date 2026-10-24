@@ -1,6 +1,6 @@
 ---
 title: "Preparar tu CV con inteligencia artificial 3: Cuéntalo hablando"
-date: 2026-12-11T06:00:00+02:00
+date: 2026-11-12T06:00:00+01:00
 draft: false
 description: "Si te resulta difícil describirte por escrito, hazlo hablando. Cómo contarle con detalle a la inteligencia artificial tus experiencias, proyectos o, si acabas de graduarte, tus rasgos personales e intereses."
 translationKey: "cv-03-kendini-anlat"

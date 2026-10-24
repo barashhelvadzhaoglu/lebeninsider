@@ -1,6 +1,6 @@
 ---
 title: "Crafting a CV with AI 4: Combining Everything and Assigning a Role to AI"
-date: 2026-11-18T06:00:00+02:00
+date: 2026-11-04T06:00:00+01:00
 draft: false
 description: "To combine research reports and your own narrative into a single CV, you need to assign the right role to AI. Featuring a ready-to-use prompt you can copy."
 translationKey: "cv-04-birlestir"

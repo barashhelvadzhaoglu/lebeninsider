@@ -1,6 +1,6 @@
 ---
 title: "Day Trip with Kids: What Do We Pack Under the Stroller?"
-date: 2026-12-18T06:00:00+02:00
+date: 2026-11-17T06:00:00+01:00
 draft: false
 description: "What we pack when going on a day trip by regional train with two young kids in Germany: water, formula, fruit, bakery items. What do we do on Sundays when everything is closed?"
 translationKey: "family-day-trip-packing"

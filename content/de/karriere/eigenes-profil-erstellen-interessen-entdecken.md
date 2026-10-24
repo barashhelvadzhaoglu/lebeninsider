@@ -1,6 +1,6 @@
 ---
 title: "Erstelle dein eigenes Profil: Wie du entdeckst, was du wirklich magst"
-date: 2026-11-30T06:00:00+02:00
+date: 2026-11-08T06:00:00+01:00
 draft: false
 description: "Bevor man einen Beruf wählt, muss man sich selbst kennenlernen. Hier ist eine einfache Methode: Notiere dir täglich, was dir Spaß macht, und werte diese Notizen mit KI-Tools aus."
 translationKey: "kariyer-02-profil"

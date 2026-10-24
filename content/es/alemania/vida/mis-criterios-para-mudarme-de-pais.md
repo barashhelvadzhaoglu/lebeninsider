@@ -1,6 +1,6 @@
 ---
 title: "Mis criterios detrás de la decisión de mudarme: Hijos, derecho y economía"
-date: 2026-11-10T06:00:00+02:00
+date: 2026-10-31T06:00:00+01:00
 draft: false
 description: "Para mí, la prioridad número uno era ofrecer un futuro mejor a mis hijos. El sentido de justicia y derecho, junto con la inflación que viví durante años, también determinaron mi decisión."
 translationKey: "why-i-moved-countries"

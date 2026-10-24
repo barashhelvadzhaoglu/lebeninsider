@@ -1,6 +1,6 @@
 ---
 title: "Preparar un CV con Inteligencia Artificial 2: Investigación de Formato"
-date: 2026-10-26T06:00:00+02:00
+date: 2026-10-26T06:00:00+01:00
 draft: false
 description: "¿Deberías incluir una foto? ¿Un diseño llamativo es una ventaja? ¿Qué secciones y en qué orden? Las expectativas sobre el formato del CV varían según el país, y esto también hay que investigarlo."
 translationKey: "cv-02-format"

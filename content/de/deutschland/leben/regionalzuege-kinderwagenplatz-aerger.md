@@ -1,6 +1,6 @@
 ---
 title: "Regionalzüge in Deutschland: Steckdosen an jedem Sitz, Deutschlandticket und der Ärger mit dem Kinderwagenplatz"
-date: 2027-01-04T06:00:00+02:00
+date: 2026-11-23T06:00:00+01:00
 draft: false
 description: "Steckdosen, Tische und Ablagen in Regionalzügen; mit dem Deutschlandticket von Salzburg nach Stuttgart mit Regionalzügen fahren. Und der Kinderwagenplatz, auf dem immer alle sitzen."
 translationKey: "regional-trains-stroller-space"

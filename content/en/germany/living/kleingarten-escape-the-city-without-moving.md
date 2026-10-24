@@ -1,6 +1,6 @@
 ---
 title: "Kleingarten: You Don't Need to Move Outside the City to Escape It"
-date: 2026-12-16T06:00:00+02:00
+date: 2026-11-16T06:00:00+01:00
 draft: false
 description: "What is a Kleingarten in Germany? Small rented gardens, huts, barbecues, and vegetables right in the city. Why are they so popular and hard to find?"
 translationKey: "kleingarten-germany"

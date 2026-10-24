@@ -1,6 +1,6 @@
 ---
 title: "Domingos y festivos en Alemania: ¿qué hacer cuando todo está cerrado?"
-date: 2026-12-25T06:00:00+02:00
+date: 2026-11-17T06:00:00+01:00
 draft: false
 description: "En Alemania los supermercados cierran los domingos; quedan quioscos y gasolineras abiertas. Días festivos, puentes y festivos en sábado. Desde la perspectiva de un trabajador."
 translationKey: "sundays-public-holidays-germany"

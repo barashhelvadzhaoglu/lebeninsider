@@ -1,6 +1,6 @@
 ---
 title: "Why Are Bavarian Houses Always So Beautiful? The Rules of Building a Home"
-date: 2026-12-07T06:00:00+02:00
+date: 2026-11-12T06:00:00+01:00
 draft: false
 description: "Mittenwald's painted facades and the orderly look of Bavarian towns are no coincidence. Why can't you just build or renovate a house however you like in Germany?"
 translationKey: "bavarian-houses-building-rules"

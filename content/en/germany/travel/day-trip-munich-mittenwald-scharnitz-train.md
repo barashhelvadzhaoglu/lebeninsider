@@ -1,6 +1,6 @@
 ---
 title: "Mittenwald and Scharnitz by Train from Munich: A Day Trip to the Austrian Border with Kids"
-date: 2026-12-21T06:00:00+02:00
+date: 2026-11-18T06:00:00+01:00
 draft: false
 description: "A day trip by train with two young kids and a stroller from Pasing to Mittenwald and Scharnitz on the Austrian border via RB6. How far the Deutschlandticket is valid and what we saw along the way."
 translationKey: "trip-mittenwald-scharnitz"

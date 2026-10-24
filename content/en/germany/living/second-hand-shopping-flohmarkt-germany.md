@@ -1,6 +1,6 @@
 ---
 title: "Flohmarkt and Second-Hand in Germany: TV for 2 Euros, Sweater for 8 Euros"
-date: 2026-12-14T06:00:00+02:00
+date: 2026-11-15T06:00:00+01:00
 draft: false
 description: "Neighborhood flea markets (Flohmarkt), free items on Kleinanzeigen, sharing boxes, and second-hand clothing stores. You don't have to buy everything brand new in Germany."
 translationKey: "flohmarkt-second-hand-germany"

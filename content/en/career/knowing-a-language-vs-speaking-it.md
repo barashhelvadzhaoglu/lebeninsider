@@ -1,6 +1,6 @@
 ---
 title: "Knowing a Language and Speaking It Are Not the Same"
-date: 2026-11-20T06:00:00+02:00
+date: 2026-11-05T06:00:00+01:00
 draft: false
 description: "English is now a must for anyone planning a career abroad. But passing an exam and getting a certificate is completely different from actually running a meeting in that language."
 translationKey: "kariyer-09-dil"

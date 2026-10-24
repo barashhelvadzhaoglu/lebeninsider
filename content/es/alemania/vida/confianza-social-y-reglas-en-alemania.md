@@ -1,6 +1,6 @@
 ---
 title: "Confianza social y reglas: la ley no la aplica la policía, sino la gente"
-date: 2026-11-16T06:00:00+02:00
+date: 2026-11-02T06:00:00+01:00
 draft: false
 description: "En Alemania, muchas veces las normas no las hace cumplir la policía, sino los vecinos. Mochilas en el supermercado, juguetes en el arenero, objetos frente a la puerta: una sociedad basada en la confianza."
 translationKey: "trust-in-germany"

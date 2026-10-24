@@ -1,6 +1,6 @@
 ---
 title: "Mobilität: Fahrrad, Kinderwagen und das 63-Euro-Ticket"
-date: 2026-11-06T06:00:00+02:00
+date: 2026-10-30T06:00:00+01:00
 draft: false
 description: "Mit dem Deutschlandticket für 63 Euro im Monat den gesamten Nahverkehr nutzen. Gehwege sind für Kinderwagen und Rollstühle ausgelegt, überall gibt es Radwege."
 translationKey: "tvg-traffic"

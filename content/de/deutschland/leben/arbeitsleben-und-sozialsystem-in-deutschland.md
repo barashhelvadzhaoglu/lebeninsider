@@ -1,6 +1,6 @@
 ---
 title: "Arbeitsleben und Sozialsystem: Weder arm noch sehr reich"
-date: 2026-11-27T06:00:00+02:00
+date: 2026-11-07T06:00:00+01:00
 draft: false
 description: "In Deutschland gibt es Minijobs als Zusatzeinkommen, soziale Unterstützung für Geringverdiener und hohe Steuern für Gutverdiener. Kündigungen sind schwer, Mieter stark geschützt."
 translationKey: "tvg-work-life"

@@ -1,6 +1,6 @@
 ---
 title: "Kinder großziehen: Lebensraum, Sicherheit und Selbstständigkeit"
-date: 2026-11-11T06:00:00+02:00
+date: 2026-11-01T06:00:00+01:00
 draft: false
 description: "In Istanbul waren mehr als 50 Kinder auf dem Spielplatz. In Deutschland gibt es fast vor jedem Gebäude einen Spielplatz und 5–6-jährige Kinder können allein zur Schule gehen."
 translationKey: "tvg-bicultural"

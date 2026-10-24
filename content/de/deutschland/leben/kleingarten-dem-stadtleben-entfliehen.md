@@ -1,6 +1,6 @@
 ---
 title: "Kleingarten: Um dem Stadtleben zu entfliehen, musst du nicht aufs Land ziehen"
-date: 2027-01-10T06:00:00+02:00
+date: 2026-11-25T06:00:00+01:00
 draft: false
 description: "Was ist ein Kleingarten in Deutschland? Kleine Pachtgärten mitten in der Stadt, Gartenlauben, Grillen und Gemüse. Warum sie so beliebt und schwer zu bekommen sind."
 translationKey: "kleingarten-germany"

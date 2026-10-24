@@ -1,6 +1,6 @@
 ---
 title: "Aus Sicht des Einstellenden: Was erwarte ich von Absolventen?"
-date: 2026-12-24T06:00:00+02:00
+date: 2026-11-19T06:00:00+01:00
 draft: false
 description: "Von einem Absolventen erwarte ich keine Erfahrung, aber Interesse. Als jemand, der selbst eingestellt hat, erkläre ich, was Berufseinsteiger in ihren Lebenslauf schreiben und wie sie sich auf Vorstellungsgespräche vorbereiten können."
 translationKey: "kariyer-10-ise-alan-gozuyle"

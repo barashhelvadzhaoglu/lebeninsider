@@ -1,6 +1,6 @@
 ---
 title: "Teilungskultur in Deutschland | Geschenke vor der Haustür, Kleinanzeigen und leises gesellschaftliches Bewusstsein"
-date: 2026-10-28T06:00:00+02:00
+date: 2026-10-26T06:00:00+01:00
 draft: false
 description: "In Deutschland landen ausrangierte Dinge nicht im Müll – sie werden vor die Tür gestellt oder auf Kleinanzeigen verschenkt. Ein unaufgeregtes, leises, aber tief verankertes gesellschaftliches Bewusstsein."
 translationKey: "sharing-culture-germany"

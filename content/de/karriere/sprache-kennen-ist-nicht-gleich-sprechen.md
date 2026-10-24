@@ -1,6 +1,6 @@
 ---
 title: "Eine Sprache zu kennen und sie sprechen zu können, sind zwei verschiedene Dinge"
-date: 2026-12-13T06:00:00+02:00
+date: 2026-11-14T06:00:00+01:00
 draft: false
 description: "Wer eine Karriere im Ausland plant, kommt an Englisch nicht mehr vorbei. Doch eine Prüfung zu bestehen und ein Zertifikat zu haben, ist etwas völlig anderes, als ein Meeting in dieser Sprache abzuhalten."
 translationKey: "kariyer-09-dil"

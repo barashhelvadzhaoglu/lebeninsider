@@ -1,6 +1,6 @@
 ---
 title: "Wohnen und Lebensraum: Grün und weitläufig, aber der Supermarkt ist weit weg"
-date: 2026-11-08T06:00:00+02:00
+date: 2026-10-31T06:00:00+01:00
 draft: false
 description: "In Deutschland gibt es zwischen den Gebäuden viel Grün, Fahrradstellplätze und Keller. Der Preis dafür: Alltägliche Wege sind weiter – in Istanbul lagen drei Supermärkte innerhalb von 50 Metern."
 translationKey: "tvg-housing"
