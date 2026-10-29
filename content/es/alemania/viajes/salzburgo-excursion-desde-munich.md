@@ -1,7 +1,7 @@
 ---
 title: "Guía de Viaje a Salzburgo | La Ciudad de Mozart a 1.5 Horas de Múnich (2026)"
 date: 2026-03-21
-draft: false
+draft: true
 featureimage: "img/travel/salzburg-gezi-rehberi.webp"
 description: "Guía de viaje a Salzburgo: Fortaleza Hohensalzburg, Getreidegasse, Casa de Mozart, Jardines de Mirabell. Austria a 1.5 horas de Múnich. Gratis hasta la frontera con el Deutschlandticket. 2025."
 tags: ["salzburgo", "munich salzburgo", "austria salzburgo", "viaje salzburgo", "fortaleza hohensalzburg", "mozart salzburgo", "getreidegasse", "jardines mirabell", "lugares que ver en salzburgo", "deutschlandticket salzburgo", "excursion dia munich austria", "salzburgo 2025", "presupuesto salzburgo", "transporte salzburgo", "altstadt salzburgo", "sonrisas y lagrimas salzburgo", "museos salzburgo", "comer beber salzburgo", "baviera austria", "salzburgo cochecito bebe"]

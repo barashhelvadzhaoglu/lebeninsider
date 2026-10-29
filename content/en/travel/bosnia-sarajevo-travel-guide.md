@@ -2,7 +2,7 @@
 translationKey: "post-saraybosna"
 title: "Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)"
 date: 2024-05-15
-draft: false
+draft: true
 featureimage: "img/travel/bosnia-sarajevo-travel-guide.webp"
 description: "Sarajevo travel guide: visa-free entry, Baščaršija, Mostar Bridge, Latin Bridge and budget tips. Ottoman heritage and war history side by side. Comprehensive guide for travelers."
 tags: ["sarajevo", "bosnia herzegovina", "travel guide", "visa-free", "balkans", "mostar", "sarajevo things to do", "bosnia budget travel", "balkan trip", "sarajevo transportation", "baščaršija", "latin bridge", "mostar day trip", "bosnia food", "bosnia accommodation", "balkan travel route", "balkans visa-free", "bosnia cheap holiday", "sarajevo 2024", "cheap europe travel"]

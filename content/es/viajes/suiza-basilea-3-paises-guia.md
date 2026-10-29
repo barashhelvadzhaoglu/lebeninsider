@@ -2,7 +2,7 @@
 translationKey: "post-basel"
 title: "Guía de Viaje de Basilea, Suiza | 3 Países desde una Sola Ciudad: Suiza, Francia, Alemania (2026)"
 date: 2024-06-20
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1505242844917-539069d31d0d?w=1200&q=80"
 description: "Guía de viaje de Basilea: Río Rin, Marktplatz, Catedral de Münster y el rincón de los 3 países. ¿Cómo visitar Suiza, Francia y Alemania en un mismo viaje? Transporte, presupuesto y consejos prácticos."
 tags: ["basilea", "suiza", "francia", "alemania", "guía de viaje", "schengen", "3 países", "lugares para visitar en basilea", "rincón de los 3 países", "alsacia", "selva negra", "río rin basilea", "marktplatz basilea", "transporte basilea", "tour suiza francia alemania", "alojamiento basilea", "presupuesto basilea", "basilea 2024", "tour multi-país europa", "francia alemania en un día"]

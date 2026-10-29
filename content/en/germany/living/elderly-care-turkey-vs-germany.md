@@ -225,8 +225,8 @@ Our experience in Munich reinforced our positive impressions of Germany, but als
 *   **Related Site Content:**
     *   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
     *   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
-    *   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/)
-    *   [Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2026)](https://lebeninsider.com/en/germany/travel/new-years-eve-germany-silvester/)
+    *   Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)
+    *   Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2026)
 
 ## Frequently Asked Questions About Munich
 

@@ -110,7 +110,7 @@ Neuschwanstein Kalesi'ne ulaşım oldukça kolaydır ve Almanya'nın iyi gelişm
 |                | Araç         | 20+ saat      | Yakıt + Otoyol           | Uzun ve yorucu bir yolculuk. [İstanbul'dan Münih'e Araçla](/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) yazımızı okuyabilirsiniz. |
 
 **Deutschlandticket Geçerli Mi?**
-Evet, **Deutschlandticket**, Münih'ten Füssen'e kadar olan tren (Regional Express) yolculukları için geçerlidir. Bu, eğer Almanya içinde seyahat ediyorsanız oldukça ekonomik bir seçenektir. Füssen'den kaleye giden otobüsler de yerel ulaşım olduğu için genellikle Deutschlandticket kapsamındadır, ancak bunu binişte teyit etmekte fayda var. [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/) yazımıza göz atarak daha fazla rota fikri edinebilirsiniz.
+Evet, **Deutschlandticket**, Münih'ten Füssen'e kadar olan tren (Regional Express) yolculukları için geçerlidir. Bu, eğer Almanya içinde seyahat ediyorsanız oldukça ekonomik bir seçenektir. Füssen'den kaleye giden otobüsler de yerel ulaşım olduğu için genellikle Deutschlandticket kapsamındadır, ancak bunu binişte teyit etmekte fayda var. Deutschlandticket ile Münih Çevresinde Gezi yazımıza göz atarak daha fazla rota fikri edinebilirsiniz.
 
 **Füssen'den Kaleye Ulaşım:**
 

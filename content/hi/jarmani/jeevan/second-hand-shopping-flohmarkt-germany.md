@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में Flohmarkt और सेकंड-हैंड: 2 यूरो में टीवी, 8 यूरो में स्वेटर"
 date: 2026-11-21T06:00:00+01:00
-draft: false
+draft: true
 description: "मोहल्ले के कबाड़ बाज़ार (Flohmarkt), Kleinanzeigen पर मुफ़्त मिलने वाले सामान, बॉक्स और सेकंड-हैंड कपड़ों की दुकानें। जर्मनी में आपको हर चीज़ नई खरीदने की ज़रूरत नहीं है।"
 translationKey: "flohmarkt-second-hand-germany"
 featureimage: "img/living/shopping.webp"

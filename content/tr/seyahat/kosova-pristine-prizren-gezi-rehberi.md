@@ -2,7 +2,7 @@
 translationKey: "post-pristine"
 title: "Kosova Gezi Rehberi | Priştine ve Prizren | Vizesiz Balkan Rotası (2026)"
 date: 2024-04-10
-draft: false
+draft: true
 featureimage: "img/travel/kosova-pristine-prizren-gezi-rehberi.webp"
 description: "Kosova gezi rehberi: Priştine ve Prizren gezilecek yerler, vizesiz giriş, ulaşım ve bütçe. Balkanlarda en az keşfedilmiş ülkelerden biri. Türk gezginler için kapsamlı rehber."
 tags: ["kosova", "priştine", "prizren", "gezi rehberi", "vizesiz", "balkanlar", "kosova gezilecek yerler", "prizren eski şehir", "priştine newborn", "kosova ulaşım", "kosova bütçe", "balkan turu", "kosova konaklama", "türk pasaportu kosova", "kosova yeme içme", "balkan gezi rotası", "kosova 2024", "en ucuz avrupa tatili", "vizesiz balkan ülkeleri", "clinton bulvarı priştine"]

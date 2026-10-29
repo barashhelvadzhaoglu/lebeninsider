@@ -1,0 +1,4 @@
+{{- with .Site.Params.legal -}}
+<p>{{ .name }}<br>{{ .street }}<br>{{ .city }}<br>{{ .country }}<br>
+E-Mail: <a href="mailto:{{ .email }}">{{ .email }}</a></p>
+{{- end -}}

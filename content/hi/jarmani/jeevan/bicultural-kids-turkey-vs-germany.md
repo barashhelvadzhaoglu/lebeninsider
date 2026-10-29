@@ -1,7 +1,7 @@
 ---
 title: "बच्चों की परवरिश: रहने की जगह, सुरक्षा और आत्मनिर्भरता"
 date: 2026-10-29T06:00:00+01:00
-draft: false
+draft: true
 description: "इस्तांबुल में पार्क में 50 से ज़्यादा बच्चे होते थे। जर्मनी में लगभग हर इमारत के सामने एक खेल का मैदान है और 5–6 साल के बच्चे अकेले स्कूल जा सकते हैं।"
 translationKey: "tvg-bicultural"
 featureimage: "img/living/bicultural.webp"

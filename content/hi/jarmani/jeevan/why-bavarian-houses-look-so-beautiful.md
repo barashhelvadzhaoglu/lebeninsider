@@ -1,7 +1,7 @@
 ---
 title: "बवेरियन घर हमेशा इतने सुंदर क्यों दिखते हैं? घर बनाने के नियम"
 date: 2026-11-18T06:00:00+01:00
-draft: false
+draft: true
 description: "मिटेनवाल्ड के चित्रित मुखौटे और बवेरियन कस्बों का व्यवस्थित रूप कोई इत्तेफ़ाक नहीं है। जर्मनी में घर बनाते या मरम्मत करते समय आप अपनी मर्ज़ी क्यों नहीं चला सकते?"
 translationKey: "bavarian-houses-building-rules"
 featureimage: "img/living/housing.webp"

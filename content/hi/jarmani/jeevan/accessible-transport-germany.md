@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में सुलभ जीवन: बेबी स्ट्रॉलर से लेकर व्हीलचेयर तक, आवागमन में आसानी"
 date: 2026-04-28T08:00:00+01:00
-draft: false
+draft: true
 description: "जर्मनी में विकलांगों, बुजुर्गों और बेबी स्ट्रॉलर का उपयोग करने वालों के लिए आवागमन कितना आसान है, इसे मेरे व्यक्तिगत अनुभवों से जानें। तुर्की के साथ तुलना और व्यावहारिक जानकारी।"
 translationKey: "almanyada-engelli-yasli-bebek-arabasi-dostu-ulasim"
 featureimage: "img/lebeninsider-hero.webp"

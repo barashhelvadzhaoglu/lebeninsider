@@ -18,17 +18,17 @@ Bu bölümde "mutlaka görülmeli" listesi yok. Bunun yerine: o restoran neden h
 **Üsküp — Kuzey Makedonya'nın Fazla Bilinmeyen Başkenti**
 Vizesiz, ucuz ve beklenmedik derecede ilgi çekici. Skopje 2014 heykelleri, Eski Çarşı ve Matka Kanyonu — ama gerçekte ne kadar iyi?
 
-→ [Üsküp Gezi Rehberi](/tr/seyahat/uskup-kuzey-makedonya-gezi-rehberi/)
+→ Üsküp Gezi Rehberi
 
 **Kosova — Priştine ve Prizren**
 Avrupa'nın en genç ülkesi, Balkanların en az ziyaret edilenlerinden biri. Clinton Bulvarı'ndan Prizren'in taş sokaklarına. Vizesiz Türk pasaportuyla.
 
-→ [Kosova Gezi Rehberi](/tr/seyahat/kosova-pristine-prizren-gezi-rehberi/)
+→ Kosova Gezi Rehberi
 
 **Bosna-Hersek — Saraybosna'da Bir Hafta**
 Tarihin en ağır katmanlarından birinin üzerinde kurulmuş şehir. Başçarşı, Latin Köprüsü, Mostar günübirliği ve gerçek bütçe.
 
-→ [Bosna-Hersek Saraybosna Gezi Rehberi](/tr/seyahat/bosna-hersek-saraybosna-gezi-rehberi/)
+→ Bosna-Hersek Saraybosna Gezi Rehberi
 
 ---
 
@@ -51,12 +51,12 @@ Ana rehberin ötesi: saklı kalan mahalleler, yerel mekanlar ve Gürcistan'ın a
 **Zürih — Pahalı Ama Nasıl Gezilir?**
 İsviçre'nin en pahalı şehri nasıl bütçeyle gezilir? Grossmünster, Bahnhofstrasse, Lindt müzesi ve Zürih Kartı gerçekten değer mi?
 
-→ [Zürih Gezi Rehberi](/tr/seyahat/isvicre-zurih-gezi-rehberi/)
+→ Zürih Gezi Rehberi
 
 **Basel — Tek Şehirden Üç Ülke**
 Basel'de sabah İsviçre'de, öğleden sonra Fransa'da, akşam Almanya'da olabilirsiniz. Üç ülke köşesi, Ren Nehri ve günübirlik nasıl planlanır.
 
-→ [Basel Gezi Rehberi](/tr/seyahat/isvicre-basel-3-ulke-gezi-rehberi/)
+→ Basel Gezi Rehberi
 
 ---
 
@@ -65,7 +65,7 @@ Basel'de sabah İsviçre'de, öğleden sonra Fransa'da, akşam Almanya'da olabil
 **Atina — Beklentiler ve Gerçekler**
 Akropolis kalabalığı, Plaka sokaklarında yemek, adalar mı şehir mi ve schengen vizeyle Yunanistan nasıl planlanır.
 
-→ [Yunanistan Gezi Rehberi](/tr/seyahat/yunanistan-atina-gezi-rehberi/)
+→ Yunanistan Gezi Rehberi
 
 ---
 

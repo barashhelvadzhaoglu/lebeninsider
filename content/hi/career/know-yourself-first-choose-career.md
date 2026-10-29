@@ -1,7 +1,7 @@
 ---
 title: "पहले खुद को जानें, फिर पेशा चुनें"
 date: 2026-11-14T06:00:00+01:00
-draft: false
+draft: true
 description: "हममें से ज्यादातर लोग पहले पेशा चुनते हैं और फिर खुद को उसमें ढालने की कोशिश करते हैं। मुझे लगता है कि सही तरीका इसके बिल्कुल विपरीत है: पहले जानें कि आपको क्या पसंद है, फिर उसे अपना पेशा बनाएं।"
 translationKey: "kariyer-01-kendini-tani"
 featureimage: "img/lebeninsider-hero.webp"

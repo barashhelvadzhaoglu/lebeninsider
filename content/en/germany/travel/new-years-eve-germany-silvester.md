@@ -1,7 +1,7 @@
 ---
 title: "Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2026)"
 date: 2026-03-19
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1543498946-8f2090dc573e?w=1200&q=80"
 description: "How is Christmas and New Year celebrated in Germany? Munich Christmas markets, Christkindlmarkt, Silvester traditions and family celebration tips. German winter culture through Turkish eyes."
 tags: ["germany christmas", "munich christmas market", "christkindlmarkt", "silvester germany", "germany new year", "münchen weihnachtsmarkt", "germany christmas traditions", "munich december", "german christmas culture", "silvester münchen", "christmas market munich 2025", "germany expat christmas", "weihnachten germany", "germany winter travel", "munich winter", "germany christmas food", "glühwein", "lebkuchen", "germany family christmas", "new year germany"]

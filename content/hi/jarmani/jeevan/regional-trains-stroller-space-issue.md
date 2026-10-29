@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में क्षेत्रीय ट्रेनें: हर सीट पर प्लग, Deutschlandticket और घुमक्कड़ क्षेत्र की समस्या"
 date: 2026-11-20T06:00:00+01:00
-draft: false
+draft: true
 description: "क्षेत्रीय ट्रेनों में प्लग, मेज और शेल्फ; Deutschlandticket के साथ साल्ज़बर्ग से स्टटगार्ट तक क्षेत्रीय ट्रेनों से जाना। और वह घुमक्कड़ क्षेत्र जहाँ हर कोई बैठ जाता है।"
 translationKey: "regional-trains-stroller-space"
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"

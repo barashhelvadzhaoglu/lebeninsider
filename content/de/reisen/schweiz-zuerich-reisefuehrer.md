@@ -2,7 +2,7 @@
 translationKey: "post-zurih"
 title: "Schweiz Zürich Reiseführer | Sehenswürdigkeiten, Transport & Budget (2026)"
 date: 2024-06-10
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"
 description: "Zürich Sehenswürdigkeiten, Transport, Unterkunft und Budget-Leitfaden. Grossmünster, Bahnhofstrasse, Zürichsee und Lindt Schokoladenmuseum. Wie spart man Geld in der teuersten Stadt der Schweiz?"
 tags: ["zürich", "schweiz", "reiseführer", "sehenswürdigkeiten", "europa", "schengen", "zürich attraktionen", "zürich transport", "schweiz budget", "zürich karte", "grossmünster", "bahnhofstrasse", "lindt museum", "uetliberg", "zürich unterkunft", "schweiz essen", "zürich 2024", "schweiz urlaub", "teure europäische städte", "zürich günstig reisen"]

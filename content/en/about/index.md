@@ -51,8 +51,8 @@ This "EU Series" is designed to equip you with the knowledge to make an informed
 Travel is an integral part of the expat experience, whether it's exploring your new home country or venturing further afield. This section features detailed travel guides, with a particular focus on family-friendly adventures. From discovering charming German towns accessible with the **Deutschlandticket**, to exploring the rich history of the Balkans or the vibrant cultures of the Caucasus, I share practical tips, itinerary suggestions, and insights into what makes a destination ideal for families.
 You'll find honest assessments of accessibility – yes, that double stroller features heavily – and recommendations for making travel with children enjoyable. These guides aim to inspire your next adventure while equipping you with all the practical information you need.
 **Relevant Articles:**
-*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/)
-*   [Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)](https://lebeninsider.com/en/travel/bosnia-sarajevo-travel-guide/)
+*   Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)
+*   Bosnia Herzegovina Sarajevo Travel Guide | Visa-Free, Budget & Historic (2026)
 *   [Georgia Travel Guide: Tbilisi & Batumi | 5-Day Real Experience (2026)](https://lebeninsider.com/en/travel/georgia-tbilisi-batumi-travel-guide/)
 *   [How to Find Cheap Flights | Pegasus, Google Flights and Real Tactics](https://lebeninsider.com/en/travel/how-to-find-cheap-flights/)
 *   [How to Get a Schengen Visa (2026) | Kozmos, Appointments and Real Experiences](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/)
@@ -109,11 +109,11 @@ My experiences also extend to the logistical side of international movement, fro
 | Destination/Topic | Focus | Key Takeaway for Expats/Travelers |
 |---|---|---|
 | **Netherlands, Luxembourg, Germany** | Expat destination comparison, job markets, quality of life. | Each country offers distinct advantages; thorough research aligned with your personal and professional priorities is key. |
-| **Balkan Countries (e.g., [Bosnia Herzegovina Sarajevo](https://lebeninsider.com/en/travel/bosnia-sarajevo-travel-guide/), [Kosovo Pristina and Prizren](https://lebeninsider.com/en/travel/kosovo-pristina-prizren-travel-guide/), [Skopje North Macedonia](https://lebeninsider.com/en/travel/skopje-north-macedonia-travel-guide/))** | Visa-free travel from Turkey/Bulgaria, budget-friendly exploration, rich history. | Europe's hidden gems offer diverse cultures, deep history, and incredible value without requiring extensive visa procedures. |
-| **[Munich Day Trips with Deutschlandticket](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/)** | Family travel, budget exploration within Germany, local transport. | Germany's efficient public transport system, especially with the Deutschlandticket, makes local exploration with kids easy and affordable. |
+| **Balkan Countries (e.g., Bosnia Herzegovina Sarajevo, Kosovo Pristina and Prizren, Skopje North Macedonia)** | Visa-free travel from Turkey/Bulgaria, budget-friendly exploration, rich history. | Europe's hidden gems offer diverse cultures, deep history, and incredible value without requiring extensive visa procedures. |
+| **Munich Day Trips with Deutschlandticket** | Family travel, budget exploration within Germany, local transport. | Germany's efficient public transport system, especially with the Deutschlandticket, makes local exploration with kids easy and affordable. |
 | **[Finding Cheap Flights](https://lebeninsider.com/en/travel/how-to-find-cheap-flights/)** | Travel hacking strategies, utilizing specific search engines and tactics. | Strategic planning, flexibility with dates, and leveraging tools like Google Flights can significantly reduce international travel costs. |
 | **[Schengen Visa Application](https://lebeninsider.com/en/travel/how-to-get-schengen-visa/)** | Bureaucratic navigation, meticulous documentation, appointment challenges. | Patience, detailed preparation, and understanding country-specific application procedures are crucial for successful visa applications. |
-| **Switzerland (e.g., [Basel](https://lebeninsider.com/en/travel/switzerland-basel-3-countries-guide/), [Zurich](https://lebeninsider.com/en/travel/switzerland-zurich-travel-guide/))** | City exploration, multi-country experience, budget considerations. | Switzerland offers breathtaking landscapes and efficient cities, but requires careful budget planning and smart transport choices. |
+| **Switzerland (e.g., Basel, Zurich)** | City exploration, multi-country experience, budget considerations. | Switzerland offers breathtaking landscapes and efficient cities, but requires careful budget planning and smart transport choices. |
 
 ## Our Experience
 

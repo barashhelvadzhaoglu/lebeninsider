@@ -2,7 +2,7 @@
 translationKey: "post-saraybosna"
 title: "Guía de Viaje a Sarajevo, Bosnia y Herzegovina | Sin Visa, Barato e Histórico (2026)"
 date: 2024-05-15
-draft: false
+draft: true
 featureimage: "img/travel/bosna-hersek-saraybosna-gezi-rehberi.webp"
 description: "Guía de viaje de Sarajevo: entrada sin visa, Baščaršija, Puente de Mostar, Puente Latino y consejos de presupuesto. Huellas otomanas e historia de guerra entrelazadas. Guía completa para viajeros turcos."
 tags: ["sarajevo", "bosnia y herzegovina", "guia de viaje", "sin visa", "balcanes", "mostar", "lugares para visitar en sarajevo", "vacaciones baratas en bosnia", "tour por los balcanes", "transporte sarajevo", "baščaršija", "puente latino", "excursion de un dia mostar", "comida y bebida bosnia", "alojamiento bosnia", "ruta de viaje balcanes", "pasaporte turco balcanes", "vacaciones economicas bosnia", "sarajevo 2024", "vacaciones baratas europa"]

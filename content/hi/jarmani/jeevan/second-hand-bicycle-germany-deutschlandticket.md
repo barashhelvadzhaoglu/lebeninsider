@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में हमारी सेकेंड-हैंड साइकिल का रोमांच: Deutschlandticket के साथ सस्ती साइकिल की तलाश"
 date: 2026-05-07T08:00:00+01:00
-draft: false
+draft: true
 description: "जर्मनी में सेकेंड-हैंड साइकिल खरीदने के टिप्स, Deutschlandticket के साथ अंतर-शहरी सस्ती साइकिल की तलाश, और चोरी के खिलाफ बरती जाने वाली सावधानियाँ।"
 translationKey: "ikinci-el-bisiklet-almanya-deutschlandticket"
 featureimage: "img/lebeninsider-hero.webp"

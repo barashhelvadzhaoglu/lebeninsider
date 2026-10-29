@@ -1,7 +1,7 @@
 ---
 title: "Celebraciones de Año Nuevo en Alemania | Silvester, Fuegos Artificiales y Año Nuevo en Múnich (2026)"
 date: 2026-03-19
-draft: false
+draft: true
 featureimage: "img/travel/almanyada-yilbasi-kutlamalari.webp"
 description: "¿Cómo se celebra el Año Nuevo en Alemania? La tradición de Silvester, la libertad de los fuegos artificiales, lugares para celebrar el Año Nuevo en Múnich y el Año Nuevo con niños. La primera experiencia de Silvester desde la perspectiva de un expat turco."
 tags: ["año nuevo alemania", "silvester alemania", "año nuevo munich", "alemania año nuevo", "silvester munchen", "fuegos artificiales alemania", "celebracion año nuevo alemania", "munchen silvester", "año nuevo expat alemania", "tradiciones silvester", "alemania 31 diciembre", "nuevo año alemania", "bleigiessen", "raclette silvester", "año nuevo alemania 2025", "lugares año nuevo munich", "cultura alemania", "experiencia expat alemania", "silvester feuerwerk", "año nuevo con niños alemania"]

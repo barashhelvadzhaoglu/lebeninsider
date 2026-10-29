@@ -2,7 +2,7 @@
 translationKey: "post-pristine"
 title: "Guía de Viaje a Kosovo | Pristina y Prizren | Ruta Balcánica Sin Visado (2026)"
 date: 2024-04-10
-draft: false
+draft: true
 featureimage: "img/travel/kosova-pristine-prizren-gezi-rehberi.webp"
 description: "Guía de viaje a Kosovo: lugares para visitar en Pristina y Prizren, entrada sin visado, transporte y presupuesto. Uno de los países menos explorados de los Balcanes. Guía completa para viajeros turcos."
 tags: ["kosovo", "pristina", "prizren", "guía de viaje", "sin visado", "balcanes", "qué ver en kosovo", "casco antiguo de prizren", "newborn pristina", "transporte kosovo", "presupuesto kosovo", "tour balcánico", "alojamiento kosovo", "pasaporte turco kosovo", "comida y bebida kosovo", "ruta de viaje balcánica", "kosovo 2024", "vacaciones baratas en europa", "países balcánicos sin visado", "avenida bill clinton pristina"]

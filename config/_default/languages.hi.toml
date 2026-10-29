@@ -4,6 +4,7 @@ weight = 5
 title = "LebenInsider"
 
 [params]
+  robots = "noindex, follow"   # AdSense incelemesi: makine cevirisi, simdilik indekslenmesin
   homeTitle = "LebenInsider – जर्मनी में जीवन, यात्रा और करियर"
   displayName = "HI"
   isoCode = "hi"
@@ -17,6 +18,8 @@ title = "LebenInsider"
   dateFormat = "2 January 2006"
   description = "असली यात्राएं, असली गलतियां, असली अनुभव।"
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "म्यूनिख में रहने वाला एक तुर्की परिवार, जो जर्मनी में जीवन और करियर के अपने अनुभव साझा करता है। लेख एआई की मदद से संपादित किए जाते हैं। [हमारे बारे में](/hi/hamare-bare-mein/)"
 
 [params.homepage]
   showRecent = true

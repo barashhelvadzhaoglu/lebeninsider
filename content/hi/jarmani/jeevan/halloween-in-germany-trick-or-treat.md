@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में हैलोवीन (Halloween): क्या बच्चे दरवाज़ा खटखटाते हैं, और अगले दिन सब कुछ बंद क्यों रहता है?"
 date: 2026-10-25T00:44:40+02:00
-draft: false
+draft: true
 description: "जर्मनी में हैलोवीन कैसे मनाया जाता है? \"Süßes oder Saures\", कॉस्ट्यूम, कद्दू और बवेरिया में 1 नवंबर Allerheiligen की छुट्टी। म्यूनिख में रहने वाले परिवार के लिए व्यावहारिक जानकारी।"
 translationKey: "halloween-germany"
 featureimage: "img/living/social.webp"

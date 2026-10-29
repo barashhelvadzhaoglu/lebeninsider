@@ -50,3 +50,25 @@
   name = "करियर"
   pageRef = "career"
   weight = 4
+
+# --- Footer ---
+[[footer]]
+  name = "हमारे बारे में"
+  pageRef = "hamare-bare-mein"
+  weight = 1
+
+[[footer]]
+  name = "संपर्क"
+  pageRef = "sampark"
+  weight = 2
+
+[[footer]]
+  name = "Privacy"
+  url = "/en/privacy-policy/"
+  weight = 3
+
+[[footer]]
+  name = "Impressum"
+  url = "/de/impressum/"
+  weight = 4
+

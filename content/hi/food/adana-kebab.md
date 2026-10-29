@@ -1,7 +1,7 @@
 ---
 title: "Adana Kebap: Lezzetin Başkenti Adana'dan Sofranıza Bir Yolculuk"
 date: 2026-05-22T08:00:00+01:00
-draft: false
+draft: true
 description: "Adana Kebap'ın sırlarını keşfedin! Tarihi, yapılışı, en iyi restoranlar ve evde hazırlama ipuçları. Türkiye'nin lezzet durağı Adana'dan sofranıza bir şölen."
 translationKey: "adana-kebap"
 featureimage: "img/lebeninsider-hero.webp"

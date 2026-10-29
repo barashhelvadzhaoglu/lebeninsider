@@ -1,7 +1,7 @@
 ---
 title: "Deutschlandticket ile Münih Çevresinde Gezi | Çocukla Bavyera Rotaları (2026)"
 date: 2026-03-18
-draft: false
+draft: true
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 description: "Deutschlandticket ile Münih'ten gidilen en iyi günübirlik rotalar. Neuschwanstein, Chiemsee, Augsburg, Dachau. Bebek arabasıyla ve çocuklarla gezi ipuçları. 2025 güncel fiyatlar."
 tags: ["deutschlandticket", "münih gezi", "bavyera rotaları", "münchen tagesausflug", "neuschwanstein", "chiemsee", "augsburg", "deutschlandticket rotaları", "münchen çevresi", "çocukla gezi münih", "bebek arabası gezi almanya", "münchen ausflug", "almanya günübirlik gezi", "deutschlandticket 2025", "münih 2025", "bavyera gezi", "münchen s-bahn gezi", "almanya tren gezi", "ucuz bavyera gezi", "münih aile gezisi"]

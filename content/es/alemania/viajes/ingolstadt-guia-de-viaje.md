@@ -1,7 +1,7 @@
 ---
 title: "Guía de viaje a Ingolstadt | A 1 hora de Múnich en la orilla del Danubio (2026)"
 date: 2026-03-26
-draft: false
+draft: true
 featureimage: "img/travel/ingolstadt-gezi-rehberi.webp"
 description: "Guía de viaje a Ingolstadt: Altstadt, Neues Schloss, orilla del Danubio, Liebfrauenmünster. El rostro histórico de la ciudad de Audi. A 1 hora de Múnich, con el Deutschlandticket. 2025."
 tags: ["ingolstadt", "munich ingolstadt", "ingolstadt travel", "ingolstadt old town", "ingolstadt danube", "ingolstadt new palace", "deutschlandticket ingolstadt", "audi ingolstadt", "bavarian city", "ingolstadt 2025", "ingolstadt transport", "places to visit in ingolstadt", "danube river", "ingolstadt history", "ingolstadt cathedral", "bavaria travel", "ingolstadt army museum", "ingolstadt budget", "ingolstadt stroller", "danube ingolstadt"]

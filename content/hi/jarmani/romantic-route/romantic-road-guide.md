@@ -1,7 +1,7 @@
 ---
 title: "रोमांटिक रोड गाइड | Deutschlandticket और प्रैम के साथ बवेरिया का सबसे खूबसूरत रूट (2026)"
 date: 2026-11-25T06:00:00+01:00
-draft: false
+draft: true
 featureimage: "img/travel/augsburg-gezi-rehberi.webp"
 description: "रोमांटिक रोड क्या है और इस यात्रा को कैसे करें? Deutschlandticket, 2 बच्चों और एक प्रैम के साथ म्यूनिख से। ऑग्सबर्ग, फ्यूसेन, नॉयश्वानश्टाइन, मेमिंगन, लिंडाउ — वास्तविक यात्राएं और ईमानदार नोट्स।"
 translationKey: "romantic-road-guide"

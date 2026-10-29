@@ -50,3 +50,25 @@
   name = "المسيرة المهنية"
   pageRef = "career"
   weight = 4
+
+# --- Footer ---
+[[footer]]
+  name = "من نحن"
+  pageRef = "man-nahnu"
+  weight = 1
+
+[[footer]]
+  name = "اتصل بنا"
+  pageRef = "ittasal"
+  weight = 2
+
+[[footer]]
+  name = "Privacy"
+  url = "/en/privacy-policy/"
+  weight = 3
+
+[[footer]]
+  name = "Impressum"
+  url = "/de/impressum/"
+  weight = 4
+

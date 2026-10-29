@@ -2,7 +2,7 @@
 translationKey: "post-zurih"
 title: "Guía de Viaje a Zúrich, Suiza | Lugares para Visitar, Transporte y Presupuesto (2026)"
 date: 2024-06-10
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"
 description: "Guía de Zúrich: lugares para visitar, transporte, alojamiento y presupuesto. Grossmünster, Bahnhofstrasse, Lago de Zúrich y Museo del Chocolate Lindt. ¿Cómo ahorrar en la ciudad más cara de Suiza?"
 tags: ["zúrich", "suiza", "guía de viaje", "lugares para visitar", "europa", "schengen", "lugares para visitar en zúrich", "transporte zúrich", "presupuesto suiza", "zürich card", "grossmünster", "bahnhofstrasse", "museo lindt", "uetliberg", "alojamiento zúrich", "comida y bebida suiza", "zúrich 2024", "vacaciones suiza", "ciudades caras europa", "viajar barato zúrich"]

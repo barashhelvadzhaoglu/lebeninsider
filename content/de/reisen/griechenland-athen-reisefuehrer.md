@@ -2,7 +2,7 @@
 translationKey: "post-atina"
 title: "Griechenland Reiseführer | Athen, Inseln und praktische Tipps (2026)"
 date: 2024-07-01
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1516483642785-215a7295119c?w=1200&q=80"
 description: "Griechenland Reiseführer: Athen Akropolis, Santorini, Mykonos und Budget-Tipps. Einreise mit Schengen-Visum. Griechische Küche, Transport und Unterkunft — umfassender Leitfaden."
 tags: ["griechenland", "athen", "santorini", "reiseführer", "schengen", "mittelmeer", "griechische inseln", "athen sehenswürdigkeiten", "akropolis", "plaka", "monastiraki", "griechische inseln", "santorini mykonos", "griechenland budget", "athen transport", "griechenland unterkunft", "griechisches essen", "griechenland schengen visum", "athen 2024", "ägäische inseln", "athen 3 tage programm"]

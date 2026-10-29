@@ -1,7 +1,7 @@
 ---
 title: "सेंट मार्टिन और लालटेन जुलूस (Laternenumzug): जर्मनी में बच्चों की सबसे पसंदीदा नवंबर परंपरा"
 date: 2026-10-25T00:50:30+02:00
-draft: false
+draft: true
 description: "जर्मनी में 11 नवंबर को मनाया जाने वाला सेंट मार्टिन क्या है? किंडरगार्टन और स्कूलों में लालटेन जुलूस, Laterne गीत, लालटेन बनाना और Martinsgans। जर्मनी में Kita जाने वाले बच्चों के परिवारों के लिए गाइड।"
 translationKey: "st-martin-laternenumzug"
 featureimage: "img/living/kita.webp"

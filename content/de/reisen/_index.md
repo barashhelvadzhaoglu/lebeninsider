@@ -18,17 +18,17 @@ Keine "Must-see"-Listen, keine Hochglanzhighlights. Stattdessen: warum dieses Re
 **Skopje — Nordmazedoniens unterschätzte Hauptstadt**
 Visumfrei, günstig und überraschend interessant. Die Skopje-2014-Statuen, der Alte Basar und der Matka-Canyon — aber lohnt sich die Reise wirklich?
 
-→ [Skopje Reiseführer](/de/reisen/skopje-nordmazedonien-reisefuehrer/)
+→ Skopje Reiseführer
 
 **Kosovo — Pristina und Prizren**
 Europas jüngstes Land, eines der am wenigsten besuchten auf dem Balkan. Vom Clinton Boulevard zu Prizrens Kopfsteinpflasterstraßen. Visumfrei für türkische Reisepässe.
 
-→ [Kosovo Reiseführer](/de/reisen/kosovo-pristina-prizren-reisefuehrer/)
+→ Kosovo Reiseführer
 
 **Bosnien — Eine Woche in Sarajevo**
 Eine Stadt, die auf einigen der schwersten Geschichtsschichten Europas gebaut wurde. Die Baščaršija, die Lateinerbrücke, ein Tagesausflug nach Mostar und die echten Kosten.
 
-→ [Bosnien & Sarajevo Reiseführer](/de/reisen/bosnien-sarajevo-reisefuehrer/)
+→ Bosnien & Sarajevo Reiseführer
 
 ---
 
@@ -51,12 +51,12 @@ Jenseits des Hauptführers — versteckte Viertel, lokale Anlaufstellen und 15 D
 **Zürich — Europas teuerste Stadt mit kleinem Budget**
 Wie besucht man Zürich, ohne ein Vermögen auszugeben? Grossmünster, Bahnhofstrasse, das Lindt-Museum und ob die Zürich-Card wirklich lohnenswert ist.
 
-→ [Zürich Reiseführer](/de/reisen/schweiz-zuerich-reisefuehrer/)
+→ Zürich Reiseführer
 
 **Basel — Drei Länder von einer Stadt aus**
 In Basel kann man morgens in der Schweiz frühstücken, mittags in Frankreich essen und abends in Deutschland zu Abend essen. Das Dreiländereck, der Rhein und wie man den Tag plant.
 
-→ [Basel Reiseführer](/de/reisen/schweiz-basel-3-laender-reisefuehrer/)
+→ Basel Reiseführer
 
 ---
 
@@ -65,7 +65,7 @@ In Basel kann man morgens in der Schweiz frühstücken, mittags in Frankreich es
 **Athen — Erwartungen und Realität**
 Die Akropolis-Massen, Essen in der Plaka, Inseln versus Stadt, und wie man eine Reise aus Deutschland mit Schengen-Visum plant.
 
-→ [Griechenland & Athen Reiseführer](/de/reisen/griechenland-athen-reisefuehrer/)
+→ Griechenland & Athen Reiseführer
 
 ---
 

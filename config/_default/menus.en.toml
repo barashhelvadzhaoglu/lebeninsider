@@ -54,3 +54,25 @@
   name = "Career"
   pageRef = "career"
   weight = 4
+
+# --- Footer ---
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 1
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 2
+
+[[footer]]
+  name = "Privacy"
+  url = "/en/privacy-policy/"
+  weight = 3
+
+[[footer]]
+  name = "Legal notice"
+  url = "/en/legal-notice/"
+  weight = 4
+

@@ -1,7 +1,7 @@
 ---
 title: "Weihnachten und Silvester in Deutschland | Münchner Weihnachtsmärkte (2026)"
 date: 2026-03-19
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1543498946-8f2090dc573e?w=1200&q=80"
 description: "Wie wird Weihnachten und Silvester in Deutschland gefeiert? Münchner Weihnachtsmärkte, Christkindlmarkt, Silvester-Traditionen und Tipps für Familienfeiern. Deutsche Winterkultur aus Ausländer-Perspektive."
 tags: ["deutschland weihnachten", "münchen weihnachtsmarkt", "christkindlmarkt", "silvester deutschland", "deutschland neujahr", "münchen weihnachtsmarkt", "deutschland weihnachtstraditionen", "münchen dezember", "deutsche weihnachtskultur", "silvester münchen", "weihnachtsmarkt münchen 2025", "deutschland expat weihnachten", "weihnachten deutschland", "deutschland winterreise", "münchen winter", "deutschland weihnachtsessen", "glühwein", "lebkuchen", "deutschland familie weihnachten", "neujahr deutschland"]

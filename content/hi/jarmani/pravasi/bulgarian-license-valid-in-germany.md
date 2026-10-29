@@ -1,7 +1,7 @@
 ---
 title: "क्या बुल्गारियाई ड्राइविंग लाइसेंस के साथ जर्मनी में गाड़ी चलाना संभव है? | TR→BG लाइसेंस रूपांतरण की सच्चाई (2026)"
 date: 2026-03-15
-draft: false
+draft: true
 images: ["img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"]
 featureimage: "img/bulgarehliyet/bulgar-ehliyeti-almanya.webp"
 description: "क्या तुर्की ड्राइविंग लाइसेंस को बुल्गारियाई लाइसेंस में बदलना जर्मनी में काम करता है? KAT केंद्र, TR कोड, यूरोपीय संघ का निर्देश और व्यक्तिगत अनुभव। बुल्गारियाई नागरिकों के लिए स्पष्ट उत्तर।"

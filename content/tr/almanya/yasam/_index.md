@@ -18,4 +18,8 @@ Bir ülke diğerinden iyi ya da kötü değil; sadece farklı. Önce kendi krite
 - **Ulaşım:** Deutschlandticket, bölgesel trenler, bisiklet ve bebek arabasıyla şehir.
 - **Kültür:** Bavyera evleri, festivaller, Almanlar hakkındaki gözlemlerimiz.
 
-Yazıların altındaki listeden en yenilerine ulaşabilirsiniz.
+Bu bölümdeki yazılar Almanya'ya taşınmayı düşünenler, yeni gelenler ve burada çocuk büyüten aileler için. Resmi bilgileri kopyalamak yerine, bir şeyi gerçekten yaşarken neyle karşılaştığımızı anlatıyoruz: hangi gün marketin kapalı olduğunu, ikinci el eşyayla bir evin nasıl kurulduğunu, trende bebek arabasını nereye koyacağınızı.
+
+Başlamak için öneriler: [Türkiye mi Almanya mı?](/tr/almanya/yasam/turkiye-mi-almanya-mi-karsilastirmadan-once/) · [Pazar günleri ve resmi tatiller](/tr/almanya/yasam/almanyada-pazar-gunu-ve-resmi-tatiller/) · [Münih Noel pazarları](/tr/almanya/yasam/munih-noel-pazarlari-2026/)
+
+Yazıların tamamı aşağıdaki listede, en yenisi en üstte.

@@ -2,7 +2,7 @@
 translationKey: "post-atina"
 title: "Guía de Viaje a Grecia | Atenas, Islas y Consejos Prácticos (2026)"
 date: 2024-07-01
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1516483642785-215a7295119c?w=1200&q=80"
 description: "Guía de viaje a Grecia: Acrópolis de Atenas, Santorini, Mykonos y consejos de presupuesto. Entrada con visa Schengen. Gastronomía griega, transporte y alojamiento — una guía completa."
 tags: ["grecia", "atenas", "santorini", "guia de viaje", "schengen", "mediterraneo", "islas", "lugares que visitar en atenas", "acropolis", "plaka", "monastiraki", "islas griegas", "santorini mykonos", "presupuesto grecia", "transporte atenas", "alojamiento grecia", "comida griega", "visa schengen grecia", "atenas 2024", "islas del egeo", "itinerario 3 dias atenas"]

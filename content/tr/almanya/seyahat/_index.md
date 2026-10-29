@@ -18,27 +18,27 @@ Tüm bu gezileri **Deutschlandticket** ile, **1 ve 5 yaşında iki çocukla** ve
 **Regensburg — UNESCO Şehri, Tuna Kıyısında**
 Münih'ten 1,5 saat. Tarihi Altstadt, taş köprü, akıntılı Tuna ve beklenmedik derecede zengin bir şehir dokusu.
 
-→ [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+→ Regensburg Gezi Rehberi
 
 **Salzburg — Mozart'ın Şehri, Avusturya Sınırında**
 Münih'ten 1,5 saat. Teknik olarak Avusturya ama Deutschlandticket Salzburg'a kadar geçerli. Hohensalzburg Kalesi, Getreidegasse ve Salzach Nehri.
 
-→ [Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)
+→ Salzburg Gezi Rehberi
 
 **Ingolstadt — Tuna Kıyısında Sürpriz Bir Şehir**
 Münih'ten 1 saat. Audi fabrikası ve müzesi, ortaçağ surları, sakin bir Altstadt. Kalabalıklardan uzak, özgün bir Bavyera deneyimi.
 
-→ [Ingolstadt Gezi Rehberi](/tr/almanya/seyahat/ingolstadt-gezi-rehberi/)
+→ Ingolstadt Gezi Rehberi
 
 **Almanya'da Yılbaşı (Silvester)**
 Münih'te Silvester nasıl kutlanır? Havai fişek özgürlüğü, parklar, meydanlar ve çocuklarla yılbaşı gecesi.
 
-→ [Almanya'da Yılbaşı Kutlamaları](/tr/almanya/seyahat/almanyada-yilbasi-kutlamalari/)
+→ Almanya'da Yılbaşı Kutlamaları
 
 **Deutschlandticket ile Münih Çevresinde Gezi**
 Tek bir rehber yazısında tüm tablo: hangi şehirler kaç dakikada, hangileri değer, hangileri hayal kırıklığı yaratır?
 
-→ [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+→ Deutschlandticket ile Münih Çevresinde Gezi
 
 ---
 

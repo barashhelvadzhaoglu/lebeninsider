@@ -1,7 +1,7 @@
 ---
 title: "एक ही पेशे का मिथक: आप जीवन भर में एक से अधिक पेशे अपना सकते हैं"
 date: 2026-11-07T06:00:00+01:00
-draft: false
+draft: true
 description: "हमें सिर्फ एक पेशा चुनकर जीवन भर वही करने की ज़रूरत नहीं है। हम एक साथ कई काम कर सकते हैं और जीवन भर में कई पेशे सीख सकते हैं।"
 translationKey: "kariyer-06-tek-meslek"
 featureimage: "img/lebeninsider-hero.webp"

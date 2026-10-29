@@ -1,7 +1,7 @@
 ---
 title: "करियर का अनदेखा पहलू: वित्तीय साक्षरता"
 date: 2026-11-09T06:00:00+01:00
-draft: false
+draft: true
 description: "क्रिप्टो ट्रेडिंग नहीं: निवेश के साधन कैसे काम करते हैं यह समझना और कम उम्र में नियमित बचत करना। करियर चुनने जितना ही महत्वपूर्ण, लेकिन तुर्की में अक्सर अनदेखा किया जाने वाला विषय।"
 translationKey: "kariyer-07-finansal-okuryazarlik"
 featureimage: "img/lebeninsider-hero.webp"

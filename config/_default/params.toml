@@ -72,8 +72,8 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = false
-  # showAuthorBottom = false
+  showAuthor = true
+  showAuthorBottom = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -172,4 +172,13 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   # userId = ""
 
 [advertisement]
-  # adsense = ""
+  adsense = "ca-pub-4697582628476361"
+
+# Impressum / Datenschutz icin iletisim bilgileri (shortcode: legal-contact)
+# Doldurulunca content/*/impressum, datenschutz vb. sayfalarda draft: false yapilacak.
+[legal]
+  name = "Barash Helvadzhaoglu"
+  street = "Willibaldstraße 132"
+  city = "80689 München"
+  country = "Deutschland"
+  email = "info@lebeninsider.com"

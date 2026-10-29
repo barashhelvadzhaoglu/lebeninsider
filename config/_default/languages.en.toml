@@ -17,6 +17,8 @@ title = "LebenInsider"
   dateFormat = "January 2, 2006"
   description = "Life in Germany: everyday life in Munich, Turkey vs Germany comparisons, travel guides and building an IT career in Germany. First-hand experiences."
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "A Turkish family living in Munich, sharing life in Germany and career experience first-hand. Posts are edited with AI assistance. [About](/en/about/)"
 
 [params.homepage]
   showRecent = true

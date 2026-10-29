@@ -2,7 +2,7 @@
 translationKey: "post-basel"
 title: "Schweiz Basel Reiseführer | Eine Stadt, Drei Länder: Schweiz, Frankreich, Deutschland (2026)"
 date: 2024-06-20
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1505242844917-539069d31d0d?w=1200&q=80"
 description: "Basel Reiseführer: Rhein, Marktplatz, Münster und das Dreiländereck. Wie besucht man Schweiz, Frankreich und Deutschland auf einer Reise? Transport, Budget und praktische Tipps."
 tags: ["basel", "schweiz", "frankreich", "deutschland", "reiseführer", "schengen", "3 länder", "basel sehenswürdigkeiten", "dreiländereck", "elsass", "schwarzwald", "basel rhein", "marktplatz basel", "basel transport", "schweiz frankreich deutschland reise", "basel unterkunft", "basel budget", "basel 2024", "europa mehrländer reise", "tagesausflug frankreich deutschland"]

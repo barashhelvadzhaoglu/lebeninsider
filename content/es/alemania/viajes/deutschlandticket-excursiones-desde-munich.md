@@ -1,7 +1,7 @@
 ---
 title: "Viajar por los alrededores de Múnich con el Deutschlandticket | Rutas por Baviera con Niños (2026)"
 date: 2026-03-18
-draft: false
+draft: true
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 description: "Las mejores rutas de un día desde Múnich con el Deutschlandticket. Neuschwanstein, Chiemsee, Augsburgo, Dachau. Consejos de viaje con carrito de bebé y niños. Precios actualizados 2025."
 tags: ["deutschlandticket", "viaje munich", "rutas baviera", "münchen tagesausflug", "neuschwanstein", "chiemsee", "augsburgo", "rutas deutschlandticket", "alrededores munich", "viajar con niños munich", "viajar con carrito alemania", "münchen ausflug", "viajes de un día alemania", "deutschlandticket 2025", "munich 2025", "viaje baviera", "viaje munich s-bahn", "viaje tren alemania", "viajes baratos baviera", "viaje familiar munich"]

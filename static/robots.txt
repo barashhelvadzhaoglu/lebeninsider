@@ -7,6 +7,9 @@ Allow: /
 User-agent: Googlebot-Image
 Allow: /
 
+User-agent: Mediapartners-Google
+Allow: /
+
 User-agent: GPTBot
 Disallow: /
 
@@ -28,4 +31,3 @@ Sitemap: https://lebeninsider.com/en/sitemap.xml
 Sitemap: https://lebeninsider.com/de/sitemap.xml
 Sitemap: https://lebeninsider.com/es/sitemap.xml
 Sitemap: https://lebeninsider.com/ar/sitemap.xml
-Sitemap: https://lebeninsider.com/hi/sitemap.xml

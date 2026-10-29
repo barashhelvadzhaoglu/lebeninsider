@@ -1,7 +1,7 @@
 ---
 title: "आर्टिफिशियल इंटेलिजेंस (AI) से करियर रिसर्च: कदम-दर-कदम योजना"
 date: 2026-10-22T06:00:00+02:00
-draft: false
+draft: true
 description: "आर्टिफिशियल इंटेलिजेंस टूल्स के डीप रिसर्च फीचर का उपयोग करके अगले दशक के पेशों पर शोध करने के लिए एक दिन-प्रतिदिन की योजना।"
 translationKey: "kariyer-04-yapay-zeka-arastirma"
 featureimage: "img/lebeninsider-hero.webp"

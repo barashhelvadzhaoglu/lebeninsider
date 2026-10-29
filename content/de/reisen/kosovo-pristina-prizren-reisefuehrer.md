@@ -2,7 +2,7 @@
 translationKey: "post-pristine"
 title: "Kosovo Reiseführer | Pristina und Prizren | Visumfreie Balkanroute (2026)"
 date: 2024-04-10
-draft: false
+draft: true
 featureimage: "img/travel/kosovo-pristina-prizren-reisefuehrer.webp"
 description: "Kosovo Reiseführer: Pristina und Prizren Sehenswürdigkeiten, visumfreie Einreise, Transport und Budget. Eines der am wenigsten erkundeten Länder des Balkans. Umfassender Reiseführer."
 tags: ["kosovo", "pristina", "prizren", "reiseführer", "visumfrei", "balkan", "kosovo sehenswürdigkeiten", "prizren altstadt", "pristina newborn denkmal", "kosovo transport", "kosovo budget", "balkanreise", "kosovo unterkunft", "kosovo essen", "balkan reiseroute", "kosovo 2024", "günstigstes europa reisen", "visumfreie balkanländer", "bill clinton boulevard pristina", "osmanisches erbe balkan"]

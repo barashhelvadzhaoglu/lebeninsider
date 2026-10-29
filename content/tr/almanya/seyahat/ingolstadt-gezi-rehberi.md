@@ -1,7 +1,7 @@
 ---
 title: "Ingolstadt Gezi Rehberi | Münih'ten 1 Saatte Tuna Kıyısı (2026)"
 date: 2026-03-26
-draft: false
+draft: true
 featureimage: "img/travel/ingolstadt-gezi-rehberi.webp"
 description: "Ingolstadt gezi rehberi: Altstadt, Neues Schloss, Tuna Nehri kıyısı, Liebfrauenmünster. Audi şehrinin tarihi yüzü. Münih'ten 1 saatte, Deutschlandticket ile. 2025."
 tags: ["ingolstadt", "münih ingolstadt", "ingolstadt gezi", "ingolstadt altstadt", "ingolstadt tuna", "ingolstadt neues schloss", "deutschlandticket ingolstadt", "audi ingolstadt", "bavyera şehir", "ingolstadt 2025", "ingolstadt ulaşım", "ingolstadt gezilecek yerler", "tuna nehri", "ingolstadt tarihi", "ingolstadt liebfrauenmünster", "bavyera gezi", "ingolstadt bayerisches armeemuseum", "ingolstadt bütçe", "ingolstadt bebek arabası", "danube ingolstadt"]

@@ -1,7 +1,7 @@
 ---
 title: "यूरोप में एलपीजी गाइड | असंगत नोजल, कीमत का अंतर और होंडा सिविक अनुभव (2026)"
 date: 2026-04-25T08:00:00+01:00
-draft: false
+draft: true
 description: "तुर्की में निर्मित एलपीजी वाहन से यूरोप की यात्रा कर रहे हैं, तो आपको यह जानने की जरूरत है: DISH, ACME, Bayonet नोजल प्रकार, देशों के अनुसार कीमतें और होंडा सिविक का व्यक्तिगत अनुभव।"
 translationKey: "avrupa-lpg-rehberi"
 featureimage: "img/lebeninsider-hero.webp"

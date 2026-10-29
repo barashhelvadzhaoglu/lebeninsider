@@ -15,9 +15,9 @@ translationKey: "travel-list"
 
 ### البلقان
 
-- [دليل سكوبيه — مقدونيا الشمالية](/ar/safar/skopje-north-macedonia-travel-guide/)
-- [دليل كوسوفو — بريشتينا وبريزرن](/ar/safar/kosovo-pristina-prizren-travel-guide/)
-- [دليل البوسنة وسراييفو](/ar/safar/bosnia-sarajevo-travel-guide/)
+- دليل سكوبيه — مقدونيا الشمالية
+- دليل كوسوفو — بريشتينا وبريزرن
+- دليل البوسنة وسراييفو
 
 ---
 
@@ -30,14 +30,14 @@ translationKey: "travel-list"
 
 ### سويسرا
 
-- [دليل زيورخ](/ar/safar/switzerland-zurich-travel-guide/)
-- [دليل بازل — ثلاث دول من مدينة واحدة](/ar/safar/switzerland-basel-3-countries-guide/)
+- دليل زيورخ
+- دليل بازل — ثلاث دول من مدينة واحدة
 
 ---
 
 ### اليونان
 
-- [دليل اليونان وأثينا](/ar/safar/greece-athens-travel-guide/)
+- دليل اليونان وأثينا
 
 ---
 

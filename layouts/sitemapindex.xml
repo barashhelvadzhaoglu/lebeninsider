@@ -1,0 +1,9 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- /* HI simdilik taslak/noindex: sitemap indeksine eklenmiyor */ -}}
+  {{ range . }}{{ if not (in (slice "hi") .Language.Lang) }}
+  <sitemap>
+    <loc>{{ .SitemapAbsURL }}</loc>
+  </sitemap>
+  {{ end }}{{ end }}
+</sitemapindex>

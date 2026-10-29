@@ -1,7 +1,7 @@
 ---
 title: "Kleingarten: शहर से बचने के लिए शहर से बाहर शिफ्ट होने की ज़रूरत नहीं है"
 date: 2026-11-22T06:00:00+01:00
-draft: false
+draft: true
 description: "जर्मनी में Kleingarten क्या है? शहर के भीतर किराए पर मिलने वाले छोटे बगीचे, शेड, बारबेक्यू और सब्ज़ियाँ। इसकी इतनी मांग क्यों है और इसे पाना इतना मुश्किल क्यों है?"
 translationKey: "kleingarten-germany"
 featureimage: "img/living/quality-of-life.webp"

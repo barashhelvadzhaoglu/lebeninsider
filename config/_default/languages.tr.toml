@@ -17,6 +17,8 @@ title = "LebenInsider"
   dateFormat = "2 Ocak 2006"
   description = "Almanya'da yaşam: Münih'te gündelik hayat, Türkiye–Almanya karşılaştırmaları, gezi rehberleri ve Almanya'da IT kariyeri. Bizzat yaşanmış deneyimler."
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "Münih'te yaşayan bir Türk aile. Almanya'da yaşadıklarımızı ve kariyer deneyimlerimizi paylaşıyoruz; yazılar yapay zekâ desteğiyle düzenleniyor. [Hakkımda](/tr/hakkimda/)"
 
 [params.homepage]
   showRecent = true

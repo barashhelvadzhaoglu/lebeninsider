@@ -1,7 +1,7 @@
 ---
 title: "इंगोलश्टाट यात्रा गाइड | म्यूनिख से 1 घंटे में डेन्यूब के किनारे (2026)"
 date: 2026-03-26
-draft: false
+draft: true
 featureimage: "img/travel/ingolstadt-gezi-rehberi.webp"
 description: "इंगोलश्टाट यात्रा गाइड: ऑल्टश्टाट, न्यूएस श्लॉस, डेन्यूब नदी का किनारा, लीबफ्राउएनम्यूनस्टर। ऑडी शहर का ऐतिहासिक चेहरा। म्यूनिख से 1 घंटे में, Deutschlandticket के साथ। 2025।"
 tags: ["ingolstadt", "munich ingolstadt", "ingolstadt travel", "ingolstadt altstadt", "ingolstadt danube", "ingolstadt neues schloss", "deutschlandticket ingolstadt", "audi ingolstadt", "bavarian city", "ingolstadt 2025", "ingolstadt transport", "places to visit ingolstadt", "danube river", "ingolstadt history", "ingolstadt liebfrauenmuenster", "bavaria travel", "ingolstadt bayerisches armeemuseum", "ingolstadt budget", "ingolstadt stroller", "danube ingolstadt"]

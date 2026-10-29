@@ -1,7 +1,7 @@
 ---
 title: "Guía de Viaje de Ratisbona | Ciudad UNESCO | A 1.5 Horas de Múnich (2026)"
 date: 2026-03-27
-draft: false
+draft: true
 featureimage: "img/travel/regensburg-gezi-rehberi.webp"
 description: "Guía de viaje de Ratisbona: Steinerne Brücke, Catedral, Altstadt, río Danubio. Patrimonio de la Humanidad por la UNESCO. A 1.5 horas de Múnich. La ciudad medieval mejor conservada de Alemania. 2025."
 tags: ["ratisbona", "múnich ratisbona", "viaje ratisbona", "altstadt ratisbona", "steinerne brücke", "catedral ratisbona", "río danubio ratisbona", "deutschlandticket ratisbona", "ratisbona unesco", "ratisbona 2025", "baviera medieval", "lugares visitar ratisbona", "historia ratisbona", "transporte ratisbona", "puerto ratisbona", "casco antiguo ratisbona", "danubio ratisbona", "cochecito bebé ratisbona", "excursión ciudad baviera", "excursión día múnich ratisbona"]

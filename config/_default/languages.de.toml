@@ -17,6 +17,8 @@ title = "LebenInsider"
   dateFormat = "2. Januar 2006"
   description = "Echte Reisen, echte Fehler, echte Erfahrungen."
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "Eine türkische Familie in München. Wir teilen unsere Erfahrungen mit dem Leben in Deutschland und der Karriere; die Texte werden mit KI-Unterstützung redigiert. [Über uns](/de/ueber-mich/)"
 
 [params.homepage]
   showRecent = true

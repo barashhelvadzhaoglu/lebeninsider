@@ -1,7 +1,7 @@
 ---
 title: "करियर की शुरुआत में आराम या हुनर?"
 date: 2026-11-15T06:00:00+01:00
-draft: false
+draft: true
 description: "करियर की शुरुआत में अधिक आरामदायक नौकरी चुननी चाहिए, या अधिक मेहनत करके हुनर और प्रमाणपत्र जुटाने चाहिए? मेरे अपने करियर और मेरे मैनेजर की कहानी के उदाहरणों के साथ।"
 translationKey: "kariyer-08-rahatlik-yetenek"
 featureimage: "img/lebeninsider-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "جولات حول ميونيخ مع تذكرة Deutschlandticket | مسارات بافاريا مع الأطفال (2026)"
 date: 2026-03-18
-draft: false
+draft: true
 featureimage: "img/travel/deutschlandticket-munih-cevresinde-gezi.webp"
 description: "أفضل مسارات الرحلات اليومية من ميونيخ باستخدام Deutschlandticket. نويشفانشتاين، تشيمزي، أوغسبورغ، داكاو. نصائح للسفر مع عربات الأطفال والأطفال. أسعار 2025 المحدثة."
 tags: ["deutschlandticket", "رحلات ميونيخ", "مسارات بافاريا", "münchen tagesausflug", "neuschwanstein", "chiemsee", "augsburg", "مسارات deutschlandticket", "حول ميونيخ", "السفر مع الأطفال في ميونيخ", "السفر بعربات الأطفال في ألمانيا", "münchen ausflug", "رحلات يومية في ألمانيا", "deutschlandticket 2025", "ميونيخ 2025", "رحلات بافاريا", "رحلات S-Bahn في ميونيخ", "رحلات القطار في ألمانيا", "رحلات بافاريا الرخيصة", "رحلات عائلية في ميونيخ"]

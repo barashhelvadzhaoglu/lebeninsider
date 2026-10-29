@@ -18,17 +18,17 @@ No "must-see" lists, no glossy highlights. Instead: why that restaurant was a di
 **Skopje — North Macedonia's Underrated Capital**
 Visa-free, affordable and unexpectedly interesting. The Skopje 2014 statues, the Old Bazaar, and Matka Canyon — but is it actually worth the trip?
 
-→ [Skopje Travel Guide](/en/travel/skopje-north-macedonia-travel-guide/)
+→ Skopje Travel Guide
 
 **Kosovo — Pristina and Prizren**
 Europe's youngest country, one of the Balkans' least visited. From Clinton Boulevard to Prizren's cobbled streets. Visa-free for Turkish passport holders.
 
-→ [Kosovo Travel Guide](/en/travel/kosovo-pristina-prizren-travel-guide/)
+→ Kosovo Travel Guide
 
 **Bosnia — A Week in Sarajevo**
 A city built on some of history's heaviest layers. The Baščaršija, the Latin Bridge, a day trip to Mostar, and the real costs.
 
-→ [Bosnia & Sarajevo Travel Guide](/en/travel/bosnia-sarajevo-travel-guide/)
+→ Bosnia & Sarajevo Travel Guide
 
 ---
 
@@ -51,12 +51,12 @@ Beyond the main guide — hidden neighbourhoods, local spots, and 15 things abou
 **Zurich — Europe's Most Expensive City on a Budget**
 How do you visit Zurich without spending a fortune? Grossmünster, Bahnhofstrasse, the Lindt museum, and whether the Zurich Card is actually worth it.
 
-→ [Zurich Travel Guide](/en/travel/switzerland-zurich-travel-guide/)
+→ Zurich Travel Guide
 
 **Basel — Three Countries from One City**
 In Basel, you can have breakfast in Switzerland, lunch in France, and dinner in Germany. The three-country corner, the Rhine, and how to plan the day trip.
 
-→ [Basel Travel Guide](/en/travel/switzerland-basel-3-countries-guide/)
+→ Basel Travel Guide
 
 ---
 
@@ -65,7 +65,7 @@ In Basel, you can have breakfast in Switzerland, lunch in France, and dinner in 
 **Athens — Expectations vs Reality**
 The Acropolis crowds, eating in the Plaka, islands vs city, and how to plan a trip from Germany with a Schengen visa.
 
-→ [Greece & Athens Travel Guide](/en/travel/greece-athens-travel-guide/)
+→ Greece & Athens Travel Guide
 
 ---
 

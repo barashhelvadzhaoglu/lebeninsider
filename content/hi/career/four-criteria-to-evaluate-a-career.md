@@ -1,7 +1,7 @@
 ---
 title: "किसी पेशे का मूल्यांकन करने के 4 मानदंड"
 date: 2026-11-13T06:00:00+01:00
-draft: false
+draft: true
 description: "भविष्य की मांग और वेतन महत्वपूर्ण हैं, लेकिन काफी नहीं हैं। किसी पेशे को चुनने से पहले यह देखना भी ज़रूरी है कि उस क्षेत्र में काम करने वालों के दिन, हफ्ते और महीने कैसे बीतते हैं।"
 translationKey: "kariyer-03-dort-kriter"
 featureimage: "img/lebeninsider-hero.webp"

@@ -2,7 +2,7 @@
 translationKey: "post-uskup"
 title: "Guía de Viaje a Skopie | Capital de Macedonia del Norte | Sin Visado (2026)"
 date: 2024-03-20
-draft: false
+draft: true
 featureimage: "img/travel/uskup-kuzey-makedonya-gezi-rehberi.webp"
 description: "Guía de viaje a Skopie: Fortaleza de Kale, Bazar, estatuas y consejos de presupuesto. Macedonia del Norte sin visado. Guía completa sobre la ciudad más interesante y controvertida de los Balcanes."
 tags: ["skopie", "macedonia del norte", "guía de viaje", "sin visado", "balcanes", "skopje", "lugares para visitar en skopie", "skopje 2014", "cañón de matka", "bazar antiguo de skopie", "transporte macedonia del norte", "presupuesto skopie", "tour balcanes", "alojamiento macedonia del norte", "comer y beber en skopie", "ruta de viaje por los balcanes", "macedonia del norte 2024", "países balcanicos sin visado", "fortaleza de kale skopie", "vacaciones baratas en europa"]

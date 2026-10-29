@@ -2,7 +2,7 @@
 translationKey: "post-basel"
 title: "İsviçre Basel Gezi Rehberi | Tek Şehirden 3 Ülke: İsviçre, Fransa, Almanya (2026)"
 date: 2024-06-20
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1505242844917-539069d31d0d?w=1200&q=80"
 description: "Basel gezi rehberi: Ren Nehri, Marktplatz, Münster Katedrali ve 3 ülke köşesi. İsviçre, Fransa ve Almanya aynı gezide nasıl gezilir? Ulaşım, bütçe ve pratik ipuçları."
 tags: ["basel", "isviçre", "fransa", "almanya", "gezi rehberi", "schengen", "3 ülke", "basel gezilecek yerler", "3 ülke köşesi", "alsace", "schwarzwald", "basel ren nehri", "marktplatz basel", "basel ulaşım", "isviçre fransa almanya turu", "basel konaklama", "basel bütçe", "basel 2024", "avrupa çoklu ülke turu", "günübirlik fransa almanya"]

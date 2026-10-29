@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी से तुर्की तक कार-ट्रेन से एक शानदार यात्रा: तनाव-मुक्त, आरामदायक रोमांच!"
 date: 2026-05-13T08:00:00+01:00
-draft: false
+draft: true
 description: "जर्मनी से तुर्की तक कार-ट्रेन से यात्रा के लिए गाइड: आरामदायक यात्रा, लागत, बुकिंग, बच्चों के साथ यात्रा के सुझाव और सभी विवरण।"
 translationKey: "arabali-tren-ile-turkiye-yolculugu"
 featureimage: "img/lebeninsider-hero.webp"

@@ -112,7 +112,7 @@ Llegar al Castillo de Neuschwanstein es bastante fácil y hay varias opciones di
 |                  | Coche               | 20+ horas           | Combustible + Peajes         | Un viaje largo y agotador. Puede leer nuestro artículo [De Estambul a Múnich en Coche](/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/). |
 
 **¿Es Válido el Deutschlandticket?**
-Sí, el **Deutschlandticket es válido** para los viajes en tren (Regional Express) desde Múnich hasta Füssen. Esto es una opción muy económica si viaja dentro de Alemania. Los autobuses que van de Füssen al castillo suelen estar incluidos en el Deutschlandticket ya que son transporte local, pero es recomendable confirmarlo al subir. Puede encontrar más ideas de rutas consultando nuestro artículo [De Viaje por los Alrededores de Múnich con el Deutschlandticket](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/).
+Sí, el **Deutschlandticket es válido** para los viajes en tren (Regional Express) desde Múnich hasta Füssen. Esto es una opción muy económica si viaja dentro de Alemania. Los autobuses que van de Füssen al castillo suelen estar incluidos en el Deutschlandticket ya que son transporte local, pero es recomendable confirmarlo al subir. Puede encontrar más ideas de rutas consultando nuestro artículo De Viaje por los Alrededores de Múnich con el Deutschlandticket.
 
 **Transporte desde Füssen al Castillo:**
 

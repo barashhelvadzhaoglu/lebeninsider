@@ -198,7 +198,7 @@ This experience deeply enriched our understanding of Bavarian history and the ro
 If you enjoyed our journey to Neuschwanstein, you might also be interested in our other German travelogues:
 
 *   [Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein](/en/germany/romantic-route/fuessen-town-travel-guide/) (A perfect complement to a Neuschwanstein visit)
-*   [Deutschlandticket Day Trips from Munich | Bavaria with Kids](/en/germany/travel/deutschlandticket-munich-day-trips/) (Explore more of Bavaria using the cost-effective Deutschlandticket)
+*   Deutschlandticket Day Trips from Munich | Bavaria with Kids (Explore more of Bavaria using the cost-effective Deutschlandticket)
 *   [Augsburg Travel Guide | Roman City 35 Minutes from Munich](/en/germany/romantic-route/augsburg-travel-guide/) (Discover another fascinating historical city easily accessible from Munich)
 
 ## Frequently Asked Questions

@@ -55,3 +55,25 @@
   name = "Kariyer"
   pageRef = "kariyer"
   weight = 4
+
+# --- Footer ---
+[[footer]]
+  name = "Hakkımda"
+  pageRef = "hakkimda"
+  weight = 1
+
+[[footer]]
+  name = "İletişim"
+  pageRef = "iletisim"
+  weight = 2
+
+[[footer]]
+  name = "Gizlilik"
+  url = "/tr/gizlilik-politikasi/"
+  weight = 3
+
+[[footer]]
+  name = "Künye (Impressum)"
+  url = "/tr/kunye/"
+  weight = 4
+

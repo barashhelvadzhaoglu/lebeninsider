@@ -17,6 +17,8 @@ title = "LebenInsider"
   dateFormat = "2 January 2006"
   description = "Viajes reales, errores reales, experiencias reales."
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "Una familia turca que vive en Múnich y comparte su experiencia de vida en Alemania y de carrera profesional. Los textos se editan con ayuda de IA. [Sobre nosotros](/es/sobre-mi/)"
 
 [params.homepage]
   showRecent = true

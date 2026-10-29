@@ -2,7 +2,7 @@
 translationKey: "post-uskup"
 title: "Skopje Travel Guide | North Macedonia Capital | Visa-Free (2026)"
 date: 2024-03-20
-draft: false
+draft: true
 featureimage: "img/travel/skopje-north-macedonia-travel-guide.webp"
 description: "Skopje travel guide: Kale Fortress, Old Bazaar, statues and budget tips. North Macedonia visa-free. Comprehensive guide to the Balkans' most interesting and controversial city."
 tags: ["skopje", "north macedonia", "travel guide", "visa-free", "balkans", "skopje things to do", "skopje 2014", "matka canyon", "skopje old bazaar", "north macedonia transport", "skopje budget", "balkan trip", "north macedonia accommodation", "skopje food", "balkan travel route", "north macedonia 2024", "visa-free balkan countries", "skopje fortress", "cheapest europe travel", "ottoman bazaar balkans"]

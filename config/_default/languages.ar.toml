@@ -17,6 +17,8 @@ title = "LebenInsider"
   dateFormat = "2 January 2006"
   description = "رحلات حقيقية، أخطاء حقيقية، تجارب حقيقية."
   author.name = "LebenInsider"
+  author.image = "logo.png"
+  author.bio = "عائلة تركية تعيش في ميونخ، نشارك تجربتنا في الحياة في ألمانيا وفي العمل. يتم تحرير النصوص بمساعدة الذكاء الاصطناعي. [من نحن](/ar/man-nahnu/)"
 
 [params.homepage]
   showRecent = true

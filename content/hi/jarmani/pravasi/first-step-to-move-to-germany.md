@@ -1,7 +1,7 @@
 ---
 title: "अगर आप जर्मनी शिफ्ट होना चाहते हैं, तो आज ही आपको यह पहला कदम उठाना चाहिए"
 date: 2026-11-26T06:00:00+01:00
-draft: false
+draft: true
 description: "अगर आप जर्मनी में काम करना चाहते हैं, तो इंतज़ार मत कीजिए, आज ही शुरुआत करें: वीज़ा अपॉइंटमेंट का न्योता हमें लगभग एक साल बाद मिला था। Chancenkarte, LinkedIn लोकेशन और जर्मन भाषा के लिए आज आप क्या कर सकते हैं।"
 translationKey: "first-step-moving-to-germany"
 featureimage: "img/living/visa.webp"

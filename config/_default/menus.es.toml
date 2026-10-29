@@ -55,3 +55,25 @@
   name = "Carrera"
   pageRef = "carrera"
   weight = 4
+
+# --- Footer ---
+[[footer]]
+  name = "Sobre nosotros"
+  pageRef = "sobre-mi"
+  weight = 1
+
+[[footer]]
+  name = "Contacto"
+  pageRef = "contacto"
+  weight = 2
+
+[[footer]]
+  name = "Privacidad"
+  url = "/en/privacy-policy/"
+  weight = 3
+
+[[footer]]
+  name = "Aviso legal"
+  url = "/de/impressum/"
+  weight = 4
+

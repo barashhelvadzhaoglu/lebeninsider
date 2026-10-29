@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में मेरी एलर्जी कैसे गायब हो गई? तुर्की से एक प्रवासी का आश्चर्यजनक अनुभव"
 date: 2026-05-19T08:00:00+01:00
-draft: false
+draft: true
 description: "यह जर्मनी में स्थानांतरित होने के बाद मेरी पुरानी एलर्जी के चमत्कारी ढंग से गायब होने और तुर्की व जर्मनी के बीच हवा की गुणवत्ता के अंतर को दर्शाने वाली एक व्यक्तिगत ब्लॉग पोस्ट है। प्रवासियों के लिए व्यावहारिक जानकारी।"
 translationKey: "almanyada-alerji-hava-kalitesi-istanbul-karsilastirma"
 featureimage: "img/lebeninsider-hero.webp"

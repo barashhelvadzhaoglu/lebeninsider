@@ -2,7 +2,7 @@
 translationKey: "post-zurih"
 title: "Switzerland Zurich Travel Guide | Things to Do, Transport & Budget (2026)"
 date: 2024-06-10
-draft: false
+draft: true
 featureimage: "https://images.unsplash.com/photo-1517330357046-3ab5a5dd42b1?w=1200&q=80"
 description: "Zurich things to do, transportation, accommodation and budget guide. Grossmünster, Bahnhofstrasse, Lake Zurich and Lindt Chocolate Museum. How to save money in Switzerland's most expensive city?"
 tags: ["zurich", "switzerland", "travel guide", "things to do", "europe", "schengen", "zurich attractions", "zurich transport", "switzerland budget", "zurich card", "grossmünster", "bahnhofstrasse", "lindt museum", "uetliberg", "zurich accommodation", "switzerland food", "zurich 2024", "switzerland holiday", "expensive european cities", "zurich budget travel"]

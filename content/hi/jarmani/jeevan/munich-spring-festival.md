@@ -1,7 +1,7 @@
 ---
 title: "म्यूनिख वसंत महोत्सव: Theresienwiese में रंगों की छटा और ज़ायके की दावत"
 date: 2026-10-19T06:00:00+02:00
-draft: false
+draft: true
 description: "म्यूनिख वसंत महोत्सव (Frühlingsfest) के उत्साह को जानें! Theresienwiese में होने वाले इस परिवार-अनुकूल मेले के इतिहास, लज़ीज़ व्यंजनों, मनोरंजन और व्यावहारिक जानकारियों को हमने तुर्क परिवारों और प्रवासियों के लिए साझा किया है।"
 translationKey: "münih-bahar-festivali"
 featureimage: "img/lebeninsider-hero.webp"

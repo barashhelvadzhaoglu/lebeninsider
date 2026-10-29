@@ -1,7 +1,7 @@
 ---
 title: "यातायात: साइकिल, बच्चों की गाड़ी (स्ट्रोलर) और 63 यूरो का टिकट"
 date: 2026-10-27T06:00:00+01:00
-draft: false
+draft: true
 description: "Deutschlandticket के साथ महीने में 63 यूरो में पूरा सार्वजनिक परिवहन। फुटपाथ स्ट्रोलर और व्हीलचेयर को ध्यान में रखकर बनाए गए हैं, शहर में हर जगह साइकिल ट्रैक हैं।"
 translationKey: "tvg-traffic"
 featureimage: "https://images.unsplash.com/photo-1474487548417-781cb6d646b3?w=1200"

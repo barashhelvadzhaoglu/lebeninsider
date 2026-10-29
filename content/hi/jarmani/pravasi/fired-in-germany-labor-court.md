@@ -1,7 +1,7 @@
 ---
 title: "जर्मनी में नौकरी से निकाला जाना: मेरा श्रम न्यायालय का अनुभव और आपको क्या जानना चाहिए"
 date: 2026-04-19T08:00:00+01:00
-draft: false
+draft: true
 description: "जर्मनी में नौकरी से निकाले जाने पर क्या होता है? श्रम न्यायालय, मुआवज़ा, जॉबसेंटर और कानूनी बीमा — मेरा व्यक्तिगत अनुभव पूरी तरह से।"
 translationKey: "fired-in-germany-labor-court"
 featureimage: "img/living/almanyada-isten-cikarilmak-is-mahkemesi.webp"

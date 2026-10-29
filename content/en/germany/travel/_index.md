@@ -18,27 +18,27 @@ All of these trips were made with a **Deutschlandticket**, **two kids aged 1 and
 **Regensburg — UNESCO City on the Danube**
 1.5 hours from Munich. Stone bridge, old town, the Danube, and a city with more historical depth than most visitors expect.
 
-→ [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+→ Regensburg Travel Guide
 
 **Salzburg — Mozart's City, Just Across the Border**
 1.5 hours from Munich. Technically Austria, but the Deutschlandticket covers it. Hohensalzburg Fortress, Getreidegasse, the Salzach river.
 
-→ [Salzburg Travel Guide](/en/germany/travel/salzburg-day-trip-munich/)
+→ Salzburg Travel Guide
 
 **Ingolstadt — A Surprise on the Danube**
 1 hour from Munich. The Audi factory and museum, medieval walls, and a quiet Altstadt well off the tourist trail.
 
-→ [Ingolstadt Travel Guide](/en/germany/travel/ingolstadt-travel-guide/)
+→ Ingolstadt Travel Guide
 
 **New Year's Eve in Germany (Silvester)**
 How Silvester works in Munich — fireworks freedom, parks, city squares, and what it's actually like with children.
 
-→ [New Year's Eve in Germany](/en/germany/travel/new-years-eve-germany-silvester/)
+→ New Year's Eve in Germany
 
 **Deutschlandticket Day Trips from Munich**
 The full picture in one place: which towns are worth it, how far they are, and an honest take on which ones deliver.
 
-→ [Deutschlandticket Day Trips from Munich](/en/germany/travel/deutschlandticket-munich-day-trips/)
+→ Deutschlandticket Day Trips from Munich
 
 ---
 

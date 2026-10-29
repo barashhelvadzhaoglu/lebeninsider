@@ -18,27 +18,27 @@ Alle diese Ausflüge haben wir mit dem **Deutschlandticket**, **zwei Kindern im 
 **Regensburg — UNESCO-Welterbe an der Donau**
 1,5 Stunden von München. Steinerne Brücke, Altstadt, die Donau und eine Stadt mit mehr historischer Tiefe als die meisten Besucher erwarten.
 
-→ [Regensburg Reiseführer](/de/deutschland/reisen/regensburg-reisefuehrer/)
+→ Regensburg Reiseführer
 
 **Salzburg — Mozarts Stadt, direkt über der Grenze**
 1,5 Stunden von München. Technisch gesehen Österreich, aber das Deutschlandticket gilt bis Salzburg. Festung Hohensalzburg, Getreidegasse, die Salzach.
 
-→ [Salzburg Reiseführer](/de/deutschland/reisen/salzburg-reisefuehrer/)
+→ Salzburg Reiseführer
 
 **Ingolstadt — Eine Überraschung an der Donau**
 1 Stunde von München. Audi-Fabrik und -Museum, mittelalterliche Stadtmauern und eine ruhige Altstadt abseits der Touristenpfade.
 
-→ [Ingolstadt Reiseführer](/de/deutschland/reisen/ingolstadt-reisefuehrer/)
+→ Ingolstadt Reiseführer
 
 **Silvester in Deutschland**
 Wie Silvester in München wirklich läuft — Feuerwerksfreiheit, Parks, Plätze und was der Abend mit Kindern bedeutet.
 
-→ [Silvester in Deutschland](/de/deutschland/reisen/silvester-deutschland-muenchen/)
+→ Silvester in Deutschland
 
 **Deutschlandticket-Tagesausflüge ab München**
 Das große Bild auf einen Blick: Welche Städte lohnen sich, wie weit sind sie, und ein ehrliches Urteil darüber, welche enttäuschen.
 
-→ [Deutschlandticket Tagesausflüge ab München](/de/deutschland/reisen/deutschlandticket-muenchen-tagesausfluege/)
+→ Deutschlandticket Tagesausflüge ab München
 
 ---
 
