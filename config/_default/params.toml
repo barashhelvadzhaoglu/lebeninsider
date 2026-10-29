@@ -27,7 +27,7 @@ backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/lebeninsider-hero.webp"
 defaultFeaturedImage = "img/lebeninsider-hero.webp"
-defaultSocialImage = "/img/blowfish_banner.png"
+defaultSocialImage = "img/lebeninsider-hero.webp"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 

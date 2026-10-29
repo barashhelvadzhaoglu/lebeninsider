@@ -13,7 +13,7 @@
     <title>{{ $homeTitle | emojify }}</title>
     <meta name="title" content="{{ $homeTitle | emojify }}">
   {{ else }}
-    <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
+    {{ if gt (len .Title) 50 }}<title>{{ .Title | emojify }}</title>{{ else }}<title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>{{ end }}
     <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}">
   {{ end }}
 
@@ -30,7 +30,19 @@
   {{ with .Params.robots }}
     <meta name="robots" content="{{ . }}">
   {{ end }}
+  {{/* LebenInsider: etiket/kategori sayfalari ince icerik, indekslenmesin */}}
+  {{ if in (slice "taxonomy" "term") .Kind }}<meta name="robots" content="noindex, follow">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
+  {{/* LebenInsider: hreflang alternatifleri (taslak/yayinlanmamis ceviriler otomatik haric) */}}
+  {{ if .IsTranslated }}
+    <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+    {{ range .Translations }}
+      <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+    {{ end }}
+    {{ range .AllTranslations }}{{ if eq .Language.Lang "tr" }}
+      <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+    {{ end }}{{ end }}
+  {{ end }}
   {{ range .AlternativeOutputFormats }}
     {{ printf `
       <link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink ($.Site.Title | emojify) |
@@ -63,7 +75,22 @@
       {{ $featureImage = $pageImages.GetMatch . }}
     {{ end }}
   {{ end }}
+  {{/* LebenInsider: featureimage on-page alanini paylasim gorseli olarak kullan */}}
+  {{ $ogImg := "" }}
   {{ if not $featureImage }}
+    {{ with .Params.featureimage }}
+      {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+        {{ $ogImg = . }}
+      {{ else }}
+        {{ with resources.Get . }}{{ $ogImg = .RelPermalink | absURL }}{{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $ogImg }}
+    <meta name="twitter:image" content="{{ . }}">
+    <meta property="og:image" content="{{ . }}">
+  {{ end }}
+  {{ if and (not $featureImage) (not $ogImg) }}
     {{ with .Site.Params.defaultSocialImage }}
       {{ $socialImage := "" }}
       {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
