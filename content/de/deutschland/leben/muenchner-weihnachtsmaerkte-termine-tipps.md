@@ -70,7 +70,7 @@ Alkoholfreie Alternativen gibt es natürlich auch: für Kinder **Kinderpunsch** 
 - Lebkuchen
 - Stollen (traditionelles Weihnachtsgebäck)
 
-Die Preise können im Vergleich zum normalen Café- oder Imbissbesuch etwas gehoben sein. Warum Essen gehen in Deutschland generell teurer geworden ist, habe ich in [diesem Artikel](/de/deutschland/leben/warum-essen-gehen-in-deutschland-teuer-ist/) aufgeschrieben.
+Die Preise können im Vergleich zum normalen Café- oder Imbissbesuch etwas gehoben sein. Warum Essen gehen in Deutschland generell teurer geworden ist, habe ich in diesem Artikel aufgeschrieben.
 
 ## Tipps für den Besuch mit Kindern
 

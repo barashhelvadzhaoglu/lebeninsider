@@ -154,7 +154,7 @@ The German labor law system is complex and relies heavily on precise language. E
 
 **Related Expat Guides:**
 *   [Work Life and Work-Life Balance: Turkey vs Germany](/en/germany/living/work-life-turkey-vs-germany/)
-*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+*   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)
 *   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-in-germany-munich/)
 
 ## Our Experience

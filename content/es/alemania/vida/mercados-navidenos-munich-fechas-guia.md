@@ -70,7 +70,7 @@ También hay alternativas sin alcohol: para los niños está el **Kinderpunsch**
 - Galletas especiadas de jengibre (Lebkuchen)
 - Stollen (bizcocho navideño tradicional con frutas confitadas y mazapán)
 
-Los precios pueden ser algo más altos que en una cafetería habitual. En [este artículo](/es/alemania/vida/por-que-comer-fuera-es-caro-alemania/) conté por qué comer fuera en Alemania suele resultar caro en general.
+Los precios pueden ser algo más altos que en una cafetería habitual. En este artículo conté por qué comer fuera en Alemania suele resultar caro en general.
 
 ## Consejos para ir con niños
 

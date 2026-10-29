@@ -109,7 +109,7 @@ Llegar al Castillo de Neuschwanstein es bastante fácil y hay varias opciones di
 | **Frankfurt**    | Tren                | 4-5 horas           | 60-90 EUR                    | Conexiones con transbordo (generalmente vía Múnich).                                             |
 |                  | Coche               | 4-4.5 horas         | Combustible + Aparcamiento   | Un viaje más largo.                                                                               |
 | **Estambul**     | Avión + Tren/Coche  | 5-8 horas           | 150-300 EUR                  | Vuelo a Múnich, luego tren o alquiler de coche.                                                   |
-|                  | Coche               | 20+ horas           | Combustible + Peajes         | Un viaje largo y agotador. Puede leer nuestro artículo [De Estambul a Múnich en Coche](/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/). |
+|                  | Coche               | 20+ horas           | Combustible + Peajes         | Un viaje largo y agotador. Puede leer nuestro artículo [De Estambul a Múnich en Coche](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/). |
 
 **¿Es Válido el Deutschlandticket?**
 Sí, el **Deutschlandticket es válido** para los viajes en tren (Regional Express) desde Múnich hasta Füssen. Esto es una opción muy económica si viaja dentro de Alemania. Los autobuses que van de Füssen al castillo suelen estar incluidos en el Deutschlandticket ya que son transporte local, pero es recomendable confirmarlo al subir. Puede encontrar más ideas de rutas consultando nuestro artículo De Viaje por los Alrededores de Múnich con el Deutschlandticket.

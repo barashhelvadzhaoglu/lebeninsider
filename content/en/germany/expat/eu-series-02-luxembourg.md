@@ -206,7 +206,7 @@ Here are some common questions Turkish expats have about working and living in L
 ---
 *Part of the [Europe for Expats](/en/germany/expat/) series.*
 - [Netherlands](/en/germany/expat/eu-series-01-netherlands/) · [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
-- [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+- [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)
 
 ---
 ### Tags

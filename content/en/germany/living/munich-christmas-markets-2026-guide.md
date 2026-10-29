@@ -70,7 +70,7 @@ There are non-alcoholic options too: **Kinderpunsch** (hot fruit punch) for kids
 - Gingerbread cookies (Lebkuchen)
 - Stollen (traditional fruit cake)
 
-Prices can be higher compared to a regular café. I explained why eating out is generally expensive in Germany [in this post](/en/germany/living/why-eating-out-is-expensive-germany/).
+Prices can be higher compared to a regular café. I explained why eating out is generally expensive in Germany in this post.
 
 ## Tips for Going with Kids
 

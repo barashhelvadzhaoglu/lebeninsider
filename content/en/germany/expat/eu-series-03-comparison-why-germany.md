@@ -241,7 +241,7 @@ Here are some common questions I hear from Turkish expats considering a move to 
 *Part of the [Europe for Expats](/en/germany/expat/) series.*
 - [Working and Living in the Netherlands: What I Learned Before Moving](/en/germany/expat/eu-series-01-netherlands/)
 - [Working and Living in Luxembourg: Europe's Best Kept Secret?](/en/germany/expat/eu-series-02-luxembourg/)
-- [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+- [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)
 - [Why I Left Turkey: The Decision That Changed Everything](/en/germany/living/why-i-moved-countries/)
 - [Turkey vs Germany: An Honest Comparison After Making the Move](/en/germany/living/turkey-vs-germany/)
 ---

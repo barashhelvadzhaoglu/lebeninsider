@@ -52,14 +52,14 @@ Almanya'da işten çıkarılmak sanıldığı kadar basit değil. İş mahkemesi
 **LPG'li Araçla Avrupa Turu**
 LPG başlık uyumsuzlukları, ülkeden ülkeye değişen kurallar, nerede yakıt bulunur, Honda Civic LPG deneyimi.
 
-→ [Avrupa'da LPG Rehberi](/tr/almanya/expat/avrupa-lpg-rehberi-TR/)
+→ [Avrupa'da LPG Rehberi](/tr/almanya/expat/avrupa-lpg-rehberi-tr/)
 
 **İstanbul'dan Münih'e Araçla**
 Romanya rotası, gece yolculuğu, Bulgaristan–Avusturya geçişleri ve tır trafiğiyle başa çıkma taktikleri.
 
-→ [İstanbul–Münih Kara Yolu Rehberi](/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/)
+→ [İstanbul–Münih Kara Yolu Rehberi](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/)
 
 **Yeşil Sigorta**
 Sınırda Yeşil Sigorta alırken nelere dikkat edilmeli, 90 gün kuralı nedir, nasıl tasarruf edilir?
 
-→ [Yeşil Sigorta Rehberi](/tr/almanya/expat/yesil-sigorta-rehberi-TR/)
+→ [Yeşil Sigorta Rehberi](/tr/almanya/expat/yesil-sigorta-rehberi-tr/)

@@ -43,7 +43,7 @@ München gehört zu den teuersten Mietmärkten Europas. Wo suchen, welche Plattf
 **Kündigung und Arbeitsgericht**
 Eine Kündigung in Deutschland ist nicht so unkompliziert, wie es scheint. Wie das Arbeitsgerichtsverfahren abläuft, wie lange es dauert, und was ich beim nächsten Mal anders machen würde.
 
-→ [Kündigung in Deutschland: Arbeitsgericht](/de/deutschland/expat/kuendigung-arbeitsgericht-deutschland/)
+→ [Kündigung in Deutschland: Arbeitsgericht](/de/deutschland/expat/kuendigung-deutschland-arbeitsgericht-erfahrung/)
 
 ---
 
@@ -52,14 +52,14 @@ Eine Kündigung in Deutschland ist nicht so unkompliziert, wie es scheint. Wie d
 **LPG-Reise durch Europa**
 Adapterinkompatibilitäten, länderspezifische Regelungen, wo man Autogas tanken kann, und Erfahrungen mit dem Honda Civic LPG auf europäischen Straßen.
 
-→ [LPG in Europa — Praxisratgeber](/de/deutschland/expat/europa-lpg-ratgeber/)
+→ [LPG in Europa — Praxisratgeber](/de/deutschland/expat/lpg-europa-leitfaden/)
 
 **Von Istanbul nach München mit dem Auto**
 Die Rumänien-Route, Nachtfahrt, Bulgarien–Österreich-Transit und wie man mit dem LKW-Verkehr umgeht.
 
-→ [Istanbul–München Reiseführer](/de/deutschland/expat/istanbul-muenchen-strassenreise/)
+→ [Istanbul–München Reiseführer](/de/deutschland/expat/istanbul-nach-muenchen-mit-dem-auto/)
 
 **Grüne Karte Versicherung**
 Was beim Abschluss einer Grünen Karte an der Grenze zu beachten ist, die 90-Tage-Regel und wie man Geld spart ohne Abstriche bei der Absicherung.
 
-→ [Grüne Karte Versicherung Ratgeber](/de/deutschland/expat/gruene-karte-versicherung-ratgeber/)
+→ [Grüne Karte Versicherung Ratgeber](/de/deutschland/expat/gruene-versicherung-ratgeber-grenze-sparen/)

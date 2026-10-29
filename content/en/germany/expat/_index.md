@@ -52,14 +52,14 @@ Dismissal in Germany is not as straightforward as it might seem. What the labour
 **LPG Road Trip Across Europe**
 Adapter incompatibilities, rules that vary by country, where to find LPG fuel, and the Honda Civic LPG experience on European roads.
 
-→ [LPG in Europe — Practical Guide](/en/germany/expat/europe-lpg-guide/)
+→ [LPG in Europe — Practical Guide](/en/germany/expat/europe-lpg-guide-honda-civic-experience/)
 
 **Istanbul to Munich by Road**
 The Romania route, overnight driving, crossing Bulgaria and Austria, and how to deal with truck traffic on the long haul.
 
-→ [Istanbul to Munich by Road](/en/germany/expat/istanbul-munich-road-trip/)
+→ [Istanbul to Munich by Road](/en/germany/expat/istanbul-to-munich-road-trip-guide/)
 
 **Green Card Insurance**
 What to watch out for when buying Green Card insurance at the border, the 90-day rule, and how to save money without cutting corners.
 
-→ [Green Card Insurance Guide](/en/germany/expat/green-card-insurance-guide/)
+→ [Green Card Insurance Guide](/en/germany/expat/green-insurance-guide-save-money/)
