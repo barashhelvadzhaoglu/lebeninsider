@@ -13,6 +13,6 @@ Gurbette en çok özlenen şeylerden biri yemek. Bu bölümde hem Türk mutfağ�
 - **Münih'te yemek:** Gittiğimiz restoranlar, açık büfeler; fiyat, porsiyon ve çocukla gitmeye uygunluk açısından notlar.
 - **Almanya'da yemek kültürü:** Market fırınları, pazar günü kapalı marketler, Noel pazarlarındaki lezzetler, insanların işe ve parka neden yemeğini yanında götürdüğü.
 
-Almanya'da dışarıda yemek pahalı; bir hamburger menüsü, markette bir kilo kıymayla aşağı yukarı aynı fiyata geliyor. Bu yüzden yazılarda sadece "nerede yenir" değil, "evde ne yapılır, marketten ne alınır" sorusuna da cevap vermeye çalışıyoruz. Bununla ilgili [Almanya'da dışarıda yemek neden pahalı?](/tr/almanya/yasam/almanyada-disarida-yemek-fiyatlari/) yazısına da bakabilirsiniz.
+Almanya'da dışarıda yemek pahalı; bir hamburger menüsü, markette bir kilo kıymayla aşağı yukarı aynı fiyata geliyor. Bu yüzden yazılarda sadece "nerede yenir" değil, "evde ne yapılır, marketten ne alınır" sorusuna da cevap vermeye çalışıyoruz. Bununla ilgili [Almanya'da dışarıda yemek neden pahalı?](/tr/almanya/yasam/almanyada-market-alisverisi-ipuclari/) yazısına da bakabilirsiniz.
 
 İstanbul'dan sevdiğimiz mekânları ve Türkiye yemek rotalarını da yakında bu bölüme ekleyeceğiz.

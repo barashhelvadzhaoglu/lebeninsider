@@ -1,8 +1,10 @@
 ---
-title: "Almanya'da Market Alışverişi: Fiyatlar, İndirimler ve Hangi Saatte Gidilmeli?"
+title: "Almanya'da Market Alışverişi ve Yemek Fiyatları: İndirimler, Saatler ve Dışarıda Yemek Neden Pahalı?"
 date: 2026-10-29T07:00:00+01:00
 draft: false
-description: "Almanya'da marketlerde temel ürünlerin fiyatı neden her yerde aynı? Her şey paketli, indirimlerle %30–40 tasarruf, sabah ve akşamüstü kalabalık, 19:00'dan sonra boş raflar ve cumartesi 3 günlük alışveriş."
+description: "Almanya'da market alışverişi: temel ürünlerde fiyatlar her yerde aynı, her şey paketli, indirimlerle %30–40 tasarruf, hangi saatte gidilmeli. Bir de 1 kg kıyma ile bir hamburger menüsü neden aynı fiyat?"
+aliases:
+  - /tr/almanya/yasam/almanyada-disarida-yemek-fiyatlari/
 translationKey: "supermarket-shopping-germany"
 featureimage: "img/living/shopping.webp"
 tags:
@@ -11,6 +13,8 @@ tags:
   - "Almanya market saatleri"
   - "Almanya'da indirimler"
   - "Münih market fiyatları"
+  - "Almanya'da yemek fiyatları"
+  - "Almanya'da yaşam maliyeti"
 ---
 
 Almanya'ya taşındıktan sonra market alışverişini yeniden öğrenmem gerekti. Türkiye'deki alışkanlıklarla gidince ya raflar boş çıkıyor, ya kasada uzun sıra bekliyorsun, ya da pazar günü kapıda kalıyorsun. Bu yazıda markette öğrendiklerimizi topladım.
@@ -19,7 +23,20 @@ Almanya'ya taşındıktan sonra market alışverişini yeniden öğrenmem gerekt
 
 İlk dikkatimi çeken şey bu oldu. Peynir, ekmek, süt, su, meyve, sebze gibi temel ürünlerde hangi markete gidersen git fiyatlar genelde aynı. Türkiye'deki gibi "şu markette süt daha ucuz" diye market market dolaşmana gerek kalmıyor.
 
-Farkı asıl indirimler yaratıyor (aşağıda anlattım). Bir de dışarıda yemek ile market arasındaki fark çok büyük; bunu [Almanya'da dışarıda yemek neden pahalı?](/tr/almanya/yasam/almanyada-disarida-yemek-fiyatlari/) yazısında anlattım.
+Farkı asıl indirimler yaratıyor (aşağıda anlattım). Bir de dışarıda yemek ile market arasındaki fark çok büyük.
+
+## Market mi, dışarıda yemek mi?
+
+Münih'te dışarıda yemek genel olarak pahalı. Bunu en iyi market fiyatlarıyla karşılaştırınca anlıyorsun. Markette kabaca şöyle fiyatlar görüyorum:
+
+- **1 kg kıyma:** 10–12 euro
+- **1 kg tavuk göğsü:** 8–10 euro
+
+Ama en ufak bir McDonald's hamburger menüsü de aşağı yukarı bu fiyatlarda. Yani bir kişinin tek öğünlük menüsüyle bir ailenin birkaç öğününe yetecek kadar et alabiliyorsun. Dışarıda ucuz sayılan yerlerde bile, örneğin Asya yemeklerinde, menüler 10 eurodan başlıyor; sade bir margarita pizza da 10 eurodan başlıyor.
+
+Bu yüzden insanlar iş yerine yemeğini yanında götürüyor; parklara da yanlarında sandviç ve yiyecekle geliyorlar. Burada bu çok normal, kimse garip karşılamıyor. Biz de geziye çıkarken yanımıza bolca yiyecek alıyoruz.
+
+*Fiyatlar kendi gözlemlerim; şehre, markete ve döneme göre değişiyor.*
 
 ## Her şey paketli
 
@@ -54,6 +71,7 @@ Pazar günü acil bir şey lazım olursa kiosklar ve benzin istasyonları açık
 ## Kısacası
 
 - Temel ürünlerde fiyat farkı az; asıl tasarruf indirimlerde.
+- Dışarıda yemek pahalı; insanlar işe ve parka yemeğini yanında götürüyor.
 - İndirimdeyken stok yap, son kullanma tarihi yaklaşan ürünlere bak.
 - Sabah erken git, 17:00–19:00 arasından ve 19:00 sonrasından kaçın.
 - Cumartesi alışverişini pazar ve pazartesiyi de düşünerek yap.

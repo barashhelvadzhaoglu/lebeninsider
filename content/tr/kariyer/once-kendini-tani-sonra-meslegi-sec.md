@@ -1,8 +1,10 @@
 ---
-title: "Önce Kendini Tanı, Sonra Mesleği Seç"
+title: "Önce Kendini Tanı, Sonra Mesleği Seç: Kendi Profilini Nasıl Çıkarırsın?"
 date: 2026-10-16T06:00:00+02:00
 draft: false
-description: "Çoğumuz önce mesleği seçip sonra kendimizi ona uydurmaya çalışıyoruz. Bence doğrusu tam tersi: önce neyi sevdiğini bil, sonra onu mesleğin haline getir."
+description: "Çoğumuz önce mesleği seçip sonra kendimize uydurmaya çalışıyoruz. Doğrusu tersi: önce neyi sevdiğini bil. Bunun için basit bir yöntem: her gün keyif aldığın şeyleri not al ve yapay zekâ ile profilini çıkar."
+aliases:
+  - /tr/kariyer/kendi-profilini-cikar/
 translationKey: "kariyer-01-kendini-tani"
 featureimage: "img/lebeninsider-hero.webp"
 tags:
@@ -29,7 +31,32 @@ Mesleğe "daha iyi para kazandırıyor", "daha çok talep görüyor" diye bakıp
 
 Tabii bu kolay bir şey değil. "Ne yapmayı seviyorum?" sorusunun cevabı bir gecede netleşmiyor. Bunun için planlama yapmak gerekiyor.
 
-İlk adım kendini tanımakla başlamak: neler yapmayı sevdiğini, nelerden keyif aldığını netleştirmek. Bunu nasıl yapabileceğini serinin bir sonraki bölümünde anlatacağım.
+İlk adım kendini tanımakla başlamak: neler yapmayı sevdiğini, nelerden keyif aldığını netleştirmek.
+
+## Kendi profilini çıkar
+
+Peki kendini nasıl tanırsın? Benim önerim basit: araştırmaya başlamadan önce **kendi profilini çıkar**.
+
+### Kendine notlar al
+
+Gün içinde ne yapmaktan hoşlandığını fark ettiğin anlarda bunu bir yere not et. Büyük cümleler kurmana gerek yok. Örneğin:
+
+> Arkadaşlarımla dışarı çıkmaktan hoşlanıyorum. Gideceğimiz yerlerin planını ben yapıyorum, restoranı ben ayarlıyorum. Kimin geleceğini, nerede ve nasıl buluşacağımızı ben organize ediyorum. Bunları yapmaktan keyif alıyorum.
+
+Bu tek başına küçük bir not gibi görünebilir. Ama haftalar içinde biriken bu notlar, senin hakkında çok şey söyler. Organize etmeyi mi seviyorsun, bir şeyi tamir etmeyi mi, insanlarla konuşmayı mı, tek başına bir problemin üzerine gömülmeyi mi?
+
+Notu nerede tuttuğun önemli değil. Defter, telefonundaki not uygulaması, ne rahatsa.
+
+### Notları yapay zekâ ile değerlendir
+
+Bu notları düzenli olarak, örneğin gün sonunda, yapay zekâ araçlarıyla paylaşırsan önüne bir profil çıkacaktır. Notların ne kadar çoğalırsa, ortaya çıkan profil de o kadar netleşir.
+
+Bu profilin üzerine iki şey yapabilirsin:
+
+- İnternette mesleklerle ilgili yaptığın araştırmaları bu profille **eşleştirmeye** çalışabilirsin.
+- Ya da yine yapay zekâ araçlarını kullanarak **profiline uygun mesleklerin bir listesini** çıkarabilirsin.
+
+Bu liste bir karar değil, bir başlangıç noktası. Listedeki her meslek için ayrıca detaylı araştırma yapmak gerekiyor. Bunu nasıl yapabileceğini serinin sonraki bölümlerinde anlatacağım.
 
 ## Hiçbir şey için asla geç değil
 
@@ -39,4 +66,4 @@ Ve bunun için hiçbir zaman geç değil. İnsanlar hayatlarının her dönemind
 
 ---
 
-*Serinin sonraki bölümü: **Kendi Profilini Çıkar: Neyi Sevdiğini Nasıl Keşfedersin?***
+*Serinin sonraki bölümü: **Bir Mesleği Değerlendirmenin 4 Kriteri***

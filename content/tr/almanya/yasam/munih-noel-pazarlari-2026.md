@@ -70,7 +70,7 @@ Alkolsüz seçenekler de var: çocuklar için **Kinderpunsch** (sıcak meyve pun
 - Zencefilli kurabiye (Lebkuchen)
 - Stollen (meyveli Noel keki)
 
-Fiyatlar sıradan bir kafeye göre yüksek olabiliyor. Dışarıda yemenin Almanya'da genel olarak neden pahalı olduğunu [şu yazıda](/tr/almanya/yasam/almanyada-disarida-yemek-fiyatlari/) anlattım.
+Fiyatlar sıradan bir kafeye göre yüksek olabiliyor. Dışarıda yemenin Almanya'da genel olarak neden pahalı olduğunu [şu yazıda](/tr/almanya/yasam/almanyada-market-alisverisi-ipuclari/) anlattım.
 
 ## Çocuklarla gidenler için ipuçları
 
