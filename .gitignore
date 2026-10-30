@@ -25,3 +25,4 @@ script/apikeys.txt
 .tmp.driveupload/
 .env
 -f/
+_sheet_*.jpg
