@@ -78,6 +78,27 @@ Yani yetişkin başına tek yön Sparpreis fiyatı **yaklaşık 14 euronun üst�
 
 Stiftung Warentest de birkaç güzergâhta karşılaştırma yaptı: Sadece ICE/IC ile gidilen güzergâhlarda Sparpreis fiyatları, üç ay önceden ve rezervasyonsuz bakıldığında bile gidiş-dönüş **117 ile 429 €** arasındaydı; yani her seferinde Familienticket daha ucuz çıktı. Bölgesel trenli karışık güzergâhlarda ise fark azalıyor; birkaç ay önceden bakılan bir örnekte normal bilet Familienticket'la neredeyse aynı fiyattaydı.
 
+## Gerçek örnek: Münih'ten Köln'e 4 kişi
+
+Teoride değil, uygulamada nasıl göründüğüne de baktım. DB Navigator'da 13 Kasım cuma için **München-Pasing → Köln Hbf**, 4 kişi, 2. sınıf, tek yön aradım. 17:36'daki ICE bağlantısında (Frankfurt Havalimanı'nda aynı perondan aktarma, 4 saat 40 dakika) çıkan teklifler:
+
+| Bilet | Fiyat (4 kişi, tek yön) | Koltuk rezervasyonu |
+| --- | --- | --- |
+| **DB Familienticket** | **59,99 €** | Dahil (0 €) |
+| Super Sparpreis | 159,98 € | Ayrıca ücretli |
+| Sparpreis | 177,98 € | Ayrıca ücretli |
+
+![DB Navigator'da Münih–Köln için Familienticket, Super Sparpreis ve Sparpreis fiyatları](img/travel/db-familienticket-fiyat-karsilastirma.webp)
+
+Yani aynı trende, aynı 4 kişi için **100 eurodan fazla fark** var; rezervasyonu da sayınca fark daha da açılıyor.
+
+Dikkatimi çeken iki şey oldu:
+
+- **Her trende çıkmıyor.** Aynı akşam daha erken saatlerdeki bağlantılar 239,98 € ve 260,38 €'dan başlıyordu; Familienticket fiyatı sadece bazı trenlerde görünüyordu. Saatleri tek tek kontrol etmek gerekiyor.
+- **Koltukları kendiniz seçebiliyorsunuz.** Rezervasyon 0 € olarak ekleniyor; iki trende de (ICE 512 ve aktarmadan sonra ICE 526) aile bölümünde yan yana 4 koltuk seçtim. Seçmezseniz koltuklar otomatik atanıyor. Uygulama, **rezervasyonun ayrıca iptal edilemediğini** de yazıyor.
+
+![DB Navigator'da ICE vagonunda aile bölümünde 4 koltuk seçimi](img/travel/db-familienticket-koltuk-secimi.webp)
+
 ## Ne zaman mantıklı, ne zaman değil?
 
 **Mantıklı olduğu durumlar:**
