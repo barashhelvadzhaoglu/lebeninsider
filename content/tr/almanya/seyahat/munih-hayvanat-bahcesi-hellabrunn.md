@@ -4,6 +4,7 @@ date: 2026-10-31T12:30:00+01:00
 draft: false
 description: "Münih'teki Hellabrunn Hayvanat Bahçesi: fiyatlar, 69 euroluk yıllık kart, ulaşım, bebek arabası ve scooter kuralları, el arabası kiralama ve piknik. Çocuklu aile olarak deneyimimiz."
 translationKey: "hellabrunn-zoo-munich"
+featureimage: "img/travel/munih-hayvanat-bahcesi-hellabrunn.webp"
 tags:
   - "Almanya'da Yaşam"
   - "Münih"
@@ -32,6 +33,8 @@ Hem metroyla hem otobüsle ulaşabiliyorsunuz. **İki giriş kapısı** var, ist
 
 Hayvanat bahçesi bebek arabasıyla gelenlere **U3'ü** öneriyor, çünkü otobüslerde bebek arabası için yer sınırlı. Kasım 2026 sonuna kadar U3'te Sendlinger Tor ile Implerstraße arasında yol çalışması nedeniyle yerine otobüs çalışıyor; şehir merkezinden gelecekseniz bunu hesaba katın.
 
+![Hellabrunn Hayvanat Bahçesi haritası](img/travel/hellabrunn-harita.webp)
+
 Arabayla da gidilebiliyor ama park yeri sınırlı ve ücretli. Hafta sonları toplu taşımayı öneririm. Deutschlandticket'ınız varsa ulaşım zaten dahil.
 
 Bizim için ulaşım rahat: Önce 10–15 dakika otobüse biniyoruz, sonra metroya son duraktan biniyoruz, yine 10–15 dakika. Metrodan çıkınca hayvanat bahçesine geçiyoruz.
@@ -55,6 +58,8 @@ Burada en sevdiğim şey **yıllık kart (Jahreskarte)**. Bir kez alıyorsunuz, 
 
 Hesap basit: Yetişkin günlük bilet 23 €, yıllık kart 69 €. Yani **yılda üç kez** giderseniz yıllık kart kendini çıkarıyor.
 
+![Hellabrunn'da kapalı zürafa evi](img/travel/hellabrunn-zurafa.webp)
+
 Bir de güzel bir detay: Yıllık kartınız devam ederken çocuğunuz 4 yaşına girerse, hizmet noktasından ücretsiz bir çocuk kartı alabiliyorsunuz; sizin kartınızla aynı tarihe kadar geçerli oluyor.
 
 Açılış saatleri: Kış döneminde (25 Ekim – 19 Mart) her gün **09:00–17:00**, yazın 18:00'e kadar açık. Yıl boyunca her gün açık.
@@ -72,11 +77,15 @@ Tabii herkes aynı şeyi düşündüğü için **yaz aylarında çok kalabalık*
 - **Laufrad (pedalsız denge bisikleti) serbest:** Küçük çocuklar için pedalsız denge bisikletlerine izin var.
 - **El arabası kiralama (Bollerwagen):** Çocuklu aileler için tekerlekli el arabaları var; gişeden günlüğü **7 €**'ya kiralayabiliyorsunuz. Depozito olarak fotoğraflı kimlik bırakıyorsunuz, rezervasyon yapılamıyor. Arabayı kapanıştan en az 15 dakika önce aldığınız girişe geri getirmeniz gerekiyor.
 
+![Hellabrunn'da kiralık el arabası (Bollerwagen)](img/travel/hellabrunn-el-arabasi.webp)
+
 Bebek arabası seçimi konusunda [bebek arabası tercihleri](/tr/almanya/yasam/almanyada-bebek-arabasi-tercihleri-rehberi/) yazısına bakabilirsiniz.
 
 ## Oyun alanları ve piknik
 
 Hayvanları gezmenin yanında içeride çocuklar için **oyun alanları** da var: kaydırak, tahterevalli, macera oyun parkları. Ayrıca bir sevgi hayvanat bahçesi (hayvanlara dokunulabilen bölüm) var.
+
+![Hellabrunn'daki oyun alanlarından biri](img/travel/hellabrunn-oyun-alani.webp)
 
 İnsanlar özellikle yazın yanlarına sandviç alıp açık alanda yemek yiyor. Bu çok güzel oluyor. Biz de bugün yanımıza yemek alıyoruz; biraz gezip sonra orada yemeyi düşünüyoruz. İçeride restoran ve büfeler de var ama yanınızda yemek getirmek hem daha ucuz hem daha keyifli.
 
