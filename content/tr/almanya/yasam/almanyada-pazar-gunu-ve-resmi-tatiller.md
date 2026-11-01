@@ -22,7 +22,7 @@ Türkiye'den gelince alışılması gereken şeylerden biri: Almanya'da pazar g�
 
 Pazar günü Kaufland gibi marketler kapalı. Pazar günü açmak için özel izin gerekiyor. Restoranlar, paket servis yerleri ve dondurmacılar ise genelde açık. Pazar günü dondurmacılarda aşırı yoğunluk ve sıra oluyor.
 
-Bu yüzden pazar gezisi planlıyorsak alışverişi cumartesiden yapıyoruz. Bununla ilgili [çocuklarla günübirlik gezi hazırlığı](/tr/almanya/seyahat/cocuklarla-gunubirlik-gezi-hazirligi/) yazısına bakabilirsiniz.
+Bu yüzden pazar gezisi planlıyorsak alışverişi cumartesiden yapıyoruz. Pazar günü açık olan yerlerden biri de hayvanat bahçesi; biz yıllık kartla sık sık [Hellabrunn](/tr/almanya/seyahat/munih-hayvanat-bahcesi-hellabrunn/)'a gidiyoruz. Bununla ilgili [çocuklarla günübirlik gezi hazırlığı](/tr/almanya/seyahat/cocuklarla-gunubirlik-gezi-hazirligi/) yazısına bakabilirsiniz.
 
 ## Kiosklar ve benzin istasyonları
 
