@@ -8,6 +8,9 @@ buildFuture = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  # LebenInsider: etiket/kategori RSS (index.xml) uretilmesin, Google "taranan ama dizine eklenmeyen" listesini dolduruyordu
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [languages]
   [languages.tr]
