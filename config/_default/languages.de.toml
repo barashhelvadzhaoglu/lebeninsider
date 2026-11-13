@@ -4,6 +4,7 @@ weight = 3
 title = "LebenInsider"
 
 [params]
+  robots = "noindex, follow"   # Kasim 2026: makine cevirisi, site kalitesi icin indekslenmesin
   homeTitle = "LebenInsider – Leben in Deutschland, Reisen & Karriere"
   displayName = "DE"
   isoCode = "de"
