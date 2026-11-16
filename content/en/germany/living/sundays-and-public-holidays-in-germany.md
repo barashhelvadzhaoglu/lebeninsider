@@ -40,3 +40,22 @@ In my opinion, this is a great setup for employees.
 ## Holidays falling on a Saturday
 
 If a public holiday falls on a Saturday, supermarkets are closed on that Saturday too. This means that sometimes everywhere is closed for two consecutive days, Saturday and Sunday; you really have to plan your shopping in advance.
+
+## Where you can still shop on a Sunday
+
+If you forgot something, you are not completely stuck. Supermarkets in large train stations and airports are open on Sundays too. In Munich, the shops at the Hauptbahnhof and at the airport are the well-known examples; they get very crowded on Sundays and prices are a bit higher. Some bakeries open for a few hours on Sunday morning, and pharmacies run an emergency rota (Notdienst-Apotheke), so you can always look up the nearest one online.
+
+## The Sunday quiet rule
+
+Sundays and public holidays are not only shop-free but also noise-free. Drilling into walls, mowing the lawn or loud renovation work is frowned upon on Sundays and is usually explicitly banned in the house rules (Hausordnung). If you have just moved in, plan your furniture assembly for Saturday; your neighbours will thank you. Throwing bottles into glass recycling containers is not allowed on Sundays either; the permitted hours are printed on the containers.
+
+## Holidays specific to Bavaria
+
+Bavaria is one of the German states with the most public holidays. On top of the nationwide ones, 6 January (Heilige Drei Könige), Corpus Christi (Fronleichnam) and 1 November (Allerheiligen) are holidays. 15 August (Mariä Himmelfahrt) is a holiday in municipalities with a Catholic majority, and Munich is one of them. On Buß- und Bettag in November schools are closed, but for most employees it is a normal working day, so parents need to plan ahead.
+
+## Practical tips
+
+- Supermarkets are packed before long weekends, especially Easter and Christmas. Do your shopping a day earlier.
+- 24 and 31 December are not public holidays, but shops close early in the afternoon.
+- When planning your annual leave, look at public holidays and bridge days together; a few days off can turn into a long break.
+- Check holiday weeks before booking doctor's appointments or dealing with authorities; many practices also close on bridge days.

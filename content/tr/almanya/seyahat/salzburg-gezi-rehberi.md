@@ -186,7 +186,7 @@ Salzburg, Orta Avrupa'nın ulaşım ağının önemli bir noktasında yer alıyo
 
 | Kalkış Noktası | Ulaşım Aracı | Süre (Yaklaşık) | Fiyat (Tek Yön, Yaklaşık EUR) | Detaylar                                                                                                                    |
 | :------------- | :----------- | :-------------- | :---------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| **Münih**      | Tren (Deutsche Bahn/ÖBB) | 1.5 - 2 saat    | 4 - 25                        | **Deutschlandticket** ile Freilassing'e kadar ücretsiz. Freilassing'den Salzburg Hbf'ye yerel bilet ~4-6 EUR. Direkt seferlerde Bayern Ticket veya önceden alınmış biletler daha pahalı olabilir. |
+| **Münih**      | Tren (Deutsche Bahn/ÖBB) | 1.5 - 2 saat    | 4 - 25                        | **Deutschlandticket** ile bölgesel trenle Salzburg Hbf'ye kadar ekstra ücret yok. |
 | **Münih**      | FlixBus      | 1.5 - 2 saat    | 10 - 20                       | Direkt seferler, genellikle trenden daha uygun fiyatlı olabilir. Otobüsler genellikle Salzburg Südtiroler Platz'a gelir.         |
 | **Frankfurt**  | Tren (ICE)   | 4 - 5 saat      | 40 - 80                       | Yüksek hızlı ICE trenleri ile direkt veya bir aktarmalı seferler. Biletleri önceden almak (Sparpreis) daha uygun olabilir.               |
 | **Frankfurt**  | Uçak         | 1 saat (uçuş) + transfer | 80 - 150                      | Salzburg Havalimanı (SZG) şehir merkezine yakındır. Nadiren direkt uçuş bulunur, genellikle Münih veya Viyana aktarmalıdır.            |
@@ -195,7 +195,15 @@ Salzburg, Orta Avrupa'nın ulaşım ağının önemli bir noktasında yer alıyo
 
 ### Deutschlandticket Geçerli Mi?
 
-Evet, **Deutschlandticket** ([Deutschlandticket ile Münih Çevresinde Gezi](https://lebeninsider.com/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)) **Freilassing** istasyonuna kadar geçerlidir. Freilassing, Almanya-Avusturya sınırındaki son Alman kasabasıdır. Buradan sonra Salzburg Hauptbahnhof'a ulaşmak için ayrı bir bilet almanız gerekmektedir. Bu bilet, tren içinden kondüktörden veya Freilassing istasyonundan yaklaşık **4-6 EUR** karşılığında temin edilebilir. Bu sayede Münih'ten Salzburg'a oldukça uygun bir fiyata seyahat edebilirsiniz. Sınırdan sonrası için bilet kontrolü yapılırken bu küçük ek ücreti ödemeyi unutmayın; aksi takdirde ceza yiyebilirsiniz.
+Evet. Biz Salzburg'a iki kez trenle gittik ve ekstra bilet almadık. [Deutschlandticket](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/) ile Münih Hauptbahnhof'tan bölgesel trene biniyorsun, aktarma yapmadan doğrudan **Salzburg Hauptbahnhof**'ta iniyorsun. Deutschlandticket, sınırı geçen bazı bölgesel hatlarda Salzburg Hbf'ye kadar geçerli. Dikkat: bu sadece bölgesel trenler (RE/RB, Meridian) için geçerli; ICE, EC ya da Railjet gibi uzun yol trenlerine Deutschlandticket ile binemezsin.
+
+### Pasaportunu mutlaka yanına al
+
+Giderken sınırda bir kontrol olmadı. Ama dönüşte Almanya'ya girdikten sonraki ilk durakta (Freilassing) polis trene biniyor ve herkesin belgelerini kontrol ediyor. İlk gidişimizde sadece oturum kartlarımızı (Aufenthaltstitel) yanımıza almıştık, pasaportları evde bırakmıştık. Oturum kartının yetmeyeceğini, yanında pasaport olması gerektiğini söylediler. Telefondan pasaportların fotoğrafını gösterebileceğimi söyledim; polis "bu seferlik" ceza yazmadı ama normalde ceza kesilebildiğini söyledi. Kısacası: oturum kartı tek başına yetmiyor, Türk vatandaşıysan pasaportunu, AB vatandaşıysan kimliğini yanına al.
+
+### 2027'de tren hattı kapanıyor
+
+Deutsche Bahn'ın büyük yenileme programı kapsamında **Rosenheim–Salzburg** hattı **7 Şubat – 9 Temmuz 2027** arasında trenlere kapalı olacak. Bu dönemde Rosenheim ile Salzburg arasında bölgesel trenlerin yerine otobüsler (Schienenersatzverkehr) çalışacak ve yolculuk belirgin şekilde uzayacak; ADAC 20–60 dakika fazladan süre planlamayı öneriyor. Bu tarihlerde Salzburg'a gidecekseniz yola çıkmadan önce DB Navigator'dan güncel bağlantıyı kontrol edin.
 
 ### Şehir İçi Ulaşım
 
@@ -208,25 +216,15 @@ Salzburg şehir merkezinin büyük bir kısmı, özellikle **Altstadt (Eski Şeh
 
 ## Bizim Deneyimimiz
 
-Münih'te yaşayan bir expat olarak, Salzburg bizim için Almanya'dan kolayca kaçabileceğimiz, ama bambaşka bir kültüre adım atabileceğimiz en yakın ve en cazip kaçış noktalarından biri oldu. İlk ziyaret ettiğimizde, tren yolculuğunun bu kadar rahat ve uygun fiyatlı olması bizi şaşırttı. Özellikle **Deutschlandticket** sayesinde sadece Freilassing'den Salzburg'a kadar olan küçük ek ücreti ödeyerek bu büyülü şehre ulaşmak, Avrupa'da seyahat etmenin ne kadar kolay olabileceğini bir kez daha gösterdi. [Avrupa'da LPG Rehberi](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) yazımda da bahsettiğim gibi, sınır geçişleri bazen karmaşık olabilse de, trenle geçişler her zaman en sorunsuz olanı.
+Salzburg'a ailecek iki kez gittik. Bizim için en büyük artı ulaşımın kolaylığı: Münih Hauptbahnhof'tan binip doğrudan Salzburg'da iniyorsun, Deutschlandticket'ın dışında bilet almana gerek kalmıyor. Yaklaşık 1,5–2 saatlik bir yolculuk; çocuklarla günübirlik gezi için ideal.
 
-Salzburg'a ilk varışımızda, bizi saran o **masalsı atmosfere** hayran kaldık. Altstadt'ın daracık sokakları, demir işlemeli tabelaları ve her köşeden yükselen müzik sesleri, adeta zamanda yolculuk yapmış hissi veriyor. **Getreidegasse** üzerinde Mozart'ın doğduğu evi görmek, küçücük bir bebeğin nasıl da dünya çapında bir deha olabildiğini düşünmek, içimde tarifsiz bir hayranlık uyandırdı. Oradaki kalabalığa rağmen, evin içinde yankılanan Mozart ezgileri ve döneme ait eşyalar, o anları gerçekten özel kıldı.
+Tek kötü sürprizimiz dönüşteki pasaport kontrolüydü; yukarıda anlattığım gibi, oturum kartının yetmediğini orada öğrendik. Bir dahaki sefere pasaportlar çantadaydı.
 
-**Hohensalzburg Kalesi'ne** çıkan funiküler yolculuğu, minik oğlumuz için başlı başına bir eğlence kaynağıydı. Yukarıdan şehrin ve Alplerin o nefes kesen manzarasını seyretmek, insana huzur ve dinginlik veriyor. Sanki tüm şehrin kalbi avucunuzun içinde atıyor gibi. Kalenin içindeki müzelerde ortaçağ dönemine ait eşyaları incelerken, oğlumuzun da o dönem şövalyelerini ve prenseslerini canlandırmasına şahit olmak, seyahatlerimize ayrı bir keyif katıyor. Bu tarz tarihi mekanlar, çocukların hayal gücünü beslemek için harika fırsatlar sunuyor.
+Münih ve çevresindeki diğer gezilerimiz:
+*   [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+*   [Regensburg Gezi Rehberi](/tr/almanya/seyahat/regensburg-gezi-rehberi/)
+*   [Münih Noel Pazarları 2026](/tr/almanya/yasam/munih-noel-pazarlari-2026/)
 
-**Mirabell Sarayı ve Bahçesi** ise bizim için tam anlamıyla bir fotoğraf cennetiydi. Renkli çiçekler, düzenli çimenler ve heykeller arasında gezinirken, **"The Sound of Music" filminin unutulmaz "Do-Re-Mi" sahnesini** zihnimizde canlandırdık. Bahçelerdeki düz ve geniş yollar, bebek arabasıyla gezmek için mükemmeldi; yorucu olmayan keyifli yürüyüşler yapmamızı sağladı. Burası, bir yandan dinlenip bir yandan da görsel bir şölen yaşamak için ideal bir duraktı.
-
-Yemek konusunda ise **Salzburger Nockerl** beklentimizin çok üstünde çıktı! O kadar hafif ve lezzetliydi ki, tatlı yiyemeyen eşim bile bayıldı. Kesinlikle denenmesi gereken bir lezzet. Bir de tabii ki **Mozartkugel'ler**... Her köşe başında bulabileceğiniz bu küçük lezzet toplarından birkaç farklı yerden denedik ama **Café Fürst'teki orijinali** gerçekten bambaşkaydı. Salzburg'un Altstadt bölgesindeki restoranların biraz pahalı olduğunu söylemeliyim. Bu yüzden ara sokaklara veya daha yerel mekanlara yönelmek, hem bütçeyi koruyor hem de daha otantik lezzetleri keşfetme imkanı sunuyor.
-
-Küçük bir çocukla seyahat etme deneyimimiz genel olarak çok olumluydu. Şehirde **bebek arabasıyla rahatça gezilebilecek pek çok alan** var. Kaldırımlar genellikle uygun, toplu taşıma araçları da erişilebilir. Özellikle parklar ve bahçeler, çocukların enerjilerini atabileceği harika mekanlar sunuyor. Tek zorlandığımız nokta, bazı dar Altstadt sokaklarının kalabalık olması ve Arnavut kaldırımlarının bebek arabası için biraz sarsıntılı olmasıydı. Ancak bu küçük bir detay, genel keyfimizi pek de bozmadı. Özellikle [Memmingen Gezi Rehberi](https://lebeninsider.com/tr/almanya/romantik-rota/memmingen-gezi-rehberi/) gibi diğer Bavyera şehirlerindeki gibi, eski şehirlerdeki bu tarz zorluklara hazırlıklı olmak gerekiyor.
-
-Salzburg'u, özellikle **Almanya'da yaşayan expatlar** için harika bir günübirlik veya hafta sonu kaçamağı olarak şiddetle tavsiye ederiz. Tarih, sanat, müzik ve doğa tutkunları için unutulmaz anılar biriktirebileceğiniz, her köşesi ayrı bir hikaye anlatan büyüleyici bir şehir.
-
-Münih ve çevresindeki diğer gezilerimiz hakkında bilgi almak isterseniz:
-*   [Deutschlandticket ile Münih Çevresinde Gezi | Çocukla Bavyera Rotaları](https://lebeninsider.com/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
-*   [Regensburg Gezi Rehberi | UNESCO Şehri | Münih'ten 1.5 Saatte](https://lebeninsider.com/tr/almanya/seyahat/regensburg-gezi-rehberi/)
-*   [Füssen Gezi Rehberi | Alplerin Dibinde Ortaçağ Şehri](https://lebeninsider.com/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/)
-*   [Neuschwanstein Kalesi Gezi Rehberi | Disney'in İlham Kaynağı](https://lebeninsider.com/tr/almanya/romantik-rota/neuschwanstein-kalesi-gezi-rehberi/)
 
 ## Sık Sorulan Sorular
 
@@ -234,7 +232,7 @@ Münih ve çevresindeki diğer gezilerimiz hakkında bilgi almak isterseniz:
 Avusturya, Schengen bölgesine üye bir ülkedir. Bu nedenle, geçerli bir Schengen vizeniz varsa veya AB/Schengen ülkelerinden birinin vatandaşıysanız vizeye ihtiyacınız yoktur. Türkiye vatandaşları için Schengen vizesi gereklidir. Vize süreci hakkında daha fazla bilgi için [Schengen Vizesi Alma Süreci (2026)](https://lebeninsider.com/tr/seyahat/schengen-vizesi-alma-sureci/) yazımıza göz atabilirsiniz.
 
 **2. Deutschlandticket Salzburg'a kadar geçerli mi?**
-Hayır, Deutschlandticket yalnızca Almanya sınırları içinde geçerlidir. Freilassing istasyonuna kadar kullanabilir, sonrasında Salzburg'a geçmek için yerel bir bilet (yaklaşık 4-6 EUR) almanız gerekir. Bu küçük ek ücreti ödemeyi unutmayın!
+Evet, bölgesel trenlerle (RE/RB, Meridian) Münih'ten Salzburg Hauptbahnhof'a kadar geçerli; ekstra bilet gerekmiyor. Uzun yol trenlerinde (ICE, EC, Railjet) geçerli değil.
 
 **3. Salzburg'da bir gün yeterli mi?**
 Eski Şehir'in ana turistik yerlerini görmek ve şehrin atmosferini hissetmek için bir tam gün yeterli olabilir. Ancak Hellbrunn Sarayı veya Untersberg gibi yerleri de ziyaret etmek, müzelerde vakit geçirmek veya daha detaylı keşfetmek isterseniz, iki gün ayırmak daha rahat ve keyifli olacaktır.

@@ -122,7 +122,7 @@ Die Gesamtreisezeit variiert natürlich nach Route und Pausen, doch der eigentli
 
 ## Praktische Tipps
 
-1.  **Routenplanung frühzeitig festlegen:** Eure Route bestimmt direkt, wo ihr die Grüne Karte kaufen könnt und wie viel ihr zahlt. Wollt ihr über Serbien (Nicht-EU), müsst ihr die teurere, vollumfassende Variante aus der Türkei wählen. Wählt ihr die Route über Rumänien, ist die günstige Grenzpolice perfekt. Details dazu findet ihr hier: [Mit dem Auto von Istanbul nach München | Rumänien-Route, Nachtfahrt & Lkw-Taktik](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/)
+1.  **Routenplanung frühzeitig festlegen:** Eure Route bestimmt direkt, wo ihr die Grüne Karte kaufen könnt und wie viel ihr zahlt. Wollt ihr über Serbien (Nicht-EU), müsst ihr die teurere, vollumfassende Variante aus der Türkei wählen. Wählt ihr die Route über Rumänien, ist die günstige Grenzpolice perfekt. Details dazu findet ihr hier: [Mit dem Auto von Istanbul nach München | Rumänien-Route, Nachtfahrt & Lkw-Taktik](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/)
 2.  **Police gründlich lesen:** Prüft Kennzeichen, Fahrgestellnummer und Laufzeit. Werft vor allem einen Blick auf die **Länderliste**. Wenn ihr in Bulgarien kauft, lasst euch bestätigen, was „nur EU-Staaten“ genau bedeutet.
 3.  **Euro-Bargeld mitnehmen:** Die Buden an der bulgarischen Grenze wollen meist Bares sehen. Habt den Betrag (ca. 45–50 Euro) passend in bar dabei, um Wechselstuben-Abzocke zu vermeiden.
 4.  **Digitale & physische Kopie:** Das Original gehört ins Handschuhfach, ein Foto oder PDF aufs Smartphone. Bei Kontrollen oder Verlust spart das Nerven.

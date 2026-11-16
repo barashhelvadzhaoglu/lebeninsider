@@ -198,7 +198,7 @@ Atina'ya Türkiye'den ve Avrupa'nın büyük şehirlerinden direkt uçuşlar mev
 | **Selanik (Yunanistan)** | Tren/Otobüs | 5-6 saat | 30-60 |
 
 **Kara Yolu (Balkanlar üzerinden):**
-Eğer Almanya veya başka bir Avrupa ülkesinden karayoluyla gelmeyi düşünüyorsanız, [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) ve [Avrupa'da LPG Rehberi | Uyumsuz Başlıklar, Fiyat Farkları ve Honda Civic Deneyimi (2026)](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) yazılarımız size genel bir rota ve araçla seyahat deneyimi hakkında fikir verebilir. Ancak Yunanistan'a kara yoluyla gelmek, özellikle Türkiye'den veya Orta Avrupa'dan uzun ve yorucu bir yolculuk olacaktır. Yunanistan, AB üyesi olduğu için **Deutschlandticket** burada geçerli değildir; bu bilet sadece Almanya içi toplu taşımada kullanılabilir.
+Eğer Almanya veya başka bir Avrupa ülkesinden karayoluyla gelmeyi düşünüyorsanız, [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) ve [Avrupa'da LPG Rehberi | Uyumsuz Başlıklar, Fiyat Farkları ve Honda Civic Deneyimi (2026)](/tr/almanya/expat/avrupa-lpg-rehberi-tr/) yazılarımız size genel bir rota ve araçla seyahat deneyimi hakkında fikir verebilir. Ancak Yunanistan'a kara yoluyla gelmek, özellikle Türkiye'den veya Orta Avrupa'dan uzun ve yorucu bir yolculuk olacaktır. Yunanistan, AB üyesi olduğu için **Deutschlandticket** burada geçerli değildir; bu bilet sadece Almanya içi toplu taşımada kullanılabilir.
 
 ### Atina Şehir İçi Ulaşım
 

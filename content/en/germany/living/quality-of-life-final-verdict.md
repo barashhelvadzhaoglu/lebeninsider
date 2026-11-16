@@ -293,7 +293,7 @@ When we first considered moving, the decision felt monumental. Leaving behind th
 
 The **predictability and reliability** of German systems were immediately striking. From the punctuality of public transport to the clarity of administrative processes (even if sometimes complex!), there was a sense of order that fostered a feeling of security. The **emphasis on children's well-being** was palpable. The parks are safe and well-maintained, the childcare system (Kita) is structured and accessible, and the general attitude towards families is one of inclusion. We found that being able to plan our lives with a reasonable degree of certainty – knowing that our work rights were protected, that our healthcare was dependable, and that the environment was clean – provided a significant peace of mind. The **access to nature** is also incredible; weekend trips to the Alps or simply enjoying the countless green spaces within cities like Munich offered a constant connection to the outdoors.
 
-*   **Site Link:** Our experience renting an apartment in Munich, detailed in [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/), was a testament to the city's livability, despite its challenges.
+*   **Site Link:** Our experience renting an apartment in Munich, detailed in [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-an-apartment-in-munich/), was a testament to the city's livability, despite its challenges.
 
 **What We Missed About Turkey:**
 
@@ -349,7 +349,7 @@ Making deep friendships in Germany can take time and effort. Germans are often m
 - [Back to series overview](/en/germany/living/turkey-vs-germany/)
 - [Why I moved countries](/en/germany/living/why-i-moved-countries/)
 - [Trust in Germany](/en/germany/living/trust-in-germany/)
-- [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
+- [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-an-apartment-in-munich/)
 - [Being Turkish and Muslim in Germany: What It Is Actually Like](https://lebeninsider.com/en/germany/living/turkish-muslim-identity-germany/)
 - [Food and Eating Out: Turkey vs Germany](https://lebeninsider.com/en/germany/living/food-turkey-vs-germany/)
 - [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/)

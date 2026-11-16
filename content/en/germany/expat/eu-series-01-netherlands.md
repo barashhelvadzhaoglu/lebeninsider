@@ -1,7 +1,8 @@
 ---
+robots: "noindex, follow"   # yeniden yaziliyor (Kasim 2026)
 title: "Working and Living in the Netherlands: What I Learned Before Moving"
 date: 2026-04-15T08:00:00+01:00
-draft: false
+draft: true
 description: "I applied for jobs there, got a sponsorship offer, and researched everything. Here is what nobody tells you."
 translationKey: "eu-netherlands"
 tags:
@@ -221,7 +222,7 @@ Here are some frequently asked questions about working and living in the Netherl
 ---
 *For my detailed comparison of Germany against Turkey across 20 topics, see the [Turkey vs Germany series](https://lebeninsider.com/en/germany/living/turkey-vs-germany/).*
 
-*Next in this series: [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://lebeninsider.com/en/germany/expat/eu-series-02-luxembourg/)*
+*Next in this series: [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/)*
 
 ---
 ### Tags
@@ -229,5 +230,5 @@ Here are some frequently asked questions about working and living in the Netherl
 
 ---
 *Part of the [Europe for Expats](https://lebeninsider.com/en/germany/expat/) series.*
-- [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://lebeninsider.com/en/germany/expat/eu-series-02-luxembourg/) · [Netherlands vs Luxembourg vs Germany: Why I Chose Germany](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/)
-- [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+- [Working and Living in Luxembourg: Europe's Best Kept Secret?](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/) · [Netherlands vs Luxembourg vs Germany: Why I Chose Germany](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/)
+- [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)

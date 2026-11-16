@@ -130,7 +130,7 @@ As our children grew, we also started giving their toys and clothes to Giveboxes
 
 This experience is also closely related to Germany's general **culture of trust**. Items being left at doorsteps without interference, Giveboxes operating unsupervised, are indicators of the fundamental trust this society has in one another. Even in challenging experiences like [Being Fired in Germany](https://lebeninsider.com/en/germany/expat/fired-in-germany-labor-court/), trust in the system's operation creates a belief that the process will be fairer.
 
-In conclusion, the sharing culture in Germany is not just an act of "giving away items," but also a philosophy of life built upon deep environmental awareness, social respect, and mutual trust. This is perhaps one of the warmest and most humane aspects of this society, which might appear cold from the outside. Acquiring such cultural information, along with practical guides like [Guide to Finding Rent in Germany](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/), will make the adaptation process to life in Germany much more enjoyable and meaningful.
+In conclusion, the sharing culture in Germany is not just an act of "giving away items," but also a philosophy of life built upon deep environmental awareness, social respect, and mutual trust. This is perhaps one of the warmest and most humane aspects of this society, which might appear cold from the outside. Acquiring such cultural information, along with practical guides like [Guide to Finding Rent in Germany](/en/germany/expat/renting-an-apartment-in-munich/), will make the adaptation process to life in Germany much more enjoyable and meaningful.
 
 ## Frequently Asked Questions
 

@@ -99,7 +99,7 @@ Türkiye'den Almanya'ya en yaygın ulaşım şekli uçaktır. İstanbul, Ankara,
 | :----------- | :-------------- | :-------------------------------- | :----- |
 | **Uçak (İstanbul - Münih/Frankfurt)** | 2.5 - 3 saat | 80 - 250 EUR (Erken rezervasyonla) | [Ucuz Uçak Bileti Nasıl Bulunur?](https://lebeninsider.com/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/) yazımıza göz atın. |
 | **Otobüs (İstanbul - Almanya)** | 30 - 40 saat | 70 - 120 EUR | Uzun yolculuk sevenler için daha ekonomik bir seçenek. |
-| **Araçla (İstanbul - Almanya)** | 25 - 35 saat (Dinlenmelerle) | Yakıt + Otoyol Ücretleri | [İstanbul'dan Münih'e Araçla](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) yazımızı okuyabilirsiniz. |
+| **Araçla (İstanbul - Almanya)** | 25 - 35 saat (Dinlenmelerle) | Yakıt + Otoyol Ücretleri | [İstanbul'dan Münih'e Araçla](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) yazımızı okuyabilirsiniz. |
 
 ### Almanya İçi Ulaşım
 
@@ -108,7 +108,7 @@ Almanya içinde ulaşım için en yaygın ve verimli yöntem trenlerdir (Deutsch
 *   **Tren (Deutsche Bahn - DB):** Almanya'nın hemen her şehrini birbirine bağlayan geniş bir tren ağı vardır. Hızlı trenler (ICE) büyük şehirler arasında kısa sürede ulaşım sağlarken, bölgesel trenler (RE, RB) daha yavaş ama sık sefer yapar. Bilet fiyatları erken alındığında veya bölgesel biletlerle daha uygun olabilir.
     *   **Deutschlandticket:** Aylık 49 EUR karşılığında tüm Almanya'da bölgesel trenler, otobüsler, tramvaylar ve metrolarda sınırsız seyahat imkanı sunan bu bilet, paylaşım kültürünü gözlemlemek için farklı şehir ve kasabalara gitmek isteyenler için harika bir seçenektir. Deutschlandticket ile Münih Çevresinde Gezi yazımıza göz atabilirsiniz.
 *   **Otobüs (FlixBus gibi):** Şehirlerarası otobüsler trenlere göre genellikle daha uygun fiyatlıdır ancak yolculuk süreleri daha uzundur.
-*   **Araç Kiralama:** Almanya'da araç kullanmak rahat olsa da, özellikle büyük şehirlerde park yeri bulmak zor ve pahalı olabilir. Ayrıca, [Avrupa'da LPG Rehberi](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) ve [Yeşil Sigorta Rehberi](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/) gibi konulara dikkat etmek gerekebilir.
+*   **Araç Kiralama:** Almanya'da araç kullanmak rahat olsa da, özellikle büyük şehirlerde park yeri bulmak zor ve pahalı olabilir. Ayrıca, [Avrupa'da LPG Rehberi](/tr/almanya/expat/avrupa-lpg-rehberi-tr/) ve [Yeşil Sigorta Rehberi](/tr/almanya/expat/yesil-sigorta-rehberi-tr/) gibi konulara dikkat etmek gerekebilir.
 
 ### Şehir İçi Ulaşım
 

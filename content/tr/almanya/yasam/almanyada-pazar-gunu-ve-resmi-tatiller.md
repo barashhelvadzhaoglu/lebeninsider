@@ -43,3 +43,22 @@ Bence bu çalışanlar için iyi bir durum.
 ## Cumartesiye denk gelen tatil
 
 Resmi tatil cumartesiye denk gelirse o cumartesi de marketler kapalı oluyor. Yani bazen cumartesi ve pazar art arda her yer kapalı oluyor; alışverişi önceden planlamak gerekiyor.
+
+## Pazar günü yine de alışveriş yapılabilecek yerler
+
+Unuttuğunuz bir şey olursa tamamen çaresiz değilsiniz. Büyük tren istasyonlarındaki ve havalimanlarındaki marketler pazar günü de açık. Münih'te Hauptbahnhof'taki ve havalimanındaki marketler bunun bilinen örnekleri; tabii pazar günü çok kalabalık oluyorlar ve fiyatlar biraz daha yüksek. Fırınların bir kısmı pazar sabahı birkaç saatliğine açılıyor, eczanelerde de nöbetçi eczane (Notdienst-Apotheke) sistemi var; en yakın nöbetçi eczaneyi internetten bulabiliyorsunuz.
+
+## Pazar günü sessizlik kuralı
+
+Pazar ve resmi tatiller sadece alışverişin değil gürültünün de olmadığı günler. Matkapla duvar delmek, çim biçmek ya da yüksek sesli tadilat yapmak pazar günü hoş karşılanmıyor ve ev kurallarında (Hausordnung) genelde açıkça yasak. Yeni taşındıysanız mobilya montajını cumartesiye planlamak komşularla ilişkiler için iyi bir fikir. Cam kumbaralarına şişe atmak da pazar günü yasak; kumbaraların üzerinde saatler yazıyor.
+
+## Bavyera'ya özel tatiller
+
+Bavyera, Almanya'da en çok resmi tatili olan eyaletlerden biri. Ülke genelindeki tatillerin yanında 6 Ocak (Heilige Drei Könige), Fronleichnam ve 1 Kasım (Allerheiligen) da tatil. 15 Ağustos (Mariä Himmelfahrt) ise Katolik nüfusun çoğunlukta olduğu belediyelerde tatil; Münih de bunlardan biri. Kasım'daki Buß- und Bettag'da okullar kapalı ama çoğu çalışan için normal iş günü; çocuğu olanlar bunu önceden planlamalı.
+
+## Pratik ipuçları
+
+- Uzun hafta sonlarından önce (özellikle Paskalya ve Noel) marketler çok kalabalık oluyor; alışverişi bir gün öncesine çekin.
+- 24 ve 31 Aralık resmi tatil değil ama marketler öğleden sonra erken kapanıyor.
+- İzin planlarken resmi tatilleri ve köprü günleri birlikte düşünün; birkaç gün izinle uzun bir tatil çıkarmak mümkün.
+- Doktor randevusu ya da resmi işler için tatil haftalarını önceden kontrol edin; birçok muayenehane köprü günlerinde de kapalı oluyor.

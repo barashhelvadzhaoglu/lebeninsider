@@ -143,7 +143,7 @@ Zürih'in toplu taşıma sistemi, Avrupa'nın en gelişmiş ve dakik sistemlerin
 
 ## Bizim Deneyimimiz
 
-Zürih'e yaptığımız gezi, "pahalı" önyargımızla başlamış olsa da, şehir bize kendisini oldukça sevdirdi. Biz, Münih'ten trenle gelmeyi tercih ettik, böylece yolculuk sırasında Bavyera'nın ve İsviçre'nin muhteşem doğasını görme fırsatımız oldu. Şehrin düzeni, temizliği ve toplu taşıma sisteminin kusursuzluğu gerçekten şaşırtıcıydı. Özellikle [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) yazımızda da bahsettiğimiz gibi, Avrupa'daki ulaşım ağlarına hayranlığımız her şehirde artıyor.
+Zürih'e yaptığımız gezi, "pahalı" önyargımızla başlamış olsa da, şehir bize kendisini oldukça sevdirdi. Biz, Münih'ten trenle gelmeyi tercih ettik, böylece yolculuk sırasında Bavyera'nın ve İsviçre'nin muhteşem doğasını görme fırsatımız oldu. Şehrin düzeni, temizliği ve toplu taşıma sisteminin kusursuzluğu gerçekten şaşırtıcıydı. Özellikle [İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) yazımızda da bahsettiğimiz gibi, Avrupa'daki ulaşım ağlarına hayranlığımız her şehirde artıyor.
 
 **En çok neyi beğendik?** Kesinlikle **Lindenhof Tepesi**'nden görünen şehir manzarası ve Zürih Gölü çevresinde yaptığımız uzun yürüyüşler. Hava ne kadar soğuk olursa olsun, gölün verdiği huzur ve çevresindeki parklar bize çok iyi geldi. Ayrıca **Lindt Home of Chocolate** müzesi, tatlı düşkünü olarak bizim için tam bir cennetti; sınırsız çikolata tadımı fırsatını kaçırmayın deriz! Eski Şehir'in daracık sokaklarında kaybolmak ve her köşede farklı bir butik ya da kafeye rastlamak da çok keyifliydi.
 

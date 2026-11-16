@@ -274,8 +274,8 @@ Our one-year-old and five-year-old were generally comfortable on the trains. The
 This experience with the Deutschlandticket has further solidified our love for exploring Bavaria and Germany. For more insights into our travels and life here, check out our related articles:
 
 *   **Why I Left Turkey: The Decision That Changed Everything** ([link](https://lebeninsider.com/en/germany/living/why-i-moved-countries/)) - Understanding the initial motivation for moving to Germany.
-*   **Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know** ([link](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)) - If you're planning a move.
-*   **Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)** ([link](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)) - Essential information for settling in.
+*   **Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know** ([link](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)) - If you're planning a move.
+*   **Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)** ([link](/en/germany/expat/renting-an-apartment-in-munich/)) - Essential information for settling in.
 *   **Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)** (This article)
 *   **Augsburg Travel Guide | Roman City 35 Minutes from Munich (2026)** ([link](https://lebeninsider.com/en/germany/romantic-route/augsburg-travel-guide/))
 *   **Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein (2026)** ([link](https://lebeninsider.com/en/germany/romantic-route/fuessen-town-travel-guide/))

@@ -1,7 +1,8 @@
 ---
+robots: "noindex, follow"   # yeniden yaziliyor (Kasim 2026)
 title: "Working and Living in Luxembourg: Europe's Best Kept Secret?"
 date: 2026-04-16T08:00:00+01:00
-draft: false
+draft: true
 description: "Free public transport. Low taxes. A country where half the population are immigrants. Here is the full picture."
 translationKey: "eu-luxembourg"
 tags:
@@ -33,7 +34,7 @@ Your journey to Luxembourg typically begins with securing a job. This is the bed
 *   **Where to Look:** The primary online platforms are **LinkedIn**, **Indeed.lu**, and local job portals like **Jobs.lu** and **Moovijob.com**. For roles within EU institutions, check **EPSO**.
 *   **Key Industries:** Luxembourg's economy thrives on **finance** (banking, investment funds), **IT & technology**, **logistics**, and **European institutions**. If your background aligns with these sectors, your chances are significantly higher.
 *   **Language for Job Search:** While many international companies operate in English, some roles, particularly those interacting with local clients or requiring specific administrative functions, might require French or German.
-*   **Visa Requirements:** For non-EU citizens, you'll generally need an employer-sponsored **work permit** to be eligible for a long-stay **National Visa (D-Visa)**. Unlike Germany's Job Seeker Visa, there isn't a direct equivalent for actively seeking employment *in Luxembourg* while residing there on such a permit, unless your skills are in extreme demand. For comparison, you can read about my experience with the [Germany Job Seeker Visa here](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/).
+*   **Visa Requirements:** For non-EU citizens, you'll generally need an employer-sponsored **work permit** to be eligible for a long-stay **National Visa (D-Visa)**. Unlike Germany's Job Seeker Visa, there isn't a direct equivalent for actively seeking employment *in Luxembourg* while residing there on such a permit, unless your skills are in extreme demand. For comparison, you can read about my experience with the [Germany Job Seeker Visa here](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/).
 *   **Duration:** Job searching can take anywhere from a few weeks to several months, depending on your field, experience, and network.
 
 ### Step 2: Visa and Residency Application (for Non-EU Citizens)
@@ -64,7 +65,7 @@ Once you have a job offer, the formal immigration process begins. This often sta
 
 This is arguably the most challenging aspect of moving to Luxembourg.
 
-*   **The Reality:** Housing is **extremely expensive** and **scarce**, particularly in and around Luxembourg City. This makes finding a place one of your top priorities, ideally even before you arrive. You can compare this challenge to the housing market in Munich, as detailed in our article [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/).
+*   **The Reality:** Housing is **extremely expensive** and **scarce**, particularly in and around Luxembourg City. This makes finding a place one of your top priorities, ideally even before you arrive. You can compare this challenge to the housing market in Munich, as detailed in our article [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-an-apartment-in-munich/).
 *   **Where to Look:**
     *   Online portals are essential: **Immotop.lu** and **Athome.lu** are the leading ones.
     *   Real estate agencies (agences immobilières) can help, but expect agency fees (typically one month's rent + VAT).
@@ -173,7 +174,7 @@ The entire process, from starting your job search to fully settling in (finding 
 Moving to Luxembourg, especially as a Turkish expat, comes with its unique set of challenges and opportunities. Here are some practical tips gleaned from extensive research and anecdotal experiences to help you prepare.
 
 1.  **Prioritize French Language Skills Early:** Even if your job is entirely in English, **French** is the dominant administrative and daily life language. Knowing at least conversational French will significantly ease your integration into society, bureaucratic interactions, and even simple tasks like grocery shopping or dealing with service providers. Start with online courses or apps well before your move.
-2.  **Housing Search: Your Number One Priority:** I cannot stress this enough – **start your apartment search immediately** upon receiving a job offer, or even before if feasible. The housing market is incredibly competitive, expensive, and limited. Consider temporary accommodation (Airbnb, short-term rentals) for your first few weeks to allow you to conduct in-person viewings. Be prepared for robust documentation requirements from landlords. For a detailed look at housing challenges, check out our insights on [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/).
+2.  **Housing Search: Your Number One Priority:** I cannot stress this enough – **start your apartment search immediately** upon receiving a job offer, or even before if feasible. The housing market is incredibly competitive, expensive, and limited. Consider temporary accommodation (Airbnb, short-term rentals) for your first few weeks to allow you to conduct in-person viewings. Be prepared for robust documentation requirements from landlords. For a detailed look at housing challenges, check out our insights on [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-an-apartment-in-munich/).
 3.  **Understand Cross-Border Living Risks for Non-EU Citizens:** For **EU citizens**, living in France, Belgium, or Germany and commuting is a common and financially sensible strategy. However, for **Turkish citizens (non-EU)**, this is a legal minefield. Your Luxembourgish work and residency permit typically requires you to *reside in Luxembourg*. Living in a neighboring country would require separate, valid residency and work permits for *that country*, which often complicates or outright prevents cross-border commuting. **Always seek legal counsel** from an immigration lawyer specializing in Luxembourgish and cross-border law before even considering this option. Do not rely on anecdotal advice from EU citizens.
 4.  **Net Income is King – Calculate Carefully:** While gross salaries might not always appear astronomically higher than in Germany, the **net take-home pay** in Luxembourg is often significantly better due to lower income taxes (often around 20% effective rate for many professionals). Factor in the **free public transport** and **free childcare for working parents** – these are substantial financial benefits that directly increase your disposable income. Use online salary calculators to get a realistic picture of your purchasing power, comparing it with potential earnings in Germany as discussed in [Netherlands vs Luxembourg vs Germany: Why I Chose Germany](https://lebeninsider.com/en/germany/expat/eu-series-03-comparison-why-germany/).
 5.  **Network Actively:** Luxembourg is a small country with a tight-knit professional community. Networking is vital for both career advancement and social integration. Attend industry events, join expat groups, and leverage platforms like LinkedIn. The international nature of the population means many people are in a similar situation and open to making new connections. For broader tips on social integration, our article on [Social Life and Making Friends: Turkey vs Germany](https://lebeninsider.com/en/germany/living/social-life-turkey-vs-germany/) might provide useful context.
@@ -205,7 +206,7 @@ Here are some common questions Turkish expats have about working and living in L
 
 ---
 *Part of the [Europe for Expats](/en/germany/expat/) series.*
-- [Netherlands](/en/germany/expat/eu-series-01-netherlands/) · [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
+- [Netherlands](/en/germany/expat/eu-series-03-comparison-why-germany/) · [Why I Chose Germany](/en/germany/expat/eu-series-03-comparison-why-germany/)
 - [Job Seeker Visa for Germany](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)
 
 ---

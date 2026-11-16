@@ -35,6 +35,27 @@ It's great for relaxing. You don't need to live outside the city to escape city 
 
 ## Hard to find
 
-There is huge demand. I applied once; they weren't even taking anyone onto the waiting lists anymore. I also see listings on Kleinanzeigen, but I haven't looked into the details yet.
+There is huge demand. I emailed several allotment associations in Munich. Some replied, but all of them were full, and a few were not even adding new people to their waiting lists. Waiting times are measured in years.
+
+The further you move from the city centre, the better your chances; associations in the surrounding towns and outside the city are easier to get into. Another route is Kleinanzeigen, where people who want to hand over their plot post listings. That is my next step.
 
 If you are considering a Kleingarten, start researching early and ask about the waiting lists of local associations in your area.
+
+## The rules of a Kleingarten
+
+Allotments are governed by a federal law (Bundeskleingartengesetz) and by each association's own statutes. The best-known rule: you are expected to grow fruit and vegetables on part of the plot, usually around a third. So you cannot use the garden only as a lawn and barbecue area. The hut (Laube) has to stay small and living there permanently is not allowed; even staying overnight is restricted in most associations. There are also rules on hedge height, tree types and quiet hours, and the association checks them.
+
+## How much does it cost?
+
+The annual lease plus membership fee usually stays at a few hundred euros, which is genuinely cheap for a garden in the city. The real cost comes at handover: you pay the previous tenant a transfer fee (Ablöse) for the hut, trees and fittings. The association sets this amount, and depending on the plot it can reach several thousand euros. Add small costs such as water, electricity and insurance.
+
+## How to apply
+
+- Find the allotment associations in your area; in Munich they are organised under a district association (Kreisverband).
+- Apply to several associations and ask to be put on the waiting list.
+- In cities the wait can take several years; be patient and check in from time to time.
+- When you are offered a plot, look carefully at the transfer fee, the condition of the hut and the association's rules.
+
+## Alternatives
+
+If the waiting lists are too long, there are other options. Some cities offer seasonal vegetable plots (Krautgarten or Gemüsegarten) that you rent for one season; they are handed over already sown and returned at the end. Community gardens (Gemeinschaftsgarten) are another good start. And if you have a balcony, a small balcony garden with tomatoes, strawberries and herbs is a great first step.

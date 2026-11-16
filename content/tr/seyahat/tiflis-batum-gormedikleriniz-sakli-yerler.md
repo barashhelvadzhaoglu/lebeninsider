@@ -141,7 +141,7 @@ Gürcistan'a ulaşım ve şehir içi hareketlilik oldukça çeşitli seçenekler
 | **Uçak** | İstanbul (IST/SAW) | Tiflis (TBS) / Batum (BUS) | 2-2.5 saat | 80-200 EUR | Pegasus ve Türk Hava Yolları'nın direkt seferleri mevcut. Erken rezervasyon ile ucuz bilet bulunabilir. |
 | **Uçak** | Münih (MUC) / Frankfurt (FRA) | Tiflis (TBS) | 3-4 saat | 150-300 EUR | Lufthansa gibi havayollarının aktarmalı veya direkt seferleri. |
 | **Otobüs** | İstanbul | Tiflis / Batum | 18-24 saat | 40-60 EUR | Daha uygun fiyatlı ancak uzun ve yorucu bir yolculuk. |
-| **Özel Araç** | İstanbul | Tiflis / Batum | 18-22 saat | Değişken | **[İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri (2026)](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/)** gibi uzun yolculuk deneyimlerimiz var. Sarp Sınır Kapısı'ndan kimlikle geçiş mümkün ancak uluslararası ehliyet ve sigorta belgeleri gerekli. **[Yeşil Sigorta Rehberi | Sınırda 75 Euro Tasarruf ve 90 Gün Kuralı (2026)](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/)** yazımızı inceleyebilirsiniz. |
+| **Özel Araç** | İstanbul | Tiflis / Batum | 18-22 saat | Değişken | **[İstanbul'dan Münih'e Araçla | Romanya Rotası, Gece Yolculuğu ve Tır Taktikleri (2026)](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/)** gibi uzun yolculuk deneyimlerimiz var. Sarp Sınır Kapısı'ndan kimlikle geçiş mümkün ancak uluslararası ehliyet ve sigorta belgeleri gerekli. **[Yeşil Sigorta Rehberi | Sınırda 75 Euro Tasarruf ve 90 Gün Kuralı (2026)](/tr/almanya/expat/yesil-sigorta-rehberi-tr/)** yazımızı inceleyebilirsiniz. |
 
 ### Şehirlerarası Ulaşım (Tiflis - Batum):
 

@@ -33,7 +33,7 @@ So einfach das Tanken von LPG in der Türkei ist, so kompliziert kann es in eini
 
 **Wo:** Bevor Sie Ihre Reise antreten, nutzen Sie Karten-Apps oder Websites, die LPG-Tankstellen auf Ihrer Route anzeigen. Ich empfehle dringend, Websites wie **LPG.eu** oder die "LPG-Tankstelle"-Filter in Navigations-Apps zu verwenden. Es ist möglicherweise nicht in jeder Stadt oder sogar an jeder Autobahn eine LPG-Tankstelle zu finden. Besonders in Deutschland befinden sich LPG-Tankstellen nicht an jeder Ecke wie in der Türkei, sondern eher an bestimmten Autobahnraststätten (Tank & Rast) oder in der Nähe von Industriegebieten in Städten.
 
-**Wie:** Planen Sie Ihre Route so, dass Sie besonders in DISH-kompatiblen Ländern wie Bulgarien und Rumänien versuchen, den LPG-Tank maximal zu füllen. Dies spart Ihnen Zeit und Benzin beim Übergang nach Westeuropa. Zum Beispiel hat mir das Tanken in Bulgarien und Rumänien auf meiner [Autoreise von Istanbul nach München](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) einen großen Vorteil verschafft.
+**Wie:** Planen Sie Ihre Route so, dass Sie besonders in DISH-kompatiblen Ländern wie Bulgarien und Rumänien versuchen, den LPG-Tank maximal zu füllen. Dies spart Ihnen Zeit und Benzin beim Übergang nach Westeuropa. Zum Beispiel hat mir das Tanken in Bulgarien und Rumänien auf meiner [Autoreise von Istanbul nach München](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) einen großen Vorteil verschafft.
 
 **Wie lange dauert es:** Die Tankstellenermittlung und Routenplanung kann vor der Reise 1-2 Stunden in Anspruch nehmen, aber das ist viel wertvoller als stundenlanges Suchen nach Tankstellen unterwegs.
 
@@ -78,7 +78,7 @@ Wenn Sie mit einem LPG-Fahrzeug eine Europareise antreten, ist es viel wichtiger
 | **LPG-Adapter-Set (DISH-ACME, DISH-Bayonet)** | LPG-Umrüstwerkstätten in der Türkei, Autozubehörgeschäfte, Online-Shops (z.B. N11, GittiGidiyor) | Die meisten Fahrzeuge in der Türkei haben den DISH-Typ. Für Deutschland und Westeuropa ist ein **ACME**-Adapter, für Ungarn ein **Bayonet**-Adapter unbedingt erforderlich. Die meisten Sets enthalten 3-4 verschiedene Adapter. |
 | **Online-LPG-Tankstellenkarten-App/Website** | Mobile App Stores (z.B. GasBuddy, myLPG.eu), Websites (z.B. LPG.eu) | Zeigt LPG-Tankstellen auf Ihrer Route an. Kann auch Informationen zu den Anschlusstypen enthalten. Stellen Sie sicher, dass Sie eine Internetverbindung haben oder laden Sie die Karten zur Offline-Nutzung herunter. |
 | **Fahrzeugschein (Zulassungsbescheinigung Teil I)** | Bei der Anreise aus der Türkei dabei haben | Enthält die technischen Daten Ihres Fahrzeugs und bestätigt, dass das LPG-System im Fahrzeugschein eingetragen ist. Kann bei Kontrollen erforderlich sein. |
-| **Grüne Versicherungskarte** | Ihre Versicherungsgesellschaft in der Türkei | Gültige Kfz-Haftpflichtversicherung in Europa. Details finden Sie insbesondere in unserem [Grüne Versicherungskarte Leitfaden](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/). |
+| **Grüne Versicherungskarte** | Ihre Versicherungsgesellschaft in der Türkei | Gültige Kfz-Haftpflichtversicherung in Europa. Details finden Sie insbesondere in unserem [Grüne Versicherungskarte Leitfaden](/tr/almanya/expat/yesil-sigorta-rehberi-tr/). |
 | **Bargeld (Euro)** | Wechselstuben in der Türkei, Banken | Wird Ihr Retter sein, besonders an kleinen Tankstellen oder wenn Ihre Karte nicht akzeptiert wird. |
 | **Grundlegende deutsche/englische Kraftstoffbegriffe** | Übersetzungs-Apps, kleiner Notizzettel | Ausdrücke wie "Autogas", "LPG", "Benzin", "Karte oder Bar?", "Können Sie mir helfen?". |
 
@@ -137,7 +137,7 @@ Diese Situation erhöhte unser Budget auf den letzten 800-900 Kilometern unserer
 
 Diese Erfahrung lehrte mich eine sehr wichtige Lektion: Nicht alles in Europa ist "Standard", und eine detaillierte Vorbereitung ist bei Autoreisen von entscheidender Bedeutung. Ich habe diese Erfahrung gemacht, damit Sie sie nicht machen müssen. Ein Adapter-Set ist eine kleine Investition, aber ein Tor zu großem Komfort und Ersparnissen.
 
-Leider mussten wir unseren Honda Civic nach dieser Odyssee nach unserer Rückkehr in die Türkei verkaufen. Wie ich auch in unserem [Grüne Versicherungskarte Leitfaden](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/) erwähnt habe, ist es weder praktisch noch rechtlich haltbar, ein türkisches Fahrzeug länger als 6 Monate in Deutschland zu behalten. Das zwang mich, in Deutschland ein neues Auto zu kaufen, was wiederum ein ganz eigenes Thema für einen weiteren Artikel ist...
+Leider mussten wir unseren Honda Civic nach dieser Odyssee nach unserer Rückkehr in die Türkei verkaufen. Wie ich auch in unserem [Grüne Versicherungskarte Leitfaden](/tr/almanya/expat/yesil-sigorta-rehberi-tr/) erwähnt habe, ist es weder praktisch noch rechtlich haltbar, ein türkisches Fahrzeug länger als 6 Monate in Deutschland zu behalten. Das zwang mich, in Deutschland ein neues Auto zu kaufen, was wiederum ein ganz eigenes Thema für einen weiteren Artikel ist...
 
 ## Häufig gestellte Fragen
 

@@ -46,15 +46,27 @@ A more "alternative" Christmas market set up on the Oktoberfest grounds.
 
 ## 3. Other Markets
 
-Every neighborhood has its own little market. Their 2026 dates haven't been fully announced yet, but they are generally open from the last week of November until Christmas:
+Besides the big markets, every Munich neighbourhood has its own. 2026 dates:
 
-- **Medieval Market (Mittelaltermarkt), Wittelsbacherplatz:** Vendors in medieval attire, artisan crafts, food cooked over open wood fires. Very interesting for kids.
-- **Weihnachtsdorf, Residenz:** A fairytale Christmas village nestled in the palace courtyard.
-- **Chinesischer Turm, Englischer Garten:** Surrounded by trees inside the park; featuring Bavarian curling (Eisstock) lanes right next to it.
-- **Pink Christmas, Stephansplatz:** A colorful and vibrant market.
-- **Haidhausen (Weißenburger Platz) and Sendlinger Tor:** Smaller, calmer markets with a genuine neighborhood feel.
+- **Weihnachtsdorf, Residenz (Kaiserhof):** a fairytale Christmas village in the palace courtyard. **16 November – 22 December**, daily 11:00–21:00. The first market to open in the city.
+- **Chinesischer Turm, Englischer Garten:** among the trees in the park, with Bavarian curling (Eisstock) lanes next to it. **19 November – 23 December**; according to guides open Wednesday to Sunday, 11:30–20:30 on weekdays and 11:00–20:30 at weekends.
+- **Medieval market (Mittelaltermarkt), Wittelsbacherplatz:** vendors in medieval costume, crafts, food cooked over wood fires. One of the most interesting for kids. **20 November – 23 December**, daily 11:00–21:00.
+- **Pink Christmas, Stephansplatz:** a colourful, lively market. **20 November – 20 December**; opens at 16:00 on weekdays and 14:00 at weekends, until 22:00.
+- **Sternenflotte, Alte Utting (Lagerhausstraße):** a young, alternative market on and around an old lake steamer set on top of a bridge. **27 November – 23 December**; Thursday to Sunday at first, daily from 15 December.
+- **Haidhausen (Weißenburger Platz) and Sendlinger Tor:** smaller, calmer markets with a neighbourhood feel.
 
-Before heading out, be sure to check dates and hours on the markets' official websites or on muenchen.de.
+Opening hours can change; check the markets' own websites or muenchen.de before you go.
+
+## 4. Day trips from Munich: Christmas markets with the Deutschlandticket
+
+After Munich's markets, these cities are easy to reach by regional train with the Deutschlandticket:
+
+- **Augsburg** (~45 min by regional train): Rathausplatz, **23 November – 24 December**. On Friday, Saturday and Sunday evenings at 18:00, people dressed as angels appear in the town hall windows for the free **Engelesspiel**.
+- **Regensburg** (~1.5 h): the romantic market in the courtyard of Thurn und Taxis Palace (**20 November – 23 December**, paid entry) and the free market on Neupfarrplatz in the centre (**23 November – 23 December**).
+- **Salzburg** (~1.5 h, Austria): the Deutschlandticket is valid to Salzburg Hauptbahnhof. The Domplatz market runs **19 November – 1 January**, so it is still open after New Year.
+- **Nuremberg** (~2 h): Germany's most famous Christmas market, **27 November – 24 December**, daily 10:00–21:00, opened by the Christkind. A separate children's market (Kinderweihnacht) stays open until 30 December.
+- **Lindau** (Lake Constance): a harbour market with views of the lake and the Alps. **26 November – 20 December**, Thursday to Sunday only, 11:00–21:00.
+- **Rothenburg ob der Tauber:** the Reiterlesmarkt inside the walls of a medieval town, with roots in the 15th century. **20 November – 23 December.** Far, but worth it if you are travelling the Romantic Road.
 
 ## Glühwein and Mug Deposit (Pfand)
 

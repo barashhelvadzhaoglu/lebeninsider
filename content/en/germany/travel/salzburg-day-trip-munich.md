@@ -167,7 +167,7 @@ Here are a few suggestions:
 ### Getting To Salzburg
 
 *   **By Train:** This is by far the most popular and convenient way to reach Salzburg from major German cities.
-    *   **From Munich:** Direct trains depart frequently from Munich Hauptbahnhof. The journey takes approximately 1.5 hours. With the **Deutschlandticket**, you can travel for free to **Freilassing** station, which is just before the Austrian border. From Freilassing, you’ll need a separate ticket for the short journey to Salzburg Hauptbahnhof, which typically costs around €4-€6. So, the total cost is minimal, making it incredibly budget-friendly.
+    *   **From Munich:** Direct trains depart frequently from Munich Hauptbahnhof. The journey takes approximately 1.5 hours. With the **Deutschlandticket** you can ride regional trains all the way to Salzburg Hauptbahnhof at no extra cost.
     *   **From Frankfurt:** Direct ICE trains connect Frankfurt Hauptbahnhof to Salzburg Hauptbahnhof, with a journey time of around 3.5 to 4 hours.
     *   **From Other European Cities:** Salzburg Hauptbahnhof is well-connected to other major European cities via international rail services.
 
@@ -177,38 +177,40 @@ Here are a few suggestions:
 
 *   **By Bus:** Long-distance bus services, such as FlixBus, also operate routes to Salzburg from various European cities, often offering a more budget-friendly alternative to trains, though journeys can be longer.
 
+### Is the Deutschlandticket valid?
+
+Yes. We have taken the train to Salzburg twice and did not buy any extra ticket. With the [Deutschlandticket](/en/germany/travel/deutschlandticket-munich-day-trips/) you board a regional train at Munich Hauptbahnhof and get off directly at **Salzburg Hauptbahnhof**, no change needed. On some cross-border regional lines the Deutschlandticket is valid all the way to Salzburg Hbf. Note: this only applies to regional trains (RE/RB, Meridian); you cannot use it on long-distance trains such as ICE, EC or Railjet.
+
+### Bring your passport
+
+There was no check on the way there. On the way back, however, police board the train at the first stop after re-entering Germany (Freilassing) and check everyone's documents. On our first trip we had only our residence permits (Aufenthaltstitel) and had left our passports at home. The officers told us the residence card is not enough and you need your passport with you. I offered to show photos of our passports on my phone; they let it go "this time", but said you can normally be fined. In short: a residence card alone is not enough. Non-EU citizens should carry their passport, EU citizens their ID card.
+
+### The line closes in 2027
+
+As part of Deutsche Bahn's major renovation programme, the **Rosenheim–Salzburg** line will be closed to trains from **7 February to 9 July 2027**. During that time replacement buses (Schienenersatzverkehr) run between Rosenheim and Salzburg instead of regional trains, and the journey takes noticeably longer; ADAC recommends planning 20–60 extra minutes. If you travel in that period, check the current connection in DB Navigator before you leave.
+
 ### Getting Around Salzburg
 
 Salzburg is a wonderfully walkable city, especially its compact Old Town. Many of the main attractions are clustered together, making it easy to explore on foot.
 
 *   **Walking:** This is the best way to experience the charm of the Altstadt, discover hidden alleys, and truly soak in the atmosphere.
 *   **Public Transport:** Salzburg has an efficient public bus system. If you plan on visiting several attractions spread out or have mobility issues, consider purchasing a Salzburg Card, which includes public transport and free entry to many attractions, or a day ticket for the buses.
-*   **Deutschlandticket:** While the Deutschlandticket covers your travel to Freilassing (Germany), it is *not* valid for travel within Austria, including the stretch from Freilassing to Salzburg or for local buses within Salzburg. You will need a separate ticket for Austrian public transport.
+*   **Deutschlandticket:** It gets you to Salzburg Hbf on regional trains, but it is not valid on Salzburg's city buses; buy a local ticket for those.
 *   **Cycling:** Salzburg is a cycling-friendly city with dedicated bike paths. You can rent bicycles from various points in the city for a pleasant way to explore, especially along the river or to slightly further-out attractions.
 *   **Taxis:** Taxis are readily available but can be expensive, particularly for longer distances.
 
 ## Our Experience
 
-Visiting Salzburg was an absolute dream, a perfect blend of the familiar comfort of German efficiency with the distinct charm of Austrian culture. As someone who has spent considerable time in Germany and traveled extensively within the EU, the transition to Salzburg felt seamless yet distinct.
+We have been to Salzburg twice as a family. The biggest plus for us is how easy it is to get there: you board at Munich Hauptbahnhof and get off in Salzburg, with nothing to buy beyond the Deutschlandticket. The ride takes about 1.5 to 2 hours, which makes it ideal for a day trip with kids.
 
-What we loved most about Salzburg was its incredibly concentrated beauty. Unlike some larger cities where attractions are spread out, Salzburg’s historical heart is compact and easily navigable on foot. Walking through the Getreidegasse, even with the crowds, felt magical, with the ornate signs and the sheer history palpable in the air. Hohensalzburg Fortress, of course, was a highlight. The climb up, even just to the funicular station, offered teasing glimpses of the city, and the views from the top were simply unparalleled. We spent a good part of the afternoon there, imagining life centuries ago.
-
-The Mirabell Gardens were another moment of pure delight. The "Do-Re-Mi" scene from "The Sound of Music" has always held a special place, and being able to stand in that very spot, surrounded by the meticulously kept gardens, was quite an emotional experience. It's a testament to how a city can weave its cultural fabric into the very landscape.
-
-The food was, as expected, hearty and delicious. We indulged in a classic Wiener Schnitzel that was perfectly cooked, crisp and tender. And yes, we couldn't leave without trying the Salzburger Nockerl – it was a wonderfully sweet and airy finale to a delightful meal, though perhaps a bit challenging to share gracefully! We also enjoyed stopping at **Café Tomaselli** ([Google Maps](https://www.google.com/maps/search/Cafe+Tomaselli+Salzburg)) for a coffee and a slice of Sachertorte, savoring the old-world ambiance.
-
-If there was anything that felt slightly less than perfect, it was the sheer number of day-trippers, especially during peak hours on Getreidegasse. It can sometimes detract from the serene atmosphere the city is known for. However, this is a common characteristic of highly sought-after destinations, and a strategic visit (early mornings or late afternoons) can mitigate this.
-
-For families with young children, Salzburg is quite manageable. The Old Town is largely pedestrianized, and while some cobblestone streets can be a bit bumpy, most of the main attractions are accessible. The Mirabell Gardens are fantastic for kids to run around in. The fortress, with its funicular access, is also a great adventure. We saw many families with strollers, and it seemed quite feasible, though navigating very narrow, crowded lanes might require some extra effort.
-
-Our trip to Salzburg was a perfect day trip from Munich, easily achievable and incredibly rewarding. It offered a deep dive into Austrian culture, music, and history, all within a stunningly beautiful setting.
+Our only bad surprise was the passport check on the way back. As described above, that is where we learned a residence card is not enough. On our second trip the passports were in the bag.
 
 **Related Articles:**
 
-*   For planning your travel within Germany and exploring more of Bavaria, check out our guide to [Deutschlandticket Day Trips from Munich](https://lebeninsider.com/en/germany/travel/deutschlandticket-munich-day-trips/).
-*   If you're considering other nearby Austrian gems, our guide to [Salzburg Travel Guide | Mozart's City 1.5 Hours from Munich](https://lebeninsider.com/en/germany/travel/salzburg-day-trip-munich/) provides more in-depth information.
-*   For a journey through the picturesque Bavarian Alps, our [Füssen Travel Guide | Alpine Medieval Town Beyond Neuschwanstein](https://lebeninsider.com/en/germany/romantic-route/fuessen-town-travel-guide/) is a must-read.
-*   Discover the charming island city on Lake Constance in our [Lindau Travel Guide | Island City on Lake Constance | 2 Hours from Munich](https://lebeninsider.com/en/germany/romantic-route/lindau-lake-constance-travel-guide/).
+*   [Deutschlandticket Day Trips from Munich](/en/germany/travel/deutschlandticket-munich-day-trips/)
+*   [Regensburg Travel Guide](/en/germany/travel/regensburg-travel-guide/)
+*   [Munich Christmas Markets 2026](/en/germany/living/munich-christmas-markets-2026-guide/)
+
 
 ## Frequently Asked Questions
 
@@ -216,7 +218,7 @@ Our trip to Salzburg was a perfect day trip from Munich, easily achievable and i
     The shoulder seasons, April to May and September to October, offer pleasant weather and fewer crowds. Summer (June to August) is popular but can be very busy and warmer. December is magical with its Christmas markets.
 
 *   **Is the Deutschlandticket valid for travel to Salzburg?**
-    The Deutschlandticket is valid for travel on regional trains up to Freilassing station in Germany, which is just before the Austrian border. You will need to purchase a separate, inexpensive ticket for the short journey from Freilassing to Salzburg Hauptbahnhof.
+    Yes, on regional trains (RE/RB, Meridian) it is valid from Munich all the way to Salzburg Hauptbahnhof; no extra ticket needed. It is not valid on long-distance trains (ICE, EC, Railjet).
 
 *   **How many days are recommended for a visit to Salzburg?**
     A full day trip from Munich is achievable and allows you to see the main highlights. However, to truly immerse yourself and explore the surrounding Salzkammergut region (like Hallstatt), a 2-3 day stay would be ideal.

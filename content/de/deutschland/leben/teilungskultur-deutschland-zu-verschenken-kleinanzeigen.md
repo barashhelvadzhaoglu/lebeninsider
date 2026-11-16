@@ -130,7 +130,7 @@ Wenn unsere Kinder aus Spielsachen oder Kleidung herausgewachsen sind, stellen w
 
 Diese Praxis hängt eng mit der allgemeinen **Vertrauenskultur** im Land zusammen. Dass Dinge unbewacht vor Türen stehen oder Tauschschränke ordentlich bleiben, basiert auf einem Grundvertrauen innerhalb der Gesellschaft. Selbst in herausfordernden Situationen wie einer [Kündigung in Deutschland und Arbeitsgericht](https://lebeninsider.com/de/deutschland/expat/kuendigung-deutschland-arbeitsgericht-erfahrung/) gibt dieses verlässliche gesellschaftliche Regelwerk eine gewisse Orientierung.
 
-Letztlich ist die Teilungskultur in Deutschland weit mehr als bloßes „Gebrauchtwaren abgeben“. Sie ist eine Lebenshaltung, geprägt von Umweltbewusstsein, gegenseitigem Respekt und stillem Vertrauen. Vielleicht ist sie eine der wärmsten und menschlichsten Seiten einer Gesellschaft, die nach außen hin manchmal sachlich wirkt. Neben praktischen Themen wie der [Wohnungssuche in Deutschland](https://lebeninsider.com/de/deutschland/expat/wohnung-mieten-muenchen/) hilft das Verständnis solcher kulturellen Feinheiten ungemein, sich hier wirklich zu Hause zu fühlen.
+Letztlich ist die Teilungskultur in Deutschland weit mehr als bloßes „Gebrauchtwaren abgeben“. Sie ist eine Lebenshaltung, geprägt von Umweltbewusstsein, gegenseitigem Respekt und stillem Vertrauen. Vielleicht ist sie eine der wärmsten und menschlichsten Seiten einer Gesellschaft, die nach außen hin manchmal sachlich wirkt. Neben praktischen Themen wie der [Wohnungssuche in Deutschland](/de/deutschland/expat/wohnungssuche-in-muenchen-erfahrungen/) hilft das Verständnis solcher kulturellen Feinheiten ungemein, sich hier wirklich zu Hause zu fühlen.
 
 ## Häufig gestellte Fragen (FAQ)
 

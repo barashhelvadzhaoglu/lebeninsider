@@ -146,7 +146,7 @@ Türkiye'den veya Almanya gibi Avrupa merkezlerinden farklı destinasyonlara ula
     *   **Fiyat Alarmı:** Belirli bir rota için fiyat alarmı kurarak, fiyatlar düştüğünde anında e-posta bildirimi alırsınız. Bu sayede, gece yarısı düşen bir fiyattan haberiniz olur.
     *   **Keşfet (Explore) Özelliği:** Sabit bir destinasyonunuz yoksa, "Explore" özelliği ile kendi şehrinizden kalkışlı en uygun fiyatlı tüm destinasyonları harita üzerinde görebilirsiniz. Bu, size hiç düşünmediğiniz yerlere gitme fırsatı sunar.
 4.  **Esnek Rota Planlaması:** Her zaman aynı şehirden gidiş-dönüş yapmak zorunda değilsiniz. Avrupa'da tren ve otobüs ağları (örn. **Flixbus** ([Google Maps](https://www.flixbus.com/)) veya **Omio** ([Google Maps](https://www.omio.com/))) çok gelişmiştir.
-    *   **Örnek:** Brüksel'e ucuz bilet bulup, dönüşü birkaç saat trenle ulaşılabilecek Köln'den yapmak, toplam maliyeti ciddi anlamda düşürebilir. [Avrupa'da LPG Rehberi](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) yazımızda da bahsettiğimiz gibi, farklı ulaşım modlarını kombine etmek seyahat esnekliğini artırır.
+    *   **Örnek:** Brüksel'e ucuz bilet bulup, dönüşü birkaç saat trenle ulaşılabilecek Köln'den yapmak, toplam maliyeti ciddi anlamda düşürebilir. [Avrupa'da LPG Rehberi](/tr/almanya/expat/avrupa-lpg-rehberi-tr/) yazımızda da bahsettiğimiz gibi, farklı ulaşım modlarını kombine etmek seyahat esnekliğini artırır.
 5.  **Manuel Tarih Araması:** Pegasus uygulamasında takvim bazen tüm uygun fiyatları göstermeyebilir. Bir gün ileri, bir gün geri tek tek bakmak, bazen **yüzlerce liralık fark** yaratabilir. Özellikle iş veya tatil dönüşlerimizde, Almanya-İstanbul hattında bu yöntemle defalarca uygun fiyat yakaladım.
 6.  **Fiyatların Günlük Değişimi:** Bir rotanın fiyatı bugün yüksekse, yarın düşebilir. Sistemsel iptaller, yeni açılan koltuklar veya havayolunun fiyatlandırma algoritmaları nedeniyle fiyatlar anlık değişebilir. Sabırla ve düzenli olarak kontrol etmek önemlidir.
 
@@ -180,7 +180,7 @@ Aynı şekilde, Basel Gezi Rehberi yazımızdaki İsviçre maceramız da böyle 
 
 *   **Uçuş Kaçırma Deneyimi:** [Gürcistan gezimizde uçağı kaçırdık](https://lebeninsider.com/tr/seyahat/gurcistan-tiflis-batum-gezi-rehberi/) ve bu, en iyi planlamanın bile bazen aksiliklerle karşılaşabileceğini gösterdi. Ancak yine de havayolunun kısmi iade politikası sayesinde büyük bir kayıp yaşamadık. Bu durum, seyahat sigortasının veya iptal edilebilir bilet seçeneklerinin önemini bir kez daha ortaya koydu.
 *   **Kampanya Saatlerinin Belirsizliği:** Pegasus kampanyalarının genellikle gece saatlerinde başlaması, uyku düzeninizi bozabiliyor. Ancak bu fedakarlığın karşılığını fazlasıyla aldığımızı söyleyebilirim.
-*   **Esnekliğin Getirdiği Zorluklar:** Bazen gidiş farklı şehirden, dönüş farklı şehirden olduğunda, şehirlerarası ulaşımı organize etmek ekstra zaman ve çaba gerektirebiliyor. Ama [İstanbul'dan Münih'e araçla](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) yaptığımız gibi maceralı yolculuklarda, bu planlamalar zaten seyahatin bir parçası haline geliyor.
+*   **Esnekliğin Getirdiği Zorluklar:** Bazen gidiş farklı şehirden, dönüş farklı şehirden olduğunda, şehirlerarası ulaşımı organize etmek ekstra zaman ve çaba gerektirebiliyor. Ama [İstanbul'dan Münih'e araçla](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) yaptığımız gibi maceralı yolculuklarda, bu planlamalar zaten seyahatin bir parçası haline geliyor.
 
 **Bebek Arabası / Küçük Çocukla Nasıl?**
 

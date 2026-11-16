@@ -102,7 +102,7 @@ La forma más común de viajar de Turquía a Alemania es en avión. Hay vuelos d
 | :----------- | :-------------- | :-------------------------------- | :----- |
 | **Avión (Estambul - Múnich/Fráncfort)** | 2.5 - 3 horas | 80 - 250 EUR (Con reserva anticipada) | Echa un vistazo a nuestro artículo [¿Cómo Encontrar Billetes de Avión Baratos?](https://lebeninsider.com/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/). |
 | **Autobús (Estambul - Alemania)** | 30 - 40 horas | 70 - 120 EUR | Una opción más económica para quienes disfrutan de viajes largos. |
-| **En Coche (Estambul - Alemania)** | 25 - 35 horas (Con descansos) | Combustible + Peajes | Puedes leer nuestro artículo [En Coche de Estambul a Múnich](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/). |
+| **En Coche (Estambul - Alemania)** | 25 - 35 horas (Con descansos) | Combustible + Peajes | Puedes leer nuestro artículo [En Coche de Estambul a Múnich](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/). |
 
 ### Transporte Dentro de Alemania
 
@@ -111,7 +111,7 @@ Para el transporte dentro de Alemania, el método más común y eficiente son lo
 *   **Tren (Deutsche Bahn - DB):** Alemania cuenta con una extensa red de trenes que conecta casi todas sus ciudades. Los trenes de alta velocidad (ICE) permiten viajar rápidamente entre las grandes ciudades, mientras que los trenes regionales (RE, RB) son más lentos pero ofrecen servicios frecuentes. Los precios de los billetes pueden ser más asequibles si se compran con antelación o con billetes regionales.
     *   **Deutschlandticket:** Este billete, que ofrece viajes ilimitados por toda Alemania en trenes regionales, autobuses, tranvías y metros por 49 EUR al mes, es una opción fantástica para quienes deseen ir a diferentes ciudades y pueblos para observar la cultura de compartir. Puedes consultar nuestro artículo Viaje por los alrededores de Múnich con el Deutschlandticket.
 *   **Autobús (como FlixBus):** Los autobuses interurbanos suelen ser más económicos que los trenes, pero los tiempos de viaje son más largos.
-*   **Alquiler de Coches:** Aunque conducir en Alemania es cómodo, encontrar aparcamiento en las grandes ciudades puede ser difícil y caro. Además, puede ser necesario prestar atención a temas como la [Guía de GLP en Europa](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) y la [Guía del Seguro Verde](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/).
+*   **Alquiler de Coches:** Aunque conducir en Alemania es cómodo, encontrar aparcamiento en las grandes ciudades puede ser difícil y caro. Además, puede ser necesario prestar atención a temas como la [Guía de GLP en Europa](/tr/almanya/expat/avrupa-lpg-rehberi-tr/) y la [Guía del Seguro Verde](/tr/almanya/expat/yesil-sigorta-rehberi-tr/).
 
 ### Transporte Urbano
 

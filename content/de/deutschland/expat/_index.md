@@ -34,7 +34,7 @@ Wie unterscheidet sich der Prozess für EU-Bürger? Türkisch-zu-bulgarischer F�
 **Wohnung mieten in München**
 München gehört zu den teuersten Mietmärkten Europas. Wo suchen, welche Plattformen funktionieren, wie man sich als Ausländer bewirbt, und wann man eine andere Strategie braucht.
 
-→ [Wohnung mieten in München](/de/deutschland/expat/wohnung-mieten-muenchen/)
+→ [Wohnung mieten in München](/de/deutschland/expat/wohnungssuche-in-muenchen-erfahrungen/)
 
 ---
 

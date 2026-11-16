@@ -223,8 +223,8 @@ One aspect that resonated deeply was the city's respect for history and its will
 Our experience in Munich reinforced our positive impressions of Germany, but also highlighted its unique Bavarian identity. It's a city that offers the best of both worlds: the efficiency and structure of German living, combined with a warm, traditional, and deeply enjoyable way of life.
 
 *   **Related Site Content:**
-    *   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](https://lebeninsider.com/en/germany/expat/renting-in-germany-munich/)
-    *   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](https://lebeninsider.com/en/germany/expat/eu-series-04-job-seeker-visa-germany-EN/)
+    *   [Renting an Apartment in Germany | The Reality of Finding Housing in Munich (2026)](/en/germany/expat/renting-an-apartment-in-munich/)
+    *   [Germany Job Seeker Visa: My Personal Experience and Everything You Need to Know](/en/germany/expat/eu-series-04-job-seeker-visa-germany-en/)
     *   Deutschlandticket Day Trips from Munich | Bavaria with Kids (2026)
     *   Christmas and New Year in Germany | Munich Christmas Markets & Silvester (2026)
 

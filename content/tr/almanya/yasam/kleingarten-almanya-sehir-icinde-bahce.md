@@ -36,6 +36,27 @@ Rahatlamak için çok güzel. Şehir hayatından kaçmak için şehir dışında
 
 ## Bulmak zor
 
-Çok fazla rağbet var. Ben bir kere başvurmuştum; bekleme listelerine artık kimseyi almıyorlardı. Kleinanzeigen'de de ilanlar görüyorum ama detaylarını henüz incelemedim.
+Çok fazla rağbet var. Münih'teki birkaç Kleingarten derneğine e-posta ile başvurdum. Dönüş yapanlar oldu ama hepsi doluydu; bazıları bekleme listesine bile yeni kişi almıyordu. Bekleme süreleri yıllarla ölçülüyor.
+
+Şehir merkezinden uzaklaştıkça şansın artıyor; çevre ilçelerde ve şehir dışındaki derneklerde yer bulmak daha kolay. Bir diğer yol da Kleinanzeigen: devir yapmak isteyenler orada ilan veriyor. Ben de alternatif olarak oraya bakacağım.
 
 Kleingarten'ı düşünüyorsanız erkenden araştırmaya başlayın ve bulunduğunuz bölgedeki derneklerin bekleme listelerini sorun.
+
+## Kleingarten'ın kuralları
+
+Kleingarten'lar federal bir yasaya (Bundeskleingartengesetz) ve derneğin kendi tüzüğüne bağlı. En bilinen kural şu: bahçenin bir kısmında (genelde yaklaşık üçte biri) meyve ve sebze yetiştirmeniz bekleniyor. Yani bahçeyi sadece çim ve mangal alanı olarak kullanamıyorsunuz. Bahçedeki kulübe (Laube) küçük olmak zorunda ve orada sürekli yaşamak yasak; gece kalmak bile çoğu dernekte sınırlı. Çit yüksekliği, ağaç türleri, sessizlik saatleri gibi konularda da kurallar oluyor ve dernek bunları denetliyor.
+
+## Maliyeti ne kadar?
+
+Yıllık kira ve dernek aidatı genelde birkaç yüz Euro civarında kalıyor; şehirde bir bahçe için bu gerçekten uygun. Asıl masraf devir sırasında çıkıyor: bahçeyi bırakan kişiye kulübe, ağaçlar ve tesisat için bir devir bedeli (Ablöse) ödeniyor. Bu tutar dernek tarafından belirleniyor ve bahçenin durumuna göre birkaç bin Euro'yu bulabiliyor. Buna su, elektrik ve sigorta gibi küçük giderler de ekleniyor.
+
+## Nasıl başvurulur?
+
+- Bulunduğunuz bölgedeki Kleingarten derneklerini bulun; Münih'te bunlar bölge birliği (Kreisverband) altında toplanıyor.
+- Birden fazla derneğe başvurun ve bekleme listesine yazılmayı isteyin.
+- Bekleme süresi şehirlerde birkaç yılı bulabiliyor; sabırlı olun ve ara ara durumu sorun.
+- Bahçe teklif edilince devir bedelini, kulübenin durumunu ve dernek kurallarını dikkatlice inceleyin.
+
+## Alternatifler
+
+Bekleme listesi çok uzunsa başka seçenekler de var. Bazı şehirlerde sezonluk kiralanan sebze tarlaları (Krautgarten ya da Gemüsegarten) var; tohumlar ekilmiş halde teslim ediliyor ve sezon sonunda geri veriliyor. Topluluk bahçeleri (Gemeinschaftsgarten) de iyi bir başlangıç. Balkonunuz varsa domates, çilek ve otlarla küçük bir balkon bahçesi de kurabilirsiniz.

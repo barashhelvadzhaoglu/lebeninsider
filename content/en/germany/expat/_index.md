@@ -34,7 +34,7 @@ How different is the process for an EU citizen? Turkish-to-Bulgarian licence con
 **Renting in Munich**
 Munich is one of Europe's most expensive rental markets. Where to look, which platforms work, how to apply as a foreigner, and when to give up and try something different.
 
-→ [Renting in Germany — Munich Guide](/en/germany/expat/renting-in-germany-munich/)
+→ [Renting in Germany — Munich Guide](/en/germany/expat/renting-an-apartment-in-munich/)
 
 ---
 

@@ -140,7 +140,7 @@ Das Vorgehen nach einer Kündigung mag unübersichtlich wirken. Mit den folgende
 **Hinweis bei geringen Deutschkenntnissen:** Die Fach- und Amtssprache vor Gericht kann einschüchternd sein. Lassen Sie sich davon nicht entmutigen. Neben dem gerichtlichen Dolmetscher gibt es bei geringem Einkommen die Möglichkeit, beim Amtsgericht einen **Beratungshilfeschein** für ein Anwaltsgespräch zu beantragen. Scheuen Sie sich nicht, erfahrene Bekannte oder Beratungsstellen um Beistand zu bitten.
 
 **Verwandte Beiträge:**
-*   Wer sich neu in Deutschland einrichtet, findet Orientierung in unserem Beitrag [Miet-Guide für Deutschland | Die Realität der Wohnungssuche in München (2026)](https://lebeninsider.com/de/deutschland/expat/wohnung-mieten-muenchen/).
+*   Wer sich neu in Deutschland einrichtet, findet Orientierung in unserem Beitrag [Miet-Guide für Deutschland | Die Realität der Wohnungssuche in München (2026)](/de/deutschland/expat/wohnungssuche-in-muenchen-erfahrungen/).
 *   Themen rund um die Mobilität während beruflicher Umbrüche behandelt der Artikel [Führerschein-Umschreibung in Deutschland | Die Realität mit türkischem & bulgarischem Führerschein](https://lebeninsider.com/de/deutschland/expat/fuehrerschein-umschreibung-deutschland/).
 *   Tipps für gegenseitige Unterstützung und das Einleben im Alltag gibt es unter [Teilkultur in Deutschland | Geschenke vor der Haustür, Kleinanzeigen und leises gesellschaftliches Bewusstsein](https://lebeninsider.com.online/tr/almanya/yasam/almanyada-paylasim-kulturu/).
 

@@ -166,7 +166,7 @@ Gürcistan'a ulaşım ve şehir içi seyahat, farklı seçenekler sunar.
 | **Trabzon** | Otobüs (Batum) | 2-3 saat | 10-20 | Sarp Sınır Kapısı üzerinden. |
 
 *   **Uçak:** En hızlı ve konforlu yöntemdir. Özellikle İstanbul'dan Tiflis ve Batum'a sık uçuşlar bulunur. Pegasus, THY gibi firmalar direkt seferler düzenler. Ucuza bilet bulmak için esnek tarihler aramak ve [Ucuz Uçak Bileti Nasıl Bulunur?](https://lebeninsider.com/tr/seyahat/ucuz-ucak-bileti-nasil-bulunur/) yazımızdaki taktikleri uygulamak işinize yarayacaktır.
-*   **Kara Yolu (Türkiye'den):** Karadeniz bölgesinden Sarp Sınır Kapısı üzerinden Batum'a otobüs veya özel araçla geçiş yapmak mümkündür. Ancak bu yöntem uzun ve yorucu olabilir. Özellikle sınır kapısında yaşanan yoğunluklar zaman kaybına neden olabilir. Kendi aracınızla Avrupa'dan geliyorsanız, sınır geçişleri ve vize kuralları için diğer yazılarımıza ([Yeşil Sigorta Rehberi](https://lebeninsider.com/tr/almanya/expat/yesil-sigorta-rehberi-TR/), [Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı?](https://lebeninsider.com/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/)) göz atmak faydalı olabilir.
+*   **Kara Yolu (Türkiye'den):** Karadeniz bölgesinden Sarp Sınır Kapısı üzerinden Batum'a otobüs veya özel araçla geçiş yapmak mümkündür. Ancak bu yöntem uzun ve yorucu olabilir. Özellikle sınır kapısında yaşanan yoğunluklar zaman kaybına neden olabilir. Kendi aracınızla Avrupa'dan geliyorsanız, sınır geçişleri ve vize kuralları için diğer yazılarımıza ([Yeşil Sigorta Rehberi](/tr/almanya/expat/yesil-sigorta-rehberi-tr/), [Bulgar Ehliyetiyle Almanya'da Araç Kullanılır mı?](https://lebeninsider.com/tr/almanya/expat/bulgar-ehliyeti-almanyada-gecerli-mi/)) göz atmak faydalı olabilir.
 
 ### Şehirler Arası Ulaşım (Gürcistan İçi)
 

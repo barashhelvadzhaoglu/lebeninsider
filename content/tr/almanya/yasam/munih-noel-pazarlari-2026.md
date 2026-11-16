@@ -17,7 +17,7 @@ tags:
 
 Kasımın sonunda Münih'in havası değişiyor: Meydanlarda ahşap kulübeler kuruluyor, havada Glühwein (sıcak şarap), kavrulmuş badem ve ızgara sosis kokusu var, akşamları her yer ışıl ışıl. Noel pazarları (Christkindlmarkt ya da Weihnachtsmarkt) Almanya'da kışın en sevilen geleneği.
 
-Bu yazıda 2026 tarihlerini ve pratik bilgileri topladım. Bu yıl gittiğimiz pazarlardan kendi deneyimlerimizi ve fotoğraflarımızı da ekleyeceğim.
+Bu yazıda 2026 tarihlerini ve pratik bilgileri topladım. Bu yıl gittiğimiz pazarlardan kendi deneyimlerimizi ve fotoğraflarımızı da ekleyeceğim. Münih'ten trenle günübirlik gidebileceğin şehirlerin pazarlarını da en sona ekledim.
 
 ## 1. Münih Christkindlmarkt (Marienplatz)
 
@@ -46,15 +46,29 @@ Oktoberfest'in yapıldığı alanda kurulan, daha "alternatif" bir Noel pazarı.
 
 ## 3. Diğer pazarlar
 
-Her semtin kendi küçük pazarı var. Bunların 2026 tarihleri henüz tam açıklanmadı, ama genelde kasımın son haftasından Noel'e kadar açık oluyorlar:
+Münih'te büyük pazarların yanında her semtin kendi pazarı var. 2026 tarihleri:
 
-- **Ortaçağ pazarı (Mittelaltermarkt), Wittelsbacherplatz:** Ortaçağ kıyafetli satıcılar, el sanatları, odun ateşinde yemekler. Çocuklar için ilginç.
-- **Weihnachtsdorf, Residenz:** Sarayın avlusunda kurulan, masalsı bir Noel köyü.
-- **Chinesischer Turm, Englischer Garten:** Parkın içinde, ağaçların arasında; yanında kızak curling (Eisstock) pistleri.
-- **Pink Christmas, Stephansplatz:** Renkli ve eğlenceli bir pazar.
+- **Weihnachtsdorf, Residenz (Kaiserhof):** Sarayın avlusunda masalsı bir Noel köyü. **16 Kasım – 22 Aralık**, her gün 11:00–21:00. Şehirde ilk açılan pazar.
+- **Chinesischer Turm, Englischer Garten:** Parkın içinde, ağaçların arasında; yanında kızak curling (Eisstock) pistleri. **19 Kasım – 23 Aralık**; rehberlere göre çarşambadan pazara açık, hafta içi 11:30–20:30, hafta sonu 11:00–20:30.
+- **Ortaçağ pazarı (Mittelaltermarkt), Wittelsbacherplatz:** Ortaçağ kıyafetli satıcılar, el sanatları, odun ateşinde yemekler. Çocuklar için en ilginçlerinden. **20 Kasım – 23 Aralık**, her gün 11:00–21:00.
+- **Pink Christmas, Stephansplatz:** Renkli ve eğlenceli bir pazar. **20 Kasım – 20 Aralık**; hafta içi 16:00'da, hafta sonu 14:00'te açılıyor, 22:00'ye kadar.
+- **Sternenflotte, Alte Utting (Lagerhausstraße):** Köprünün üstüne çıkarılmış eski bir gemide ve etrafında kurulan genç ve alternatif bir pazar. **27 Kasım – 23 Aralık**; önce perşembeden pazara, 15 Aralık'tan sonra her gün.
 - **Haidhausen (Weißenburger Platz) ve Sendlinger Tor:** Daha küçük ve sakin, semt havasında pazarlar.
 
-Gitmeden önce tarihleri ve saatleri pazarların kendi sitelerinden ya da muenchen.de'den kontrol edin.
+Saatler değişebiliyor; gitmeden önce pazarların kendi sitelerinden ya da muenchen.de'den kontrol edin.
+
+## 4. Münih'ten günübirlik: Deutschlandticket ile Noel pazarları
+
+Münih'in pazarlarını gezdikten sonra bölgesel trenle, yani Deutschlandticket ile gidebileceğin şehirlerin pazarları da çok güzel:
+
+- **Augsburg** (bölgesel trenle ~45 dk): Rathausplatz'ta, **23 Kasım – 24 Aralık**. Cuma, cumartesi ve pazar akşamları saat 18:00'de belediye binasının pencerelerinde melek kıyafetli insanlarla yapılan ücretsiz **Engelesspiel** gösterisi var.
+- **Regensburg** (~1,5 saat): Thurn und Taxis sarayının avlusundaki romantik pazar (**20 Kasım – 23 Aralık**, girişli) ve şehir merkezindeki ücretsiz Neupfarrplatz pazarı (**23 Kasım – 23 Aralık**).
+- **Salzburg** (~1,5 saat, Avusturya): Deutschlandticket Salzburg ana istasyonuna kadar geçerli. Domplatz'taki pazar **19 Kasım – 1 Ocak**; yılbaşından sonra bile açık.
+- **Nürnberg** (~2 saat): Almanya'nın en ünlü Noel pazarı, **27 Kasım – 24 Aralık**, her gün 10:00–21:00. Açılışı Christkind yapıyor. Çocuklar için ayrı bir pazar (Kinderweihnacht) 30 Aralık'a kadar açık.
+- **Lindau** (Bodensee): Limanda, göl ve Alpler manzaralı pazar. **26 Kasım – 20 Aralık**, sadece perşembeden pazara, 11:00–21:00.
+- **Rothenburg ob der Tauber:** Surlarla çevrili Ortaçağ kasabasında, kökleri 15. yüzyıla giden Reiterlesmarkt. **20 Kasım – 23 Aralık.** Uzak ama Romantik Yol'a gidiyorsan mutlaka ekle.
+
+Deutschlandticket'ın nerelerde geçerli olduğunu ve yurtdışındaki sınır istasyonlarını [bölgesel trenler yazımızda](/tr/almanya/yasam/bolgesel-trenler-ve-bebek-arabasi-alani/) anlattım.
 
 ## Glühwein ve kupa depozitosu (Pfand)
 

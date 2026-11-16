@@ -200,7 +200,7 @@ Desde Estambul (IST o SAW), puedes llegar a Atenas en aproximadamente 1,5 horas 
 | **Salónica (Grecia)** | Tren/Autobús | 5-6 horas | 30-60 |
 
 **Por Tierra (a través de los Balcanes):**
-Si planeas venir por carretera desde Alemania u otro país europeo, nuestros artículos [En Coche de Estambul a Múnich | Ruta Rumana, Viaje Nocturno y Tácticas de Camionero](https://lebeninsider.com/tr/almanya/expat/istanbul-munich-yol-rehberi-TR/) y [Guía de GLP en Europa | Títulos Incompatibles, Diferencias de Precios y Experiencia con Honda Civic (2026)](https://lebeninsider.com/tr/almanya/expat/avrupa-lpg-rehberi-TR/) pueden darte una idea general de la ruta y la experiencia de viajar en coche. Sin embargo, llegar a Grecia por carretera será un viaje largo y agotador, especialmente desde Turquía o Europa Central. Grecia es miembro de la UE, por lo que el **Deutschlandticket** no es válido aquí; este billete solo se puede usar en el transporte público dentro de Alemania.
+Si planeas venir por carretera desde Alemania u otro país europeo, nuestros artículos [En Coche de Estambul a Múnich | Ruta Rumana, Viaje Nocturno y Tácticas de Camionero](/tr/almanya/expat/istanbul-munich-yol-rehberi-tr/) y [Guía de GLP en Europa | Títulos Incompatibles, Diferencias de Precios y Experiencia con Honda Civic (2026)](/tr/almanya/expat/avrupa-lpg-rehberi-tr/) pueden darte una idea general de la ruta y la experiencia de viajar en coche. Sin embargo, llegar a Grecia por carretera será un viaje largo y agotador, especialmente desde Turquía o Europa Central. Grecia es miembro de la UE, por lo que el **Deutschlandticket** no es válido aquí; este billete solo se puede usar en el transporte público dentro de Alemania.
 
 ### Transporte en Atenas
 
