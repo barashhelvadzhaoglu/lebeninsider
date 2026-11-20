@@ -478,3 +478,25 @@ Sıralama öneri; Noel serisinin arasındaki boş günlere ve Aralık sonrasına
 ---
 
 **Bilerek dışarıda bırakılanlar:** Hellabrunn, kira masrafı, minijob, işsizlik, pazar günü kapalı, Familienticket fiyat karşılaştırması ve "bugün başla" (zaten yapılmış ya da kuyrukta). Kariyer serisi (IT konuları sonraya). Bürokrasi ve arabalı tren yazıları (eski, doğrulanmamış rakamlar).
+
+---
+
+# N SERİSİ — 17 Kasım 2026 gezisi (kendi çekimlerimiz)
+
+Fotoğraflar: `~/Downloads/Noel_Pazari_2026-11-17/` (01 Werksviertel, 02 Motorworld dışarı, 03 Motorworld içi). Sessiz taslak videolar: `social/noel_shorts/N1–N4_*_taslak.mp4` (~30 sn, 9:16). Seslendirmeyi kaydedip taslağın üstüne koyman yeterli.
+
+## N1 — Werksviertel WinterWunderWERK (30 sn)
+**Başlık:** Münih'te açılan ilk Noel pazarlarından biri: Werksviertel
+Münih'te Noel pazarı sezonu başladı. Burası Ostbahnhof'un hemen yanındaki Werksviertel. Adı WinterWunderWERK. Dev dönme dolap Umadum, ışıklı stantlar, şeffaf kubbelerin içinde oturup sıcak bir şeyler içebiliyorsun. Çocuklar için de bolca ışık ve fotoğraf köşesi var. 20 Aralık'a kadar açık; hafta içi saat dörtte, hafta sonu on birde açılıyor. Almanya'da yaşamın küçük detayları için takip et.
+
+## N2 — Winterworld Motorworld (30 sn)
+**Başlık:** Klasik arabaların arasında Noel pazarı: Motorworld München
+Bu Noel pazarı biraz farklı. Freimann'daki Motorworld'ün eski tren atölyelerinin arasına kurulmuş: Winterworld. Dev Glühwein piramidi, ışıktan ren geyikleri, dönme dolap ve kocaman bir oyuncak ayı. Noel Baba her akşam geliyor, çocuklar bayılıyor. Pazartesi kapalı, 20 Aralık'a kadar açık. Almanya'da yaşamın küçük detayları için takip et.
+
+## N3 — Motorworld'ün içi, soğukta çocuklarla (30 sn)
+**Başlık:** Hava soğuksa: Noel pazarının yanında arabaların arasında ısın
+Dışarısı soğuk mu? Winterworld'ün hemen yanında Motorworld'ün salonları var. Ferrariler, eski Fiat 500'ler, üç tekerlekli Ape'ler, eski benzin pompaları... Çocuklar Herbie'nin içine, yarış arabasının koltuğuna oturabiliyor. Biz Noel pazarında üşüyünce içeri girip ısındık, sonra devam ettik. Çocuklu aileler için harika bir kombinasyon. Almanya'da yaşamın küçük detayları için takip et.
+
+## N4 — Bir akşamda iki Noel pazarı (30 sn)
+**Başlık:** Münih'te bir akşamda iki Noel pazarı
+Marienplatz'taki büyük pazar açılmadan da Münih'te Noel havası başladı. Biz bir akşamda iki pazarı gezdik. Önce Ostbahnhof yanındaki Werksviertel: dönme dolap, şeffaf kubbeler, neon ışıklar. Sonra Freimann'daki Motorworld: Glühwein piramidi, ışıktan ren geyikleri ve klasik arabalar. İkisi de 20 Aralık'a kadar açık. Sen hangisine giderdin? Almanya'da yaşamın küçük detayları için takip et.

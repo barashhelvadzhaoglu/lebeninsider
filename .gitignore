@@ -26,3 +26,9 @@ script/apikeys.txt
 .env
 -f/
 _sheet_*.jpg
+
+# video ciktilari (buyuk dosyalar)
+social/noel_shorts/final/
+social/noel_shorts/long/
+social/noel_shorts/*.mp4
+social/noel_shorts/*.jpg

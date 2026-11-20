@@ -108,15 +108,17 @@ Regensburg, Altstadt'ın büyüklüğü göz önüne alındığında, **yürüye
 
 ## Bizim Deneyimimiz
 
-Regensburg, Münih'e o kadar yakın ki, her zaman aklımızın bir köşesindeydi. Sonunda bir hafta sonu, **Deutschlandticket** avantajını kullanarak, bebeğimizle birlikte bu UNESCO Dünya Mirası şehrine günübirlik bir kaçamak yapmaya karar verdik. [Romantik Rota Rehberi | Deutschlandticket ve Bebek Arabası ile Bavyera'nın En Güzel Rotası (2026)](https://lebeninsider.com/tr/almanya/romantik-rota/) yazımızda da bahsettiğimiz gibi, Bavyera'nın bu tür saklı cennetleri keşfetmek bize her zaman büyük keyif veriyor.
+Regensburg'a Ocak 2026'da, çocuklarla birlikte günübirlik gittik. Hava çok soğuktu, yer yer kar vardı. Münih'ten bindiğimiz tren Regensburg'dan geçip Çek Cumhuriyeti yönüne devam eden bir trendi; Deutschlandticket ile Regensburg'a kadar gitmek sorun olmadı.
 
-**Münih Hauptbahnhof**'tan kalkan Regional Express treniyle yaklaşık 1.5 saat süren keyifli bir yolculuğun ardından Regensburg'a ulaştık. Tren istasyonundan Altstadt'a doğru yürüyüşe geçtiğimizde, şehrin atmosferi bizi hemen sardı. Daracık, Arnavut kaldırımlı sokaklar adeta bir zaman tüneli gibiydi. **Taş Köprü**'ye vardığımızda, Tuna Nehri'nin üzerinde yükselen bu tarihi yapı bizi büyüledi. Köprüden Katedral'in ikiz kulelerine bakmak, gerçekten kartpostallık bir manzaraydı. Bebeğimiz arabasında mışıl mışıl uyurken, biz de köprünün detaylarını inceledik.
+İstasyondan çıkınca önce büyük, yeşil bir parka gittik; çocuklar orada biraz koşup enerji attı. Oradan yürüyerek nehrin üzerindeki daha yeni bir köprüyü geçtik, sonra eski şehirde dolaştık. Katedralin içine de girdik; Ocak olmasına rağmen içeride Noel ağaçları ve Noel figürleri hâlâ duruyordu.
 
-Katedral, beklediğimizden çok daha ihtişamlıydı. İçeri girdiğimizde, Gotik mimarinin gücü ve vitray pencerelerden süzülen renkli ışıklar bizi adeta büyüledi. Küçük bir çocukla gezmek bazen zorlayıcı olabilse de, katedralin geniş iç mekanı sayesinde bebeğimizle rahatça dolaşabildik. Ardından **Altstadt**'ın labirent gibi sokaklarında kaybolduk. Özellikle **İtalyan Kule Evleri**'ni (Geschlechtertürme) görmek bizi çok şaşırttı. Almanya'da böyle bir mimari dokuyu beklemiyorduk, adeta İtalya'nın bir Orta Çağ kasabasına ışınlanmış gibi hissettik. Bu haliyle [Memmingen Gezi Rehberi | Münih'ten 1.5 Saatte Ortaçağ Şehri (2026)](https://lebeninsider.com/tr/almanya/romantik-rota/memmingen-gezi-rehberi/) veya [Füssen Gezi Rehberi | Alplerin Dibinde Ortaçağ Şehri (2026)](https://lebeninsider.com/tr/almanya/romantik-rota/fuessen-sehir-gezi-rehberi/) gibi diğer Orta Çağ şehirlerinden de farklı bir ruha sahip olduğunu söyleyebiliriz.
+En çok aklımda kalan yer eski taş köprü oldu. Köprünün ayağında küçük dükkanlar vardı ve herkes köprünün etrafında fotoğraf çektiriyordu. Akşamüstü Tuna kıyısından şehrin ışıklarını izledik; katedralin kuleleri ve eski evler suya yansıyınca gerçekten kartpostal gibi bir manzara oluyor.
 
-**Historische Wurstküche**'deki sosisler ise tam bir efsaneydi! Uzun sıraya girmemize değdi. Nehir kıyısında, Taş Köprü manzarası eşliğinde sosislerimizi yemek, Regensburg deneyimimizin en keyifli anlarından biriydi. Hava biraz serindi ama Tuna'nın üzerindeki hafif rüzgar bile keyfimizi kaçıramadı.
+Soğuk bir kış günü bile Regensburg'u çocuklarla gezmek mümkün; ama kalın giyinin ve kış günleri kısa olduğu için sabah erken trenle yola çıkın. Arnavut kaldırımlı sokaklar bebek arabası için biraz sarsıntılı, bunu da hesaba katın.
 
-**Bebek arabasıyla gezmek** konusuna gelince, Altstadt'ın büyük bir kısmı Arnavut kaldırımlı olduğu için biraz zorlayıcı olabiliyor. Özellikle uzun süreler bebek arabası itecekseniz, sağlam tekerlekli bir model tercih etmenizi veya alternatif olarak bir kanguru ya da sling kullanmanızı öneririm. Ancak Taş Köprü ve Tuna kıyısı gibi ana noktalar daha düzgün zeminlere sahip. Genel olarak, Regensburg çocuklu aileler için keşfetmesi keyifli, sakin ve güvenli bir şehir. Özellikle tarihi dokusunu seven aileler için harika bir günübirlik kaçış rotası. Bizim için Regensburg, Almanya'nın sunduğu tarihi zenginliklerin ve kültürel çeşitliliğin harika bir örneği oldu. Kesinlikle bir daha gitmek isteyeceğimiz bir şehir!
+Münih ve çevresindeki diğer gezilerimiz:
+*   [Deutschlandticket ile Münih Çevresinde Gezi](/tr/almanya/seyahat/deutschlandticket-munih-cevresinde-gezi/)
+*   [Salzburg Gezi Rehberi](/tr/almanya/seyahat/salzburg-gezi-rehberi/)
 
 ## Sık Sorulan Sorular
 
