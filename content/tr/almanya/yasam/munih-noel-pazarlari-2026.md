@@ -57,6 +57,23 @@ Münih'te büyük pazarların yanında her semtin kendi pazarı var. 2026 tarihl
 
 Saatler değişebiliyor; gitmeden önce pazarların kendi sitelerinden ya da muenchen.de'den kontrol edin.
 
+## 3b. Mahalle pazarları ve bizim gezdiklerimiz
+
+Merkezdeki büyük pazarların dışında, mahallelerde daha sakin ve çocuklarla gezmesi daha rahat pazarlar var.
+
+- **Werksviertel WinterWunderWERK** (Ostbahnhof, Knödelplatz) · 20 Aralık'a kadar. Biz Kasım ortasında gittik: dev dönme dolap Umadum, şeffaf kubbelerde oturma alanları ve bol ışık. Pazar gezisini bir akşam yemeğiyle birleştirmek için iyi.
+- **Motorworld Winterworld** (Freimann) · 20 Aralık'a kadar, pazartesi kapalı. Aynı akşam gittik: Glühwein piramidi, ışıktan ren geyikleri, dönme dolap. Soğuk olunca hemen yanındaki Motorworld salonlarında klasik arabaların arasında ısınabiliyorsun; çocuklar bayıldı.
+- **Märchenbazar** (Olympiapark Süd) · 31 Aralık'a kadar. Noel'den sonra da açık olan az sayıdaki pazardan biri; biz geçen yıl 25–26 Aralık'ta gittik.
+- **Schwabinger Weihnachtsmarkt** (Münchner Freiheit) · 24 Aralık'a kadar. Sanat ve el işi ağırlıklı, özgün hediyelik arayanlar için.
+- **Haidhauser Weihnachtsmarkt** (Weißenburger Platz) · 24 Aralık'a kadar. Küçük ve samimi bir mahalle pazarı.
+- **Weihnachtszauberwald** (Bogenhausen) · 23 Aralık'a kadar.
+- **Moosacher Hüttenzauber** (St.-Martins-Platz) · 22 Aralık'a kadar. Ahşap kulübeleriyle küçük bir pazar.
+- **Weihnachtsmacherei** (Berg am Laim) · 19 Aralık'a kadar. İş çıkışı pazarı; müzik ve Eisstock (Bavyera curlingi) pisti var.
+
+**Münih dışında bir hafta sonu fikri: Kaltenberg Şatosu.** Geltendorf'taki şatonun çevresinde, masal temalı bir Noel pazarı kuruluyor. Sadece belirli hafta sonları açık (27–29 Kasım; 4–6, 11–13, 18–20 ve 26–27 Aralık) ve 15 yaşa kadar çocuklar ücretsiz; organizatör biletleri, ücretsiz çocuk biletleri dahil, önceden internetten almayı öneriyor: [schloss-kaltenberg-weihnachtsmarkt.de](https://www.schloss-kaltenberg-weihnachtsmarkt.de/)
+
+**Uzun Alışveriş Geceleri:** 27 Kasım (Cuma) ve 12 Aralık (Cumartesi) akşamları katılan mağazalar gece yarısına kadar açık.
+
 ## 4. Münih'ten günübirlik: Deutschlandticket ile Noel pazarları
 
 Münih'in pazarlarını gezdikten sonra bölgesel trenle, yani Deutschlandticket ile gidebileceğin şehirlerin pazarları da çok güzel:

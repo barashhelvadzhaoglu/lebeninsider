@@ -21,8 +21,15 @@ for i,it in enumerate(S['items']):
         cmd=['ffmpeg','-nostdin','-v','error','-y','-ss',st or '0','-i',find(n),'-an','-vf',"scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,format=yuv420p",'-frames:v',str(nf),'-c:v','libx264','-preset','veryfast','-crf','21',s]
     else:
         im=ImageOps.exif_transpose(Image.open(find(it))).convert('RGB')
-        r=max(1080/im.width,1920/im.height); im=im.resize((round(im.width*r)+1,round(im.height*r)+1))
-        l=(im.width-1080)//2; t=(im.height-1920)//2; im=im.crop((l,t,l+1080,t+1920))
+        if im.width<1000:  # kucuk foto: bulanik arka plan + ortada net foto (asiri buyutme yok)
+            from PIL import ImageFilter
+            r=max(1080/im.width,1920/im.height); bg=im.resize((round(im.width*r)+1,round(im.height*r)+1)).filter(ImageFilter.GaussianBlur(30))
+            l=(bg.width-1080)//2; t=(bg.height-1920)//2; bg=bg.crop((l,t,l+1080,t+1920))
+            k=min(1000/im.width,1300/im.height); fg=im.resize((round(im.width*k),round(im.height*k)),Image.LANCZOS)
+            bg.paste(fg,((1080-fg.width)//2,(1920-fg.height)//2+40)); im=bg
+        else:
+            r=max(1080/im.width,1920/im.height); im=im.resize((round(im.width*r)+1,round(im.height*r)+1))
+            l=(im.width-1080)//2; t=(im.height-1920)//2; im=im.crop((l,t,l+1080,t+1920))
         p=os.path.join(tmp,f'{i:03d}.jpg'); im.save(p,quality=92)
         cmd=['ffmpeg','-nostdin','-v','error','-y','-i',p,'-vf',f"zoompan=z='1+0.0012*on':d={nf}:s=1080x1920:fps=30,format=yuv420p",'-frames:v',str(nf),'-c:v','libx264','-preset','veryfast','-crf','21',s]
     subprocess.run(cmd,check=True); segs.append(s)

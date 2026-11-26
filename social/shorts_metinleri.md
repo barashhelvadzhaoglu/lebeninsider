@@ -500,3 +500,12 @@ Dışarısı soğuk mu? Winterworld'ün hemen yanında Motorworld'ün salonları
 ## N4 — Bir akşamda iki Noel pazarı (30 sn)
 **Başlık:** Münih'te bir akşamda iki Noel pazarı
 Marienplatz'taki büyük pazar açılmadan da Münih'te Noel havası başladı. Biz bir akşamda iki pazarı gezdik. Önce Ostbahnhof yanındaki Werksviertel: dönme dolap, şeffaf kubbeler, neon ışıklar. Sonra Freimann'daki Motorworld: Glühwein piramidi, ışıktan ren geyikleri ve klasik arabalar. İkisi de 20 Aralık'a kadar açık. Sen hangisine giderdin? Almanya'da yaşamın küçük detayları için takip et.
+
+---
+
+## L1 · 27 Kas (yayın) · Uzun Alışveriş Gecesi — Lange Shopping-Nacht
+**Başlık:** Münih'te bu gece mağazalar gece yarısına kadar açık! 🛍️ #shorts
+**Seslendirme:** Münih'te bu akşam mağazalar gece yarısına kadar açık. Bugün Lange Shopping-Nacht, yani Uzun Alışveriş Gecesi; Black Friday'e de denk geliyor. Katılan mağazalar saat 24'e kadar açık kalabiliyor; gitmek istediğin mağazanın saatine önceden bak. Marienplatz'taki Noel pazarının stantları da bu akşam 22'ye kadar açık. Alışverişin arasında ışıklar altında bir sıcak içecek iyi gider. Kaçırırsan dert etme: Bir sonraki alışveriş gecesi 12 Aralık Cumartesi. Almanya'da yaşamın küçük detayları için takip et.
+**Ekran:** 27 Kasım · mağazalar 24:00'e kadar / Marienplatz pazarı 22:00'ye kadar / Sonraki: 12 Aralık Cumartesi
+**Kaynak:** https://www.muenchen.de/shopping/aktuell/shopping-naechte-und-abendoeffnungen-muenchen
+**Kayıt:** Dosya adı `L1 · Lange Shopping-Nacht.mp3` → Downloads

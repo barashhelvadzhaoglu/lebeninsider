@@ -57,6 +57,23 @@ Besides the big markets, every Munich neighbourhood has its own. 2026 dates:
 
 Opening hours can change; check the markets' own websites or muenchen.de before you go.
 
+## 3b. Neighbourhood markets and the ones we visited
+
+Beyond the big markets in the centre, Munich's neighbourhoods have calmer markets that are easier with kids.
+
+- **Werksviertel WinterWunderWERK** (Ostbahnhof, Knödelplatz) · until 20 December. We went in mid-November: the giant Umadum Ferris wheel, transparent igloo seating and lots of lights. Good to combine with dinner.
+- **Motorworld Winterworld** (Freimann) · until 20 December, closed on Mondays. Same evening for us: a Glühwein pyramid, light-up reindeer and a Ferris wheel. When it gets cold you can warm up among the classic cars in the Motorworld halls next door; our kids loved it.
+- **Märchenbazar** (Olympiapark Süd) · until 31 December. One of the few markets still open after Christmas; we went on 25–26 December last year.
+- **Schwabinger Weihnachtsmarkt** (Münchner Freiheit) · until 24 December. Art and crafts, good for original gifts.
+- **Haidhauser Weihnachtsmarkt** (Weißenburger Platz) · until 24 December. Small and cosy.
+- **Weihnachtszauberwald** (Bogenhausen) · until 23 December.
+- **Moosacher Hüttenzauber** (St.-Martins-Platz) · until 22 December. Small market with wooden huts.
+- **Weihnachtsmacherei** (Berg am Laim) · until 19 December. An after-work market with music and an Eisstock (Bavarian curling) lane.
+
+**A weekend idea outside Munich: Kaltenberg Castle.** In Geltendorf, a fairy-tale Christmas market spreads around the castle. It only opens on certain weekends (27–29 November; 4–6, 11–13, 18–20 and 26–27 December), and children up to 15 go free; the organiser recommends booking tickets online in advance, including the free children's tickets: [schloss-kaltenberg-weihnachtsmarkt.de](https://www.schloss-kaltenberg-weihnachtsmarkt.de/)
+
+**Late shopping nights:** On 27 November (Friday) and 12 December (Saturday), participating shops stay open until midnight.
+
 ## 4. Day trips from Munich: Christmas markets with the Deutschlandticket
 
 After Munich's markets, these cities are easy to reach by regional train with the Deutschlandticket:
